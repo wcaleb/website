@@ -1,0 +1,54 @@
+% Google Docs and Group Work
+% W. Caleb McDaniel 
+% October 13, 2011 
+
+This post was originally published on my old blog as [Google Docs and Group Work](http://mcdaniel.blogs.rice.edu/?p=185 "Permanent Link: Google Docs and Group Work").
+
+-----
+
+Mark Sample recently had a [great post about reading aloud in the
+classroom](http://www.samplereality.com/2011/09/14/on-reading-aloud-in-the-classroom/),
+in the course of which he also briefly revealed how he uses Google Docs
+as a sort of digital whiteboard for collecting responses from students.
+I’ve also sometimes used Google Docs in the classroom for similar
+purposes. The advantage of doing this, of course, is that the Google Doc
+created during class can later be shared with students online. And
+because Google Docs can be edited collaboratively by several users at
+once, it also makes it possible to reproduce the old pedagogical
+technique of having students “go to the board” to write down responses
+without ever requiring that they leave their seats.
+
+Here’s a quick example of a lesson that I’ve done twice now, with pretty
+good results. In my course on the American Civil War Era
+([current](http://civilwar.blogs.rice.edu) and
+[past](http://hist246.blogs.rice.edu)), I devote several of my classes
+to discussing the consequences of emancipation for freedpeople. One of
+my major goals is to help students appreciate the range of different
+circumstances in which freedpeople found themselves. In one class, I do
+this by distributing [a packet of four primary
+sources](http://db.tt/5HUbIwFU "Reconstruction Group Documents in my Dropbox"),
+all of which are available online, and then break students into groups
+to discuss the four sources.
+
+So long as at least four students in the class have a laptop with them,
+I can also do this next step: I direct students to [this Google
+spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AtSeKg8iSxZrdHp1Rk9OYTNEa1lyRHZSTm1mSGt1aHc&authkey=COqF17cH&hl=en_US#gid=0),
+whose settings are usually such that anyone with the link can edit the
+sheet. I ask each group to answer a series of questions about the
+document–when and where the episode described took place, the
+circumstances under which laborers are working, and so on. Each group
+edits the document simultaneously, and I have it displayed on a screen
+in the classroom so that everyone can see everyone else’s edits as they
+happen.
+
+At the end of the exercise, we “rank” how well each case met the
+expectations and desires of freedpeople (which have been discussed in
+previous classes). And by having the spreadsheet before us, we are then
+able to have a discussion about which variables seem to correlate most
+strongly to situations that benefited freedpeople’s interests. In this
+case, what I want them to see is that the date (during the war, or
+after), the state, and the presence of the military helped determine the
+nature of the post-emancipation labor contracts that developed.
+
+That’s one way I use Google Docs in the classroom. Please share other
+tips if you have them!

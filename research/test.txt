@@ -1,0 +1,3 @@
+This is what a draft post would look like.
+
+No % in the first line.

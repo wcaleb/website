@@ -1,0 +1,489 @@
+% In Search of John Brown’s Timbucto, Part II
+% W. Caleb McDaniel 
+% September 3, 2010
+
+This post was originally published on my old blog as [In Search of John Brown’s Timbucto, Part II](http://mcdaniel.blogs.rice.edu/?p=46 "Permanent Link: In Search of John Brown’s Timbucto, Part II").
+
+---
+
+In [Part I](http://mcdaniel.blogs.rice.edu/?p=14), inspired by a
+*Washington Post*
+[article](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/02/AR2010080205217.html)
+about archaeologists who are uncovering an early nineteenth-century
+African American town in Timbuctoo, N.J., I set out to discover how
+another black community in upstate New York got the name “Timbucto.”
+
+As I explained in that post, being certain about who named the New York
+“Timbucto” (which is most famous for its association with the famous
+abolitionist John Brown, who once lived there or near there) is not easy
+and may be impossible. The extant evidence suggests that Brown and his
+family members first used the name “Timbucto” in the late 1840s to refer
+to a small cluster of farms near North Elba that was settled by the
+families of three free black men. But even if we could settle the
+question of who named “Timbucto” (or Timbuctoo, N. J., for that matter)
+it would not settle the related question of *why* that name was chosen.
+
+That’s the question for this post: **Why would the name “Timbuctoo” be
+attached to these early nineteenth-century African American communities,
+one founded in the 1820s and the other at the end of the 1840s?**
+
+Surely in both cases the name referred to the African city of Timbuctoo
+or Timbuktu. But that means that to answer the question of “why
+Timbuctoo” we need to know what Americans between 1820 and 1850 would
+have known or thought they knew about the African city. What
+associations would the African Timbuktu have had in the minds of those
+who named these towns, whoever they were? To answer that question, we
+would need to paint a picture of the place of the African Timbuktu in
+the broader landscape of antebellum American culture. We’ll need to
+explore the print culture, newspapers and books from which people in New
+Jersey or people like John Brown would have learned about the African
+city.
+
+A full picture of how Timbuktu was represented in American culture would
+require a larger research project than I can undertake for this post,
+though it seems like a do-able project that would be of great interest.
+It is possible, though, to sketch a preliminary portrait of Americans’
+likely impressions of Timbuktu in the decades bounded by the founding of
+Timbuctoo, New Jersey, and John Brown’s move to the Adirondack
+mountains. It’s a portrait that includes not just John Brown, but an
+early Pan-Africanist named John Brown Russwurm, a French explorer named
+René Caillié, and a famous African Muslim prince who was enslaved,
+brought to America, and then freed in 1828 after he had been recognized
+by a white man who had met his father in Africa.
+
+But unfortunately (or interestingly, depending on how you look at it)
+this fascinating portrait still does not decisively settle the question
+of why these two Timbuctoo communities got their name.
+
+One thing is clear: the African Timbuktu had attracted great interest
+from Europeans in the decades just before the period we’re interested
+in. Late eighteenth-century European explorers and geographers were
+greatly interested, first for scientific reasons but soon for imperial
+and political ones, in discovering its precise location. There was no
+record of a European visiting the city before the nineteenth century,
+but based on reports it was thought to lie near the Niger River and at
+the intersection of trade routes between the west and east coasts of the
+continent, making it of geographical and commercial interest. The
+mystery was enhanced by legends and rumors that described the city as
+one of great wealth and beauty, further whetting the appetite of
+eighteenth-century explorers.
+
+In a recent celebrated book on Romanticism and eighteenth-century
+science, [Richard Holmes discusses the mystique that thus surrounded
+Timbuktu](http://books.google.com/books?id=CmoALmtxN2QC&pg=PA212#v=onepage&q&f=false)
+in Europe by 1800:
+
+> The great prize was to reach the semi-legendary city of Timbuctoo,
+> somewhere south of the Sahara. Here, it was said, lay a great West
+> African metropolis, packed with treasures and glittering with towers
+> and palaces roofed with gold. It was strategically situated aside the
+> fabled river Niger, at the confluence of the Arabic and African trade
+> routes. Beyond Timbuctoo, it was thought that the mysterious Niger
+> might flow due eastwards, providing a trade route across the entire
+> African continent, and eventually meeting up with the Nile in Egypt.
+> But to the Europeans nothing was known for certain, though many
+> speculative maps had been drawn by military cartographers, such as
+> Major John Rennell’s ‘Sketch of the Northern Parts of Africa,’
+> presented to the [African] Association in 1790.
+
+This “mythical” Timbuktu of golden palaces and untold wealth contributed
+to public interest in several late eighteenth-century and early
+nineteenth-century attempts by Europeans to reach the legendary city,
+including the most famous attempts by Scottish explorer Mungo Park. But
+Park famously failed to reach the city, and he was never heard from
+again after his party was reportedly attacked on his second attempt, in
+1805 and 1806, to explore the extent of the Niger River.
+
+An African American sailor, Robert Adams, claimed to have been to the
+city about five years after Park disappeared. But his narrative was
+widely discredited, and meanwhile, the published stories that swirled
+around Park’s disappearance also meant that the legends of Timbuktu’s
+wealth were increasingly combined with stories about the dangers for
+non-Africans (and particularly non-Muslims) trying to reaching the city.
+This was especially true after the publication of reports that A. G.
+Laing, another Scotsman, had reached the city in 1826, only to be
+murdered before he could return to announce his success. [Alfred
+Tennyson’s prize-winning 1829
+poem](http://www.sc.edu/library/spcoll/britlit/tenn/timb.html)
+“Timbuctoo” played on both ideas (the brilliant beauty and allure of the
+city, as well as the danger and difficulty of reaching it) by comparing
+it to other mythical or “mystick” cities like Atlantis and El Dorado.
+
+But in 1828, a Frenchman named René Caillié finally reached the fabled
+city and lived to tell the tale, publishing a two-volume book, [*Travels
+through Central Africa to
+Timbuctoo*](http://books.google.com/books?id=u7xjAAAAMAAJ), about his
+journey. Though some also cast doubt on Caillié’s account, it won him a
+fair amount of fame on both sides of the Atlantic. And [the account of
+how he did it](http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA49)
+certainly satisfied readers who probably already assumed, thanks to
+stories about Mungo Park, that the trek would be perilous.
+
+Indeed, Caillié explained that to reach the city without being enslaved
+or killed, he had to disguise himself as a Muslim, confine himself in a
+house for much of his brief stay in the city, and take his notes
+furtively. But Caillié also punctured any Romantic expectations about
+Timbuktu that still floated in the European or American imagination,
+dismissing the “exaggerated notions” that had long prevailed about “this
+mysterious city, which has been an object of curiosity for so many
+ages.” In fact, Caillié sheepishly confessed that upon reaching the
+city, [he was sorely
+disappointed](http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA49).
+
+> How many grateful thanksgivings did I pour forth for the protection
+> which God had vouchsafed to me, amidst obstacles and dangers which
+> appeared insurmountable. This duty being ended, I looked around and
+> found that the sight before me, did not answer my expectations. I had
+> formed a totally different idea of the grandeur and wealth of
+> Timbuctoo. The city presented, at first view, nothing but a mass of
+> ill-looking houses, built of earth. Nothing was to be seen in all
+> directions but immense plains of quicksand of a yellowish white
+> colour.
+
+The only golden nuggets here, in other words, were grains of yellow
+sand.
+
+[![Clipped from Google Books at
+http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA74-IA1&img=1&zoom=3&hl=en&sig=ACfU3U0kSP516SmOIA8Bi8PJpisdXXqpgA&ci=130%2C495%2C660%2C842&edge=0](http://mcdaniel.blogs.rice.edu/files/2010/09/Caillie.jpg)](http://mcdaniel.blogs.rice.edu/files/2010/09/Caillie.jpg)
+
+So … where does all of this get us in our search for an answer to why
+the New Jersey and New York settlements, founded respectively in the
+1820s and the 1840s, took their name from Timbuktu? Well, the various
+reports of journeys to Timbuktu from Park to Caillié certainly mean that
+around the time of these settlements’ founding, there was a discourse
+surrounding the African city and, as [a quick Google Books
+search](http://www.google.com/search?tbs=bks:1,bkv:a,cdr:1,cd_min:Jan%201_2%201800,cd_max:Dec%2031_2%201850&tbo=p&q=timbucto+OR+timbuktu+OR+timbuctoo&num=100)
+reveals, there was a fair number of published mentions of the place on
+both sides of the Atlantic between 1800 and 1850.
+
+But what “Timbuctoo” *signified* to readers in these years is more
+ambiguous. To sum up what we’ve seen so far, there were several things
+that the name “Timbuctoo” might have conjured up for someone in early
+nineteenth-century America, especially by 1830:
+
+-   the site of a great, riverine African civilization of surpassing
+    wealth and beauty
+-   an extraordinarily remote, dangerous and difficult-to-reach place
+-   a disappointingly “ill-looking” and decidedly non-wealthy place
+    surrounded by desert
+-   a Muslim city, hostile to outsiders, where all the “native
+    inhabitants” were, as Caillié wrote, “zealous Mahometans”
+
+The question, then, is this: Which of these ideas was intended by the
+people who named the “Timbuctoo” settlements in New Jersey and New York?
+
+Of course, what this quick survey reveals is that it would be hard to
+answer this question decisively without knowing for sure *how* these
+places got their names and who did the naming. What if, for example,
+these African American settlements were actually named by white
+neighbors who were hostile to the settlements?
+
+That possibility is not ruled out by anything in the *Post* article
+about New Jersey and is still conceivable in the case of the North Elba
+community. But in that case, the name could have been intended as an
+epithet used by whites to belittle a community of black outsiders.
+Worse, the name could have been a joke intended to suggest the
+incongruity between what must have been the great hopes of the free
+black inhabitants and their actual living conditions. As I reported in
+Part I, twentieth-century Adirondack historian Alfred L. Donaldson
+viewed the “Timbuctoo” name for John Brown’s North Elba community as a
+“half-humorous, half-pathetic legend,” and the brief history I’ve
+sketched in this post makes it plausible to imagine hostile whites using
+the name in the same way a century before Donaldson wrote. A
+[contemporary magazine
+article](http://books.google.com/books?id=SzQaAQAAIAAJ&pg=PA22) provides
+at least one such example of a racist, parodic essay from the period
+that pokes fun at Timbuctoo.
+
+**Abolitionists and Timbuktu**
+
+On the other hand, what if, as seems most likely in the case of John
+Brown’s Timbucto, these settlements got their names from African
+Americans themselves or from white abolitionist sympathizers? In that
+case, the question of “why Timbuctoo” yields a quite different set of
+likely answers.
+
+To antislavery groups, the name would have been most attractive because
+of the original legends surrounding Timbuktu as a city of great wealth
+and civilization. In fact, in the few years before Caillié reached the
+African city, abolitionist and antislavery writers still took for
+granted the largely positive legends surrounding Timbuktu and used them
+to advance different kinds of antislavery arguments.
+
+For example, in an 1824 article in the *North American Review*, a writer
+sympathetic to the aims of [The American Colonization
+Society](http://www.loc.gov/exhibits/african/afam002.html), which
+advocated the removal of free black men and women from the United States
+to western Africa, mentioned “Timbuctoo” in order to support the
+colonizationists’ argument. This writer described Timbuctoo as a
+civilized place where African youths were sent from great distances “to
+be instructed in Arabic learning” and to study the Koran. The
+tendentious conclusion this colonizationist drew was both that Africa
+needed the Christian missionaries that free black Americans could
+supply, and also that “the natives of Africa are in some degree sensible
+of their ignorance, and willing to be made wiser.”
+
+Despite the backhanded compliment in such lines, here was a vision of
+Timbuctoo starkly different from those of racist parodists. And even
+farther from parody was an article that appeared in the Baltimore-based
+antislavery newspaper the *Genius of Universal Emancipation* in 1826.
+The *Genius* used reports about the wealth of interior African cities to
+argue that the degradation of Africans often cited by proslavery
+apologists had only occurred in those places where European slave
+trading had ravaged the continent. Citing Timbuctoo in particular, the
+*Genius* contended that “in those parts [of Africa] never prophaned by
+the unhallowed foot of a slave dealer–civilization advances and the arts
+of social life [flourish]–the natives cultivate the cotton and indigo.”
+
+References to “Timbuctoo” in antislavery literature also spiked slightly
+in 1828 thanks to the publicity that year surrounding [Abd
+al-Rahman](http://en.wikipedia.org/wiki/Abdulrahman_Ibrahim_Ibn_Sori)
+(or Abduhl Rahahman, in contemporary sources), who became widely known
+to Americans in that year because of his improbable, but apparently
+likely, story. Born the son of a Fulbe chief in Africa, Abd al-Rahman
+spent 40 years as an American slave before he was recognized in Natchez,
+Mississippi, by a white man whose life had been saved in Africa by Abd
+al-Rahman’s father. When Henry Clay, an ardent colonizationist,
+discovered his story, he and the Society campaigned for the emancipation
+of the “Prince of Timbo” so he could return to Africa, and the
+Colonization Society sponsored a celebrated lecturing tour in the North.
+In Washington, the Prince met with President John Quincy Adams, who
+recorded the encounter in his diary on May 15, 1828 ([click for a page
+image of the
+diary](http://www.masshist.org/jqadiaries/doc.cfm?id=jqad37_538)). As he
+toured Northern cities, Abd al-Rahman also attracted crowds who were
+fascinated by his ability to write Arabic script. (He often wrote out
+souvenir cards with what curiosity-seekers thought was the Lord’s Prayer
+in Arabic; it turns out that, unbeknownst to his admirers, he was
+writing bits of the Koran.)
+
+Though Abd al-Rahman was from “Timbo,” several sources I’ve seen changed
+this to “Timbuctoo,” perhaps conflating the two places in ignorance. It
+is difficult to reconstruct Abd Al-Rahman’s own reports about his life
+because his broken English was usually transcribed by people like his
+colonizationist sponsors who had either a loose or tendentious
+understanding of African geography. (Some writers also claimed he was
+from Morocco.) But Abd al-Rahman appears to have reported that he had
+been educated in Timbuctoo, which some might have confused with his
+homeplace. (President Adams’s diary entry said that Abd al-Rahman named
+“Tombuctoo” as his “home.”) At any rate, for abolitionists and
+colonizationists already inclined to imagine Timbuctoo as the seat of a
+great interior Africa kingdom and a site of Arabic and Islamic learning,
+Abd al-Rahman was a perfect illustration.
+
+But Abd al-Rahman captured the interest of African American
+abolitionists in particular, especially the early pan-Africanist and
+black emigrationist [John Brown
+Russwurm](http://en.wikipedia.org/wiki/John_Brown_Russwurm). Russwurm
+had mentioned the “far-famed city of Timbuctoo” in an 1827 essay
+published in the New York City *Freedom’s Journal*, the first African
+American newspaper in the United States. And in Russwurm’s pioneering
+article, “The Mutability of Human Affairs,” Timbuctoo appears as part of
+a larger, mournful argument about how the great ancient civilizations of
+Africa have been forgotten. (You can download a full, PDF issue of
+*Freedom’s Journal* in which Russwurm’s essay appeared
+[here](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v1n05.pdf),
+thanks to the [Wisconsin Historical Society’s
+archive](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/)
+of the paper.) In 1828 the *Journal* reported with great interest on Abd
+al-Rahman’s Northern tour; in one issue
+([PDF](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n32.pdf))
+Russwurm reprinted an article from the New York *Journal of Commerce*
+reporting on the presence of the “native Prince of Timbuctoo,”
+continuing that “Abduhl Rahahman” had been confirming the glowing
+reports of the African city’s commercial wealth and opportunities.
+Russwurm also met Abd al-Rahman himself in Washington, and he mentioned
+the encounter in a *Freedom’s Journal* article on August 29, 1828
+([PDF](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n48.pdf)).
+Russwurm reported that Timbuctoo was one of several cities of great size
+in the African interior and praised Abd Al-Rahman’s extensive learning:
+
+> It must be evident to every one that the Prince is a man superior to
+> the generality of Africans whom we behold in this country. His
+> education is also superior; and when we take into consideration his
+> Alma Mater, our astonishment becomes greater. He is a fine Arabic
+> scholar, and even now, at his advanced life, 66, writes an elegant
+> hand. He appears to be well versed with the Geography of the interior
+> of Africa, and states many facts concerning the different tribes, and
+> the source and discharge of the Niger, of which we were ignorant. It
+> has ever been the current belief that Timbuctoo was the only city of
+> size in the interior; but the Prince assures us that there are two
+> others nearly as large near the banks of the Niger.
+
+Such articles are clear examples of the ways that antislavery writers by
+the 1820s could fold limited information about Timbuktu into their
+arguments against slavery. Though I don’t currently plan to undertake
+the additional research, I have a hunch that additional digging would
+reveal other instances like these of abolitionists using the positive
+stories surrounding Timbuktu. (It would also be interesting to find out
+if there was abolitionist discourse surrounding the claims of the
+African American sailor who earlier said he had been there.) This brief
+tradition of discourse about the city explains why African American
+abolitionists and writers also appear to have been quite interested by
+the journeys of Laing and Caillié to the city. The *Freedom’s Journal*,
+for example, noticed the reports about Laing and Caillié in several
+issues in late 1828 and 1829 (especially on [December 26,
+1828](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n39.pdf);
+as well as on March 28, 1829; and August 10, 1829).
+
+**Inconclusive Conclusions**
+
+These context clues combine to make it clearer why “Timbuctoo” might
+have occurred to African Americans as a name for their community in New
+Jersey (founded, apparently, in the decade of Caillié and Abd
+al-Rahman), and also why John Brown might have applied the name to the
+cluster of farms settled by James H. Henderson and the Jefferson
+brothers in New York.
+
+*But* this brief sketch of “Timbuctoo” in antebellum American culture
+still does not allow us to say definitively why these settlements got
+that name, because the name was still clearly multivalent. We cannot be
+certain about the meanings it conveyed to the people who lived in the
+New Jersey and New York communities. It certainly seems plausible that
+it had a positive connotation to free black Americans like those who
+inhabited the New Jersey town. But other, more subversive or ambivalent
+meanings may have been intended.
+
+For example, it’s noteworthy that one of the antislavery groups most
+interested in Timbuktu was the Colonization Society, which ultimately
+won legal emancipation for Abd Al-Rahman. Believing that Al-Rahman could
+help introduce Christianity to Arabic-speaking Africans in his homeland,
+the Society also helped pay for his journey back to Africa, where
+Al-Rahman died in 1829 before reaching his long-lost homeland. By 1829,
+most Northern free black communities back in the United States (with the
+exception of a few black abolitionists like Russwurm) were mobilizing
+against colonizationism and the Society, insisting that the United
+States was their homeland and that they intended to stay put. It may be
+telling that after 1830, references to the name Timbuctoo, while
+relatively common in *Freedom’s Journal* did not appear other than once
+or twice in other African American titles from the period included in
+the [Accessible Archives database of antebellum free black
+newspapers](http://www.accessible.com/accessible/about/aboutAA.jsp). So
+perhaps the selection of the name “Timbuctoo” for a New Jersey town was
+meant to convey, in the colonizationist atmosphere of the 1820s, a
+subtle but biting political message: home was *here*.
+
+Ambiguity also clouds the apparently straightforward use of Timbuctoo by
+abolitionists when we turn to John Brown’s New York settlement. This is
+especially true when we recall that by 1849, thanks to Caille’s book,
+more realistic reports about Timbuktu had begun to appear. If Brown was
+the one who named Timbucto in New York, it seems most probable that he
+meant in some way to reference the African civilization. But it is also
+possible that for him, his family, or the settlers themselves, the name
+connoted (as it sometimes does in vernacular slang today) a place that
+was remote and difficult to reach. It might even have conveyed some of
+the disjuncture that settlers experienced between their expectations
+about the Adirondacks and the harsh farming and living conditions they
+discovered there, especially in the winter.
+
+John Brown himself always promoted the agricultural potential of the
+Adirondacks, though he too commented on North Elba’s remoteness and
+isolation and celebrated the construction of new bridges and roads to
+make the area more accessible. But some of his sons were less optimistic
+about the climate and fertility of the soil and questioned the grandiose
+hopes that might have been implied in their father’s use of the name
+“Timbucto.” For example, when John Brown Jr., Brown’s eldest son, first
+visited the family farm near North Elba in 1849, he sent an ambiguous
+report to his mother (who was then away):
+
+> We reached Keene a week ago last Tuesday evening. Found all well.
+> Although it rained most of the time while we were there, we visited
+> most of the *important* places. Such as Timbuctoo &c.
+>
+> There are really without joking, many things to recommend that
+> country. Among them may be reckoned the pure air and water, almost
+> insuring good health and a total exemption from trouble by neighbors
+> geese.
+
+In addition to indicating, as I suggested in Part I, that the Browns
+themselves did not live in the place they called “Timbuctoo,” Brown
+Jr.’s letter leaves unclear whether he was “joking” about Timbuctoo’s
+being an “important” place. Or maybe he was poking fun at the contrast
+between the paradise implied by the name and the dismal weather while he
+was there.
+
+At any rate, after this first visit Brown Jr. seemed impressed by the
+“country” his father had settled in. In subsequent years, however,
+Brown’s other sons soured on the climate and geography and tried to
+dissuade Brown Jr. when he and his wife briefly considered moving to
+North Elba, around the time that James H. Henderson froze to death in
+the woods. Jason Brown referred to the place sarcastically in 1853 as
+“Father’s New Palestine,” lending further support to the idea that John
+Brown had used the name “Timbucto” for its positive connotations, and
+told his eldest brother that “North Elba would do tolerably well, for a
+colony of Norwegians if they had none of them ever heard of a temperate
+climate.” Owen Brown, another brother, was more direct in giving his
+reasons why John Brown Jr. should not settle in the area:
+
+> Dear Brother & Sister, Men are blessed with reason, for their guide,
+> Then is it not the duty of every man, to exercise his reason to the
+> full extent, & allow its requirements to be the guide of all his
+> actions? Are we governed, as much by reason, as we are by fancy, by
+> Suden [sic] impulse, & our present inclinations? I noticed in a Letter
+> from Ruth, that you have agreed to move to North Elba, in 2 Years.
+> Well, This has a cold chilly wet look about it. Two years of
+> experience in that latitude, have induced me to think so. When I first
+> arrived in that romantic region, which was on the 30th of May I think,
+> Hiram Brown said we have hard frosts here, every month in the year, I
+> thought he was joking, but it was all true while I lived there. All
+> the mountains were then spoted [sic] with mighty snow banks, & on the
+> 6th of June we could not clear away the manure from the Barn because
+> it was half Ice yet, & the gras had not started, or if it had it did
+> not look as if it had,
+
+Here was a picture of the area once called “Timbucto” that was more like
+the disappointing discoveries that Caille had made when he reached
+Timbuktu and found it a land of “no vegetation but stunted trees and
+shrubs,” with soil “totally unfit for cultivation.” Owen’s reference to
+the area as a “romantic region” again suggests that when his father used
+the term Timbucto, he had the fabled, “mystick” city of Tennyson, Abd
+al-Rahman, and Mungo Park in mind more than the dangerous, distant, arid
+desert of Caille. But the fact that both connotations were available to
+antebellum Americans who spoke of Timbuktu underlines the difficulty of
+knowing *why* two early nineteenth-century African American communities
+got the name “Timbuctoo” without being able to answer, first, *who*
+named them and what their views about the communities were.
+
+Which is to say, in sum, that I can only end this search for John
+Brown’s “Timbucto” with more questions that need to be asked, more
+directions to be explored, a few scraps of contemporary discourse about
+Africa that might be used as maps, and a word of empathy for the
+researchers who, according to the *Post* article that inspired these
+posts, are still trying to figure out how and why Timbuctoo, New Jersey,
+got its name.
+
+**Sources**
+
+There is a decent summary of European attempts to reach Timbuktu on
+[Wikipedia](http://en.wikipedia.org/wiki/Timbuktu#Contact_with_the_West),
+but I also relied on the Oxford Dictionary of National Biography entry
+on Mungo Park, as well as Galbraith Welch’s *[The Unveiling of
+Timbuctoo: the Astounding Adventures of
+Caillié](http://www.worldcat.org/title/unveiling-of-timbuctoo-the-astounding-adventures-of-caillie/oclc/483565021)*
+(1938); and Richard Holmes, *The Age of Wonder: How the Romantic
+Generation Discovered the Beauty and Terror of Science* (2008). The
+quote from Holmes comes on p. 212. **§** For the supporter of
+colonizationism who mentioned Timbuctoo, see “The Sixth Annual Report of
+the American Society for Colonizing the Free People of Color of the
+United States …,” *North American Review* (January 1824), available in
+the American Periodical Series Online database from ProQuest. **§** For
+the article in the *Genius of Universal Emancipation*, see p. 260 in the
+15 April 1826 issue, also available in the APS Online database. **§**
+There is a fascinating biographical sketch of Abd al-Rahman Ibrahima in
+Jill Lepore’s *A is for American: Letters and Other Characters in the
+Newly United States* (2002), pp. 111-136. You can also see [a portrait
+of him at the New York Public
+Library](http://abolition.nypl.org/images/us_slave_trade/4/36) website.
+**§** You can read more about Russwurm in a new biography by Winston
+James, [*The Struggles of John Brown Russwurm: The Life and Writings of
+a Pan-Africanist Pioneer,
+1799-1851*](http://www.amazon.com/Struggles-John-Brown-Russwurm-Pan-Africanist/dp/0814742904/)
+(2010). The issues of *Freedom’s Journal* cited or used in this post
+were published in 1827 (April 6, April 13); 1828 (August 29, October 31,
+December 26); and 1829 (February 28, March 28). **§** The quoted letters
+by John Brown’s sons can be found in the John Brown Jr. papers at the
+[Ohio Historical
+Society](http://www.ohiohistory.org/resource/archlib/index.html#collections),
+MSS 47: see John Brown Jr. to Mary A. Brown, 13 October 1849; Owen’s
+letter contained in Jason Brown to John Brown Jr., 15 February 1853;
+Jason Brown to John Brown Jr. and Wealthy Brown, 13 March 1853.

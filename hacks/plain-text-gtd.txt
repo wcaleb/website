@@ -1,0 +1,361 @@
+% Plain-Text GTD with Merlin Mann's Q Trick 
+% W. Caleb McDaniel 
+% May 24, 2011 
+
+A version of this post was originally published on my old blog as [How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things](http://mcdaniel.blogs.rice.edu/?p=153 "Permanent Link: How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things"). 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This post does just what its title says, so if terms like
+[GTD](http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719),
+[Things](http://culturedcode.com/things/), and [Notational
+Velocity](http://notational.net) mean nothing to you, you may want to
+move along: there’s nothing to see here but an excruciating display of
+plain-text nerdiness.
+
+But if you are looking for a way to implement the [Getting Things
+Done](http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719)
+approach to task-management on your computer without spending much (or
+any) money, if you are a devoted user of Things by Cultured Code who has
+begun to toy with alternatives that support cloud synchronization,
+and/or if you secretly thrill to [posts like this
+one](http://mnmlist.com/a-case-for-storing-all-your-info-in-text-files/),
+read on.
+
+I started using [Things](http://culturedcode.com/things/) at the same
+time I was introduced to GTD, in the Spring of 2008. I got hooked on
+Things when it was still in free beta. When version 1.0 appeared and
+quickly began winning awards, I gladly shelled out the asking price.
+Even today, I still think Things is a great program. I used it much like
+[Shawn Blanc](http://shawnblanc.net/2009/01/a-review-of-two-things/)
+used to and [Ryan
+Cordell](http://chronicle.com/blogs/profhacker/putting-the-things-in-gtd-managing-an-academic-life-with-cultured-codes-things/22908)
+does, so if you’re not familiar with the program, start there.
+
+I began thinking about alternatives to Things, though, when I got an
+iPod Touch, and then an iPad, and joined the legions of Cultured Code
+followers waiting longingly for cloud synchronization (which is now
+apparently coming soon). I was also reluctant to shell out at least
+another $20 for the iPad version.
+
+That’s when I started developing the following system. I should stress
+that I do not claim that this system fully replaces the functionality of
+Things, which remains a good piece of software. But this does allow me
+to replicate the way *I* was using Things, with some added advantages I
+didn’t even know I was missing.
+
+### A txt for every task
+
+The core principle of my GTD system is this: *every task gets its own
+plain text file, whose filename is the name of the action I need to
+take*.
+
+In Things, each of my tasks was an item in a database that also had
+separate fields for tags, notes, and a due date. In other plain text GTD
+systems, a task might be a line in a list contained in a text file. In
+my system, each of my tasks is the name of a plain text file.
+
+When I need to create a new task, here’s what I do on my Mac: I use
+[Notational Velocity](http://notational.net) to create a note whose
+title is my task. Within the note itself, I then put any associated
+information about the task: notes, hashtags, contexts, links, due dates,
+whatever. If you already use Notational Velocity, you know how fast and
+easy this process is; if you aren’t familiar with NV, it’s free, easy to
+download, and easiest to understand when you’re actually using it.
+Imagine a text editor that doubles as a Finder window and Spotlight, and
+you’ve *almost* imagined what an awesome tool NV is.
+
+I have my NV preferences set so that each note is stored as a plain text
+file in a folder called “notes,” so when I create my task as a note in
+NV, I’m actually creating a plain \*.txt file with the note title as the
+file name. That has advantages I’ll talk about later, including the fact
+that I can view my tasks in any text editor. But viewing these text
+files in Notational Velocity has several virtues. For example, NV
+recognizes hyperlinks, so if there is a webpage associated with my task,
+I can paste the URL into the body of the note, and it creates a link to
+that page. It also recognizes email addresses and turns them into links
+too. I can also drag a file from the Finder window into a Notational
+Velocity note, and it will create a link to that file, just like I could
+do in the notes section of a task in Things.
+
+I keep lots of different kinds of notes in Notational Velocity, so I
+also need a way to distinguish “tasks” from ordinary “notes,” for the
+purpose of accessing my things to do more quickly. I do this by adding
+the two letters `qq` at the beginning of every note title that is a
+task. (Hat tip: [Merlin
+Mann](http://www.kungfugrippe.com/post/453204090/q-trick).)
+
+Here’s a concrete example. Let’s say I need to go to the library to pick
+up a book on hold. I create a note in NV called
+`qq Go to the library to pick up book`. Within the note body I might put
+the name of the book. I would also put an `@work` hashtag to tell me
+this is something I need to do at work. If there is a due date for the
+task, I’ll type `due()` and put the deadline in those parentheses.
+
+This is the kind of information you put in a task in Things, too, but in
+NV I can put all of this information and more anywhere I want it, and in
+any order.
+
+### Reviewing Tasks
+
+The importance of regularly reviewing tasks is a key principle of GTD.
+When using Things, I scheduled a weekly time when I sat down and looked
+at every item in my “Next” list. I would then tag the things I wanted to
+focus on this week with a “ThisWeek” tag. During the week, when I wanted
+to see at a glance all of the week’s tasks, I would view the Next list
+and filter it so that only tasks tagged “ThisWeek” were visible. Each
+day, I would also “star” tasks I wanted to do that day, which would make
+the tasks appear in the Today list in Things.
+
+Each of these functions is easy to perform in my new Notational Velocity
+system. When I want to see all of my tasks at a glance, I enter `qq` in
+the NV search bar. Instantly all of the notes except for my tasks fall
+away from my note list. During my weekly review, I select the tasks I
+want to do this week, and *rename* the notes, adding a simple string
+`@tw` to the end of the title. For tasks I want to do today, I append
+`@to` to the note title.
+
+Now, if I want to see all of this week’s tasks, I enter `qq @tw` in the
+search bar, and only those tasks are shown. If I want today’s to do
+list, I search for `qq @to` and I have a tidy little list of tasks. I
+can also filter by any other string. If I want to see all tasks to be
+done at work I search for `qq @work` because I put that context in the
+note body of all my work tasks. I can search for `qq @work @tw` and so
+on, depending on how I want to view my list, and the list view in NV
+will update in what seems like the speed of light. If I want to look at
+due items, I search `due(` or `due(May` to see items due this month. And
+so on. To see all my notes again, I tap the Escape key or click the X
+button in the search bar and I can see all of my notes again.
+
+Notational Velocity’s useful keyboard shortcuts or hotkeys also make
+scrolling through my tasks a breeze. I can use command-J and command-K
+to switch to the next or previous note, respectively, while keeping my
+keyboard focus in either the search bar or the text-entry pane. If I
+have a note selected and want to rename it, I click command-R. Command-L
+takes me back to the search bar, where I can create a new note or search
+for a different string.
+
+### Elaborations
+
+The search function in NV looks for my search terms anywhere in the
+title or body of notes, so it doesn’t really matter where I have put the
+`@tw` tag or even the `qq`. The NV list pane also gives me additional
+ways to review my tasks by allowing me to “sort” notes alphabetically or
+by date. If I want to see my newest tasks, or the tasks that have been
+sitting around for a while, I search for `qq` and sort by Date Modified,
+in either ascending or descending order.
+
+I also have a way of mimicking the “project” or “area” lists in Things.
+If I have some tasks that all belong to the same project, I put the
+project name in brackets after the qq in the note title. For example, I
+might enter a task as `qq [246] Write lecture for Tuesday @tw`. That
+tells me I have a task associated with a course–HIST 246. I can view all
+the tasks in a project by–you guessed it–using the search box and
+searching for `qq [246]`. (I can add the project name as I’m entering
+the task for the first time, making “filing” the task simple, or I can
+file a task in a project while completing my weekly review by renaming
+the note and adding the bracketed term which, again, can actually appear
+anywhere in the note title or the note itself.)
+
+I use the square bracket syntax for large and ongoing projects like a
+course or my book manuscript. But sometimes I also make a quick list of
+next actions in the note body of a smaller task, effectively turning
+that task into a “project” in the David Allen sense. For example, if I
+have a batch of papers to grade, the task I create might be
+`qq [246] Grade position papers`. Within the note, I might then list the
+names of all the students whose papers I need to grade. I can then
+virtually “cross off” those names as I finish each paper; in NV, putting
+`@done` at the end of a line of text automatically applies strikethrough
+formatting to that line. Nifty!
+
+What do I do when I want to indicate that a task is completed? In Things
+and most GTD apps, I would probably click on a check box. In my system,
+I have several options:
+
+-   If the task was a simple one I will never have to do or remember
+    again, I just delete the note (command-delete from the keyboard).
+-   If I want to track the tasks I’ve completed in my notes folder, but
+    don’t want it to come up as a pending task, I change `qq` to `dq`
+    (for done-q). Now, when I search for all of my qq tasks, the
+    finished task will not appear in my search results, but I can still
+    access the note if there was information in it that I wanted to
+    keep, and the “date modified” column can tell me when I finished the
+    task (unless I’ve modified it again since then).
+-   If I finish a task, but the odds are that I will need to do it again
+    the following week, I remove any focus hashtags like `@tw` or `@to`
+    and just leave it as a `qq` task. Now I will be sure to see it again
+    during my next weekly review.
+
+One of the things I like most about my new system is the very thin,
+qq-shaped line between a note and a task: that is, it is extremely easy
+to turn one into the other, and vice versa. For example, within
+Notational Velocity I keep a running list of everything I need to buy at
+the hardware store, as well as a running list of books I want to check
+out next time I’m at the library. These lists aren’t really tasks,
+because it may not be essential for me to go to the hardware store or
+the library right away. But once I do need to make the trip, I just find
+the note with my list and add a `qq` to the title. Now the note will pop
+up during my GTD reviews, reminding me that I need to go to the store or
+the library. And my shopping or check-out list will already be right
+there when I do.
+
+Conversely, since all that makes a note a task is the `qq` in the title,
+I can make the note itself as long and complex as I want it to be.
+Earlier, as an example, I imagined creating a task called
+`qq [246] Write lecture for Tuesday`. In my system, I can actually begin
+drafting the lecture right within the text file named after this task,
+without ever leaving Notational Velocity. When I’m ready to move it into
+a more powerful text editor for further drafting or revision, I can just
+open the underlying plain text file in another application and keep
+writing. (By right-clicking on the note title in NV, I can select
+another application in which to edit the file, or shift-command-E
+immediately opens the file in my default text editor). Even when I save
+in another application, the changes will be reflected in Notational
+Velocity. The notes field in Things wasn’t made for this kind of heavy
+duty text editing, and to see long notes I usually had to sacrifice my
+ability to see all the tasks around it at a glance. Not so now.
+
+### Getting Things Synced
+
+You may have noticed earlier that I keep my “notes” folder in my
+[Dropbox](http://db.tt/SXfRhdY). That means all of my tasks are
+available to me, thanks to Dropbox, on any machine or mobile device on
+which I have Dropbox installed, and also on the Web through my Dropbox
+account.
+
+Even better, however, is the fact that Notational Velocity can sync all
+my notes with [Simplenote](http://simplenoteapp.com/), a universal
+iPhone/iPad app that I have installed on both my iPod Touch and on my
+iPad. Simplenote is designed to look and feel like Notational Velocity,
+with two exceptions. The first line of a Simplenote note becomes the
+title of a Notational Velocity note, and vice versa. And to create a new
+note in Simplenote, I have to tap on a + button. But the search
+functionality works the same way, so I can review all my notes and
+filter them on Simplenote just like I do in NV.
+
+Plus, whenever I am out and need to add a `qq`, I can create a
+Simplenote. The next time I’m online on my desktop, Notational Velocity
+will sync that new `qq` by adding it to my “notes” folder. Just like
+that, I have flawless cloud sync.
+
+I have a Simplenote Premium subscription ($20 a year), which removes ads
+from the free version of Simplenote, and also gives me unlimited syncing
+from third party apps like NV. That means I can set up NV preferences to
+sync with Simplenote every 1 minute, ensuring my mobile devices are
+quickly in sync with my laptop.
+
+### Replacing My Things
+
+Perhaps at this point you suspect that I’m making things more
+complicated than they need to be. Why not just keep all my tasks in one
+list in one text file?
+
+I could, but my objective has been to replace the functionality I liked
+about Things. For example, one of my favorite things about Things was
+how easy it was to look at a subset of my tasks while hiding all the
+rest from view. A simple list in a text file doesn’t allow that, unless
+I pay for a [new
+application](http://www.hogbaysoftware.com/products/taskpaper) with its
+own syntax or want to constantly be clicking on toggle arrows to
+collapse or expand “folded” code blocks (though I confess [this
+system](http://leafraker.com/2007/10/24/gtd-with-plain-text-files/) did
+catch my eye). In my system, I can achieve all of the views I used in
+Things, without learning someone else’s syntax or paying money for a new
+GTD app.
+
+I’ve also found easy ways to replicate the other things that I really
+liked about Things. Take, for instance, the Quick Entry dialog box in
+Things. I used this all the time to quickly enter a task and then
+dismiss it, all with a universal keyboard shortcut. In my new system,
+Notational Velocity runs so fast that calling it up takes no longer than
+calling up the Quick Entry box in Things (which sometimes took a second
+or two to appear), and you can set a universal keyboard shortcut to
+bring NV to the front at any time. (I’ve set my shortcut to the same one
+that Things used, because I’ve gotten so familiar with it.) In many
+ways, quickly entering a task into NV is even quicker than it was with
+Things, because I don’t have to tab into different fields to set due
+dates, tags, notes, projects, and so on–I have two fields to think about
+in my system: the title, and the note, and I can actually put any of the
+metadata I want to use in either place. Moreover, when I enter a task
+into NV, it’s already in my next actions list by virtue of the `qq`. I
+don’t have to collect tasks in a separate inbox, as in Things, and then
+drag them or move them to different projects or areas. The “quick entry”
+bucket in my case is the same as the bucket that contains all of my
+tasks. Thus, I’m able to reproduce the functionality of the Things quick
+entry box and even eliminate some steps.
+
+The other thing I used all the time in Things was the ability to
+automatically fill the notes field of the Quick Entry box with
+information associated with that task. For example, if I was looking at
+an email message in Mail.app and pushed control-space, I would get the
+Things Quick Entry box with a link to the email message already in my
+notes field. If I had text selected, Things would automatically also put
+that text into the notes of my new task. ([Read more about this useful
+trick in
+Things](http://culturedcode.com/things/blog/2009/08/things-12-fasten-your-keyboards.html).)
+
+I can do something very similar in my system, because Notational
+Velocity installs a system-wide Mac OS X service that allows you to
+create a new note in Notational Velocity using the text you have
+selected in any other program. Usually all you have to do is push
+shift-command-V while your text is selected, but you can also access the
+Services menu (aka, “[the menu you never go
+to](http://highschoolblows.blogspot.com/2005/11/mac-os-x-services-menu-you-never-go-to.html)”
+but should).
+
+Because I sync my notes with Simplenote Premium, I also have a nifty way
+to create a task from email. Simplenote gives me a unique email address
+associated with my account, so that whenever I email something to this
+address, it immediately creates a note in Simplenote with the subject as
+its first line (and, ergo, also creates a plain text file in Notational
+Velocity with the subject of the mail message as the title). So if
+someone sends me an email message I need to act on, I forward the
+message to my Simplenote account and change the subject to my task,
+using my `qq` syntax, adding anything else I want to note in the body of
+the email message. Presto: I have a task in Notational Velocity with the
+full text of the associated message. This trick allows my system to meet
+what [Jason B.
+Jones](http://chronicle.com/blogs/profhacker/summerproofing-your-to-do-list/33580)
+recently called an essential feature of task lists: the ability to
+create tasks from email. And it means I can also create tasks from my
+email on my iPad or my iPod touch as easily as I can on my
+laptop–something that could not be said of the Quick Entry Auto Fill
+provided by Things.
+
+### Qualifications
+
+That about sums up how I use Notational Velocity as a replacement for
+the way I was using Things. I should now immediately note, however, that
+my system doesn’t do everything Things did as well as Things did it.
+Exhibit A: scheduling due dates and tasks. Ultimately, I don’t miss this
+as much as I thought I would. I had lots of repeating tasks set up in
+Things to automatically appear in my Today list on particular dates or
+days of the week, but in my daily practice I found myself deleting a lot
+of these. Anyway, the GTD diehards of the world will tell you that too
+much automation in your system is defeating the point–the point is to
+constantly review what you have to do and make decisions about what’s
+important right now, and in this context. That principle doesn’t lend
+itself well to fully automated task creation.
+
+Besides, because my system stores all of my tasks in plain text files
+instead of a proprietary database, I actually can create some scheduling
+functionality by harnessing the power of Mac OS X, Automator workflows,
+Applescript, and iCal. That’s a post for another day, but suffice it to
+say that it’s not too difficult for me to create rough simulations of
+what the Things scheduling engine did, just by working with my plain
+text files.
+
+A final question that deserves to be asked is: why Simplenote? As I’ve
+noted several times, my system works for me because I ponied up the
+money for a Premium subscription to Simplenote. I’m willing to do that
+because I like the Simplenote interface and some of its distinctive iOS
+features, like the ability to “pin” notes to the top of my list. I also
+*love* the ability to email things to my unique Simplenote email address
+and create notes that way–a feature I haven’t found in any comparable
+app. That said, I am keeping my eyes open for apps that might allow me
+to cut free from that $20 a year. I have my eyes on
+[Notesy](http://notesy-app.com/), for example, which uses Dropbox to
+sync. A forthcoming version of
+[WriteRoom](http://groups.google.com/group/writeroomapp/browse_thread/thread/2fbac8b68643523a)
+on iOS is supposed to do the same. At that point I might have to weigh
+how much that unique email address is worth to me.

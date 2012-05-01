@@ -1,0 +1,419 @@
+% How to Read for History
+% W. Caleb McDaniel
+% August 1, 2008 
+
+History courses usually have heavy reading loads. But you can make the
+load lighter if you develop effective strategies for reading. This page
+is designed to introduce history students to some of those strategies, but these tips
+are not the last word on reading effectively. Hone your own reading
+strategies. Practice different strategies over periods of time. And be
+sure to consult [the advice of others](#further-reading-on-reading) about how to read.
+
+[*Please note:* The advice on this page pertains mainly to "secondary"
+texts written by historians. Some of the tips may also be helpful when
+reading "primary" historical documents, but reading primary sources
+effectively often requires a unique set of skills. For example, this
+page recommends active skimming as an effective reading tool, but
+primary source documents often cannot and should not be skimmed as
+easily. So the tools described on this page are intended primarily to
+help you read scholarly works about history.]
+
+Reading as Conversation
+-----------------------
+
+It may seem like reading is a solitary art. But reading a history book
+is better thought of as a conversation. The author of the book wants to
+*tell* you, the reader, something that he or she thinks is important and
+true. The author is never just conveying information, but also trying to
+*convince* you of his or her interpretation of the past. If it seems to
+you like all an author is trying to do is pass along some facts, even
+then be aware that there is more going on: implicitly the author is
+still trying to *persuade* you that *these* facts are important and that
+they are related to each other in a particular way.
+
+*Tell*, *convince*, *persuade*: these are words we tend to use when
+describing conversations, speeches, arguments. But these words are just
+as appropriate when we talk about history books or articles or essays.
+**All works of history contain arguments**--even the ones that appear to
+be nothing more than good yarns. So your ultimate task as a reader will
+be to identify what the argument of the book or article is.
+
+In some works of scholarship, the main argument is easier to find than
+in others. For instance, sometimes an author's main argument is that
+some other scholar has made a mistake in interpreting the past. And in
+the process of detailing their differences or agreements with other
+historians, authors often spell out their own argument or thesis
+explicitly. So whenever a scholar mentions another scholar or body of
+scholarship, your antennae as a reader should immediaely go up: the main
+argument of the book may be nearby.
+
+But whether or not an author is primarily addressing other authors, he
+or she is always addressing you as well. The author is trying to
+convince *you* that the book's central arguments are correct. Realizing
+that fact--that the author wants to engage you in argument and
+conversation--is the crucial first step you must make as a critical
+reader.
+
+And a second fact is even more important to realize: *you do not have to
+be convinced by an author's arguments*. An author's reasons for reaching
+a given conclusion may be flawed or partial or incomplete. But if you
+are not convinced by an author's argument, as a thoughtful reader you
+will have to offer your own good reasons for disagreeing or withholding
+judgment. That's why, to emphasize the point again, critical reading is
+conversational: the author starts the conversation by trying to convince
+the reader of something, and the reader continues the conversation by
+formulating arguments with or posing questions to the author.
+
+The Three Stages of Reading
+---------------------------
+
+Of course, before you can decide whether you agree with an author's
+argument, you have to identify and analyze it. And in that process, you
+will be most successful if you break the act of reading into at least
+three parts.
+
+First, whether you are reading a long book or a short essay, you should
+always ***skim*** your reading material to gather information about the
+structure and major points of a text. As we will see, skimming involves
+more than running your eyes across a page. It is a dynamic process in
+which you not only gather information from a text but also formulate
+questions that you will want to have answered when you move to the next
+stage of reading. Skimming is one of the most important stages in
+reading, yet it is probably the most misunderstood and least practiced.
+For that reason, I have dedicated the bulk of this guide to skimming.
+
+Only after skimming will you give a text the ***slow read***. But the
+second stage of reading entails more than just running your eyes over
+the words more slowly than you did while skimming. When you slow-read a
+book you will also be writing (taking notes), recalling (by constantly
+looking back to the information you learned by skimming), and reviewing
+(by pausing at the end of each section of a text to make sure you have
+grasped its main point).
+
+The third stage of reading begins after the actual act of reading has
+ended. In the ***post read*** you will reflect back on what you have
+read and evaluate the arguments that the author has advanced.
+
+Stage 1: The Skim
+-----------------
+
+The following tips on skimming are based upon a fundamental idea,
+adapted from the book *[Style: Toward Clarity and Grace](http://www.amazon.com/exec/obidos/tg/detail/-/0226899152/)*, by
+Joseph Williams. Williams argues that clear writing comes from thinking
+about how readers read. Conversely, clear-headed reading comes from
+thinking about how writers write. Your goal as a skimmer is to grasp as
+quickly as possible what a writer is trying to say, what he or she wants
+to convince you of. This means trying to sit in the writer's chair. Here
+are some ideas about how to do that.
+
+Tip #1: **Always "pre-read" by skimming the titles, both for the whole work
+and for sections.** When authors choose titles, they are attempting to
+do your work as a skimmer for you. Titles, ideally, boil down crucial
+concepts into brief phrases, and they can give important clues about a
+work's argument. You should therefore look for key words in the title.
+Then, while you are skimming, you can pay special attention to the parts
+of the work that bear directly on those key words.
+
+For instance, consider the book [The Cult of the Nation in France: Inventing Nationalism, 1680-1800](http://www.amazon.com/Cult-Nation-France-Inventing-Nationalism/dp/0674012372/),
+by David Bell. The title to this book contains several clues about the
+main points of the book. On the most basic level, it tells us that this
+is a book about nationalism in France. It repeats forms of the word
+"nation" twice, so we know that understanding the role of those words in
+the text is going to be one of our major tasks as readers.
+
+But we can also tell more than that. Look at the dates, "1680-1800." We
+can infer from these that Bell believes that the invention of French
+nationalism took place during the eighteenth century. As it turns out,
+this is a major argument of the book, as we will discover once we begin
+to slow-read. Bell disagrees with histories or theories of nationalism
+that make it an ancient phenomenon; the dates alone tell us that he
+thinks nationalism is a relatively modern development. But he also
+disagrees with people who think that French nationalism burst on the
+scene only during the French Revolution in 1788 and 1789. The title
+asserts that nationalism was being invented long before the Revolution,
+which is again a major argument of the book. Even if we do not know
+anything about these dates, however, we can note them down in the form
+of a question to be answered when we slow-read the book: Why did the
+author put *these* dates in the title?
+
+We can learn even more from the title. Notice the words "cult" and
+"inventing." These are clues that for Professor Bell, nationalism is
+primarily a "cultural" phenomenon (hence "cult"), not merely a political
+project. And because the nation is a cultural construction, Bell argues
+that it had to be "invented"; nationalism is not automatic or an
+inevitable product of people living together in the same space. These
+will also turn out to be major arguments of the book, but we are
+prepared for them just by looking at the title.
+
+Before skimming a text, you should look not only at the title of the
+whole work, but also at the titles of subsections. Scan the table of
+contents. Find other key words. Make a note of whether some of the
+title's key words are repeated in the table of contents; if so, that
+means they will be doubly important. But also notice any new key words
+*not*contained in the title; those concepts will also be important in
+the book, but probably in a secondary way. When we look at Professor
+Bell's table of contents, this is what we get:
+
+Introduction: Constructing the Nation\
+1. The National and the Sacred\
+2. The Politics of Patriotism and National Sentiment\
+3. English Barbarians, French Martyrs\
+4. National Memory and the Canon of Great Frenchmen\
+5. National Character and the Republican Imagination\
+6. National Language and the Revolutionary Crucible\
+Conclusion: Toward the Present Day and the End of Nationalism
+
+"Constructing the Nation" reinforces our observations about "cult" and
+"inventing" from the title, and the repetition of the word "nation" in
+almost every chapter's title affirms that we will not understand this
+book unless we understand what Professor Bell wants to tell us about
+"nations" and "nationalism." The fact that "revolutionary crucible" does
+not come until the last chapter confirms our suspicion that nationalism
+was being built long before the 1780s. But there are also new words
+here--"sacred," "memory," "character," "republican," "language." Now we
+have some questions we can ask ourselves while reading: How do these
+words and concepts relate to the primary concepts that we have already
+identified? You should follow the same procedure when you get into
+specific chapters. What are the subheadings for sections of the chapter?
+What key words do *they* contain?
+
+Tip #2: **Look for main points "early" or "late."** Williams' book on
+*Style* encourages writers to place their main points either at the
+beginning of works or at the end, because this is where readers tend to
+look for them. He's right, and this is where skimmers should go for
+quick ideas about the main point of a book or article. The main points
+of a book can usually be found in the introduction or conclusion.
+Likewise, the main points of a chapter are usually at the beginning or
+the end. In fact, the same is true even of smaller sections in a
+chapter. The same is even true of paragraphs. If a writer is doing his
+or her job well, you will not find the most important points of a
+paragraph buried in the middle. You will find them in the two or three
+sentences that come at the beginning or the end.
+
+Slow-reading (as we will see below) is a linear practice. You start on
+the first page, and read through to the last page. But skimming requires
+a non-linear approach to reading. We've already seen this by discussing
+how skimmers jump ahead to the titles of chapters before they have read
+a single word. In the same way, skimmers try to think more like writers
+than readers. And since they know that writers tend to place their
+points "early" and "late," they go straight to those places and look
+again for key words and lines.
+
+If a book has them, start by reading the "introduction" and the
+"conclusion." You should *always* read these sections carefully, even if
+you skim everything else. Don't worry if you don't understand everything
+yet. You're trying to do the same sort of thing you did with the
+titles--identify key words, concepts that come up a lot, and major
+arguments. Notice which key words and arguments in the introduction are
+repeated in the conclusion. You can bet the house that those words and
+arguments are essential for you to understand, even if it means paying
+less attention while reading to other concepts and arguments. Also, keep
+an eye out for obvious landmarks like "This book is about ..." or "I
+will argue that ..." Again, these are the sentences in which the writer
+does the job of skimming for you by boiling down his or her argument
+into a concise statement.
+
+Let's take some example sentences from Professor Bell's book:
+
+> "This book is about the way in which the French came to think of their
+> nation as a political construction and, furthermore, came to see the
+> process of construction itself as a central task of political life" (p.
+> 6).
+
+> "Much of the book will be concerned with this pre-revolutionary change."
+> (p. 7)
+> 
+> "I will also argue that the dynamics that governed this story and made
+> nationalism thinkable were principally cultural and religious in
+> nature." (p. 7)
+
+> "By 'nationalism' I mean a program to build a sovereign political
+> community grouping together people who have enough in common--whether
+> language, customs, beliefs, traditions, or some combination of these--to
+> allow them to act as a homogeneous, collective person." (p. 20) 
+ 
+In each of these sentences, the author is waving flags at us, trying to
+get us to notice key points. Not surprisingly, they all come "early" or
+"late." All of them are from the introduction to the book. The first
+three sentences are the first lines of paragraphs. The last sentence is
+the last line of a paragraph, and comes at the end of the introduction.
+
+So if we followed the "early"-and-"late" principle of skimming, we would
+have noticed these sentences. And we also would be able to compare them
+against our mental lists of key words and topics. The first sentence
+reinforces the idea of "constructing" or "inventing" nationalism. The
+second sentence reinforces that this happened *before* the Revolution.
+The third sentence brings up "religion," which we can connect with the
+word "sacred" in the title of Chapter 1. This tells us we should be on
+the look-out for connections between nationalism and religion in Chapter
+1. And the last sentence gives us some new key words--like "sovereign
+political community," "enough in common," and "language," which we can
+be looking for as the book progresses.
+
+Once you have carefully read the "introduction" and the "conclusion,"
+you are ready to start skimming. But as you skim, you will follow the
+same practice. Instead of reading a chapter one page after another, read
+the first and last pages of the chapter first. Then proceed through the
+chapter. But don't read every paragraph line by line. Read the first
+lines carefully, scan the middle, and then read the last lines
+carefully. If an author does occasionally put important points in the
+middle of a paragraph, and said author is also smart, he or she will
+usually give you more obvious landmarks like "My point here is ..." or
+"This suggests that ..."
+
+As you see these landmarks, make a note of them, ideally by summarizing
+the main points of each section and/or chapter in your notes. By the
+time you have finished skimming the book, you should have a list or
+outline of the book's major keywords or points. Once you move on to
+later stages of reading, these notes will help remind you of the
+information you collected while skimming.
+
+Tip #3: **Do not get hung up on things you do not understand.** This is
+perhaps the most important part of skimming. Mortimer Adler and Charles
+van Doren call it "superficial reading," a term they mean to be
+"intentionally provocative." I wouldn't recommend their advice for every
+kind of reading you do, but it applies perfectly to skimming:
+
+> *In tackling a difficult book for the first time, read it through
+without ever stopping to look up or ponder the things that you do not
+understand right away.*Pay attention to what you can understand and do
+not be stopped by what you cannot immediately grasp. Go right on reading
+past the point where you have difficulties in understanding, and you
+will soon come to things you do understand. Concentrate on these. Keep
+on in this way. Read the book through, undeterred and undismayed by the
+paragraphs, footnotes, comments, and references that escape you. If you
+let yourself get stalled, if you allow yourself to be tripped up by any
+one of these stumbling blocks, you are lost. In most cases, you will not
+be able to puzzle the thing out by sticking to it. You will have a much
+better chance of understanding it on a second reading, but that requires
+you to have read the book *through* at least once. [From [*How to Read a
+Book*](http://www.amazon.com/exec/obidos/tg/detail/-/0671212095/), pp.
+36-7.]
+
+Why should you plow ahead through difficult passages while skimming?
+Because otherwise you could get mired in arguments that are tangential
+to the main point of the work. Unless you survive these passages and get
+a view of the work as a whole, you won't be able to judge the
+*important*difficult passages from the relatively unimportant ones.
+
+Fortunately, if you have been following Tips 1 and 2 above, you are
+already armed with ways to tell whether a difficult passage is important
+to muddle through or not. Do the difficult words and arguments contain
+any of the key words or ideas that you have gleaned from the titles? If
+not, leave them aside for now. Are the troublesome parts in the "middle"
+of the paragraph, chapter, or book, rather than "early" or "late"? If
+so, pass over them for now and focus on the beginnings and endings of
+the work.
+
+Tip 3 does not mean you should blissfully skip over *any and all*
+difficult passages or words. Far from it. Rather, you need to be able to
+decide which parts to wrestle with, and which parts to come back to when
+you move on to the slow-read. If a passage contains key words from the
+titles, then you need to understand it, whether it is difficult or not.
+If the difficult passages come up in the introduction and conclusion,
+there's no easy way around them.
+
+But you have to pick your battles when you are skimming. Don't get stuck
+on difficult parts that are incidental to the larger points of the book
+or article. Instead, note these passages with a question mark in the
+margin. If you discover as you read on that these passages were
+important to the overall work, you can always go back to them. But in
+many cases you'll see that what seemed difficult at first becomes
+clearer as you move along. Or you'll discover that it was not essential
+to understand the difficult passage in order to understand the work as a
+whole.
+
+It should go without saying, however, that you should not dismiss a
+passage as "difficult" just because it has big words that you don't
+know. If the obstacle to understanding a passage is primarily
+definitional, [get a dictionary](http://www.onelook.com).
+
+To sum up, skimming--the first stage of effective reading--does not just
+mean reading faster. It means pre-reading and collecting key information
+from titles. It means starting at the beginning and the end of sections,
+the places of the work that are most likely to contain the major points.
+And it means making intelligent decisions about when to dig deep into a
+difficult passage, and when to move on and come back later.
+
+Stage 2: The Slow Read
+----------------------
+
+By skimming a book you have hopefully started to identify some of its
+main points. But now you will want to give the book a second, more
+careful look.
+
+Ideally, in the second stage of reading you should read every word
+assigned. Realistically, that won't always be possible. That's why
+skimming well was important: it should have helped you decide which
+sections of the book are most important to read slowly and absorb.
+
+The slow-read is probably the most straightforward and familiar stage of
+reading. Three words sum up the basic point: *Read the book*. But as you
+read, you should practice several good reading habits:
+
+-   **Be on the look-out for reasons and evidence.** In the skimming
+    stage you began to identify the main points of the book. Now you
+    will want to identify the reasons, arguments, and evidence the
+    author gives for why you should accept those main points as true.
+-   **Ask yourself questions about the author's reasons and evidence.**
+    Are there arguments you find suspect? Evidence you expected to be
+    shown that the author is not including? Questions you have about
+    whether a particular piece of evidence is representative or
+    anomalous? Mistakes you see in an author's logical leaps?
+-   **Selectively annotate the book with marginal notes or
+    high-lights.** The main thing you will want to note are points where
+    you think the author's arguments are particularly strong or
+    particularly weak. These are the parts of the book you will be most
+    interested in returning to once you begin to evaluate the work as a
+    whole. ***Do not high-light excessively.*** If you do, you will have
+    undermined the point of high-lighting in the first place: you want
+    to emphasize only those lines or paragraphs that struck you as most
+    crucial to the author's argument.
+-   **Pause at the end of each section to review and jot notes.**
+    Instead of taking exhaustive notes as you read, pause after each
+    chapter or main section to write down a few reactions and record the
+    questions you have been asking.
+
+Stage 3: The Post-Read
+----------------------
+
+By the time you have completed Stages 1 and 2, you should know the main
+*points* of the book, and you should also know the main reasons the
+author gives to support those points. Now that you have "finished" the
+book, your final task is to evaluate those reasons.
+
+In evaluating the author's reasons, you will also be formulating your
+own "points" about the book. In a history course, you will probably be
+asked to share these "points" with your instructor or classmates, either
+in class discussions or through written assignments. If you do not leave
+the book with something to say in such forums, then the post-read is not
+yet complete. Remember that reading well is an art of conversation, not
+primarily an art of memorization. "Total recall" of all the details in a
+book is not the most desired outcome when you are reading for history,
+so don't spend the post-read period trying to memorize. It is better to
+come to class with questions of your own about the book than with
+answers to all an instructor's potential questions.
+
+The post-read, then, is just the end of the beginning of reading. In
+evaluating the book, you are preparing to continue the conversation that
+the author has tried to start. By contributing to a class discussion or
+writing a book review, you will become a kind of "author" yourself, who
+will try to convince your own audience that your reasons for agreeing or
+disagreeing with the book are valid. You will keep the conversation
+going.
+
+Further Reading on Reading
+--------------------------
+
+-   [Reading, Writing, and Researching for History: A Guide for College
+    Students](http://academic.bowdoin.edu/WritingGuides/), *by Professor
+    Patrick Rael, Bowdoin College*
+-   [How to Read in
+    College](http://weblogs.swarthmore.edu/burke/?page_id=84), *by
+    Professor Timothy Burke, Swarthmore College*
+-   [How to Read a Book](http://www.si.umich.edu/~pne/PDF/howtoread.pdf)
+    [PDF], *by Professor Paul N. Edwards, University of Michigan*
+-   [Reading Your Textbooks Effectively and
+    Efficiently](http://www.dartmouth.edu/~acskills/success/reading.html),
+    *from the Academic Skills Center at Dartmouth College*
+

@@ -1,0 +1,329 @@
+% The Digital Early Republic
+% W. Caleb McDaniel 
+% April 7, 2011
+
+This page was originally published on my old blog as [The Digital Early Republic](http://mcdaniel.blogs.rice.edu/?p=150 "Permanent Link: The Digital Early Republic")
+
+-----
+
+It may still be the case that historians, as a whole, are [averse to
+using databases of digitized primary sources in their
+research](http://tedunderwood.wordpress.com/2011/02/06/why-search-was-the-killer-app-in-text-mining-and-what-we-might-learn-from-it/#comments).
+My impression is that this is rapidly changing, however. This impression
+is admittedly unscientific and based only on the scholarship that I
+read. My perceptions may also be skewed by the fact that I myself have
+found digital databases useful in my research, as illustrated by [my
+last post](http://mcdaniel.blogs.rice.edu/?p=126) on a Lincoln quote and
+my previous series on [John Brown’s
+Timbuctoo](http://mcdaniel.blogs.rice.edu/?p=46).
+
+Still, in at least one field–the history of the early American
+republic–there is lots of evidence that scholars already see digital
+databases as crucial to their research. Recent historians of the early
+republic even seem eager to deploy keyword searches and share their
+digital findings. In this post, I’ll illustrate what I mean by citing
+some recent examples of how historians in my field are using proprietary
+digital databases.
+
+For the past year or so I’ve been keeping an incomplete but running list
+of articles in the [*Journal of the Early
+Republic*](http://jer.pennpress.org/) (the official journal of
+[SHEAR](http://www.shear.org/)) that make explicit use of proprietary
+databases published by companies like
+[ProQuest](http://www.proquest.com),
+[NewsBank](http://www.newsbank.com/) and [Accessible
+Archives](http://www.accessible.com/). By sharing these examples, I hope
+to provide a quick snapshot of some of the actual practices of
+historians who use digital databases, particularly historians who don’t
+seem to identify primarily with the field of digital history or digital
+humanities. Finally, at the end of the post, I’ll explain why I think
+historians in my field could benefit from a central online repository
+that makes information about these databases accessible and keeps track
+of differences among them.
+
+In many ways, historians of the early nineteenth century are in the best
+position to exploit digitized primary sources. Copyright laws being what
+they are, most of the full-view books available on [Google
+Books](http://books.google.com) fall in our period. Database companies
+have also been extremely successful at digitizing nineteenth-century
+newspapers and ephemera. Important historical collections that once
+existed on microfilm now exist in digital form thanks to proprietary
+databases like ProQuest’s [American Periodical Series
+Online](http://www.proquest.com/en-US/catalogs/databases/detail/aps.shtml)
+and Readex’s [Archive of
+Americana](http://www.readex.com/readex/?content=93). Given the
+availability of such collections at many academic libraries, it’s not
+surprising that historians of the early republic have begun using these
+databases and citing them in their work.
+
+Within the pages of the *Journal of the Early Republic*, the use of such
+databases has so far run the gamut from casual mentions of keyword
+search results to more ambitious efforts to build arguments around such
+results.
+
+Examples of the more casual references include John L. Brooke’s 2008
+presidential address to SHEAR, [“Cultures of Nationalism, Movements of
+Reform.”](http://muse.jhu.edu/journals/journal_of_the_early_republic/v029/29.1.brooke.html)
+After a paragraph arguing that “prayers by a local minister seemed
+almost universal” at celebrations of the Fourth of July and Washington’s
+Birthday, Brooke included a footnote stating that “my comments on
+religion and national celebration are based on the results of searches
+in Early American Newspapers and Gale 19th Century United States
+Newpapers databases.” The year before Brooke’s address was published,
+[Caroline Winterer’s
+introduction](http://muse.jhu.edu/journals/journal_of_the_early_republic/v028/28.1winterer.html)
+to the *Journal*’s Spring 2008 roundtable on Mary Kelley’s book
+*Learning to Stand and Speak* also included a passing reference to
+results of a keyword search, but with more specific information about
+the search performed and the results. After noting the previous
+scholarly neglect of Kelley’s topic–female academies in the early
+republic–Winterer wrote that “numbers alone can show that this neglect
+of the female academies is entirely undeserved. Search the term female
+academy in the hundreds of American magazines that make up the American
+Periodicals Series online database and you retrieve exactly 1,131 hits
+for the period 1790–1860.” Similarly, an endnote in Daniel A. Cohen’s
+Spring 2010 article [“Making Hero
+Strong”](http://muse.jhu.edu/journals/journal_of_the_early_republic/v030/30.1.cohen01.html)
+noted that “a keyword search of the phrase ‘story paper’ in ProQuest’s
+American Periodical Series Online 1740–1900 suggests that the term had
+entered into common usage by the late 1850s, if not earlier.”
+
+In each of these cases, Brooke, Winterer, and Cohen used “hits” to back
+up points that were secondary to their arguments. But recent issues of
+the *Journal of the Early Republic* have also included several articles
+that make more extensive use of proprietary databases. Here’s a run-down
+of examples:
+
+* In 2008, [Carol Lasser](http://muse.jhu.edu/journals/journal_of_the_early_republic/v028/28.1lasser.html)
+analyzed language in antislavery newspapers to show that around 1840
+there was a steep decline in the “sexualized imagery” of slavery
+that abolitionists had used frequently between 1834 and 1839. Using
+keyword searches in a subset of newspapers available in the American
+Periodical Series Online, Lasser identified the number of instances
+in which the words “*rape*, *ravish*, *amalgamation*, *adultery*,
+and the truncated *licentious*” appeared in the same paragraph as
+*slave* (and in the same article as either *United States* or
+*America*). She then displayed her results on a graph, with numbers
+of hits on a y-axis and years on an x-axis. After using this and two
+related graphs to demonstrate the “dramatic rise and subsequent
+decline” of such language, Lasser connected this pattern to
+contemporaneous changes in abolitionist strategy and the roles that
+women played within the abolitionist movement.
+-   In 2009, [Mark
+    Schmeller](http://muse.jhu.edu/journals/journal_of_the_early_republic/v029/29.1.schmeller.html)
+    included a similar graph at the beginning of an article on the
+    partisan origins and uses of the term “public opinion” in the 1790s.
+    To demonstrate that in the 1790s a “chorus of newspaper writers …
+    had just begun to fortify their arguments with references to public
+    opinion,” Schmeller performed a keyword search of “public opinion”
+    in the database Early American Newspapers, Series I, published by
+    Readex. He then graphed the results with occurrences per 100
+    publications on the y-axis and years on the x-axis. For Schmeller’s
+    argument, this timing of the uptick in occurrences was important to
+    his larger argument that discourse about the meaning of “public
+    opinion” was shaped by debates over political economy and public
+    finance occurring at the same time.
+-   In 2009, [Amanda Bowie
+    Moniz](http://muse.jhu.edu/journals/journal_of_the_early_republic/v029/29.4.moniz.html)
+    performed searches in a few titles in Readex’s America’s Historical
+    Newspapers for instances of the word *drowned* in order to find and
+    catalog instances of drowning in the 1770s and 1780s. These results
+    became one part of her argument that the rise of increasingly
+    cosmopolitan humane societies for the resuscitation of drowning
+    victims were not driven primarily or only by an increase in drowning
+    incidents.
+-   Also in 2009, [Nathan
+    Kozuskanich](http://muse.jhu.edu/journals/journal_of_the_early_republic/v029/29.4.kozuskanich.html)
+    made a forceful argument for the significance of digital research
+    methods by suggesting that they can help settle legal disputes about
+    the “original intent” of the Second Amendment. Kozuskanich searched
+    for the exact phrase “bear arms” in a range of years in Readex’s
+    digital version of the famous Evans bibliography of early American
+    documents, in Readex’s Early American Historical Newspapers, and in
+    the Library of Congress’s U.S. Congressional Debates database. In
+    the combined results from all of these searches, which turned up
+    almost 400 relevant hits, only about a dozen documents “do not use
+    an explicitly military context when discussing bearing arms,”
+    undermining the individual-rights interpretation of the Second
+    Amendment’s original intent. Kozuskanich then went on to argue that
+    close reading of his results also showed weaknesses in both of the
+    understandings of the amendment’s original intent that prevail
+    today.
+-   Again in 2009–a banner year for keyword searching in the
+    *Journal*–[Matthew Rainbow
+    Hale](http://muse.jhu.edu/journals/journal_of_the_early_republic/v029/29.2.hale.html)
+    used searches in Readex’s America’s Historical Newspapers to argue
+    that “even after the increase in newspapers is taken into account,
+    [temporal and journalistic] key words and phrases–including
+    ‘millennium,’ “accelerated,’ and ‘rumor’–appeared more frequently
+    between 1793 and 1795 than in two other eras (1774–77 and 1787–89).”
+    Hale provided a table that listed the searches he performed on
+    separate rows. Each column, headed with years, gave figures
+    “representing the number of references” to the word or phrase
+    “divided by the number of newspapers in the Readex database
+    published during the selected years,” rounded to “the nearest
+    thousandth.” He then used this evidence as part of a larger argument
+    that the radicalization of the French Revolution in these years
+    “generated a new level of anxiety [in the United States] regarding
+    political time and news.”
+
+Now, one could probably enumerate other recent examples of historians of
+the early republic using these and other digital databases. And it may
+be foolhardy to generalize about a set of articles as diverse in method
+and argument as these.
+
+But two things strike me as I look over these cases:
+
+First, it’s clear that many historians are not only using proprietary
+databases, but also wish to embrace the opportunities that the *scale*
+of each database make possible. Given the number of heated discussions
+in some other fields about whether text mining is a legitimate way of
+“reading” texts, it’s noteworthy that in each of the cases of above, the
+data is presented without much wringing of the hands. To be sure, many
+of the articles listed here are conscientious about mentioning the
+limits of their methods and heading off objections to their samples and
+searches. While Winterer described the 1,131 hits she found for the term
+*female academy* as an “extraordinary harvest,” she also admitted that
+this was a “crude measuring device.” Lasser provided additional analyses
+of her data to offset possible objections that changes in the number of
+abolitionist publications did not account for the patterns she was
+finding. Moniz explained her choice of the search term *drowned* by
+explaining that her own comprehensive survey of a New York newspaper not
+included in her digital search results revealed that most reports of
+drowning incidents used that phrase. Kozuskanich admitted that his
+numbers did not take into account the appearance of his search term
+multiple times in the same document. Each article also combined
+arguments made from keyword searches with more traditional close
+readings of documentary sources.
+
+Even these qualifications and concessions, however, can be seen as
+indicators of a general optimism among the authors about the utility and
+defensibility of looking for quantitative patterns in digital databases.
+Historians are eagerly venturing into this new digital age without
+feeling like it means they have to leave old methods behind.
+
+Yet It’s equally clear that historians have not yet developed clear-cut
+conventions for describing their searches, citing the databases used,
+and reporting their results. In these cases, URLs meant to point to the
+homepages of the proprietary databases sometimes included the “ezproxy”
+suffixes included in these URLs by their home universities. Perhaps more
+significantly, the articles employ multiple conventions for formatting
+search terms. Occasionally the search terms were italicized, while in
+one instance (Schmeller’s “public opinion”) they were placed in quotes.
+My initial impression as I compiled this list was that single word
+search terms were always italicized, while phrases were put in quotes,
+but some two-word phrases were italicized without quotes.
+
+Except when the author specified that the search was for “the exact
+phrase,” these formatting conventions could sometimes leave unclear, at
+first glance, whether searches for two words were Boolean searches
+(*United* AND *States*) or exact phrase searches made with
+database-specific delimiters (“United States”). Given that the default
+settings for searches in different databases treat Boolean and delimited
+phrases differently, knowing exactly how terms were inputted will
+probably be important to many readers of these articles. There was also
+some variation in the way truncated terms were represented; in Hale’s
+table, for example, one of the search terms listed is *false report(s)*,
+but it is unclear whether the results on this line include the combined
+results of two searches (for *false report* and then *false reports*) or
+a search for *false report* which thereby included, according to
+database-specific conventions, all instances of the pluralized phrase as
+well. There was also no uniform convention for how to cite the
+proprietary database or its publisher (which was in two cases left out).
+And last but not least, while Hale provided the month and year in which
+he performed his searches, other authors did not.
+
+To illustrate the stakes involved in these seemingly slight differences,
+consider Winterer’s use of a search for the term *female academy*.
+Today, when I performed a search for *female academy* in the American
+Periodical Series Online, limiting the search to the period between
+1/1/1790 and 12/31/1860, I retrieved 1,435 hits–around 300 more than
+Winterer reported. I also got a different number of hits if I searched
+only in “document text” and not in “citation and document text.” In this
+example, I tried my search for *female academy* both with and without
+quotations around the phrase and got the same number of hits. But when I
+performed the two searches (*female academy* and “female academy”) on
+America’s Historical Newspapers, published by Readex, I got over 100,000
+results for one and less than 10,000 for the other.
+
+Winterer’s point is not significantly changed by a difference of 300
+hits, but other arguments might be impacted by such variations. And
+these variations are important primarily because they present
+difficulties to a reader wishing to evaluate articles that use keyword
+searches.
+
+If these articles do indicate a trend towards such methods among
+historians, that means that all historians–whether they use such methods
+themselves or not–will increasingly be placed in a position of needing
+to review and evaluate such methods. I see this as a good thing, but one
+problem I foresee for historians is the difficulty of keeping track of
+differences between databases. To evaluate search results–especially
+when an argument rides on differences between relatively small numbers
+of hits–it will become increasingly important to know specific features
+of databases that may not always be reported by authors: do default
+searches include [“fuzzy”
+hits](http://en.wikipedia.org/wiki/Approximate_string_matching)? is the
+text being searched created by Optical Character Recognition or human
+transcription? how many sources does the database include, and over what
+chronological and geographical range? how often is the corpus changed or
+updated, if at all?
+
+To address some of these issues, Lasser’s endnotes helpfully provided a
+link to [general
+information](http://training.proquest.com.ezproxy.rice.edu/trc/splash/aps/about_general.html)
+about the American Periodical Series provided by ProQuest. But this
+convention, too, was not uniform across the examples I’ve surveyed here.
+In these articles, and probably in future ones, it will fall to readers
+to seek out relevant information about the databases themselves. But
+such a search is not easy or intuitive, given that different database
+companies present the information in different ways, on different pages,
+and with differing degrees of transparency. My rough sense from perusing
+pages like the one linked above is that companies’ descriptions of their
+products are usually aimed more at buyers than at users. Likewise,
+comparisons of databases that can currently be found on the open web are
+written by librarians and purchasers interested in getting their money’s
+worth. Where does that leave the historian who instead wants to evaluate
+search results being used as evidence for historical arguments?
+
+This is one of the questions I’m hoping to be able to talk about at
+[THATCamp Texas](http://texas2011.thatcamp.org/) next week. More
+specifically, I’m wondering whether it might be useful and feasible to
+create some resource that compiles relevant information about the
+proprietary databases historians use most so that readers (and also
+writers) can quickly get a sense of the lay of the land at a particular
+database. What I’m imagining is something like a [SHERPA/Romeo
+site](http://www.sherpa.ac.uk/romeo/), but geared towards the
+description of search functions and interfaces instead of copyright
+policies. The aim of such a site would **not** be to shut down digital
+methods like the ones employed in these articles or serve as a
+gatekeeper for publication. On the contrary, I think such a site would
+make historians more comfortable with such methods and would help build
+on the existing momentum towards their use. Such a site would be useful
+to authors and researchers as well as readers, I suspect. But does such
+a site exist? What information would make such a site be useful? What
+costs and problems would be involved in building one? How might it be
+pitched so as to *encourage*, rather than *discourage* keyword
+searching?
+
+**Works Cited**
+
+John L. Brooke, “Cultures of Nationalism, Movements of Reform, and the
+Composite–Federal Polity: From Revolutionary Settlement to Antebellum
+Crisis,” *Journal of the Early Republic* 29.1 (2009): 1-33 **§**
+Caroline Winterer. “Women and Civil Society: Introduction,” *Journal of
+the Early Republic* 28.1 (2008): 23-28 **§** Daniel A. Cohen, “Making
+Hero Strong: Teenage Ambition, Story-Paper Fiction, and the Generational
+Recasting of American Women’s Authorship,” *Journal of the Early
+Republic* 30.1 (2010): 85-136 **§** Carol Lasser, “Voyeuristic
+Abolitionism: Sex, Gender, and the Transformation of Antislavery
+Rhetoric,” *Journal of the Early Republic* 28.1 (2008): 83-114 **§**
+Mark Schmeller, “The Political Economy of Opinion: Public Credit and
+Concepts of Public Opinion in the Age of Federalism,” *Journal of the
+Early Republic* 29.1 (2009): 35-61 **§** Amanda Bowie Moniz, “Saving the
+Lives of Strangers: Humane Societies and the Cosmopolitan Provision of
+Charitable Aid,” *Journal of the Early Republic* 29.4 (2009): 607-640
+**§** Nathan Kozuskanich, “Originalism in a Digital Age: An Inquiry into
+the Right to Bear Arms,” Journal of the Early Republic 29.4 (2009):
+585-606 **§** Matthew Rainbow Hale, “On Their Tiptoes: Political Time
+and Newspapers during the Advent of the Radicalized French Revolution,
+circa 1792–1793,” Journal of the Early Republic 29.2 (2009): 191-218.

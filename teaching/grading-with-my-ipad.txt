@@ -1,0 +1,172 @@
+% Grading with my iPad
+% W. Caleb McDaniel 
+% March 13, 2011 
+
+A friend recently emailed me to ask how I feel about using my iPad to
+grade student papers. One of the main reasons why I bought an iPad when
+it came out was to help with this task; since I ride the bus and light
+rail to work most days, I wanted an easy way to take my grading and
+reading with me, without having to lug a huge stack of papers around. My
+friend’s email gives me a good excuse to briefly summarize the steps I
+take to use my iPad for grading, and to share some of my reflections on
+how it’s worked out so far.
+
+How I Grade with the iPad
+-------------------------
+
+In order to expedite the process of grading on my iPad, I first ask
+students to submit their papers to me as digital files. As soon as I get
+a student paper, I immediately open the file, [convert the file into PDF
+using the mechanisms built into Mac OS
+X](http://www.techiecorner.com/311/how-to-convert-doc-to-pdf-in-mac-os-x/),
+change the filename to the student’s last name, and save the PDF file in
+a folder on my hard drive.
+
+There are many apps one can use to annotate PDF files on the iPad. I use
+[iAnnotate](http://www.ajidev.com/iannotate/); here’s [a good overview
+of what it can
+do](http://chronicle.com/blogs/profhacker/mark-up-pdfs-on-your-ipad-iannotate-pdf).
+To grade the papers I now have saved on my laptop, I have to get them
+into iAnnotate, which I can do in several ways. For me, the quickest way
+is this: once I have all the student papers turned in, I plug the iPad
+into my laptop, open iTunes, navigate to the Apps tab on the iPad within
+iTunes, and then [drag-and-drop the files from my hard-drive directly
+into iAnnotate](http://www.ajidev.com/iannotate/support/itunes.html).
+
+Now that all the student papers are on my iPad and in iAnnotate, when
+I’m ready to grade, I open each file and read away. iAnnotate gives me
+lots of options for leaving comments on the papers, but I only really
+use a few. (1) I can easily highlight or underline text. (2) I can draw
+freehand–for example, I can circle a word and write “WC” in the margin
+for word choice, or I can write a grade at the bottom of the file. (I
+use [a Pogo Sketch stylus](http://tenonedesign.com/sketch.php) to make
+writing on the iPad easier.) And most of all, (3) I can insert a text
+box anywhere on the PDF, and then use the iPad’s keyboard to type in
+comments to the student. This is my preferred way to leave lengthy
+comments, for reasons I’ll discuss in a moment. iAnnotate saves all of
+these annotations into the file, so that when the file is later viewed
+on a computer using Preview for Mac or Adobe Reader, all the annotations
+will be embedded in the file.
+
+When I’m finished with the paper, I can get it off the iPad in a couple
+of ways. I can use [an option in iAnnotate which allows me to email the
+file as an attachment along with a summary of all of the annotations I
+have made](http://www.ajidev.com/iannotate/support/annotSummary.html).
+This is very useful because all of the text comments I have made will
+now be summarized in the body of the email, along with a note indicating
+which page the comment is on. (I have set up the iPad to use my
+university email account.) If I have underlined anything in the file or
+drawn free hand, the summary will also indicate that there is a drawing
+on these pages. Eventually the student gets back the PDF file, which has
+the embedded annotations, and the summary of all the text comments
+produced automatically by iAnnotate.
+
+That’s the basic workflow I use to grade on the iPad. It does introduce
+a few more steps to the process that the old pen-and-paper method
+doesn’t have. But the process isn’t too onerous and in a moment I’ll
+discuss some advantages of this method. Before I do that, let me explain
+one further step I’ve added to the workflow that does make it a bit more
+onerous. I usually distribute a grading rubric to students explaining
+how I will evaluate their position papers. ([Here’s an
+example.](files/2011/03/Position-Paper-Rubric.pdf)) I have always found
+it useful to mark directly on this rubric. To do this with the iPad, I
+have a PDF file of a blank rubric in iAnnotate. With each student, I
+duplicate that file within iAnnotate, and then I can use the free-hand
+drawing to highlight parts of the rubric and circle scores. The trouble
+is that now I have a second file I need to get off the iPad, and it’s
+not easy to quickly associate the rubric files with the paper files (for
+example, by attaching both to the same email). I solve this by going
+back into iTunes, with my iPad attached, and then downloading the rubric
+files to my hard drive, glancing at them using the file preview function
+on the Mac, and renaming them according to the students’ last names. The
+added burden is mainly my choice because of the way I use the rubrics,
+but I am currently looking for a way to simplify this part of the
+workflow. [**UPDATE:** See the comments for some good suggestions.]
+
+Why I Grade with the iPad
+-------------------------
+
+Perhaps to some readers, this process will seem like a lot of pain with
+little gain, and for some it might be. But I’ve found several advantages
+to grading papers this way.
+
+First, it definitely solves my problem of carrying huge stacks of paper
+back and forth from the office, which was my main reason for adopting
+this method. It also eliminates the small inconveniences we’ve all
+experienced like dropping a file folder full of papers. And maybe it
+saves a few trees.
+
+Second, by accepting files electronically, and then also embedding
+annotations in the file, I can easily save student work without having
+boxes of papers piling up in my office. This is useful for a couple of
+reasons: if a student wants to come talk about the paper later, I can
+easily pull it up before he arrives to see the comments I made. If a
+student writes a year later for a recommendation later, I can go back to
+her paper and have something concrete to talk about, without having to
+dig around in my office. The only cost to me is a few bytes on my hard
+drive.
+
+There are also, I’ve found, some more pedagogical advantages to grading
+on the iPad, some of which stem, paradoxically, from the fact that
+“annotating” a PDF file does not feel as natural as scribbling on a
+piece of paper. It’s true that typing into a text box on an iPad takes a
+little getting used to, especially compared to writing in the margins of
+a sheet of 8.5 x 11 piece of paper, the good old-fashioned way. But as a
+grader, I believe very strongly in the principle of “[minimal
+marking](http://www-rohan.sdsu.edu/~digger/609/haswell.html)” as
+described by Richard Haswell, especially since the research shows that
+correcting every single error or commenting on every point in a student
+draft quickly shows diminishing returns. More marking is sometimes less
+when it comes to what students can absorb, as [Claire
+Potter](http://tenured-radical.blogspot.com/2011/01/if-student-essay-falls-over-in-woods.html)
+recently observed:
+
+> Do you write lots and lots of marginal notes on the paper, spending
+> hours correcting everything and re-diagramming their sentences? The
+> truth is, although you are trying to be the opposite of the teacher I
+> describe above, this freaks students out. Although you have spent
+> maybe an hour on this, feeling like you are a really caring teacher,
+> the student may see them as a blur, as grammatical correction collides
+> with interpretive questions, typos, basic misunderstanding of the text
+> and long-winded attempts not to utilize the first person or appear
+> “biased.” If a paper is really muddled, it is a waste of your time to
+> do this: far better to sit down with the student, ask a couple
+> questions about what s/he intended, and describe how s/he might have
+> gone about writing such a paper.
+
+To be sure, [commenting on writing is a complex task in which general
+rules are
+dangerous](http://wac.colostate.edu/atd/articles/haswell2006.cfm). (And
+the warnings in that last linked article about the siren song of
+computerized grading are worth heeding here.) Nonetheless, I find that
+using iAnnotate focuses my attention on the question of whether this
+particular comment I’m about to make is the one I want the student to
+concentrate on. Especially at the end of a long grading session, it’s
+all too easy, with a piece of paper and a red pen, to scribble down
+comments or corrections to grammar without even thinking, in holistic
+terms, about what the cumulative effect of these particular markings
+will be on this particular student. When I’m working on the iPad, the
+parts of the process that feel less natural than pen-and-paper slow the
+gears enough to make me more conscious of what I’m saying in my
+annotations.
+
+Indeed, one of the advantages of grading on an iPad that I didn’t fully
+anticipate is how easy it is to *delete* annotations. While I’m reading
+through a student paper the first time, I can very easily underline,
+highlight, and circle anything that I think I’m going to want to comment
+on for the student. Then, when I go back through the paper, I can decide
+which comments are the important ones–which ones are part of a pattern
+in the paper, for example, or which ones are most related to the
+learning objectives for the assignment. Then I can easily delete the
+other annotations without leaving the detritus of an eraser all over the
+page. There’s a final filter when I read back through the summarized
+annotations that iAnnotate produces in the body of the email that I send
+from my iPad; that list of annotations really crystallizes, at a glance,
+all of the things I’ve said to a student, and it quickly becomes obvious
+if I’ve been plucking on one string more than I intended to.
+
+Whether grading on an iPad will work for you is something every teacher
+will have to decide. For me, however, this method has not only made life
+easier on my back, but also has proved to be a method that functions
+well and complements by pedagogical beliefs as a grader. If you do
+something similar, please share your experiences as well!

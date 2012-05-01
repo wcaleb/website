@@ -1,0 +1,172 @@
+% H-Net 2.0?
+% W. Caleb McDaniel 
+% July 17, 2011 
+
+This post was originally published on my old blog as [H-Net 2.0?](http://mcdaniel.blogs.rice.edu/?p=171 "Permanent Link: H-Net 2.0?").
+
+--------------------------------------------------------------------------------
+
+Several years ago now, [Mills Kelly wrote a provocative
+post](http://edwired.org/2007/09/10/the-end-of-h-net/) suggesting that
+the future of [H-Net](http://www.h-net.org/) was bleak. After noting
+that the traffic on many of H-Net’s edited, subject-specific e-mail
+lists was declining, Kelly argued that e-mail lists had outlived their
+usefulness for scholars online. “If H-Net is going to survive into a
+second decade,” he said, “I would urge its leadership to give up on
+email and move on. Digital communities in the Web 2.0 world just aren’t
+created in email any more.”
+
+As someone who participates in Web 2.0 “communities” like Twitter and
+the blogosphere, I see Kelly’s point, which may be even more appropriate
+now than it was in 2007. But even then, I wasn’t convinced that Web 2.0
+posed an all-or-nothing, “[change or
+die](http://chronicle.com/article/Change-or-Die-Scholarly/46962/)”
+choice for academics online: either e-mail, or something else. Today, as
+a book-review editor for [H-SHEAR](http://www.h-net.org/shear) and a
+subscriber to several other H-Net lists, I still believe e-mail lists
+and newer digital communities can coexist and thrive together.
+
+Earlier this month, for example, Adam Costanzo at UC-Davis [posted to
+the H-SHEAR
+list](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=WIdGkCV%2bYgJeRlYXsR0OEQ&user=&pw=)
+proposing a Twitter hashtag for the annual meeting of the Society for
+Historians of the Early American Republic
+([SHEAR](http://www.shear.org)), which took place this last weekend in
+Philadelphia. Costanzo also offered some useful links to sites that
+talked about how to have a productive back-channel at a conference.
+Around the same time, two presenters at the SHEAR conference, [Mark
+Cheathem](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=bSwZGcrRTZFjkInzLfWmRg&user=&pw=)
+and [Daniel
+Kilbride](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=sdM0WOmck9hSb1jtYM1sgw&user=&pw=),
+sent messages to the list with links to their papers. Finally, a slew of
+attendees at the meeting “live-tweeted” the sessions they attended for
+those who of us who couldn’t make it, [using the hashtag Costanzo had
+proposed](http://twitter.com/#!/search/%23shear2011). Among those
+posting updates for the conference were Rachel Herrmann
+([@raherrmann](http://twitter.com/Raherrmann)), Jennie Goloboy
+([@JennieGoloboy](http://twitter.com/JennieGoloboy)), William Tatum
+([@wptiii](http://twitter.com/wptiii)), Kathryn Tomasek
+([@KathrynTomasek](http://twitter.com/KathrynTomasek)), Costanzo
+([@adam\_costanzo](http://twitter.com/adam_costanzo)), and Cheathem
+([@markcheathem](http://twitter.com/markcheathem)), who also posted
+notes about sessions on [his blog](http://mcheathem.wordpress.com/).
+
+As far as I know, this is the first time that a sizable number of
+SHEAR-ites were tweeting from an annual meeting. But it is worth noting
+that this digital community sprung up around and (at least partly) with
+the help of H-SHEAR without having to “move on” from it. H-SHEAR and the
+live Twitter stream from Philadelphia were neither mutually exclusive
+nor co-dependent; the survival of one did not require that the other
+live or die.
+
+At the same time, it’s also worth noting that in this particular case,
+the Twitter stream lacked some advantages that H-Net still possesses.
+For instance, even though I am on Twitter
+([@wcaleb](http://twitter.com/wcaleb)), I had not known to look for
+Costanzo until he posted to H-SHEAR, which suggests how H-Net can still
+serve as one of numerous tools for discovering other digital
+communities. More importantly, as vibrant as last weekend’s discussion
+on Twitter was, a hashtag search for \#SHEAR2011 will probably, at some
+indefinite point in the future, cease to work. Whereas I can still go
+back to discussion logs from years ago on H-Net, it is not immediately
+clear how to do that on Twitter. (This is [likely to be a problem for
+the foreseeable
+future](http://chronicle.com/blogs/profhacker/the-end-of-twapperkeeper-and-what-to-do-about-it/31582)
+now that Twitter, which is not a non-profit like H-Net, is becoming more
+mysterious, proprietary and closed.) Finally, the excellent
+live-tweeting that was done from the conference was likely missed by the
+large number of active subscribers to the H-Net list.
+
+Another recent episode on the H-SHEAR list illustrates similar points.
+Back in April, Daniel Feller of the University of Tennessee posted a
+message to the list about [Internet citations and research
+standards](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1104&week=d&msg=1rvV6eW8LvgcW4mtpU%2b%2bsQ&user=&pw=)
+that prompted a good deal of discussion among subscribers. Very quickly,
+however, the discussion also jumped off the list into other online
+communities. Blog posts by [John
+Fee](http://www.philipvickersfithian.com/2011/04/historians-and-online-sources.html)
+and [Mark
+Cheathem](http://mcheathem.wordpress.com/2011/04/28/should-historians-utilize-online-sources/)
+noticed the debate, and a post on the blog of [the Historical
+Society](http://histsociety.blogspot.com/2011/05/standards-of-citation-and-internet.html)
+sparked a rich conversation of its own in the comments. Feller’s post
+was also tweeted on the same day it was sent to the list, which led to a
+stream of posts related to the debate on Twitter, a few of which (in no
+particular order) I saved:
+
+-   [http://twitter.com/\#!/cliotropic/status/63226728495054848](http://twitter.com/#!/cliotropic/status/63226728495054848)
+-   [http://twitter.com/\#!/cliotropic/status/63046105671282689](http://twitter.com/#!/cliotropic/status/63046105671282689)
+-   [http://twitter.com/\#!/jnthnwwlsn/status/63023593952509952](http://twitter.com/#!/jnthnwwlsn/status/63023593952509952)
+-   [http://twitter.com/KevinLevin/status/63251444886806528](http://twitter.com/KevinLevin/status/63251444886806528)
+-   [http://twitter.com/cliotropic/status/63250983853105153](http://twitter.com/cliotropic/status/63250983853105153)
+-   [http://twitter.com/jmadelman/status/63249219737223168](http://twitter.com/jmadelman/status/63249219737223168)
+-   [http://twitter.com/jmadelman/status/63277736793354241](http://twitter.com/jmadelman/status/63277736793354241)
+-   [http://twitter.com/jhrees/status/67618584771309568](http://twitter.com/jhrees/status/67618584771309568)
+-   [http://twitter.com/wcaleb/status/63276620798115840](http://twitter.com/wcaleb/status/63276620798115840)
+
+Here again, a discussion started on H-SHEAR easily spilled over into
+other digital communities and enriched the conversation by drawing in
+new commenters who did not participate in the discussion on the list.
+
+Of course, a defender of Kelly’s original position could also find
+support in these cases. After all, the discussion surrounding the Feller
+post did dwindle quickly on the email list while it continued on blogs
+and Twitter. Doesn’t this just show that traffic on the traditional
+lists is dying and that H-Net is expendable?
+
+My answer would be no, partly because (as already mentioned)
+reconstructing and saving a debate on a Web 2.0 platform like Twitter is
+still much more difficult than on a threaded email list. If I had not
+saved links to the above tweets as they were appearing, it would be
+virtually impossible for me to find them again now.
+
+More importantly, however, I question whether declining traffic is
+really a symptom of morbidity anymore. After all, one of the hallmarks
+of Web 2.0 is the realization that users seek out content when they want
+it and have a variety of ways of getting it. I, for one, already keep up
+with most H-Net lists using my RSS reader, as I suspect some others do.
+I know the H-Net lists are there when I need them, and I can keep them
+in the background of my information stream during times when I don’t. So
+sparse posts don’t necessarily call into question the worth of the
+medium, anymore than a blog post that gets only one or two comments
+means that blogs are dead. (This is not even to mention the larger point
+that H-Net does more than simply maintain group email lists; it also has
+a well-established platform for [open-access, scholarly book
+reviews](http://www.h-net.org/reviews) that are published online and
+pushed to list editors.)
+
+Moreover, the rise of new digital communities doesn’t mean the older
+digital communities, often composed of different people, should simply
+be cut loose. H-SHEAR has a healthy number of subscribers, only a small
+percentage of whom currently tweet or blog (as far as I know; a survey
+would be interesting). That means that posting to the list reaches a
+number of scholars in the field who could not be reached otherwise. Yet
+from my point of view, neither these scholars nor the ones who are
+active on Web 2.0 sites need feel threatened or inconvenienced by the
+existence of the other communities.
+
+I do think that H-Net can do things to help facilitate exchanges among
+these varied communities, like making easier permalinks for posts or
+incorporating “share” buttons within the archived discussion log pages
+online. Even better would be the incorporation of a DISQUS-style
+trackback system into the logs, so that viewers could see when a post or
+book review has been tweeted or mentioned on a blog. All of these
+changes could be made without diehard email subscribers even noticing
+them, while they would significantly aid those who wish to link to and
+continue list discussions elsewhere. At the same time, however, I think
+it’s important to note that the two episodes I’ve mentioned here
+occurred even without such features, which aren’t strictly necessary in
+order for H-Net to be plugged into the evolving online ecosystems like
+Twitter.
+
+In fact, my own advice to H-Net leaders, looking back on what has
+happened since Kelly’s original post in 2007, would be to make small
+changes but not to change too much. H-Net has certain strengths that
+argue strongly for its continued vitality well into the future. But it
+would be a mistake, I think, to decide that H-Net needs to do all the
+things that Twitter and blogs do in order to stay relevant, and a still
+greater mistake to try to replicate such services with another
+hermetically sealed set of tools. H-Net doesn’t need to be Google-Plus
+to the Facebook of blogs and Twitter; with some slight tweaking, it can
+continue to coexist and play a role in a Web that includes those
+services. Indeed, it already does.

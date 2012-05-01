@@ -1,0 +1,265 @@
+% New light on a Lincoln quote
+% W. Caleb McDaniel 
+% April 2, 2011
+
+This post was originally published on my old blog as [New light on a Lincoln quote](http://mcdaniel.blogs.rice.edu/?p=126 "Permanent Link: New light on a Lincoln quote").
+
+---
+
+In an age of word clouds, topic modeling, text mining, and infinite
+archives, it’s not surprising that many discussions about digital
+history focus on the “big” uses of things like keyword searching and
+digitized texts. For historians, access to huge archives of online text
+raises important questions about [how to read—and how not to read—a
+million
+books](http://www3.isrl.illinois.edu/~unsworth/hownot2read.html). Big
+archives also create exciting opportunities for visualization and text
+analysis like [Building the Digital
+Lincoln](http://www.journalofamericanhistory.org/projects/lincoln/media/pinsker/),
+Rob Nelson’s [Mining the
+Dispatch](http://americanpast.richmond.edu/dispatch/), and Cameron
+Blevins’ [work on Martha Ballard’s
+diary](http://historying.org/2009/08/31/text-analysis-of-martha-ballards-diary-part-1/).
+
+But with all these exciting new ventures, it’s sometimes easy to lose
+sight of the fact that simple keyword searches can still offer
+historians new insights into old sources. One of my most exciting “Aha!”
+moments (the moments researchers live for) came not along ago when I
+decided to enter a simple text string from one of Abraham Lincoln’s most
+famous speeches into the search box on ProQuest’s database of historical
+*New York Times* newspapers. I did one search, and got exactly one
+result. But that was enough to enable me to shed some new light on an
+old Lincoln quote.
+
+\
+ [The speech that Lincoln gave in Peoria,
+Illinois](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=republican%20robe;rgn=div1;view=text;idno=lincoln2;node=lincoln2:282;hi=0),
+on October 16, 1854, is significant for many reasons. It marks Lincoln’s
+return to politics at a time when he was still a little-known free-soil
+politician whose only experience in national politics had been a short
+stint in the House of Representatives. The speech detailed Lincoln’s
+opposition to the Kansas-Nebraska Act and synthesized the arguments that
+were galvanizing the new Republican Party that would ultimately vault
+Lincoln into the White House. And it contains some of Lincoln’s most
+stirring prose about the damage that slavery was doing to the country
+that he loved.
+
+At Peoria, for example, Lincoln declared that he hated the “zeal” for
+slavery’s expansion manifested by the Kansas-Nebraska Act. “I hate it
+because of the monstrous injustice of slavery itself,” Lincoln said, and
+“I hate it because it deprives our republican example of its just
+influence in the world—enables the enemies of free institutions, with
+plausibility, to taunt us as hypocrites—causes the real friends of
+freedom to doubt our sincerity.” In another of the speech’s most
+memorable lines, Lincoln warned Americans that “our republican robe is
+soiled, and trailed in the dust.”
+
+Later, in a crucial and also famous paragraph, Lincoln pressed this
+claim that slavery was injuring the influence of American republicanism
+abroad. “Already the liberal party throughout the world, express the
+apprehension ‘that the one retrograde institution in America, is
+undermining the principles of progress, and fatally violating the
+noblest political system the world ever saw.’” This was not the taunt of
+enemies, Lincoln explained, “but the warning of friends.” He therefore
+urged Americans to “readopt the Declaration of Independence,” not only
+to save the Union, but to save it in such a way “that the succeeding
+millions of free happy people, the world over, shall rise up, and call
+us blessed, to the latest generations.”
+
+Famous words, these. If you were reading that last paragraph closely,
+however, you would have noticed that some of the words Lincoln spoke at
+Peoria were not his own. There are quotation marks in the text of the
+speech which indicate that one phrase was a quotation from another
+source. The quoted text reads:
+
+> that the one retrograde institution in America, is undermining the
+> principles of progress, and fatally violating the noblest political
+> system the world ever saw
+
+I had long wondered where the quotation came from, but the existing
+secondary literature on Lincoln sheds no light on the question. The
+*Collected Works of Abraham Lincoln*, which are
+[online](http://quod.lib.umich.edu/l/lincoln/), retain the internal
+quotation marks around that phrase, but there is no annotation
+indicating its source.
+
+So one day last summer, it occurred to me to do a quick search in
+ProQuest’s database of historical newspapers to see if I could figure
+out where the quote came from. The result? After a couple of tries, I
+hit gold with a search for the quote “one retrograde institution” in all
+newspapers from 1854. I discovered that Lincoln was paraphrasing from an
+article that appeared in the *New York Times* on September 29, 1854. And
+as an added bonus, I also discovered that another famous phrase in
+Lincoln’s speech—his reference to a “liberal party throughout the
+world”—was also a paraphrased quotation.
+
+The article that contains these quotes was actually a reprint from the
+September 12 edition of the London *Daily News*, which the *Times*
+published under the headline, “Mr. Soule’s ‘Vulgar Turbulence’–George
+Sanders.” It was a long editorial complaining about the recent behavior
+of two American ambassadors in Europe, who had recently made waves with
+several brazen attempts to pressure Spain into selling slaveholding Cuba
+to the United States. First, in 1854, [Pierre
+Soulé](http://en.wikipedia.org/wiki/Pierre_Soulé) had helped author the
+provocative [Ostend
+Manifesto](http://en.wikipedia.org/wiki/Ostend_Manifesto), and he was
+accused of trying to wrangle Cuba away from Spain by exploiting the
+distractions Madrid then faced from threats of internal revolution by
+liberal reformers. Meanwhile, [George N.
+Sanders](http://en.wikipedia.org/wiki/George_Nicholas_Sanders), in
+addition to revealing some anti-republican sentiments in comments he
+made on the political condition of Switzerland, had recently denounced
+an antislavery letter published by the Italian revolutionary Giuseppe
+Mazzini. He had also attempted to persuade Lajos Kossuth, the famous
+Hungarian revolutionary living in exile in England, to issue a statement
+dissociating European revolutionaries from the antislavery cause in
+America.
+
+The appearance of proslavery diplomats like these “in any of the
+capitals of Europe,” opined the *Daily News*, “is a symptom of peril
+which all true Americans should take heed to without the loss of a
+moment.” It was a powerful point, and to drive it home, the London paper
+closed with the flourish that evidently caught Lincoln’s attention,
+whether he read it in the *New York Times* or in another source:
+
+> It will take many years of a virtuous foreign policy, and a long
+> succession of honorable envoys, to remove the apprehensions of the
+> Liberal party throughout Europe that the one retrograde institution in
+> America is undermining the principle of progress, and fatally
+> vitiating the noblest political system that the world ever saw.
+
+So there you have it. When Lincoln cited the opinion of the “liberal
+party throughout the world” at Peoria in 1854, he was echoing the
+“apprehensions” of the *Daily News* and the “Liberal party throughout
+Europe.”
+
+Knowing this illuminates several other things about the Peoria speech.
+First, it explains why Lincoln added that the opinion he quoted was not
+the taunt of enemies to the United States, “but the warning of friends.”
+As a supporter of the principle of “popular government,” said the *Daily
+News*, “we have ever been among the heartiest well-wishers of the
+Americans” and had “never suffered from those apprehensions of the
+Republic being destroyed once a year or so, which we have been
+accustomed to hear of all our lives.” Previous sectional divisions over
+slavery had never yet shaken these liberal Englishmen’s faith that “our
+self-governing cousins” would progress to full freedom. But for the
+first time, the *Daily News* now feared for the republic’s future. And
+an ocean away in Illinois, Abraham Lincoln apparently took that newfound
+fear as an ominous indication of what the zeal for slavery in the United
+States was doing to the reputation of the world’s model republic and the
+hopes of liberal reformers abroad.
+
+Second, Lincoln’s citation of the *Daily News* article provides a fuller
+context for understanding why he and other Republicans rallied to new
+action in the summer and fall of 1854. Most explanations of that shift
+have focused on outrage about the Kansas-Nebraska Act, which was what
+Lincoln focused on most explicitly in his Peoria speech. But his
+attention to the article on Sanders and Soulé reveals that Lincoln was
+also personally angered by the expansionist, proslavery foreign policy
+of Franklin Pierce’s administration and by the Cuba annexation movement
+underway at the same time. Indeed, at Peoria, Lincoln explained that one
+of the most outrageous things about the Kansas-Nebraska Act was that its
+“prospective principle,” which allowed territorial settlers to decide
+about the legality of slavery for themselves, would allow slavery “to
+spread to every other part of the wide world, where men can be found
+inclined to take it.” Though he didn’t say which parts of the wide world
+he had in mind, the *Daily News* article is good evidence that Cuba must
+have been on his mind as he spoke at Peoria.
+
+Concern about the fortunes of the “liberal party” abroad was not the
+exception for Lincoln, but the rule. And what this quotation reveals,
+finally, is that Lincoln understood himself not just as an American, but
+as a member of a broader “liberal party throughout the world.” In fact,
+only three years before Lincoln read about Sanders’s efforts to pressure
+Kossuth to disavow abolitionism, Lincoln had actually served on [a
+welcoming committee in Illinois organized to greet
+Kossuth](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=kossuth;rgn=div1;view=text;idno=lincoln2;node=lincoln2%3A183)
+on his famous 1851 tour of the United States. That fact is suggestive
+evidence of Lincoln’s long-standing interest in the fortunes of European
+revolutionaries and reformers.
+
+Also suggestive is one of the items found among [the things Lincoln was
+carrying on the night that he was
+assassinated](http://www.loc.gov/exhibits/treasures/trm012.html)
+(incidentally, a crime in which the same George N. Sanders was
+implicated). As Lincoln sat in Ford’s Theater watching a popular English
+play, there were nine newspaper clippings carefully folded in his
+leather wallet. And one of them was the report of [a speech by the
+English liberal John
+Bright](http://www.loc.gov/exhibits/treasures/images/vc50e.1c.jpg), a
+parliamentary reformer and ardent supporter of the Union cause.
+
+In the speech, Bright spoke of his support for the reelection of Lincoln
+in 1864 (which indicates Lincoln had been carrying it for some time).
+Bright’s support must have been gratifying to Lincoln, but perhaps what
+was most important to the President was Bright’s concluding paragraph:
+
+> I believe that the effect of Mr. Lincoln’s reelection in England, and
+> in Europe, and indeed throughout the world, will be this: it will
+> convince all men that the integrity of your great country will be
+> preserved, and it will show that Republican institutions, *with an
+> instructed and patriotic people*, can bear a nation safely and
+> steadily through the most desperate perils.
+
+Bright’s speech was, on the whole, more optimistic about the fortunes of
+republicanism abroad than the *Daily News* a decade earlier. But what
+both of these clippings had in common—and what evidently made an
+impression on Lincoln—was their assertion that what happened in the
+United States had a bearing on the destiny of “Republican institutions”
+in England as well as “throughout the world.” Knowing that Lincoln read
+clippings like these, we can conclude that his own powerful rhetoric was
+informed partly by his attention to what the “liberal party” was saying
+abroad.
+
+When he expressed his fear that “our republican robe is soiled,” for
+example, or his hope “the succeeding millions of free happy people, the
+world over, shall rise up, and call us blessed,” Lincoln gave voice not
+only to what most Americans liked to believe about the influence of
+their country, but also to what actual Europeans were saying at the
+time. And given this fact, it can be misleading to remember the wartime
+Lincoln as a president who only cared about “the Union” and not at all
+about “slavery,” as though Lincoln’s Unionism was a sign of
+pusillanimity instead of moral principle. He cared about the Union
+partly because he believed the “liberal party throughout the world” was
+depending on its demonstration that republican institutions were stable
+and just. And as his Peoria speech reveals, that belief was not
+separable from his concern about the “monstrous injustice” of slavery.
+
+All of these reflections, remember, were made possible by a simple
+keyword search. My discovery of the source of Lincoln’s Peoria quote was
+an incredibly easy discovery to make, thanks to the digitization of the
+newspaper that contained it. But without that digitization, the article
+Lincoln cited—buried as it was in one issue of the *New York
+TImes*—would have been incredibly difficult to discover. That may be
+why, as far as I am aware, no other historian has ever identified the
+quotation’s source, though I would be happy to learn otherwise. Even if
+it has been noticed before, the important point is that keyword
+searching was responsible for *my* finding it for my research, which is
+one of the reasons why historians should be excited by the digitization
+of primary sources.
+
+We should be excited, but we should also take an active interest in how
+that digitization is done. Six years ago, this is the sort of discovery
+that I dreamed that [the keyword
+revolution](http://modeforcaleb.blogspot.com/2005/05/keyword-revolution.html)
+would make possible. And I suspect that for most historians, the
+advantages of the method I’ve used for this post are more familiar and
+more obvious than the advantages of computer-generated search techniques
+like algorithmic text mining. But it is worth noting that whether you
+are text mining, or you are punching in a simple string of text into a
+search box to discover its source, the size of the corpus you are
+searching matters a great deal, as does the way that corpus is digitized
+and made accessible to historians. Experiences like this one remind me
+of how important it is for historians—even those who don’t define
+themselves as “digital historians”—to pay attention to issues like [the
+problems with Optical Character
+Recognition](http://www.nytimes.com/2011/03/29/science/29recaptcha.html),
+or Shane Landrum’s [caveat
+lector](http://cliotropic.org/blog/2011/03/proquest-historical-serials-caveat-lector/)
+to users of ProQuest, or Ben Schmidt’s post on [what historians don’t
+know about database
+design](http://sappingattention.blogspot.com/2011/03/what-historians-dont-know-about.html).
+You may not care a lick about Wordle or know a thing about topic
+modeling. But if you think it’s useful and interesting to learn who
+Abraham Lincoln was quoting in one of his most important speeches, these
+are issues that should matter to you. Increasingly, they matter to me.

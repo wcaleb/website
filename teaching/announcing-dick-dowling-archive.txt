@@ -1,0 +1,58 @@
+% Announcing the Dick Dowling Digital Archive
+% W. Caleb McDaniel 
+% April 5, 2012 
+
+This post was originally published on my old blog as [Announcing the Dick Dowling Digital Archive](http://mcdaniel.blogs.rice.edu/?p=210 "Permanent Link: Announcing the Dick Dowling Digital Archive"). 
+
+-----
+
+It gives me great pleasure to announce the unveiling of the Dick Dowling
+Digital Archive and the related exhibit, [Dick Dowling and Sabine Pass
+in History and
+Memory](http://exhibits.library.rice.edu/exhibits/show/dick-dowling).
+The collection and the exhibit, both proudly powered by
+[Omeka](http://www.omeka.org), were produced by myself and undergraduate
+students in Civil War history at Rice University in collaboration with
+[the Woodson Research Center](http://library.rice.edu/collections/WRC)
+at Fondren Library, the [Houston Area Digital
+Archives](http://digital.houstonlibrary.org/cdm/), and the [Humanities
+Research Center](http://hrc.rice.edu).
+
+Dick Dowling was an Irish American Houstonian most famous for his role
+in a Civil War battle fought at Sabine Pass on September 8, 1863.
+Beginning in [the Spring 2011 semester](http://hist246.blogs.rice.edu),
+Rice students in HIST 246, “The American Civil War Era,” began locating,
+scanning, describing, and writing about historical documents related to
+Dowling which were then uploaded into an Omeka collection. Students also
+produced four interpretive digital projects that also now reside in the
+collection. The Movie Group produced an introductory video ([group
+blog](http://dowlingmovie.blogs.rice.edu) and
+[video](http://exhibits.library.rice.edu/items/show/766)). The Map Group
+produced several maps with ArcGIS showing the past locations of
+Dowling’s statue in the city ([group
+blog](http://dowlingmap.blogs.rice.edu),
+[map](http://exhibits.library.rice.edu/items/show/763), and [map
+guide](http://exhibits.library.rice.edu/items/show/764)). The Timeline
+Group used [SIMILE](http://www.simile-widgets.org/timeline/) to produce
+a dynamic timeline of events ([group
+blog](http://dowlingdates.blogs.rice.edu) and
+[timeline](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/timeline)).
+And the Podcast Group created several audio tours meant to be heard at
+various Dowling-related sites in Houston ([group
+blog](http://dowlingcast.blogs.rice.edu) and [audio
+tours](http://exhibits.library.rice.edu/items/browse?search=&advanced%5B0%5D%5Belement_id%5D=50&advanced%5B0%5D%5Btype%5D=contains&advanced%5B0%5D%5Bterms%5D=Audio+Tour&range=&collection=4&type=&tags=&submit_search=Search)).
+
+Other students in the spring and [fall
+semester](http://civilwar.blogs.rice.edu) of 2011 worked to draft,
+organize, and lay out the exhibit pages for [The Afterlives of Dick
+Dowling](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling),
+the first major section of the Omeka exhibit featuring items in the Dick
+Dowling Digital Archive. Students in the fall semester also helped me to
+think through the other major section, [Slavery and the Battle of Sabine
+Pass](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass),
+which I composed in bits and pieces over the last several months.
+
+In a future blog post I hope to say more about how this project
+developed. For now, I’m happy to announce its existence and invite you
+to take a look around. Please feel free to leave comments, questions, or
+corrections here or at dowling-archive AT rice.edu.

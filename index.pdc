@@ -1,0 +1,20 @@
+I am an historian of the nineteenth-century United States at Rice University. On this site you can find my [publications][], occasional posts on my current research and teaching, and some geeky computer tricks.
+
+In the spring 2012 semester I am teaching **[HIST 423: American Radicals and Reformers](http://abolition.blogs.rice.edu)** and **[HIST 587: Methods in U.S. Cultural History](files/hist587.pdf)**. In the fall 2013 semester I will be leading a Humanities Research Center [Masterclass on Digital History](https://hrc.rice.edu/masterclasses/).
+
+I also [tweet][], [pin][], [tumble][], and [vim][].
+
+This site is powered by [pandoc][] and a bash shell script. [Here's how.](colophon.html) It's still a work in progress so please excuse the occasional broken link. All content original to this site is licensed under [CC-BY][] unless otherwise stated.
+
+[publications]: ./cv.html#publications
+[tweet]: http://twitter.com/wcaleb
+[pin]: http://pinboard.in/u:wcaleb
+[tumble]: http://clippings.tumblr.com
+[git]: http://github.com/wcaleb
+[vim]: http://www.vim.org
+[pandoc]: http://www.johnmacfarlane.net/pandoc/
+[CC-BY]: http://creativecommons.org/licenses/by-sa/3.0/
+
+## Recently posted
+
+<!--The list of recent posts is generated dynamically by the shell script that produces this site. See http://wcm1.web.rice.edu/colophon.html for more information.-->

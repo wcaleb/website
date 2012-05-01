@@ -1,0 +1,25 @@
+% Colophon
+%
+% 
+
+The background image for this website is taken from [an 1844 letter](http://archive.org/details/lettertomydearfr00webb10) by Irish abolitionist Richard Davis Webb, one of the characters in my forthcoming book. There were many abolitionists with handwriting *as* bad as Webb's, but few had handwriting that was worse--fortunately for me. 
+
+## Tools I Use
+
+* MacBook Pro running Lion
+* Terminal.app
+* [Vim](http://www.vim.org) for text editing
+* [Pandoc](http://www.johnmacfarlane.net/pandoc/) for document conversion
+* [Notational Velocity](http://notational.net) for light-duty notetaking, task management, and [Simplenote](http://simplenoteapp.com) synchronization 
+* [Mutt](http://www.mutt.org) for my email
+
+## How This Site is Built
+
+The posts and pages on this site begin as plain-text files written in Pandoc's extended version of [Markdown](http://daringfireball.net/projects/markdown). I then use the bash shell script below to turn those files into flat HTML documents that are uploaded to my server.
+
+The shell script is a much more basic version of full-featured static site generators like [Hakyll](http://jaspervdj.be/hakyll/), [Jekyll](http://jekyllrb.com), and [Hyde](http://ringce.com/hyde). I looked at some of these programs but wanted to see if I could build something lighter for myself that used Unix tools I was already familiar with. Pandoc is robust enough, for my purposes, to do most of the heavy lifting with a simple HTML template, which I've posted for reference [here](website.txt). For now, at least, this script also manages to conform to [the Hakyll philosophy](http://jaspervdj.be/hakyll/philosophy.html); not only does configuration take less than 100 lines of code, but the whole shell script is under 100 lines. I took some inspiration for it from [this page](http://sohcahtoa.org.uk/pages/publish-a-web-site-with-bash-scripts.html) and a few others.
+
+The key part of the script is the long `echo` command that comes after using pandoc to convert each post to html. This line creates a record for each post containing information fields (separated by #) that are then manipulated later in the script by `awk` to generate an RSS feed and lists of posts for the main page and each category page.
+
+I've set up the script to update the code below everytime I upload changes to this site. I have also included comments in the html source for individual pages so that interested geeks can see which parts of the site are added using pandoc's options and which are part of the Markdown files that form the main content. I'm still a shell scripting newbie, so if you see problems with the code or have suggestions about improving it, I'd be grateful if you'd let me know at <caleb.mcdaniel@rice.edu>.
+
