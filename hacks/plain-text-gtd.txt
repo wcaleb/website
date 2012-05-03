@@ -1,36 +1,32 @@
-% Plain-Text GTD with Merlin Mann's Q Trick 
+% Plain-Text GTD
 % W. Caleb McDaniel 
 % May 24, 2011 
 
-A version of this post was originally published on my old blog as [How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things](http://mcdaniel.blogs.rice.edu/?p=153 "Permanent Link: How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things"). 
+<div id="abstract">
+A version of this post was originally published on my old blog as [How
+I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as
+a Replacement for the GTD Application Things][].
+</div>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This post does just what its title says, so if terms like
-[GTD](http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719),
-[Things](http://culturedcode.com/things/), and [Notational
-Velocity](http://notational.net) mean nothing to you, you may want to
-move along: there’s nothing to see here but an excruciating display of
-plain-text nerdiness.
+This post does just what its title says, so if terms like [GTD][],
+[Things][], and [Notational Velocity][] mean nothing to you, you may
+want to move along: there’s nothing to see here but an excruciating
+display of plain-text nerdiness.
 
 But if you are looking for a way to implement the [Getting Things
-Done](http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719)
-approach to task-management on your computer without spending much (or
-any) money, if you are a devoted user of Things by Cultured Code who has
-begun to toy with alternatives that support cloud synchronization,
-and/or if you secretly thrill to [posts like this
-one](http://mnmlist.com/a-case-for-storing-all-your-info-in-text-files/),
-read on.
+Done][GTD] approach to task-management on your computer without spending
+much (or any) money, if you are a devoted user of Things by Cultured
+Code who has begun to toy with alternatives that support cloud
+synchronization, and/or if you secretly thrill to [posts like this
+one][], read on.
 
-I started using [Things](http://culturedcode.com/things/) at the same
-time I was introduced to GTD, in the Spring of 2008. I got hooked on
-Things when it was still in free beta. When version 1.0 appeared and
-quickly began winning awards, I gladly shelled out the asking price.
-Even today, I still think Things is a great program. I used it much like
-[Shawn Blanc](http://shawnblanc.net/2009/01/a-review-of-two-things/)
-used to and [Ryan
-Cordell](http://chronicle.com/blogs/profhacker/putting-the-things-in-gtd-managing-an-academic-life-with-cultured-codes-things/22908)
-does, so if you’re not familiar with the program, start there.
+I started using [Things][] at the same time I was introduced to GTD, in
+the Spring of 2008. I got hooked on Things when it was still in free
+beta. When version 1.0 appeared and quickly began winning awards, I
+gladly shelled out the asking price. Even today, I still think Things is
+a great program. I used it much like [Shawn Blanc][] used to and [Ryan
+Cordell][] does, so if you’re not familiar with the program, start
+there.
 
 I began thinking about alternatives to Things, though, when I got an
 iPod Touch, and then an iPad, and joined the legions of Cultured Code
@@ -56,14 +52,14 @@ systems, a task might be a line in a list contained in a text file. In
 my system, each of my tasks is the name of a plain text file.
 
 When I need to create a new task, here’s what I do on my Mac: I use
-[Notational Velocity](http://notational.net) to create a note whose
-title is my task. Within the note itself, I then put any associated
-information about the task: notes, hashtags, contexts, links, due dates,
-whatever. If you already use Notational Velocity, you know how fast and
-easy this process is; if you aren’t familiar with NV, it’s free, easy to
-download, and easiest to understand when you’re actually using it.
-Imagine a text editor that doubles as a Finder window and Spotlight, and
-you’ve *almost* imagined what an awesome tool NV is.
+[Notational Velocity][] to create a note whose title is my task. Within
+the note itself, I then put any associated information about the task:
+notes, hashtags, contexts, links, due dates, whatever. If you already
+use Notational Velocity, you know how fast and easy this process is; if
+you aren’t familiar with NV, it’s free, easy to download, and easiest to
+understand when you’re actually using it. Imagine a text editor that
+doubles as a Finder window and Spotlight, and you’ve *almost* imagined
+what an awesome tool NV is.
 
 I have my NV preferences set so that each note is stored as a plain text
 file in a folder called “notes,” so when I create my task as a note in
@@ -82,8 +78,7 @@ I keep lots of different kinds of notes in Notational Velocity, so I
 also need a way to distinguish “tasks” from ordinary “notes,” for the
 purpose of accessing my things to do more quickly. I do this by adding
 the two letters `qq` at the beginning of every note title that is a
-task. (Hat tip: [Merlin
-Mann](http://www.kungfugrippe.com/post/453204090/q-trick).)
+task. (Hat tip: [Merlin Mann][].)
 
 Here’s a concrete example. Let’s say I need to go to the library to pick
 up a book on hold. I create a note in NV called
@@ -218,20 +213,19 @@ ability to see all the tasks around it at a glance. Not so now.
 ### Getting Things Synced
 
 You may have noticed earlier that I keep my “notes” folder in my
-[Dropbox](http://db.tt/SXfRhdY). That means all of my tasks are
-available to me, thanks to Dropbox, on any machine or mobile device on
-which I have Dropbox installed, and also on the Web through my Dropbox
-account.
+[Dropbox][]. That means all of my tasks are available to me, thanks to
+Dropbox, on any machine or mobile device on which I have Dropbox
+installed, and also on the Web through my Dropbox account.
 
 Even better, however, is the fact that Notational Velocity can sync all
-my notes with [Simplenote](http://simplenoteapp.com/), a universal
-iPhone/iPad app that I have installed on both my iPod Touch and on my
-iPad. Simplenote is designed to look and feel like Notational Velocity,
-with two exceptions. The first line of a Simplenote note becomes the
-title of a Notational Velocity note, and vice versa. And to create a new
-note in Simplenote, I have to tap on a + button. But the search
-functionality works the same way, so I can review all my notes and
-filter them on Simplenote just like I do in NV.
+my notes with [Simplenote][], a universal iPhone/iPad app that I have
+installed on both my iPod Touch and on my iPad. Simplenote is designed
+to look and feel like Notational Velocity, with two exceptions. The
+first line of a Simplenote note becomes the title of a Notational
+Velocity note, and vice versa. And to create a new note in Simplenote, I
+have to tap on a + button. But the search functionality works the same
+way, so I can review all my notes and filter them on Simplenote just
+like I do in NV.
 
 Plus, whenever I am out and need to add a `qq`, I can create a
 Simplenote. The next time I’m online on my desktop, Notational Velocity
@@ -254,14 +248,11 @@ I could, but my objective has been to replace the functionality I liked
 about Things. For example, one of my favorite things about Things was
 how easy it was to look at a subset of my tasks while hiding all the
 rest from view. A simple list in a text file doesn’t allow that, unless
-I pay for a [new
-application](http://www.hogbaysoftware.com/products/taskpaper) with its
-own syntax or want to constantly be clicking on toggle arrows to
-collapse or expand “folded” code blocks (though I confess [this
-system](http://leafraker.com/2007/10/24/gtd-with-plain-text-files/) did
-catch my eye). In my system, I can achieve all of the views I used in
-Things, without learning someone else’s syntax or paying money for a new
-GTD app.
+I pay for a [new application][] with its own syntax or want to
+constantly be clicking on toggle arrows to collapse or expand “folded”
+code blocks (though I confess [this system][] did catch my eye). In my
+system, I can achieve all of the views I used in Things, without
+learning someone else’s syntax or paying money for a new GTD app.
 
 I’ve also found easy ways to replicate the other things that I really
 liked about Things. Take, for instance, the Quick Entry dialog box in
@@ -291,17 +282,14 @@ an email message in Mail.app and pushed control-space, I would get the
 Things Quick Entry box with a link to the email message already in my
 notes field. If I had text selected, Things would automatically also put
 that text into the notes of my new task. ([Read more about this useful
-trick in
-Things](http://culturedcode.com/things/blog/2009/08/things-12-fasten-your-keyboards.html).)
+trick in Things][].)
 
 I can do something very similar in my system, because Notational
 Velocity installs a system-wide Mac OS X service that allows you to
 create a new note in Notational Velocity using the text you have
 selected in any other program. Usually all you have to do is push
 shift-command-V while your text is selected, but you can also access the
-Services menu (aka, “[the menu you never go
-to](http://highschoolblows.blogspot.com/2005/11/mac-os-x-services-menu-you-never-go-to.html)”
-but should).
+Services menu (aka, “[the menu you never go to][]” but should).
 
 Because I sync my notes with Simplenote Premium, I also have a nifty way
 to create a task from email. Simplenote gives me a unique email address
@@ -314,13 +302,11 @@ message to my Simplenote account and change the subject to my task,
 using my `qq` syntax, adding anything else I want to note in the body of
 the email message. Presto: I have a task in Notational Velocity with the
 full text of the associated message. This trick allows my system to meet
-what [Jason B.
-Jones](http://chronicle.com/blogs/profhacker/summerproofing-your-to-do-list/33580)
-recently called an essential feature of task lists: the ability to
-create tasks from email. And it means I can also create tasks from my
-email on my iPad or my iPod touch as easily as I can on my
-laptop–something that could not be said of the Quick Entry Auto Fill
-provided by Things.
+what [Jason B. Jones][] recently called an essential feature of task
+lists: the ability to create tasks from email. And it means I can also
+create tasks from my email on my iPad or my iPod touch as easily as I
+can on my laptop–something that could not be said of the Quick Entry
+Auto Fill provided by Things.
 
 ### Qualifications
 
@@ -353,9 +339,27 @@ features, like the ability to “pin” notes to the top of my list. I also
 *love* the ability to email things to my unique Simplenote email address
 and create notes that way–a feature I haven’t found in any comparable
 app. That said, I am keeping my eyes open for apps that might allow me
-to cut free from that $20 a year. I have my eyes on
-[Notesy](http://notesy-app.com/), for example, which uses Dropbox to
-sync. A forthcoming version of
-[WriteRoom](http://groups.google.com/group/writeroomapp/browse_thread/thread/2fbac8b68643523a)
-on iOS is supposed to do the same. At that point I might have to weigh
-how much that unique email address is worth to me.
+to cut free from that $20 a year. I have my eyes on [Notesy][], for
+example, which uses Dropbox to sync. A forthcoming version of
+[WriteRoom][] on iOS is supposed to do the same. At that point I might
+have to weigh how much that unique email address is worth to me.
+
+  [How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ
+  Trick as a Replacement for the GTD Application Things]: http://mcdaniel.blogs.rice.edu/?p=153
+    "Permanent Link: How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things"
+  [GTD]: http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719
+  [Things]: http://culturedcode.com/things/
+  [Notational Velocity]: http://notational.net
+  [posts like this one]: http://mnmlist.com/a-case-for-storing-all-your-info-in-text-files/
+  [Shawn Blanc]: http://shawnblanc.net/2009/01/a-review-of-two-things/
+  [Ryan Cordell]: http://chronicle.com/blogs/profhacker/putting-the-things-in-gtd-managing-an-academic-life-with-cultured-codes-things/22908
+  [Merlin Mann]: http://www.kungfugrippe.com/post/453204090/q-trick
+  [Dropbox]: http://db.tt/SXfRhdY
+  [Simplenote]: http://simplenoteapp.com/
+  [new application]: http://www.hogbaysoftware.com/products/taskpaper
+  [this system]: http://leafraker.com/2007/10/24/gtd-with-plain-text-files/
+  [Read more about this useful trick in Things]: http://culturedcode.com/things/blog/2009/08/things-12-fasten-your-keyboards.html
+  [the menu you never go to]: http://highschoolblows.blogspot.com/2005/11/mac-os-x-services-menu-you-never-go-to.html
+  [Jason B. Jones]: http://chronicle.com/blogs/profhacker/summerproofing-your-to-do-list/33580
+  [Notesy]: http://notesy-app.com/
+  [WriteRoom]: http://groups.google.com/group/writeroomapp/browse_thread/thread/2fbac8b68643523a

@@ -2,6 +2,11 @@
 % W. Caleb McDaniel 
 % March 13, 2011 
 
+<div id="abstract">
+This page was originally posted on my old blog as [Grading with my
+iPad][].
+</div>
+
 A friend recently emailed me to ask how I feel about using my iPad to
 grade student papers. One of the main reasons why I bought an iPad when
 it came out was to help with this task; since I ride the bus and light
@@ -17,21 +22,17 @@ How I Grade with the iPad
 In order to expedite the process of grading on my iPad, I first ask
 students to submit their papers to me as digital files. As soon as I get
 a student paper, I immediately open the file, [convert the file into PDF
-using the mechanisms built into Mac OS
-X](http://www.techiecorner.com/311/how-to-convert-doc-to-pdf-in-mac-os-x/),
-change the filename to the student’s last name, and save the PDF file in
-a folder on my hard drive.
+using the mechanisms built into Mac OS X][], change the filename to the
+student’s last name, and save the PDF file in a folder on my hard drive.
 
 There are many apps one can use to annotate PDF files on the iPad. I use
-[iAnnotate](http://www.ajidev.com/iannotate/); here’s [a good overview
-of what it can
-do](http://chronicle.com/blogs/profhacker/mark-up-pdfs-on-your-ipad-iannotate-pdf).
-To grade the papers I now have saved on my laptop, I have to get them
-into iAnnotate, which I can do in several ways. For me, the quickest way
-is this: once I have all the student papers turned in, I plug the iPad
-into my laptop, open iTunes, navigate to the Apps tab on the iPad within
+[iAnnotate][]; here’s [a good overview of what it can do][]. To grade
+the papers I now have saved on my laptop, I have to get them into
+iAnnotate, which I can do in several ways. For me, the quickest way is
+this: once I have all the student papers turned in, I plug the iPad into
+my laptop, open iTunes, navigate to the Apps tab on the iPad within
 iTunes, and then [drag-and-drop the files from my hard-drive directly
-into iAnnotate](http://www.ajidev.com/iannotate/support/itunes.html).
+into iAnnotate][].
 
 Now that all the student papers are on my iPad and in iAnnotate, when
 I’m ready to grade, I open each file and read away. iAnnotate gives me
@@ -39,27 +40,25 @@ lots of options for leaving comments on the papers, but I only really
 use a few. (1) I can easily highlight or underline text. (2) I can draw
 freehand–for example, I can circle a word and write “WC” in the margin
 for word choice, or I can write a grade at the bottom of the file. (I
-use [a Pogo Sketch stylus](http://tenonedesign.com/sketch.php) to make
-writing on the iPad easier.) And most of all, (3) I can insert a text
-box anywhere on the PDF, and then use the iPad’s keyboard to type in
-comments to the student. This is my preferred way to leave lengthy
-comments, for reasons I’ll discuss in a moment. iAnnotate saves all of
-these annotations into the file, so that when the file is later viewed
-on a computer using Preview for Mac or Adobe Reader, all the annotations
-will be embedded in the file.
+use [a Pogo Sketch stylus][] to make writing on the iPad easier.) And
+most of all, (3) I can insert a text box anywhere on the PDF, and then
+use the iPad’s keyboard to type in comments to the student. This is my
+preferred way to leave lengthy comments, for reasons I’ll discuss in a
+moment. iAnnotate saves all of these annotations into the file, so that
+when the file is later viewed on a computer using Preview for Mac or
+Adobe Reader, all the annotations will be embedded in the file.
 
 When I’m finished with the paper, I can get it off the iPad in a couple
 of ways. I can use [an option in iAnnotate which allows me to email the
 file as an attachment along with a summary of all of the annotations I
-have made](http://www.ajidev.com/iannotate/support/annotSummary.html).
-This is very useful because all of the text comments I have made will
-now be summarized in the body of the email, along with a note indicating
-which page the comment is on. (I have set up the iPad to use my
-university email account.) If I have underlined anything in the file or
-drawn free hand, the summary will also indicate that there is a drawing
-on these pages. Eventually the student gets back the PDF file, which has
-the embedded annotations, and the summary of all the text comments
-produced automatically by iAnnotate.
+have made][]. This is very useful because all of the text comments I
+have made will now be summarized in the body of the email, along with a
+note indicating which page the comment is on. (I have set up the iPad to
+use my university email account.) If I have underlined anything in the
+file or drawn free hand, the summary will also indicate that there is a
+drawing on these pages. Eventually the student gets back the PDF file,
+which has the embedded annotations, and the summary of all the text
+comments produced automatically by iAnnotate.
 
 That’s the basic workflow I use to grade on the iPad. It does introduce
 a few more steps to the process that the old pen-and-paper method
@@ -67,21 +66,21 @@ doesn’t have. But the process isn’t too onerous and in a moment I’ll
 discuss some advantages of this method. Before I do that, let me explain
 one further step I’ve added to the workflow that does make it a bit more
 onerous. I usually distribute a grading rubric to students explaining
-how I will evaluate their position papers. ([Here’s an
-example.](files/2011/03/Position-Paper-Rubric.pdf)) I have always found
-it useful to mark directly on this rubric. To do this with the iPad, I
-have a PDF file of a blank rubric in iAnnotate. With each student, I
-duplicate that file within iAnnotate, and then I can use the free-hand
-drawing to highlight parts of the rubric and circle scores. The trouble
-is that now I have a second file I need to get off the iPad, and it’s
-not easy to quickly associate the rubric files with the paper files (for
-example, by attaching both to the same email). I solve this by going
-back into iTunes, with my iPad attached, and then downloading the rubric
-files to my hard drive, glancing at them using the file preview function
-on the Mac, and renaming them according to the students’ last names. The
-added burden is mainly my choice because of the way I use the rubrics,
-but I am currently looking for a way to simplify this part of the
-workflow. [**UPDATE:** See the comments for some good suggestions.]
+how I will evaluate their position papers. ([Here’s an example.][]) I
+have always found it useful to mark directly on this rubric. To do this
+with the iPad, I have a PDF file of a blank rubric in iAnnotate. With
+each student, I duplicate that file within iAnnotate, and then I can use
+the free-hand drawing to highlight parts of the rubric and circle
+scores. The trouble is that now I have a second file I need to get off
+the iPad, and it’s not easy to quickly associate the rubric files with
+the paper files (for example, by attaching both to the same email). I
+solve this by going back into iTunes, with my iPad attached, and then
+downloading the rubric files to my hard drive, glancing at them using
+the file preview function on the Mac, and renaming them according to the
+students’ last names. The added burden is mainly my choice because of
+the way I use the rubrics, but I am currently looking for a way to
+simplify this part of the workflow. [**UPDATE:** See the comments for
+some good suggestions.]
 
 Why I Grade with the iPad
 -------------------------
@@ -113,13 +112,11 @@ piece of paper. It’s true that typing into a text box on an iPad takes a
 little getting used to, especially compared to writing in the margins of
 a sheet of 8.5 x 11 piece of paper, the good old-fashioned way. But as a
 grader, I believe very strongly in the principle of “[minimal
-marking](http://www-rohan.sdsu.edu/~digger/609/haswell.html)” as
-described by Richard Haswell, especially since the research shows that
-correcting every single error or commenting on every point in a student
-draft quickly shows diminishing returns. More marking is sometimes less
-when it comes to what students can absorb, as [Claire
-Potter](http://tenured-radical.blogspot.com/2011/01/if-student-essay-falls-over-in-woods.html)
-recently observed:
+marking][]” as described by Richard Haswell, especially since the
+research shows that correcting every single error or commenting on every
+point in a student draft quickly shows diminishing returns. More marking
+is sometimes less when it comes to what students can absorb, as [Claire
+Potter][] recently observed:
 
 > Do you write lots and lots of marginal notes on the paper, spending
 > hours correcting everything and re-diagramming their sentences? The
@@ -135,20 +132,18 @@ recently observed:
 > gone about writing such a paper.
 
 To be sure, [commenting on writing is a complex task in which general
-rules are
-dangerous](http://wac.colostate.edu/atd/articles/haswell2006.cfm). (And
-the warnings in that last linked article about the siren song of
-computerized grading are worth heeding here.) Nonetheless, I find that
-using iAnnotate focuses my attention on the question of whether this
-particular comment I’m about to make is the one I want the student to
-concentrate on. Especially at the end of a long grading session, it’s
-all too easy, with a piece of paper and a red pen, to scribble down
-comments or corrections to grammar without even thinking, in holistic
-terms, about what the cumulative effect of these particular markings
-will be on this particular student. When I’m working on the iPad, the
-parts of the process that feel less natural than pen-and-paper slow the
-gears enough to make me more conscious of what I’m saying in my
-annotations.
+rules are dangerous][]. (And the warnings in that last linked article
+about the siren song of computerized grading are worth heeding here.)
+Nonetheless, I find that using iAnnotate focuses my attention on the
+question of whether this particular comment I’m about to make is the one
+I want the student to concentrate on. Especially at the end of a long
+grading session, it’s all too easy, with a piece of paper and a red pen,
+to scribble down comments or corrections to grammar without even
+thinking, in holistic terms, about what the cumulative effect of these
+particular markings will be on this particular student. When I’m working
+on the iPad, the parts of the process that feel less natural than
+pen-and-paper slow the gears enough to make me more conscious of what
+I’m saying in my annotations.
 
 Indeed, one of the advantages of grading on an iPad that I didn’t fully
 anticipate is how easy it is to *delete* annotations. While I’m reading
@@ -170,3 +165,18 @@ will have to decide. For me, however, this method has not only made life
 easier on my back, but also has proved to be a method that functions
 well and complements by pedagogical beliefs as a grader. If you do
 something similar, please share your experiences as well!
+
+  [Grading with my iPad]: http://mcdaniel.blogs.rice.edu/?p=113
+  [convert the file into PDF using the mechanisms built into Mac OS X]: http://www.techiecorner.com/311/how-to-convert-doc-to-pdf-in-mac-os-x/
+  [iAnnotate]: http://www.ajidev.com/iannotate/
+  [a good overview of what it can do]: http://chronicle.com/blogs/profhacker/mark-up-pdfs-on-your-ipad-iannotate-pdf
+  [drag-and-drop the files from my hard-drive directly into iAnnotate]: http://www.ajidev.com/iannotate/support/itunes.html
+  [a Pogo Sketch stylus]: http://tenonedesign.com/sketch.php
+  [an option in iAnnotate which allows me to email the file as an
+  attachment along with a summary of all of the annotations I have
+  made]: http://www.ajidev.com/iannotate/support/annotSummary.html
+  [Here’s an example.]: files/2011/03/Position-Paper-Rubric.pdf
+  [minimal marking]: http://www-rohan.sdsu.edu/~digger/609/haswell.html
+  [Claire Potter]: http://tenured-radical.blogspot.com/2011/01/if-student-essay-falls-over-in-woods.html
+  [commenting on writing is a complex task in which general rules are
+  dangerous]: http://wac.colostate.edu/atd/articles/haswell2006.cfm

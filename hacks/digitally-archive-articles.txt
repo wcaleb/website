@@ -2,24 +2,21 @@
 % W. Caleb McDaniel 
 % September 20, 2010 
 
-This post was originally published on my blog as [Post the Fourth, In Which I Digitally Archive Some Articles](http://mcdaniel.blogs.rice.edu/?p=75 "Permanent Link: Post the Fourth, In Which I Digitally Archive Some Articles"). 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div id="abstract">
+This post was originally published on my blog as [Post the Fourth, In
+Which I Digitally Archive Some Articles][].
+</div>
 
 Several months ago, I learned about Rice University’s [Digital
-Scholarship Archive](http://scholarship.rice.edu/), an institutional
-repository where faculty members can store and share published and
-unpublished work online. Many universities now have such repositories,
-including the [University of
-Michigan](http://deepblue.lib.umich.edu/handle/2027.42/55467/browse?type=dateissued&submit_browse=By+Date),
-[Johns Hopkins](https://jscholarship.library.jhu.edu/), and others. But
-as Shane Landrum
-([@cliotropic](http://twitter.com/cliotropic/status/21352071993))
-recently suggested, I’m not sure history faculty are widely aware of
-these repositories. I know that without a tip from the great Lisa Spiro
-([@lisaspiro](http://twitter.com/lisaspiro)), I might not have learned
-of Rice’s DSA at all. But I’m glad I did, and here’s why and how I’ve
-posted some of my published work to the repository.
+Scholarship Archive][], an institutional repository where faculty
+members can store and share published and unpublished work online. Many
+universities now have such repositories, including the [University of
+Michigan][], [Johns Hopkins][], and others. But as Shane Landrum
+([@cliotropic][]) recently suggested, I’m not sure history faculty are
+widely aware of these repositories. I know that without a tip from the
+great Lisa Spiro ([@lisaspiro][]), I might not have learned of Rice’s
+DSA at all. But I’m glad I did, and here’s why and how I’ve posted some
+of my published work to the repository.
 
 For me the advantages of putting my work online in this way are clear.
 One benefit is curatorial. By putting my work here I can be sure that
@@ -31,40 +28,37 @@ to use them can rely on a working link.
 
 But the greatest benefit here is that I can provide more open access to
 many of my publications, which otherwise would hide in subscription-only
-databases like [JSTOR](http://www.jstor.org) and [Project
-Muse](http://muse.jhu.edu). I can also provide copies of unpublished
-work like conference papers. Indeed, once deposited on the repository,
-such papers no longer become “unpublished” work. And this means that the
-work and research put into conference papers can be shared widely. I can
-solicit feedback and critiques of the works long after a conference has
-closed while simultaneously ensuring that my authorship is documented
-and in the public record.
+databases like [JSTOR][] and [Project Muse][]. I can also provide copies
+of unpublished work like conference papers. Indeed, once deposited on
+the repository, such papers no longer become “unpublished” work. And
+this means that the work and research put into conference papers can be
+shared widely. I can solicit feedback and critiques of the works long
+after a conference has closed while simultaneously ensuring that my
+authorship is documented and in the public record.
 
 That’s why I’ve decided to make use of the DSA. And here’s how I did it.
 
 The process of putting my conference papers online was [straightforward
-enough once I received an account on the
-repository](https://owlspace-ccm.rice.edu/access/wiki/site/91656f53-9adf-45c4-000e-b5072d163d17/faq.html#howto).
-(To read these instructions, Rice faculty will need to log in.) I didn’t
-need to ask anyone’s permission to publish those. But in order to find
-out which published journal articles I have the right to put online, I
-had to do a very modest amount of additional investigation.
+enough once I received an account on the repository][]. (To read these
+instructions, Rice faculty will need to log in.) I didn’t need to ask
+anyone’s permission to publish those. But in order to find out which
+published journal articles I have the right to put online, I had to do a
+very modest amount of additional investigation.
 
-First, I browsed over to [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/).
-This is basically an online database of publishers’ policies concerning
-reproduction and copyright; it’s as easy as typing in a journal’s name
-to find out where its publisher stands on the digital archiving of
-articles. You can use [SHERPA’s “color coded”
-key](http://www.sherpa.ac.uk/romeoinfo.html#colours) to get a quick
-sense of what rights a particular publisher gives to an author, but it’s
-best to closely read the restrictions each journal places on archiving
-or, better yet, to click through any link that is provided to the
-press’s own policy page. Some publishers allow the archiving of an
-author’s pre-print or post-print version of an article (i.e., a
-Microsoft Word or PDF version of the submitted manuscript), while others
-allow the archiving of an actual PDF file of the published article, with
-the copy-editing and formatting done by the press. And various journals
-attach restrictions to these permissions.
+First, I browsed over to [SHERPA/RoMEO][]. This is basically an online
+database of publishers’ policies concerning reproduction and copyright;
+it’s as easy as typing in a journal’s name to find out where its
+publisher stands on the digital archiving of articles. You can use
+[SHERPA’s “color coded” key][] to get a quick sense of what rights a
+particular publisher gives to an author, but it’s best to closely read
+the restrictions each journal places on archiving or, better yet, to
+click through any link that is provided to the press’s own policy page.
+Some publishers allow the archiving of an author’s pre-print or
+post-print version of an article (i.e., a Microsoft Word or PDF version
+of the submitted manuscript), while others allow the archiving of an
+actual PDF file of the published article, with the copy-editing and
+formatting done by the press. And various journals attach restrictions
+to these permissions.
 
 For example, by searching for the *Journal of the Early Republic* on
 RoMEO, I learned that I could put the Publisher’s Version/PDF of an
@@ -72,11 +66,9 @@ article in Rice’s DSA, so long as I waited until 12 months after the
 article appeared and so long as I honored the Press’s request to credit
 them for the original publication. By clicking through the link provided
 to the University of Pennsylvania Press’s [own page on its archive
-policies](http://www.upenn.edu/pennpress/about/archivepolicy.html), I
-also found a set copyright notice that I was required to attach to the
-archived work. ([Click
-here](http://mcdaniel.blogs.rice.edu/files/2010/09/sherparomeo.jpg) to
-see an image of what this actually looked like on RoMEO.)
+policies][], I also found a set copyright notice that I was required to
+attach to the archived work. ([Click here][] to see an image of what
+this actually looked like on RoMEO.)
 
 I also learned that another article I published in *American Quarterly*
 could probably be put up, but that I should contact the publisher to
@@ -86,9 +78,8 @@ confirm RoMEO’s results by emailing even those publishers who don’t
 require an email, so I also wrote the JER to make sure I was reading the
 policy correctly. I easily found the relevant email addresses on both
 journals’ homepages, and it was also reassuring that [the JER’s
-homepage](http://jer.pennpress.org/strands/jer/home.htm) contained a
-link to the same Press policies on “Self-Archiving and Digital
-Repositories” linked to by RoMEO.
+homepage][] contained a link to the same Press policies on
+“Self-Archiving and Digital Repositories” linked to by RoMEO.
 
 In short, faculty interested in using Rice’s repository should not
 regard difficulty of use as a barrier; the couple of questions I had
@@ -104,37 +95,58 @@ Published, Peer-Reviewed Articles:
 
 “Repealing Unions: American Abolitionists, Irish Repeal, and the Origins
 of Garrisonian Disunionism,” *Journal of the Early Republic* 28, no. 2
-(2008), 243-269
-([download](http://scholarship.rice.edu/handle/1911/27612))
+(2008), 243-269 ([download][])
 
 “The Fourth and the First: Abolitionist Holidays, Respectability, and
 Radical Interracial Reform,” *American Quarterly* 57, no. 1 (2005),
-129-151 ([download](http://scholarship.rice.edu/handle/1911/27613))
+129-151 ([download][1])
 
 My Dissertation:
 
 “Our Country is the World: Radical American Abolitionists Abroad,” Ph.D
-diss., Johns Hopkins University, 2006
-([download](http://scholarship.rice.edu/handle/1911/27492))
+diss., Johns Hopkins University, 2006 ([download][2])
 
 Conference Papers:
 
 “What Counts as Radical Abolitionism? A Reconsideration of Recent
-Scholarship,” [OAH](http://www.oah.org) Annual Meeting, Seattle, March
-26-28, 2009 ([download](http://scholarship.rice.edu/handle/1911/27611))
+Scholarship,” [OAH][] Annual Meeting, Seattle, March 26-28, 2009
+([download][3])
 
 “Repealing Unions: American Abolitionists, Irish Repealers, and the
-Coming of the Civil War, 1842-1847,” [AHA](http://www.historians.org)
-Annual Meeting, Philadelphia, January 5-8, 2006
-([download](http://scholarship.rice.edu/handle/1911/27608))
+Coming of the Civil War, 1842-1847,” [AHA][] Annual Meeting,
+Philadelphia, January 5-8, 2006 ([download][4])
 
 “Our Country is the World: American Abolitionists, Louis Kossuth and
-Philanthropic Revolutions,” [OAH](http://www.oah.org) Annual Meeting,
-Boston, March 25-28, 2004
-([download](http://scholarship.rice.edu/handle/1911/27609))
+Philanthropic Revolutions,” [OAH][] Annual Meeting, Boston, March 25-28,
+2004 ([download][5])
 
 “Haiti’s Usable Past: Violence, Anglophilia, and Antebellum American
-Abolitionists,” [OIEAHC](http://oieahc.wm.edu/) Ninth Annual Conference,
-New Orleans, June 6-8, 2003
-([download](http://scholarship.rice.edu/handle/1911/27610))
+Abolitionists,” [OIEAHC][] Ninth Annual Conference, New Orleans, June
+6-8, 2003 ([download][6])
 
+  [Post the Fourth, In Which I Digitally Archive Some Articles]: http://mcdaniel.blogs.rice.edu/?p=75
+    "Permanent Link: Post the Fourth, In Which I Digitally Archive Some Articles"
+  [Digital Scholarship Archive]: http://scholarship.rice.edu/
+  [University of Michigan]: http://deepblue.lib.umich.edu/handle/2027.42/55467/browse?type=dateissued&submit_browse=By+Date
+  [Johns Hopkins]: https://jscholarship.library.jhu.edu/
+  [@cliotropic]: http://twitter.com/cliotropic/status/21352071993
+  [@lisaspiro]: http://twitter.com/lisaspiro
+  [JSTOR]: http://www.jstor.org
+  [Project Muse]: http://muse.jhu.edu
+  [straightforward enough once I received an account on the repository]:
+    https://owlspace-ccm.rice.edu/access/wiki/site/91656f53-9adf-45c4-000e-b5072d163d17/faq.html#howto
+  [SHERPA/RoMEO]: http://www.sherpa.ac.uk/romeo/
+  [SHERPA’s “color coded” key]: http://www.sherpa.ac.uk/romeoinfo.html#colours
+  [own page on its archive policies]: http://www.upenn.edu/pennpress/about/archivepolicy.html
+  [Click here]: http://mcdaniel.blogs.rice.edu/files/2010/09/sherparomeo.jpg
+  [the JER’s homepage]: http://jer.pennpress.org/strands/jer/home.htm
+  [download]: http://scholarship.rice.edu/handle/1911/27612
+  [1]: http://scholarship.rice.edu/handle/1911/27613
+  [2]: http://scholarship.rice.edu/handle/1911/27492
+  [OAH]: http://www.oah.org
+  [3]: http://scholarship.rice.edu/handle/1911/27611
+  [AHA]: http://www.historians.org
+  [4]: http://scholarship.rice.edu/handle/1911/27608
+  [5]: http://scholarship.rice.edu/handle/1911/27609
+  [OIEAHC]: http://oieahc.wm.edu/
+  [6]: http://scholarship.rice.edu/handle/1911/27610

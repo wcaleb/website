@@ -2,35 +2,31 @@
 % W. Caleb McDaniel 
 % October 1, 2011 
 
-This post was originally published on my old blog as [Applescript and Notational Velocity](http://mcdaniel.blogs.rice.edu/?p=175 "Permanent Link: Applescript and Notational Velocity"). 
-
-----------------------------------------------------------------------------------------------------------------------------------
+<div id="abstract">
+This post was originally published on my old blog as [Applescript and
+Notational Velocity][].
+</div>
 
 In an earlier post, I explained [how I use plain text files and
-Notational Velocity as a task-management
-alternative](http://mcdaniel.blogs.rice.edu/?p=153) to the GTD program
-[Things](http://culturedcode.com/things/). Towards the end of that post,
-I also hinted that I have been able to automate parts of my system by
-using some Applescript and Automator tricks. Most of these tricks depend
-on using an apparently little-known feature of Notational Velocity,
-which is the ability to perform the “search” command on your notes using
-Applescript.
+Notational Velocity as a task-management alternative][] to the GTD
+program [Things][]. Towards the end of that post, I also hinted that I
+have been able to automate parts of my system by using some Applescript
+and Automator tricks. Most of these tricks depend on using an apparently
+little-known feature of Notational Velocity, which is the ability to
+perform the “search” command on your notes using Applescript.
 
-As [Notational Velocity](http://notational.net/) users know, what makes
-the program unique is the fact that most of its functions begin in the
-“search” bar. If you want to create a note, you go to the search bar,
-begin typing the title of your new note, and click enter to create it.
-If you want to open an existing note, you also go to the search bar and
-begin entering the text that you want to find.
+As [Notational Velocity][] users know, what makes the program unique is
+the fact that most of its functions begin in the “search” bar. If you
+want to create a note, you go to the search bar, begin typing the title
+of your new note, and click enter to create it. If you want to open an
+existing note, you also go to the search bar and begin entering the text
+that you want to find.
 
-With the release of [Version
-2.0β4](http://notational.net/releasenotes/release2/) at the beginning of
-2011, however, it became possible to “search” for text strings in NV
-using Applescript. (If you are new to Applescript, check out [the
-Ultimate Beginner’s
-Guide](http://mac.appstorm.net/how-to/applescript/the-ultimate-beginners-guide-to-applescript/).)
-This makes it relatively simple to write an Applescript that will create
-a new note in Notational Velocity, like this:
+With the release of [Version 2.0β4][] at the beginning of 2011, however,
+it became possible to “search” for text strings in NV using Applescript.
+(If you are new to Applescript, check out [the Ultimate Beginner’s
+Guide][].) This makes it relatively simple to write an Applescript that
+will create a new note in Notational Velocity, like this:
 
         tell application "Notational Velocity"
             activate
@@ -65,48 +61,43 @@ with that text.
 
 Nonetheless, this script has been useful in helping me to automate parts
 of my previously-described GTD system. Here’s an example: in a previous
-post, I explained [how and why I use my iPad to grade student
-papers](http://mcdaniel.blogs.rice.edu/?p=113). I also use my iPad to
-annotate other documents that need feedback from me. So when I receive a
-paper to grade or a document to annotate, there are two things I need to
-do: (a) get the file to my iPad for annotation; (b) add a “to do” (or a
-`qq`, using [the syntax I explained
-before](http://mcdaniel.blogs.rice.edu/?p=153)) to Notational Velocity
-so I’ll remember that I need to read the file. To accomplish both of
-these tasks at once, I use an Automator workflow that incorporates a
-beefed-up version of the simple script above.
+post, I explained [how and why I use my iPad to grade student papers][].
+I also use my iPad to annotate other documents that need feedback from
+me. So when I receive a paper to grade or a document to annotate, there
+are two things I need to do: (a) get the file to my iPad for annotation;
+(b) add a “to do” (or a `qq`, using [the syntax I explained before][how
+I use plain text files and Notational Velocity as a task-management
+alternative]) to Notational Velocity so I’ll remember that I need to
+read the file. To accomplish both of these tasks at once, I use an
+Automator workflow that incorporates a beefed-up version of the simple
+script above.
 
 Before showing you the workflow, however, I should also explain why I
-now prefer to use
-[GoodReader](http://www.goodiware.com/goodreader.html), rather than
-[iAnnotate](http://www.ajidev.com/iannotate/), for most of the
-annotation that I do on my iPad.
+now prefer to use [GoodReader][], rather than [iAnnotate][], for most of
+the annotation that I do on my iPad.
 
 ### GoodReader versus iAnnotate
 
 When I wrote my earlier post on grading with my iPad, I was using
-[iAnnotate](http://www.ajidev.com/iannotate/), and sometimes I still do.
-But I’ve switched to
-[GoodReader](http://www.goodiware.com/goodreader.html) for annotating
-most PDFs, in large part because the process of syncing files to my iPad
-is easier and more intuitive. Since I wrote my earlier post, GoodReader
-has also added a full slate of annotation tools that compares nicely
-with iAnnotate and even adds some features that work better, in my view.
+[iAnnotate][], and sometimes I still do. But I’ve switched to
+[GoodReader][] for annotating most PDFs, in large part because the
+process of syncing files to my iPad is easier and more intuitive. Since
+I wrote my earlier post, GoodReader has also added a full slate of
+annotation tools that compares nicely with iAnnotate and even adds some
+features that work better, in my view.
 
 I learned about GoodReader’s killer syncing capabilities from [this
-episode of Mac Power
-Users](http://macpowerusers.com/2011/04/mpu-048-goodreader/), which also
-discusses lots of other features peculiar to GoodReader. The most
-important payoff is this: GoodReader allows me to [keep particular
-folders in my Dropbox automatically
-synchronized](http://www.goodiware.com/gr-man-tr-servers.html#sync)
-between my iPad and my desktop. For example, I have a folder in my
-[Dropbox](http://db.tt/SXfRhdY) called “annotate.” I have set up
-GoodReader so that this folder is synchronized on my iPad. So whenever I
-add a file on my laptop to the “annotate” folder, I can get this file on
-my iPad just by tapping the “Sync” button in GoodReader. Then, when I
-annotate the file on my iPad, I just tap “Sync” again, and the marked-up
-file will appear in my Dropbox and on my laptop. Nifty, no?
+episode of Mac Power Users][], which also discusses lots of other
+features peculiar to GoodReader. The most important payoff is this:
+GoodReader allows me to [keep particular folders in my Dropbox
+automatically synchronized][] between my iPad and my desktop. For
+example, I have a folder in my [Dropbox][] called “annotate.” I have set
+up GoodReader so that this folder is synchronized on my iPad. So
+whenever I add a file on my laptop to the “annotate” folder, I can get
+this file on my iPad just by tapping the “Sync” button in GoodReader.
+Then, when I annotate the file on my iPad, I just tap “Sync” again, and
+the marked-up file will appear in my Dropbox and on my laptop. Nifty,
+no?
 
 ### An example workflow
 
@@ -115,13 +106,12 @@ Now that I’m using GoodReader, Step A of the workflow I described above
 “annotate” folder so that it can be synchronized to GoodReader later.
 The next step in my workflow is then to add a `qq` note in Notational
 Velocity that tells me to read the file. To do both, I use Automator.
-(If you’re new to Automator, here’s [an
-introduction](http://mac.appstorm.net/how-to/applescript/automator-the-ultimate-automation-assistant/).)
+(If you’re new to Automator, here’s [an introduction][].)
 
 To see what my Automator workflow looks like, click on the image below
 to enlarge.
 
-[![image](http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotate-300x291.jpg "ToAnnotate")](http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotate.jpg)
+[![image][]][]
 
 The first step in this workflow moves the file in question to my
 annotate folder, so that it’s ready to be accessed on my iPad via
@@ -140,30 +130,50 @@ have a separate Automator workflow with an extra step at the beginning
 that turns Word documents into PDF files. Click the image below to see
 what I mean.
 
-[![image](http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotateWord-300x191.jpg "ToAnnotateWord")](http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotateWord.jpg)
+[![image][1]][]
 
 To make a (potentially even longer) story short, I have saved these
 Automator workflows as plug-ins for Finder. (I am still using Mac OS
 10.5.8, and Automator underwent some significant changes in Snow
 Leopard, including the elimination of “plug-ins” in favor of [something
-similar called
-Services](http://gigaom.com/apple/quick-tip-automator-and-services-in-snow-leopard/))
-So when I have a file in my Finder that I want to annotate in
-GoodReader, I basically right-click on the file, navigate to my “To
-Annotate” workflow, click on it, and voila: the file is moved to my
-annotate folder, and a new task is created reminding me to read the
-file. I’ll see that task next time I do my GTD review.
+similar called Services][]) So when I have a file in my Finder that I
+want to annotate in GoodReader, I basically right-click on the file,
+navigate to my “To Annotate” workflow, click on it, and voila: the file
+is moved to my annotate folder, and a new task is created reminding me
+to read the file. I’ll see that task next time I do my GTD review.
 
 That’s just one example of the kinds of automation I can add into my
 plain-text GTD system, and it’s certainly the one I use the most. But
 since [you can schedule Applescripts to run on particular dates in
-iCal](http://www.tuaw.com/2008/04/14/mac-101-schedule-your-scripts/),
-it’s also easy to imagine how you could use a simple Notational Velocity
-Applescript and iCal to simulate the process of automatically creating
-scheduled or repeating tasks in
-[Things](http://culturedcode.com/things/). But that is a post for
-another day.
+iCal][], it’s also easy to imagine how you could use a simple Notational
+Velocity Applescript and iCal to simulate the process of automatically
+creating scheduled or repeating tasks in [Things][]. But that is a post
+for another day.
 
 **UPDATE:** I’ve since figured out how to do this particular workflow
 much more efficiently using a shell script and the command line. Still,
 the Applescript functionality of NV might be useful for other workflows.
+
+  [Applescript and Notational Velocity]: http://mcdaniel.blogs.rice.edu/?p=175
+    "Permanent Link: Applescript and Notational Velocity"
+  [how I use plain text files and Notational Velocity as a
+  task-management alternative]: http://mcdaniel.blogs.rice.edu/?p=153
+  [Things]: http://culturedcode.com/things/
+  [Notational Velocity]: http://notational.net/
+  [Version 2.0β4]: http://notational.net/releasenotes/release2/
+  [the Ultimate Beginner’s Guide]: http://mac.appstorm.net/how-to/applescript/the-ultimate-beginners-guide-to-applescript/
+  [how and why I use my iPad to grade student papers]: http://mcdaniel.blogs.rice.edu/?p=113
+  [GoodReader]: http://www.goodiware.com/goodreader.html
+  [iAnnotate]: http://www.ajidev.com/iannotate/
+  [this episode of Mac Power Users]: http://macpowerusers.com/2011/04/mpu-048-goodreader/
+  [keep particular folders in my Dropbox automatically synchronized]: http://www.goodiware.com/gr-man-tr-servers.html#sync
+  [Dropbox]: http://db.tt/SXfRhdY
+  [an introduction]: http://mac.appstorm.net/how-to/applescript/automator-the-ultimate-automation-assistant/
+  [image]: http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotate-300x291.jpg
+    "ToAnnotate"
+  [![image][]]: http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotate.jpg
+  [1]: http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotateWord-300x191.jpg
+    "ToAnnotateWord"
+  [![image][1]]: http://mcdaniel.blogs.rice.edu/files/2011/10/ToAnnotateWord.jpg
+  [something similar called Services]: http://gigaom.com/apple/quick-tip-automator-and-services-in-snow-leopard/
+  [you can schedule Applescripts to run on particular dates in iCal]: http://www.tuaw.com/2008/04/14/mac-101-schedule-your-scripts/

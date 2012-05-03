@@ -2,27 +2,24 @@
 % W. Caleb McDaniel 
 % January 13, 2012 
 
-This post was originally published on my old blog as [Methods in U.S. Cultural History](http://mcdaniel.blogs.rice.edu/?p=195 "Permanent Link: Methods in U.S. Cultural History").
-
-----------------------------------------------------------------------------------------------------------------------------
+<div id="abstract">
+This post was originally published on my old blog as [Methods in U.S.
+Cultural History][].
+</div>
 
 Today I started teaching my semester-long graduate seminar, HIST 587:
-Methods in U.S. Cultural History. The
-[syllabus](http://caleb.mcdaniel.web.rice.edu/pdf/hist587syllabus.pdf) I
-will be using is very similar to the one I used in the [Fall
-2009](http://caleb.mcdaniel.web.rice.edu/pdf/hist587.pdf) semester, in
-that the major objective will be to produce a draft of an article-length
+Methods in U.S. Cultural History. The [syllabus][] I will be using is
+very similar to the one I used in the [Fall 2009][] semester, in that
+the major objective will be to produce a draft of an article-length
 essay based on original research. But I am also going to be trying at
 least two new things this time around.
 
 First, I am planning to share extensive early drafts and notes from my
 first graduate school research paper, which ultimately became (after
-*much* revision) my [first published
-article](http://scholarship.rice.edu/handle/1911/27613). My plan is to
-let students in the course see the often messy and gradual process by
-which an article is made, a process that can unfortunately be obscured
-by the more finished products that graduate students are used to
-reading.
+*much* revision) my [first published article][]. My plan is to let
+students in the course see the often messy and gradual process by which
+an article is made, a process that can unfortunately be obscured by the
+more finished products that graduate students are used to reading.
 
 My reason for picking my own article to pick apart in class is *not*
 because I think the process that produced it was exemplary. On the
@@ -35,16 +32,15 @@ reports I received recommending rejection of an earlier draft of this
 article, submitted to a different journal.
 
 I have to say I’m making these decision with some hesitance; in an
-advice essay that I respect a lot, [Phil
-Agre](http://vlsicad.ucsd.edu/Research/Advice/network.html#section10)
-explicitly urges advisors to resist the temptation to talk about
-themselves. But my thinking is this: as even Agre acknowledges, when
-people offer advice about methods, how to do research, how to get
-something published, usually they *are* referring implicitly to their
-own experiences and particular choices, even when they don’t say so
-explicitly or realize it consciously. I’m hoping that sharing my own
-experience will make overt and transparent the particular stories and
-choices I would be drawing on anyway in teaching a methods class.
+advice essay that I respect a lot, [Phil Agre][] explicitly urges
+advisors to resist the temptation to talk about themselves. But my
+thinking is this: as even Agre acknowledges, when people offer advice
+about methods, how to do research, how to get something published,
+usually they *are* referring implicitly to their own experiences and
+particular choices, even when they don’t say so explicitly or realize it
+consciously. I’m hoping that sharing my own experience will make overt
+and transparent the particular stories and choices I would be drawing on
+anyway in teaching a methods class.
 
 That transparency will hopefully communicate that my own decisions and
 methods are only some of the many possible ones; to reinforce that
@@ -57,46 +53,51 @@ The other new thing I’m going to try to do more consciously in this
 course is to introduce discussions of how digital tools for research and
 communication are (or are not) changing methods in U.S. cultural history
 and beyond. This is a subject that has been much debated of late: some
-believe that digital humanities
-[is](http://nowviskie.org/2011/it-starts-on-day-one/) or [should
-be](http://chronicle.com/article/Historians-Reflect-on-Forces/130262/)
-changing everything about our methods;
-[others](http://opinionator.blogs.nytimes.com/2012/01/09/the-digital-humanities-and-the-transcending-of-mortality/)
-are deeply
-[skeptical](http://us-intellectual-history.blogspot.com/2012/01/utopianism-of-digital-humanities.html).
-Most of what I read on the subject falls [somewhere in
-between](http://miriamposner.com/blog/?p=1101), as do I.
+believe that digital humanities [is][] or [should be][] changing
+everything about our methods; [others][] are deeply [skeptical][]. Most
+of what I read on the subject falls [somewhere in between][], as do I.
 
 Still, as I’ve noted before on this blog, I do think it’s safe to say
-that there are [many changes
-afoot](http://activehistory.ca/2012/01/too-much-information-the-case-for-the-programming-historian/)
-in the way that new historians will [do
-research](http://mcdaniel.blogs.rice.edu/?p=150), [present their
-findings](http://www.shermansmarch.org/), and communicate with each
-other through conferences like
-[SHEAR](http://mcdaniel.blogs.rice.edu/?p=171) and the
-[AHA](http://emn.sharonhoward.org/2012/01/twitter-aha-2012/). When I
+that there are [many changes afoot][] in the way that new historians
+will [do research][], [present their findings][], and communicate with
+each other through conferences like [SHEAR][] and the [AHA][]. When I
 started the article that I’m planning to share in class in the fall of
 2001, my research process consisted of sitting in front of a microfilm
-machine listening to music on a 15GB [Archos
-Jukebox](http://en.wikipedia.org/wiki/Archos_Jukebox_series). Since then
-my research still involves microfilm, of course, but new methods have
-also become part of my daily workflow. In this course I’m hoping to
-stimulate some discussion about these changes, partly with one of the
-week’s readings but also throughout the course.
+machine listening to music on a 15GB [Archos Jukebox][]. Since then my
+research still involves microfilm, of course, but new methods have also
+become part of my daily workflow. In this course I’m hoping to stimulate
+some discussion about these changes, partly with one of the week’s
+readings but also throughout the course.
 
 Perhaps it is misguided to introduce digital history in a methods course
 that is still fairly traditional (maybe even Jurassic, if you agree with
-[Bethany Nowviskie](http://nowviskie.org/2011/it-starts-on-day-one/)).
-But I’m disinclined to see decisions about what goes in a methods course
-as a [zero-sum
-game](https://twitter.com/#!/dancohen/status/156921729602691072). The
-environment in which historians do their work is certainly changing, but
-I think this calls less for an asteroid-like obliteration of the old
-than for selective adaptation and openness to new methodological
-mutations. Even in the brave new world current graduate students are
-entering, I think it’s safe to say there will still be many scholars
-writing journal articles. At least, I hope there will be. It’s not the
-best or only form, but it has its virtues, and I think it’s worth
-preserving alongside whatever other new species of scholarship are
-currently being born.
+[Bethany Nowviskie][is]). But I’m disinclined to see decisions about
+what goes in a methods course as a [zero-sum game][]. The environment in
+which historians do their work is certainly changing, but I think this
+calls less for an asteroid-like obliteration of the old than for
+selective adaptation and openness to new methodological mutations. Even
+in the brave new world current graduate students are entering, I think
+it’s safe to say there will still be many scholars writing journal
+articles. At least, I hope there will be. It’s not the best or only
+form, but it has its virtues, and I think it’s worth preserving
+alongside whatever other new species of scholarship are currently being
+born.
+
+  [Methods in U.S. Cultural History]: http://mcdaniel.blogs.rice.edu/?p=195
+    "Permanent Link: Methods in U.S. Cultural History"
+  [syllabus]: http://caleb.mcdaniel.web.rice.edu/pdf/hist587syllabus.pdf
+  [Fall 2009]: http://caleb.mcdaniel.web.rice.edu/pdf/hist587.pdf
+  [first published article]: http://scholarship.rice.edu/handle/1911/27613
+  [Phil Agre]: http://vlsicad.ucsd.edu/Research/Advice/network.html#section10
+  [is]: http://nowviskie.org/2011/it-starts-on-day-one/
+  [should be]: http://chronicle.com/article/Historians-Reflect-on-Forces/130262/
+  [others]: http://opinionator.blogs.nytimes.com/2012/01/09/the-digital-humanities-and-the-transcending-of-mortality/
+  [skeptical]: http://us-intellectual-history.blogspot.com/2012/01/utopianism-of-digital-humanities.html
+  [somewhere in between]: http://miriamposner.com/blog/?p=1101
+  [many changes afoot]: http://activehistory.ca/2012/01/too-much-information-the-case-for-the-programming-historian/
+  [do research]: http://mcdaniel.blogs.rice.edu/?p=150
+  [present their findings]: http://www.shermansmarch.org/
+  [SHEAR]: http://mcdaniel.blogs.rice.edu/?p=171
+  [AHA]: http://emn.sharonhoward.org/2012/01/twitter-aha-2012/
+  [Archos Jukebox]: http://en.wikipedia.org/wiki/Archos_Jukebox_series
+  [zero-sum game]: https://twitter.com/#!/dancohen/status/156921729602691072

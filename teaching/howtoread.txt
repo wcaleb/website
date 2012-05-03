@@ -4,10 +4,10 @@
 
 History courses usually have heavy reading loads. But you can make the
 load lighter if you develop effective strategies for reading. This page
-is designed to introduce history students to some of those strategies, but these tips
-are not the last word on reading effectively. Hone your own reading
-strategies. Practice different strategies over periods of time. And be
-sure to consult [the advice of others](#further-reading-on-reading) about how to read.
+is designed to introduce history students to some of those strategies,
+but these tips are not the last word on reading effectively. Hone your
+own reading strategies. Practice different strategies over periods of
+time. And be sure to consult [the advice of others][] about how to read.
 
 [*Please note:* The advice on this page pertains mainly to "secondary"
 texts written by historians. Some of the tips may also be helpful when
@@ -98,28 +98,29 @@ Stage 1: The Skim
 -----------------
 
 The following tips on skimming are based upon a fundamental idea,
-adapted from the book *[Style: Toward Clarity and Grace](http://www.amazon.com/exec/obidos/tg/detail/-/0226899152/)*, by
-Joseph Williams. Williams argues that clear writing comes from thinking
-about how readers read. Conversely, clear-headed reading comes from
-thinking about how writers write. Your goal as a skimmer is to grasp as
-quickly as possible what a writer is trying to say, what he or she wants
-to convince you of. This means trying to sit in the writer's chair. Here
+adapted from the book *[Style: Toward Clarity and Grace][]*, by Joseph
+Williams. Williams argues that clear writing comes from thinking about
+how readers read. Conversely, clear-headed reading comes from thinking
+about how writers write. Your goal as a skimmer is to grasp as quickly
+as possible what a writer is trying to say, what he or she wants to
+convince you of. This means trying to sit in the writer's chair. Here
 are some ideas about how to do that.
 
-Tip #1: **Always "pre-read" by skimming the titles, both for the whole work
-and for sections.** When authors choose titles, they are attempting to
-do your work as a skimmer for you. Titles, ideally, boil down crucial
+Tip \#1: **Always "pre-read" by skimming the titles, both for the whole
+work and for sections.** When authors choose titles, they are attempting
+to do your work as a skimmer for you. Titles, ideally, boil down crucial
 concepts into brief phrases, and they can give important clues about a
 work's argument. You should therefore look for key words in the title.
 Then, while you are skimming, you can pay special attention to the parts
 of the work that bear directly on those key words.
 
-For instance, consider the book [The Cult of the Nation in France: Inventing Nationalism, 1680-1800](http://www.amazon.com/Cult-Nation-France-Inventing-Nationalism/dp/0674012372/),
-by David Bell. The title to this book contains several clues about the
-main points of the book. On the most basic level, it tells us that this
-is a book about nationalism in France. It repeats forms of the word
-"nation" twice, so we know that understanding the role of those words in
-the text is going to be one of our major tasks as readers.
+For instance, consider the book [The Cult of the Nation in France:
+Inventing Nationalism, 1680-1800][], by David Bell. The title to this
+book contains several clues about the main points of the book. On the
+most basic level, it tells us that this is a book about nationalism in
+France. It repeats forms of the word "nation" twice, so we know that
+understanding the role of those words in the text is going to be one of
+our major tasks as readers.
 
 But we can also tell more than that. Look at the dates, "1680-1800." We
 can infer from these that Bell believes that the invention of French
@@ -177,7 +178,7 @@ identified? You should follow the same procedure when you get into
 specific chapters. What are the subheadings for sections of the chapter?
 What key words do *they* contain?
 
-Tip #2: **Look for main points "early" or "late."** Williams' book on
+Tip \#2: **Look for main points "early" or "late."** Williams' book on
 *Style* encourages writers to place their main points either at the
 beginning of works or at the end, because this is where readers tend to
 look for them. He's right, and this is where skimmers should go for
@@ -217,21 +218,22 @@ Let's take some example sentences from Professor Bell's book:
 
 > "This book is about the way in which the French came to think of their
 > nation as a political construction and, furthermore, came to see the
-> process of construction itself as a central task of political life" (p.
-> 6).
+> process of construction itself as a central task of political life"
+> (p. 6).
 
-> "Much of the book will be concerned with this pre-revolutionary change."
-> (p. 7)
-> 
+> "Much of the book will be concerned with this pre-revolutionary
+> change." (p. 7)
+>
 > "I will also argue that the dynamics that governed this story and made
 > nationalism thinkable were principally cultural and religious in
 > nature." (p. 7)
 
 > "By 'nationalism' I mean a program to build a sovereign political
 > community grouping together people who have enough in common--whether
-> language, customs, beliefs, traditions, or some combination of these--to
-> allow them to act as a homogeneous, collective person." (p. 20) 
- 
+> language, customs, beliefs, traditions, or some combination of
+> these--to allow them to act as a homogeneous, collective person." (p.
+> 20)
+
 In each of these sentences, the author is waving flags at us, trying to
 get us to notice key points. Not surprisingly, they all come "early" or
 "late." All of them are from the introduction to the book. The first
@@ -268,27 +270,26 @@ outline of the book's major keywords or points. Once you move on to
 later stages of reading, these notes will help remind you of the
 information you collected while skimming.
 
-Tip #3: **Do not get hung up on things you do not understand.** This is
+Tip \#3: **Do not get hung up on things you do not understand.** This is
 perhaps the most important part of skimming. Mortimer Adler and Charles
 van Doren call it "superficial reading," a term they mean to be
 "intentionally provocative." I wouldn't recommend their advice for every
 kind of reading you do, but it applies perfectly to skimming:
 
 > *In tackling a difficult book for the first time, read it through
-without ever stopping to look up or ponder the things that you do not
-understand right away.*Pay attention to what you can understand and do
-not be stopped by what you cannot immediately grasp. Go right on reading
-past the point where you have difficulties in understanding, and you
-will soon come to things you do understand. Concentrate on these. Keep
-on in this way. Read the book through, undeterred and undismayed by the
-paragraphs, footnotes, comments, and references that escape you. If you
-let yourself get stalled, if you allow yourself to be tripped up by any
-one of these stumbling blocks, you are lost. In most cases, you will not
-be able to puzzle the thing out by sticking to it. You will have a much
-better chance of understanding it on a second reading, but that requires
-you to have read the book *through* at least once. [From [*How to Read a
-Book*](http://www.amazon.com/exec/obidos/tg/detail/-/0671212095/), pp.
-36-7.]
+> without ever stopping to look up or ponder the things that you do not
+> understand right away.*Pay attention to what you can understand and do
+> not be stopped by what you cannot immediately grasp. Go right on
+> reading past the point where you have difficulties in understanding,
+> and you will soon come to things you do understand. Concentrate on
+> these. Keep on in this way. Read the book through, undeterred and
+> undismayed by the paragraphs, footnotes, comments, and references that
+> escape you. If you let yourself get stalled, if you allow yourself to
+> be tripped up by any one of these stumbling blocks, you are lost. In
+> most cases, you will not be able to puzzle the thing out by sticking
+> to it. You will have a much better chance of understanding it on a
+> second reading, but that requires you to have read the book *through*
+> at least once. [From [*How to Read a Book*][], pp. 36-7.]
 
 Why should you plow ahead through difficult passages while skimming?
 Because otherwise you could get mired in arguments that are tangential
@@ -326,7 +327,7 @@ whole.
 It should go without saying, however, that you should not dismiss a
 passage as "difficult" just because it has big words that you don't
 know. If the obstacle to understanding a passage is primarily
-definitional, [get a dictionary](http://www.onelook.com).
+definitional, [get a dictionary][].
 
 To sum up, skimming--the first stage of effective reading--does not just
 mean reading faster. It means pre-reading and collecting key information
@@ -406,14 +407,21 @@ Further Reading on Reading
 --------------------------
 
 -   [Reading, Writing, and Researching for History: A Guide for College
-    Students](http://academic.bowdoin.edu/WritingGuides/), *by Professor
-    Patrick Rael, Bowdoin College*
--   [How to Read in
-    College](http://weblogs.swarthmore.edu/burke/?page_id=84), *by
-    Professor Timothy Burke, Swarthmore College*
--   [How to Read a Book](http://www.si.umich.edu/~pne/PDF/howtoread.pdf)
-    [PDF], *by Professor Paul N. Edwards, University of Michigan*
--   [Reading Your Textbooks Effectively and
-    Efficiently](http://www.dartmouth.edu/~acskills/success/reading.html),
-    *from the Academic Skills Center at Dartmouth College*
+    Students][], *by Professor Patrick Rael, Bowdoin College*
+-   [How to Read in College][], *by Professor Timothy Burke, Swarthmore
+    College*
+-   [How to Read a Book][] [PDF], *by Professor Paul N. Edwards,
+    University of Michigan*
+-   [Reading Your Textbooks Effectively and Efficiently][], *from the
+    Academic Skills Center at Dartmouth College*
 
+  [the advice of others]: #further-reading-on-reading
+  [Style: Toward Clarity and Grace]: http://www.amazon.com/exec/obidos/tg/detail/-/0226899152/
+  [The Cult of the Nation in France: Inventing Nationalism, 1680-1800]: http://www.amazon.com/Cult-Nation-France-Inventing-Nationalism/dp/0674012372/
+  [*How to Read a Book*]: http://www.amazon.com/exec/obidos/tg/detail/-/0671212095/
+  [get a dictionary]: http://www.onelook.com
+  [Reading, Writing, and Researching for History: A Guide for College
+  Students]: http://academic.bowdoin.edu/WritingGuides/
+  [How to Read in College]: http://weblogs.swarthmore.edu/burke/?page_id=84
+  [How to Read a Book]: http://www.si.umich.edu/~pne/PDF/howtoread.pdf
+  [Reading Your Textbooks Effectively and Efficiently]: http://www.dartmouth.edu/~acskills/success/reading.html

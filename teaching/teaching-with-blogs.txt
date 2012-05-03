@@ -2,15 +2,15 @@
 % W. Caleb McDaniel 
 % October 13, 2010 
 
-This post was originally published on my old blog as [Teaching with Blogs](http://mcdaniel.blogs.rice.edu/?p=90 "Permanent Link: Teaching with Blogs").
-
--------------------------------------------------------------------------------------------------
+<div id="abstract">
+This post was originally published on my old blog as [Teaching with
+Blogs][].
+</div>
 
 Tomorrow at noon, I am going to be speaking about blogging and teaching
-at a “brown bag” [workshop at the Digital Media
-Center](http://library.rice.edu/events/dr.-caleb-mcdaniel-on-classroom-blogging)
-at Rice. This post contains a rough outline of what I plan to say, as
-well as links to resources that I will mention at the workshop.
+at a “brown bag” [workshop at the Digital Media Center][] at Rice. This
+post contains a rough outline of what I plan to say, as well as links to
+resources that I will mention at the workshop.
 
 My comments will fall into three categories:
 
@@ -22,14 +22,11 @@ My comments will fall into three categories:
 3.  I’ll briefly talk about the technical side of setting up blogs and
     maintaining them over the course of a semester, focusing
     particularly on how to use the WordPress MU installation, [Blogs @
-    Rice University.](http://blogs.rice.edu/)
+    Rice University.][]
 
-\
- Here is [my slide
-presentation](http://www.owlnet.rice.edu/~wcm1/pdf/teachingblogsslides.pdf)
-for the talk.
+Here is [my slide presentation][] for the talk.
 
-**Part I: Examples**
+## Part I: Examples ##
 
 [PLEASE NOTE: Some of the blogs linked below can only be viewed by users
 on the Rice University campus network.]
@@ -42,42 +39,35 @@ talk tomorrow in greater depth about what worked and what didn’t.
 
 *Early Attempts, Mixed Results*
 
--   [American Activists Abroad](http://activistsabroad.blogspot.com)
-    (2004), an upper-level history seminar. (Related: [instructional
-    handout](http://www.owlnet.rice.edu/~wcm1/pdf/blogsetupex.pdf) and
-    [“welcome”
-    post](http://activistsabroad.blogspot.com/2004/09/welcome.html).)
--   [Nineteenth-Century America](http://hist2520.blogspot.com) (2008), a
-    survey course with emphasis on analysis of primary sources. (NOTE:
-    the page linked above will not render correctly in your browser–this
-    blog was originally published on a server at another institution, so
-    restoring the blog with its original “style” and look would take
-    some work. But you can read the posts and comments. Also see my
-    overly convoluted
-    [rubric](http://www.owlnet.rice.edu/~wcm1/pdf/blogrubricex.pdf)
-    (PDF) for evaluating the blogging assignment in this course.)
--   [The Rise of Transnational Activism](http://hist396.wordpress.com)
-    (2008), an upper-level history seminar. (See [the assignment
-    explanation](http://hist396.wordpress.com/assignments/).)
+-   [American Activists Abroad][] (2004), an upper-level history
+    seminar. (Related: [instructional handout][] and [“welcome”
+    post][].)
+-   [Nineteenth-Century America][] (2008), a survey course with emphasis
+    on analysis of primary sources. (NOTE: the page linked above will
+    not render correctly in your browser–this blog was originally
+    published on a server at another institution, so restoring the blog
+    with its original “style” and look would take some work. But you can
+    read the posts and comments. Also see my overly convoluted
+    [rubric][] (PDF) for evaluating the blogging assignment in this
+    course.)
+-   [The Rise of Transnational Activism][] (2008), an upper-level
+    history seminar. (See [the assignment explanation][].)
 
 *Later Attempts, Better Results*
 
--   [American Radicals and Reformers](http://hist423.wordpress.com)
-    (2008), an upper-level history seminar. (Look for explanation of
-    blogging [assignments](http://hist423.wordpress.com/assignments/) in
-    two places, under “Blog Post” and under “Seminar Contributions.”)
--   [American Radicals and Reformers](http://hist423.blogs.rice.edu)
-    (2010), an upper-level history seminar. (See explanation of comments
-    assignment [here](http://hist423.blogs.rice.edu/assignments/).)
--   [Legendary Americans](http://hist159.blogs.rice.edu) (2009), a
-    freshman seminar with the most complex blog set-up I’ve used. In
-    addition to a main course blog where I posted reading questions and
-    general announcements, students contributed to small group blogs
-    (see the links under “Links”). On these group blogs, students made
-    one weekly post responding to one of my posted reading questions and
-    one weekly post reporting on progress with a group project they were
-    working on. (See assignment discussion
-    [here](http://hist159.blogs.rice.edu/assignments/).)
+-   [American Radicals and Reformers][] (2008), an upper-level history
+    seminar. (Look for explanation of blogging [assignments][] in two
+    places, under “Blog Post” and under “Seminar Contributions.”)
+-   [American Radicals and Reformers][1] (2010), an upper-level history
+    seminar. (See explanation of comments assignment [here][].)
+-   [Legendary Americans][] (2009), a freshman seminar with the most
+    complex blog set-up I’ve used. In addition to a main course blog
+    where I posted reading questions and general announcements, students
+    contributed to small group blogs (see the links under “Links”). On
+    these group blogs, students made one weekly post responding to one
+    of my posted reading questions and one weekly post reporting on
+    progress with a group project they were working on. (See assignment
+    discussion [here][2].)
 
 In these case studies, using a blog fulfilled various functions, ranging
 from course management to student discussion and the monitoring of
@@ -88,7 +78,7 @@ uses of blogs in the classroom, like having each student create his/her
 own blog to do free writing or journal-ing, or to create stand-alone
 webpages.
 
-**Part II: Reflections and Tips**
+## Part II: Reflections and Tips ##
 
 These tips may read like directives, but they are really things that I’m
 telling myself as I reflect on these varied experiences. The “you” in
@@ -103,11 +93,9 @@ these sentences is primarily me.
     specific prompts, clear expectations, etc.) apply to blogging
     assignments.
 3.  The more you engage with the blog (posting, commenting, [flagging
-    good
-    posts](http://hist159.blogs.rice.edu/2009/09/21/weekend-roundup/),
-    mentioning posts in classroom discussion) the more students will
-    engage with the blog. If you leave the blog alone and seldom make an
-    appearance, students will tend to do the same.
+    good posts][], mentioning posts in classroom discussion) the more
+    students will engage with the blog. If you leave the blog alone and
+    seldom make an appearance, students will tend to do the same.
 4.  The compelling reasons for using a blog depend on what learning
     objectives you want to advance, so be sure you have a clear
     objective in mind before assigning blog posts. Would another type of
@@ -124,57 +112,71 @@ has particular virtues. When prompts are specific, expectations are
 clear, and my engagement with the blog is sufficient, online posts and
 comments also serve as excellent springboards for in-class discussions.
 
-**Part III: Technical Stuff**
+## Part III: Technical Stuff ##
 
 At the workshop I’ll talk a little bit about using WordPress MU and will
-even set up an example blog that will appear
-[here](http://hist246.blogs.rice.edu) once we’ve made it. A few things I
-want to highlight are: how to manage Users, how to create and use
-“Categories,” how to change Themes, and how to manage widgets.
+even set up an example blog that will appear [here][3] once we’ve made
+it. A few things I want to highlight are: how to manage Users, how to
+create and use “Categories,” how to change Themes, and how to manage
+widgets.
 
 I’ll also discuss the management of “privacy” settings. In past Rice
 courses where I have allowed the blog to be seen by anyone on the
-Internet, I have asked students to sign [a Blog Consent
-Form](http://www.owlnet.rice.edu/~wcm1/pdf/blogconsent.pdf) (PDF).
+Internet, I have asked students to sign [a Blog Consent Form][] (PDF).
 
 Finally, I’ll have some suggestions for how to manage your workflow if
 you use a Course Blog, including a brief introduction to RSS readers.
-(Here’s a post I’ve provided to students [explaining
-RSS](http://hist423.wordpress.com/2008/08/28/thursday-bullets/).)
+(Here’s a post I’ve provided to students [explaining RSS][].)
 
 For some other examples of “how to” posts and technical tips that I’ve
-given students, [click
-here](http://hist159.blogs.rice.edu/category/blogging/).
+given students, [click here][].
 
-**Other Recommended Reading**
+## Other Recommended Reading ##
 
--   [Notes on Class
-    Blogging](http://www.plannedobsolescence.net/notes-on-class-blogging/),
-    by Kathleen Fitzpatrick
--   [Making Student Blogs Pay Off with Blog
-    Audits](http://chronicle.com/blogs/profhacker/making-student-blogs-pay-off-with-blog-audits/27559),
-    by Mark Sample
--   [Teaching and Learning with New
-    Media](http://mcclurken.org/presentations/catl/), by Jeffrey
-    McClurken
--   Some [useful links](http://mcclurken.org/presentations/jmu/) to
-    other blog examples and resources, also by Jeff McClurken
--   [Blogs for Learning and Reflective
-    Practice?](http://www.jeffnugent.net/blog/?p=112), by Jeff Nugent
--   [Aggregating Student
-    Blogs](http://parezcoydigo.wordpress.com/2010/09/01/aggregating-student-blogs/),
-    by Chad Black
--   [Student Contracts for Digital
-    Projects](http://chronicle.com/blogs/profhacker/student-contracts-for-digital-projects/23011),
-    by Jeff McClurken
--   [A Better Discussion](http://lisahistory.net/wordpress/?p=35), by
-    Lisa M. Lane
--   [Designing [Writing] Assignments and Presenting Them to
-    Students](http://www.writing.utoronto.ca/faculty/designing-assignments),
+-   [Notes on Class Blogging][], by Kathleen Fitzpatrick
+-   [Making Student Blogs Pay Off with Blog Audits][], by Mark Sample
+-   [Teaching and Learning with New Media][], by Jeffrey McClurken
+-   Some [useful links][] to other blog examples and resources, also by
+    Jeff McClurken
+-   [Blogs for Learning and Reflective Practice?][], by Jeff Nugent
+-   [Aggregating Student Blogs][], by Chad Black
+-   [Student Contracts for Digital Projects][], by Jeff McClurken
+-   [A Better Discussion][], by Lisa M. Lane
+-   [Designing [Writing] Assignments and Presenting Them to Students][],
     by Margaret Procter
--   [Technology and the Pseudo-Intimacy of the
-    Classroom](http://www.academiccommons.org/commons/interview/graff),
-    an interview with Jerry Graff at Academic Commons
+-   [Technology and the Pseudo-Intimacy of the Classroom][], an
+    interview with Jerry Graff at Academic Commons
 
-Suggestions about other resources? Things I’ve neglected to talk about?
-Questions? Please add them in the comments!
+  [Teaching with Blogs]: http://mcdaniel.blogs.rice.edu/?p=90
+    "Permanent Link: Teaching with Blogs"
+  [workshop at the Digital Media Center]: http://library.rice.edu/events/dr.-caleb-mcdaniel-on-classroom-blogging
+  [Blogs @ Rice University.]: http://blogs.rice.edu/
+  [my slide presentation]: http://www.owlnet.rice.edu/~wcm1/pdf/teachingblogsslides.pdf
+  [American Activists Abroad]: http://activistsabroad.blogspot.com
+  [instructional handout]: http://www.owlnet.rice.edu/~wcm1/pdf/blogsetupex.pdf
+  [“welcome” post]: http://activistsabroad.blogspot.com/2004/09/welcome.html
+  [Nineteenth-Century America]: http://hist2520.blogspot.com
+  [rubric]: http://www.owlnet.rice.edu/~wcm1/pdf/blogrubricex.pdf
+  [The Rise of Transnational Activism]: http://hist396.wordpress.com
+  [the assignment explanation]: http://hist396.wordpress.com/assignments/
+  [American Radicals and Reformers]: http://hist423.wordpress.com
+  [assignments]: http://hist423.wordpress.com/assignments/
+  [1]: http://hist423.blogs.rice.edu
+  [here]: http://hist423.blogs.rice.edu/assignments/
+  [Legendary Americans]: http://hist159.blogs.rice.edu
+  [2]: http://hist159.blogs.rice.edu/assignments/
+  [flagging good posts]: http://hist159.blogs.rice.edu/2009/09/21/weekend-roundup/
+  [3]: http://hist246.blogs.rice.edu
+  [a Blog Consent Form]: http://www.owlnet.rice.edu/~wcm1/pdf/blogconsent.pdf
+  [explaining RSS]: http://hist423.wordpress.com/2008/08/28/thursday-bullets/
+  [click here]: http://hist159.blogs.rice.edu/category/blogging/
+  [Notes on Class Blogging]: http://www.plannedobsolescence.net/notes-on-class-blogging/
+  [Making Student Blogs Pay Off with Blog Audits]: http://chronicle.com/blogs/profhacker/making-student-blogs-pay-off-with-blog-audits/27559
+  [Teaching and Learning with New Media]: http://mcclurken.org/presentations/catl/
+  [useful links]: http://mcclurken.org/presentations/jmu/
+  [Blogs for Learning and Reflective Practice?]: http://www.jeffnugent.net/blog/?p=112
+  [Aggregating Student Blogs]: http://parezcoydigo.wordpress.com/2010/09/01/aggregating-student-blogs/
+  [Student Contracts for Digital Projects]: http://chronicle.com/blogs/profhacker/student-contracts-for-digital-projects/23011
+  [A Better Discussion]: http://lisahistory.net/wordpress/?p=35
+  [Designing [Writing] Assignments and Presenting Them to Students]: http://www.writing.utoronto.ca/faculty/designing-assignments
+  [Technology and the Pseudo-Intimacy of the Classroom]: http://www.academiccommons.org/commons/interview/graff

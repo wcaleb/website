@@ -2,88 +2,131 @@
 % W. Caleb McDaniel
 % May 1, 2012
 
-Like [Natalie Houston](http://chronicle.com/blogs/profhacker/an-everyday-essential-the-timer/22675) and the Profhacker gang, I sometimes use a timer to keep me on task when I need to be productive, especially when the tasks at hand are ones that I'd rather put off. But instead of investing in a full-blown timer program, I've hacked together two simple timers for my Mac that I can fire up whenever I need them. Both are rough around the edges, but they work for me.
+Like [Natalie Houston][] and the Profhacker gang, I sometimes use a
+timer to keep me on task when I need to be productive, especially when
+the tasks at hand are ones that I'd rather put off. But instead of
+investing in a full-blown timer program, I've hacked together two simple
+timers for my Mac that I can fire up whenever I need them. Both are
+rough around the edges, but they work for me.
 
-## A Simple Terminal Timer
+A Simple Terminal Timer
+-----------------------
 
-I can't remember where on the Web I first read about this, but the simplest way I've found to set a timer is to open the Terminal, and enter the command:
+I can't remember where on the Web I first read about this, but the
+simplest way I've found to set a timer is to open the Terminal, and
+enter the command:
 
-	sleep 600;say "break"
+    sleep 600;say "break"
 
-This will cause the computer to count to 600 seconds, and then say "break" using the [system's voice](http://www.macworld.com/article/1164787/how_to_change_the_mac_s_system_voice.html). Then I set another timer for the break that will prompt me to get back to work.
+This will cause the computer to count to 600 seconds, and then say
+"break" using the [system's voice][]. Then I set another timer for the
+break that will prompt me to get back to work.
 
-	sleep 120;say "back to work"
+    sleep 120;say "back to work"
 
-I can easily recall these timers at the command line by using the up arrow key to go back to previous commands. So I can easily run each of these timers back-to-back for as long as I want.
+I can easily recall these timers at the command line by using the up
+arrow key to go back to previous commands. So I can easily run each of
+these timers back-to-back for as long as I want.
 
-Usually, I find myself using the simple terminal timer when I want to work in short bursts using a system like Merlin Mann's [(10+2)*5](http://www.43folders.com/2005/10/11/procrastination-hack-1025) procastination hack. But when I want to work in longer stretches, I use iTunes and Applescript.
+Usually, I find myself using the simple terminal timer when I want to
+work in short bursts using a system like Merlin Mann's [(10+2)\*5][]
+procastination hack. But when I want to work in longer stretches, I use
+iTunes and Applescript.
 
-## A Simple iTunes Timer
+A Simple iTunes Timer
+---------------------
 
-I like to listen to jazz while I work, so about a year ago I pieced together an Applescript program that causes my music to fade out when it's time for a break, and then fade back in when the break is over. To make it work, you can copy and paste the following code into AppleScript Editor, save the script as an Application, and then launch the application just like any other Mac program. (I call mine "Write Tunes," because I use it often to time my writing sessions.)
+I like to listen to jazz while I work, so about a year ago I pieced
+together an Applescript program that causes my music to fade out when
+it's time for a break, and then fade back in when the break is over. To
+make it work, you can copy and paste the following code into AppleScript
+Editor, save the script as an Application, and then launch the
+application just like any other Mac program. (I call mine "Write Tunes,"
+because I use it often to time my writing sessions.)
 
-	property tick : 2
-	property thismany : 1
-	
-	display dialog "Playlist?" default answer "Straight Ahead Jazz"
-	set writelist to text returned of result
-	
-	display dialog "How many work sessions do you want?" default answer "2"
-	set sessions to text returned of result as number
-	
-	display dialog "How many minutes each?" default answer "25"
-	set worktime to ((text returned of result as number) * 60)
-	
-	display dialog "How many minutes for a break?" default answer "5"
-	set breaktime to ((text returned of result as number) * 60)
-	
-	tell application "iTunes"
-		set sound volume to 50
-		tell playlist writelist
-			set shuffle to false
-			set shuffle to true
-		end tell
-		repeat sessions times
-			set snd to sound volume
-			set sound volume to 0
-			if player state is paused then
-				play
-			else
-				play playlist writelist
-			end if
-			repeat
-				if (get sound volume) is greater than or equal to (snd - tick) then
-					set sound volume to snd
-					exit repeat
-				end if
-				set sound volume to (sound volume + tick)
-				delay thismany
-			end repeat
-			set resume_volume to sound volume
-			delay worktime
-			repeat
-				set snd to sound volume
-				if snd is less than or equal to tick then
-					set sound volume to 0
-					exit repeat
-				end if
-				set sound volume to (snd - tick)
-				delay thismany
-			end repeat
-			pause
-			set sound volume to resume_volume
-			delay breaktime
-		end repeat
-	end tell
-	
-	quit
-	
-	on quit
-		continue quit
-	end quit
+    property tick : 2
+    property thismany : 1
 
-What I like about this timer is the way that it slowly "fades in" and "fades out" of work time, alerting me when a break is coming so I can wrap up a sentence and then alerting me when the break is ending, so I can stop surfing or snacking and get back into a writing frame of mind.
+    display dialog "Playlist?" default answer "Straight Ahead Jazz"
+    set writelist to text returned of result
 
-The settings can be adjusted by changing the default playlist name (currently "Straight Ahead Jazz") and break and work times, but these defaults can also be left as they are; the dialog box will allow users to overwrite the default with their own choices. The speed with which the volume fades in and out can also be adjusted by changing the "tick" and "thismany" properties in the first two lines.
+    display dialog "How many work sessions do you want?" default answer "2"
+    set sessions to text returned of result as number
 
-I patched this together largely with help from [Doug's Applescripts for iTunes](http://dougscripts.com/itunes/), so there are definitely seams showing. For example, I've never really figured out a way to quit the app once it's running other than to "Force Quit" it. The program will also fail if any iTunes dialogs pop up (for example, if I have my home wireless speakers selected in iTunes and then try to run this program at work, where those speakers are unavailable, then the program will fail). I should probably try to fix these issues someday, but right now the program does the trick, which is to get me working on what I should be working on.
+    display dialog "How many minutes each?" default answer "25"
+    set worktime to ((text returned of result as number) * 60)
+
+    display dialog "How many minutes for a break?" default answer "5"
+    set breaktime to ((text returned of result as number) * 60)
+
+    tell application "iTunes"
+        set sound volume to 50
+        tell playlist writelist
+            set shuffle to false
+            set shuffle to true
+        end tell
+        repeat sessions times
+            set snd to sound volume
+            set sound volume to 0
+            if player state is paused then
+                play
+            else
+                play playlist writelist
+            end if
+            repeat
+                if (get sound volume) is greater than or equal to (snd - tick) then
+                    set sound volume to snd
+                    exit repeat
+                end if
+                set sound volume to (sound volume + tick)
+                delay thismany
+            end repeat
+            set resume_volume to sound volume
+            delay worktime
+            repeat
+                set snd to sound volume
+                if snd is less than or equal to tick then
+                    set sound volume to 0
+                    exit repeat
+                end if
+                set sound volume to (snd - tick)
+                delay thismany
+            end repeat
+            pause
+            set sound volume to resume_volume
+            delay breaktime
+        end repeat
+    end tell
+
+    quit
+
+    on quit
+        continue quit
+    end quit
+
+What I like about this timer is the way that it slowly "fades in" and
+"fades out" of work time, alerting me when a break is coming so I can
+wrap up a sentence and then alerting me when the break is ending, so I
+can stop surfing or snacking and get back into a writing frame of mind.
+
+The settings can be adjusted by changing the default playlist name
+(currently "Straight Ahead Jazz") and break and work times, but these
+defaults can also be left as they are; the dialog box will allow users
+to overwrite the default with their own choices. The speed with which
+the volume fades in and out can also be adjusted by changing the "tick"
+and "thismany" properties in the first two lines.
+
+I patched this together largely with help from [Doug's Applescripts for
+iTunes][], so there are definitely seams showing. For example, I've
+never really figured out a way to quit the app once it's running other
+than to "Force Quit" it. The program will also fail if any iTunes
+dialogs pop up (for example, if I have my home wireless speakers
+selected in iTunes and then try to run this program at work, where those
+speakers are unavailable, then the program will fail). I should probably
+try to fix these issues someday, but right now the program does the
+trick, which is to get me working on what I should be working on.
+
+  [Natalie Houston]: http://chronicle.com/blogs/profhacker/an-everyday-essential-the-timer/22675
+  [system's voice]: http://www.macworld.com/article/1164787/how_to_change_the_mac_s_system_voice.html
+  [(10+2)\*5]: http://www.43folders.com/2005/10/11/procrastination-hack-1025
+  [Doug's Applescripts for iTunes]: http://dougscripts.com/itunes/

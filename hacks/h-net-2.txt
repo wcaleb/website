@@ -2,54 +2,44 @@
 % W. Caleb McDaniel 
 % July 17, 2011 
 
-This post was originally published on my old blog as [H-Net 2.0?](http://mcdaniel.blogs.rice.edu/?p=171 "Permanent Link: H-Net 2.0?").
+<div id="abstract">
+This post was originally published on my old blog as [H-Net 2.0?][].
+</div>
 
---------------------------------------------------------------------------------
-
-Several years ago now, [Mills Kelly wrote a provocative
-post](http://edwired.org/2007/09/10/the-end-of-h-net/) suggesting that
-the future of [H-Net](http://www.h-net.org/) was bleak. After noting
-that the traffic on many of H-Net’s edited, subject-specific e-mail
-lists was declining, Kelly argued that e-mail lists had outlived their
-usefulness for scholars online. “If H-Net is going to survive into a
-second decade,” he said, “I would urge its leadership to give up on
-email and move on. Digital communities in the Web 2.0 world just aren’t
-created in email any more.”
+Several years ago now, [Mills Kelly wrote a provocative post][]
+suggesting that the future of [H-Net][] was bleak. After noting that the
+traffic on many of H-Net’s edited, subject-specific e-mail lists was
+declining, Kelly argued that e-mail lists had outlived their usefulness
+for scholars online. “If H-Net is going to survive into a second
+decade,” he said, “I would urge its leadership to give up on email and
+move on. Digital communities in the Web 2.0 world just aren’t created in
+email any more.”
 
 As someone who participates in Web 2.0 “communities” like Twitter and
 the blogosphere, I see Kelly’s point, which may be even more appropriate
 now than it was in 2007. But even then, I wasn’t convinced that Web 2.0
-posed an all-or-nothing, “[change or
-die](http://chronicle.com/article/Change-or-Die-Scholarly/46962/)”
-choice for academics online: either e-mail, or something else. Today, as
-a book-review editor for [H-SHEAR](http://www.h-net.org/shear) and a
-subscriber to several other H-Net lists, I still believe e-mail lists
-and newer digital communities can coexist and thrive together.
+posed an all-or-nothing, “[change or die][]” choice for academics
+online: either e-mail, or something else. Today, as a book-review editor
+for [H-SHEAR][] and a subscriber to several other H-Net lists, I still
+believe e-mail lists and newer digital communities can coexist and
+thrive together.
 
 Earlier this month, for example, Adam Costanzo at UC-Davis [posted to
-the H-SHEAR
-list](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=WIdGkCV%2bYgJeRlYXsR0OEQ&user=&pw=)
-proposing a Twitter hashtag for the annual meeting of the Society for
-Historians of the Early American Republic
-([SHEAR](http://www.shear.org)), which took place this last weekend in
-Philadelphia. Costanzo also offered some useful links to sites that
-talked about how to have a productive back-channel at a conference.
-Around the same time, two presenters at the SHEAR conference, [Mark
-Cheathem](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=bSwZGcrRTZFjkInzLfWmRg&user=&pw=)
-and [Daniel
-Kilbride](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=sdM0WOmck9hSb1jtYM1sgw&user=&pw=),
-sent messages to the list with links to their papers. Finally, a slew of
-attendees at the meeting “live-tweeted” the sessions they attended for
-those who of us who couldn’t make it, [using the hashtag Costanzo had
-proposed](http://twitter.com/#!/search/%23shear2011). Among those
-posting updates for the conference were Rachel Herrmann
-([@raherrmann](http://twitter.com/Raherrmann)), Jennie Goloboy
-([@JennieGoloboy](http://twitter.com/JennieGoloboy)), William Tatum
-([@wptiii](http://twitter.com/wptiii)), Kathryn Tomasek
-([@KathrynTomasek](http://twitter.com/KathrynTomasek)), Costanzo
-([@adam\_costanzo](http://twitter.com/adam_costanzo)), and Cheathem
-([@markcheathem](http://twitter.com/markcheathem)), who also posted
-notes about sessions on [his blog](http://mcheathem.wordpress.com/).
+the H-SHEAR list][] proposing a Twitter hashtag for the annual meeting
+of the Society for Historians of the Early American Republic
+([SHEAR][]), which took place this last weekend in Philadelphia.
+Costanzo also offered some useful links to sites that talked about how
+to have a productive back-channel at a conference. Around the same time,
+two presenters at the SHEAR conference, [Mark Cheathem][] and [Daniel
+Kilbride][], sent messages to the list with links to their papers.
+Finally, a slew of attendees at the meeting “live-tweeted” the sessions
+they attended for those who of us who couldn’t make it, [using the
+hashtag Costanzo had proposed][]. Among those posting updates for the
+conference were Rachel Herrmann ([@raherrmann][]), Jennie Goloboy
+([@JennieGoloboy][]), William Tatum ([@wptiii][]), Kathryn Tomasek
+([@KathrynTomasek][]), Costanzo ([@adam\_costanzo][]), and Cheathem
+([@markcheathem][]), who also posted notes about sessions on [his
+blog][].
 
 As far as I know, this is the first time that a sizable number of
 SHEAR-ites were tweeting from an annual meeting. But it is worth noting
@@ -61,48 +51,41 @@ live or die.
 
 At the same time, it’s also worth noting that in this particular case,
 the Twitter stream lacked some advantages that H-Net still possesses.
-For instance, even though I am on Twitter
-([@wcaleb](http://twitter.com/wcaleb)), I had not known to look for
-Costanzo until he posted to H-SHEAR, which suggests how H-Net can still
-serve as one of numerous tools for discovering other digital
-communities. More importantly, as vibrant as last weekend’s discussion
-on Twitter was, a hashtag search for \#SHEAR2011 will probably, at some
-indefinite point in the future, cease to work. Whereas I can still go
-back to discussion logs from years ago on H-Net, it is not immediately
-clear how to do that on Twitter. (This is [likely to be a problem for
-the foreseeable
-future](http://chronicle.com/blogs/profhacker/the-end-of-twapperkeeper-and-what-to-do-about-it/31582)
-now that Twitter, which is not a non-profit like H-Net, is becoming more
-mysterious, proprietary and closed.) Finally, the excellent
-live-tweeting that was done from the conference was likely missed by the
-large number of active subscribers to the H-Net list.
+For instance, even though I am on Twitter ([@wcaleb][]), I had not known
+to look for Costanzo until he posted to H-SHEAR, which suggests how
+H-Net can still serve as one of numerous tools for discovering other
+digital communities. More importantly, as vibrant as last weekend’s
+discussion on Twitter was, a hashtag search for \#SHEAR2011 will
+probably, at some indefinite point in the future, cease to work. Whereas
+I can still go back to discussion logs from years ago on H-Net, it is
+not immediately clear how to do that on Twitter. (This is [likely to be
+a problem for the foreseeable future][] now that Twitter, which is not a
+non-profit like H-Net, is becoming more mysterious, proprietary and
+closed.) Finally, the excellent live-tweeting that was done from the
+conference was likely missed by the large number of active subscribers
+to the H-Net list.
 
 Another recent episode on the H-SHEAR list illustrates similar points.
 Back in April, Daniel Feller of the University of Tennessee posted a
-message to the list about [Internet citations and research
-standards](http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1104&week=d&msg=1rvV6eW8LvgcW4mtpU%2b%2bsQ&user=&pw=)
+message to the list about [Internet citations and research standards][]
 that prompted a good deal of discussion among subscribers. Very quickly,
 however, the discussion also jumped off the list into other online
-communities. Blog posts by [John
-Fee](http://www.philipvickersfithian.com/2011/04/historians-and-online-sources.html)
-and [Mark
-Cheathem](http://mcheathem.wordpress.com/2011/04/28/should-historians-utilize-online-sources/)
-noticed the debate, and a post on the blog of [the Historical
-Society](http://histsociety.blogspot.com/2011/05/standards-of-citation-and-internet.html)
-sparked a rich conversation of its own in the comments. Feller’s post
-was also tweeted on the same day it was sent to the list, which led to a
-stream of posts related to the debate on Twitter, a few of which (in no
+communities. Blog posts by [John Fee][] and [Mark Cheathem][1] noticed
+the debate, and a post on the blog of [the Historical Society][] sparked
+a rich conversation of its own in the comments. Feller’s post was also
+tweeted on the same day it was sent to the list, which led to a stream
+of posts related to the debate on Twitter, a few of which (in no
 particular order) I saved:
 
--   [http://twitter.com/\#!/cliotropic/status/63226728495054848](http://twitter.com/#!/cliotropic/status/63226728495054848)
--   [http://twitter.com/\#!/cliotropic/status/63046105671282689](http://twitter.com/#!/cliotropic/status/63046105671282689)
--   [http://twitter.com/\#!/jnthnwwlsn/status/63023593952509952](http://twitter.com/#!/jnthnwwlsn/status/63023593952509952)
--   [http://twitter.com/KevinLevin/status/63251444886806528](http://twitter.com/KevinLevin/status/63251444886806528)
--   [http://twitter.com/cliotropic/status/63250983853105153](http://twitter.com/cliotropic/status/63250983853105153)
--   [http://twitter.com/jmadelman/status/63249219737223168](http://twitter.com/jmadelman/status/63249219737223168)
--   [http://twitter.com/jmadelman/status/63277736793354241](http://twitter.com/jmadelman/status/63277736793354241)
--   [http://twitter.com/jhrees/status/67618584771309568](http://twitter.com/jhrees/status/67618584771309568)
--   [http://twitter.com/wcaleb/status/63276620798115840](http://twitter.com/wcaleb/status/63276620798115840)
+-   [http://twitter.com/\#!/cliotropic/status/63226728495054848][]
+-   [http://twitter.com/\#!/cliotropic/status/63046105671282689][]
+-   [http://twitter.com/\#!/jnthnwwlsn/status/63023593952509952][]
+-   [http://twitter.com/KevinLevin/status/63251444886806528][]
+-   [http://twitter.com/cliotropic/status/63250983853105153][]
+-   [http://twitter.com/jmadelman/status/63249219737223168][]
+-   [http://twitter.com/jmadelman/status/63277736793354241][]
+-   [http://twitter.com/jhrees/status/67618584771309568][]
+-   [http://twitter.com/wcaleb/status/63276620798115840][]
 
 Here again, a discussion started on H-SHEAR easily spilled over into
 other digital communities and enriched the conversation by drawing in
@@ -131,9 +114,8 @@ sparse posts don’t necessarily call into question the worth of the
 medium, anymore than a blog post that gets only one or two comments
 means that blogs are dead. (This is not even to mention the larger point
 that H-Net does more than simply maintain group email lists; it also has
-a well-established platform for [open-access, scholarly book
-reviews](http://www.h-net.org/reviews) that are published online and
-pushed to list editors.)
+a well-established platform for [open-access, scholarly book reviews][]
+that are published online and pushed to list editors.)
 
 Moreover, the rise of new digital communities doesn’t mean the older
 digital communities, often composed of different people, should simply
@@ -170,3 +152,38 @@ hermetically sealed set of tools. H-Net doesn’t need to be Google-Plus
 to the Facebook of blogs and Twitter; with some slight tweaking, it can
 continue to coexist and play a role in a Web that includes those
 services. Indeed, it already does.
+
+  [H-Net 2.0?]: http://mcdaniel.blogs.rice.edu/?p=171
+    "Permanent Link: H-Net 2.0?"
+  [Mills Kelly wrote a provocative post]: http://edwired.org/2007/09/10/the-end-of-h-net/
+  [H-Net]: http://www.h-net.org/
+  [change or die]: http://chronicle.com/article/Change-or-Die-Scholarly/46962/
+  [H-SHEAR]: http://www.h-net.org/shear
+  [posted to the H-SHEAR list]: http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=WIdGkCV%2bYgJeRlYXsR0OEQ&user=&pw=
+  [SHEAR]: http://www.shear.org
+  [Mark Cheathem]: http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=bSwZGcrRTZFjkInzLfWmRg&user=&pw=
+  [Daniel Kilbride]: http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1107&week=b&msg=sdM0WOmck9hSb1jtYM1sgw&user=&pw=
+  [using the hashtag Costanzo had proposed]: http://twitter.com/#!/search/%23shear2011
+  [@raherrmann]: http://twitter.com/Raherrmann
+  [@JennieGoloboy]: http://twitter.com/JennieGoloboy
+  [@wptiii]: http://twitter.com/wptiii
+  [@KathrynTomasek]: http://twitter.com/KathrynTomasek
+  [@adam\_costanzo]: http://twitter.com/adam_costanzo
+  [@markcheathem]: http://twitter.com/markcheathem
+  [his blog]: http://mcheathem.wordpress.com/
+  [@wcaleb]: http://twitter.com/wcaleb
+  [likely to be a problem for the foreseeable future]: http://chronicle.com/blogs/profhacker/the-end-of-twapperkeeper-and-what-to-do-about-it/31582
+  [Internet citations and research standards]: http://h-net.msu.edu/cgi-bin/logbrowse.pl?trx=vx&list=H-SHEAR&month=1104&week=d&msg=1rvV6eW8LvgcW4mtpU%2b%2bsQ&user=&pw=
+  [John Fee]: http://www.philipvickersfithian.com/2011/04/historians-and-online-sources.html
+  [1]: http://mcheathem.wordpress.com/2011/04/28/should-historians-utilize-online-sources/
+  [the Historical Society]: http://histsociety.blogspot.com/2011/05/standards-of-citation-and-internet.html
+  [http://twitter.com/\#!/cliotropic/status/63226728495054848]: http://twitter.com/#!/cliotropic/status/63226728495054848
+  [http://twitter.com/\#!/cliotropic/status/63046105671282689]: http://twitter.com/#!/cliotropic/status/63046105671282689
+  [http://twitter.com/\#!/jnthnwwlsn/status/63023593952509952]: http://twitter.com/#!/jnthnwwlsn/status/63023593952509952
+  [http://twitter.com/KevinLevin/status/63251444886806528]: http://twitter.com/KevinLevin/status/63251444886806528
+  [http://twitter.com/cliotropic/status/63250983853105153]: http://twitter.com/cliotropic/status/63250983853105153
+  [http://twitter.com/jmadelman/status/63249219737223168]: http://twitter.com/jmadelman/status/63249219737223168
+  [http://twitter.com/jmadelman/status/63277736793354241]: http://twitter.com/jmadelman/status/63277736793354241
+  [http://twitter.com/jhrees/status/67618584771309568]: http://twitter.com/jhrees/status/67618584771309568
+  [http://twitter.com/wcaleb/status/63276620798115840]: http://twitter.com/wcaleb/status/63276620798115840
+  [open-access, scholarly book reviews]: http://www.h-net.org/reviews
