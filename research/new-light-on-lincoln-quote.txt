@@ -2,24 +2,20 @@
 % W. Caleb McDaniel 
 % April 2, 2011
 
-This post was originally published on my old blog as [New light on a Lincoln quote](http://mcdaniel.blogs.rice.edu/?p=126 "Permanent Link: New light on a Lincoln quote").
-
----
+<div id="abstract">
+This post was originally published on my old blog as [New light on a
+Lincoln quote][].
+</div>
 
 In an age of word clouds, topic modeling, text mining, and infinite
 archives, it’s not surprising that many discussions about digital
 history focus on the “big” uses of things like keyword searching and
 digitized texts. For historians, access to huge archives of online text
 raises important questions about [how to read—and how not to read—a
-million
-books](http://www3.isrl.illinois.edu/~unsworth/hownot2read.html). Big
-archives also create exciting opportunities for visualization and text
-analysis like [Building the Digital
-Lincoln](http://www.journalofamericanhistory.org/projects/lincoln/media/pinsker/),
-Rob Nelson’s [Mining the
-Dispatch](http://americanpast.richmond.edu/dispatch/), and Cameron
-Blevins’ [work on Martha Ballard’s
-diary](http://historying.org/2009/08/31/text-analysis-of-martha-ballards-diary-part-1/).
+million books][]. Big archives also create exciting opportunities for
+visualization and text analysis like [Building the Digital Lincoln][],
+Rob Nelson’s [Mining the Dispatch][], and Cameron Blevins’ [work on
+Martha Ballard’s diary][].
 
 But with all these exciting new ventures, it’s sometimes easy to lose
 sight of the fact that simple keyword searches can still offer
@@ -32,17 +28,16 @@ result. But that was enough to enable me to shed some new light on an
 old Lincoln quote.
 
 \
- [The speech that Lincoln gave in Peoria,
-Illinois](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=republican%20robe;rgn=div1;view=text;idno=lincoln2;node=lincoln2:282;hi=0),
-on October 16, 1854, is significant for many reasons. It marks Lincoln’s
-return to politics at a time when he was still a little-known free-soil
-politician whose only experience in national politics had been a short
-stint in the House of Representatives. The speech detailed Lincoln’s
-opposition to the Kansas-Nebraska Act and synthesized the arguments that
-were galvanizing the new Republican Party that would ultimately vault
-Lincoln into the White House. And it contains some of Lincoln’s most
-stirring prose about the damage that slavery was doing to the country
-that he loved.
+ [The speech that Lincoln gave in Peoria, Illinois][], on October 16,
+1854, is significant for many reasons. It marks Lincoln’s return to
+politics at a time when he was still a little-known free-soil politician
+whose only experience in national politics had been a short stint in the
+House of Representatives. The speech detailed Lincoln’s opposition to
+the Kansas-Nebraska Act and synthesized the arguments that were
+galvanizing the new Republican Party that would ultimately vault Lincoln
+into the White House. And it contains some of Lincoln’s most stirring
+prose about the damage that slavery was doing to the country that he
+loved.
 
 At Peoria, for example, Lincoln declared that he hated the “zeal” for
 slavery’s expansion manifested by the Kansas-Nebraska Act. “I hate it
@@ -78,9 +73,8 @@ source. The quoted text reads:
 
 I had long wondered where the quotation came from, but the existing
 secondary literature on Lincoln sheds no light on the question. The
-*Collected Works of Abraham Lincoln*, which are
-[online](http://quod.lib.umich.edu/l/lincoln/), retain the internal
-quotation marks around that phrase, but there is no annotation
+*Collected Works of Abraham Lincoln*, which are [online][], retain the
+internal quotation marks around that phrase, but there is no annotation
 indicating its source.
 
 So one day last summer, it occurred to me to do a quick search in
@@ -99,21 +93,17 @@ published under the headline, “Mr. Soule’s ‘Vulgar Turbulence’–George
 Sanders.” It was a long editorial complaining about the recent behavior
 of two American ambassadors in Europe, who had recently made waves with
 several brazen attempts to pressure Spain into selling slaveholding Cuba
-to the United States. First, in 1854, [Pierre
-Soulé](http://en.wikipedia.org/wiki/Pierre_Soulé) had helped author the
-provocative [Ostend
-Manifesto](http://en.wikipedia.org/wiki/Ostend_Manifesto), and he was
-accused of trying to wrangle Cuba away from Spain by exploiting the
-distractions Madrid then faced from threats of internal revolution by
-liberal reformers. Meanwhile, [George N.
-Sanders](http://en.wikipedia.org/wiki/George_Nicholas_Sanders), in
-addition to revealing some anti-republican sentiments in comments he
-made on the political condition of Switzerland, had recently denounced
-an antislavery letter published by the Italian revolutionary Giuseppe
-Mazzini. He had also attempted to persuade Lajos Kossuth, the famous
-Hungarian revolutionary living in exile in England, to issue a statement
-dissociating European revolutionaries from the antislavery cause in
-America.
+to the United States. First, in 1854, [Pierre Soulé][] had helped author
+the provocative [Ostend Manifesto][], and he was accused of trying to
+wrangle Cuba away from Spain by exploiting the distractions Madrid then
+faced from threats of internal revolution by liberal reformers.
+Meanwhile, [George N. Sanders][], in addition to revealing some
+anti-republican sentiments in comments he made on the political
+condition of Switzerland, had recently denounced an antislavery letter
+published by the Italian revolutionary Giuseppe Mazzini. He had also
+attempted to persuade Lajos Kossuth, the famous Hungarian revolutionary
+living in exile in England, to issue a statement dissociating European
+revolutionaries from the antislavery cause in America.
 
 The appearance of proslavery diplomats like these “in any of the
 capitals of Europe,” opined the *Daily News*, “is a symptom of peril
@@ -172,22 +162,18 @@ finally, is that Lincoln understood himself not just as an American, but
 as a member of a broader “liberal party throughout the world.” In fact,
 only three years before Lincoln read about Sanders’s efforts to pressure
 Kossuth to disavow abolitionism, Lincoln had actually served on [a
-welcoming committee in Illinois organized to greet
-Kossuth](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=kossuth;rgn=div1;view=text;idno=lincoln2;node=lincoln2%3A183)
-on his famous 1851 tour of the United States. That fact is suggestive
-evidence of Lincoln’s long-standing interest in the fortunes of European
+welcoming committee in Illinois organized to greet Kossuth][] on his
+famous 1851 tour of the United States. That fact is suggestive evidence
+of Lincoln’s long-standing interest in the fortunes of European
 revolutionaries and reformers.
 
 Also suggestive is one of the items found among [the things Lincoln was
-carrying on the night that he was
-assassinated](http://www.loc.gov/exhibits/treasures/trm012.html)
-(incidentally, a crime in which the same George N. Sanders was
-implicated). As Lincoln sat in Ford’s Theater watching a popular English
-play, there were nine newspaper clippings carefully folded in his
-leather wallet. And one of them was the report of [a speech by the
-English liberal John
-Bright](http://www.loc.gov/exhibits/treasures/images/vc50e.1c.jpg), a
-parliamentary reformer and ardent supporter of the Union cause.
+carrying on the night that he was assassinated][] (incidentally, a crime
+in which the same George N. Sanders was implicated). As Lincoln sat in
+Ford’s Theater watching a popular English play, there were nine
+newspaper clippings carefully folded in his leather wallet. And one of
+them was the report of [a speech by the English liberal John Bright][],
+a parliamentary reformer and ardent supporter of the Union cause.
 
 In the speech, Bright spoke of his support for the reelection of Lincoln
 in 1864 (which indicates Lincoln had been carrying it for some time).
@@ -240,26 +226,41 @@ of primary sources.
 
 We should be excited, but we should also take an active interest in how
 that digitization is done. Six years ago, this is the sort of discovery
-that I dreamed that [the keyword
-revolution](http://modeforcaleb.blogspot.com/2005/05/keyword-revolution.html)
-would make possible. And I suspect that for most historians, the
-advantages of the method I’ve used for this post are more familiar and
-more obvious than the advantages of computer-generated search techniques
-like algorithmic text mining. But it is worth noting that whether you
-are text mining, or you are punching in a simple string of text into a
-search box to discover its source, the size of the corpus you are
-searching matters a great deal, as does the way that corpus is digitized
-and made accessible to historians. Experiences like this one remind me
-of how important it is for historians—even those who don’t define
-themselves as “digital historians”—to pay attention to issues like [the
-problems with Optical Character
-Recognition](http://www.nytimes.com/2011/03/29/science/29recaptcha.html),
-or Shane Landrum’s [caveat
-lector](http://cliotropic.org/blog/2011/03/proquest-historical-serials-caveat-lector/)
-to users of ProQuest, or Ben Schmidt’s post on [what historians don’t
-know about database
-design](http://sappingattention.blogspot.com/2011/03/what-historians-dont-know-about.html).
-You may not care a lick about Wordle or know a thing about topic
-modeling. But if you think it’s useful and interesting to learn who
-Abraham Lincoln was quoting in one of his most important speeches, these
-are issues that should matter to you. Increasingly, they matter to me.
+that I dreamed that [the keyword revolution][] would make possible. And
+I suspect that for most historians, the advantages of the method I’ve
+used for this post are more familiar and more obvious than the
+advantages of computer-generated search techniques like algorithmic text
+mining. But it is worth noting that whether you are text mining, or you
+are punching in a simple string of text into a search box to discover
+its source, the size of the corpus you are searching matters a great
+deal, as does the way that corpus is digitized and made accessible to
+historians. Experiences like this one remind me of how important it is
+for historians—even those who don’t define themselves as “digital
+historians”—to pay attention to issues like [the problems with Optical
+Character Recognition][], or Shane Landrum’s [caveat lector][] to users
+of ProQuest, or Ben Schmidt’s post on [what historians don’t know about
+database design][]. You may not care a lick about Wordle or know a thing
+about topic modeling. But if you think it’s useful and interesting to
+learn who Abraham Lincoln was quoting in one of his most important
+speeches, these are issues that should matter to you. Increasingly, they
+matter to me.
+
+  [New light on a Lincoln quote]: http://mcdaniel.blogs.rice.edu/?p=126
+    "Permanent Link: New light on a Lincoln quote"
+  [how to read—and how not to read—a million books]: http://www3.isrl.illinois.edu/~unsworth/hownot2read.html
+  [Building the Digital Lincoln]: http://www.journalofamericanhistory.org/projects/lincoln/media/pinsker/
+  [Mining the Dispatch]: http://americanpast.richmond.edu/dispatch/
+  [work on Martha Ballard’s diary]: http://historying.org/2009/08/31/text-analysis-of-martha-ballards-diary-part-1/
+  [The speech that Lincoln gave in Peoria, Illinois]: http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=republican%20robe;rgn=div1;view=text;idno=lincoln2;node=lincoln2:282;hi=0
+  [online]: http://quod.lib.umich.edu/l/lincoln/
+  [Pierre Soulé]: http://en.wikipedia.org/wiki/Pierre_Soulé
+  [Ostend Manifesto]: http://en.wikipedia.org/wiki/Ostend_Manifesto
+  [George N. Sanders]: http://en.wikipedia.org/wiki/George_Nicholas_Sanders
+  [a welcoming committee in Illinois organized to greet Kossuth]: http://quod.lib.umich.edu/cgi/t/text/text-idx?c=lincoln;cc=lincoln;q1=kossuth;rgn=div1;view=text;idno=lincoln2;node=lincoln2%3A183
+  [the things Lincoln was carrying on the night that he was
+  assassinated]: http://www.loc.gov/exhibits/treasures/trm012.html
+  [a speech by the English liberal John Bright]: http://www.loc.gov/exhibits/treasures/images/vc50e.1c.jpg
+  [the keyword revolution]: http://modeforcaleb.blogspot.com/2005/05/keyword-revolution.html
+  [the problems with Optical Character Recognition]: http://www.nytimes.com/2011/03/29/science/29recaptcha.html
+  [caveat lector]: http://cliotropic.org/blog/2011/03/proquest-historical-serials-caveat-lector/
+  [what historians don’t know about database design]: http://sappingattention.blogspot.com/2011/03/what-historians-dont-know-about.html

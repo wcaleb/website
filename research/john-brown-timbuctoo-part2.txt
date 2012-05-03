@@ -2,16 +2,15 @@
 % W. Caleb McDaniel 
 % September 3, 2010
 
-This post was originally published on my old blog as [In Search of John Brown’s Timbucto, Part II](http://mcdaniel.blogs.rice.edu/?p=46 "Permanent Link: In Search of John Brown’s Timbucto, Part II").
+<div id="abstract">
+This post was originally published on my old blog as [In Search of John
+Brown’s Timbucto, Part II][].
+</div>
 
----
-
-In [Part I](http://mcdaniel.blogs.rice.edu/?p=14), inspired by a
-*Washington Post*
-[article](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/02/AR2010080205217.html)
-about archaeologists who are uncovering an early nineteenth-century
-African American town in Timbuctoo, N.J., I set out to discover how
-another black community in upstate New York got the name “Timbucto.”
+In [Part I][], inspired by a *Washington Post* [article][] about
+archaeologists who are uncovering an early nineteenth-century African
+American town in Timbuctoo, N.J., I set out to discover how another
+black community in upstate New York got the name “Timbucto.”
 
 As I explained in that post, being certain about who named the New York
 “Timbucto” (which is most famous for its association with the famous
@@ -70,8 +69,7 @@ eighteenth-century explorers.
 
 In a recent celebrated book on Romanticism and eighteenth-century
 science, [Richard Holmes discusses the mystique that thus surrounded
-Timbuktu](http://books.google.com/books?id=CmoALmtxN2QC&pg=PA212#v=onepage&q&f=false)
-in Europe by 1800:
+Timbuktu][] in Europe by 1800:
 
 > The great prize was to reach the semi-legendary city of Timbuctoo,
 > somewhere south of the Sahara. Here, it was said, lay a great West
@@ -103,19 +101,16 @@ non-Africans (and particularly non-Muslims) trying to reaching the city.
 This was especially true after the publication of reports that A. G.
 Laing, another Scotsman, had reached the city in 1826, only to be
 murdered before he could return to announce his success. [Alfred
-Tennyson’s prize-winning 1829
-poem](http://www.sc.edu/library/spcoll/britlit/tenn/timb.html)
-“Timbuctoo” played on both ideas (the brilliant beauty and allure of the
-city, as well as the danger and difficulty of reaching it) by comparing
-it to other mythical or “mystick” cities like Atlantis and El Dorado.
+Tennyson’s prize-winning 1829 poem][] “Timbuctoo” played on both ideas
+(the brilliant beauty and allure of the city, as well as the danger and
+difficulty of reaching it) by comparing it to other mythical or
+“mystick” cities like Atlantis and El Dorado.
 
 But in 1828, a Frenchman named René Caillié finally reached the fabled
 city and lived to tell the tale, publishing a two-volume book, [*Travels
-through Central Africa to
-Timbuctoo*](http://books.google.com/books?id=u7xjAAAAMAAJ), about his
-journey. Though some also cast doubt on Caillié’s account, it won him a
-fair amount of fame on both sides of the Atlantic. And [the account of
-how he did it](http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA49)
+through Central Africa to Timbuctoo*][], about his journey. Though some
+also cast doubt on Caillié’s account, it won him a fair amount of fame
+on both sides of the Atlantic. And [the account of how he did it][]
 certainly satisfied readers who probably already assumed, thanks to
 stories about Mungo Park, that the trek would be perilous.
 
@@ -127,8 +122,7 @@ Timbuktu that still floated in the European or American imagination,
 dismissing the “exaggerated notions” that had long prevailed about “this
 mysterious city, which has been an object of curiosity for so many
 ages.” In fact, Caillié sheepishly confessed that upon reaching the
-city, [he was sorely
-disappointed](http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA49).
+city, [he was sorely disappointed][the account of how he did it].
 
 > How many grateful thanksgivings did I pour forth for the protection
 > which God had vouchsafed to me, amidst obstacles and dangers which
@@ -144,15 +138,16 @@ The only golden nuggets here, in other words, were grains of yellow
 sand.
 
 [![Clipped from Google Books at
-http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA74-IA1&img=1&zoom=3&hl=en&sig=ACfU3U0kSP516SmOIA8Bi8PJpisdXXqpgA&ci=130%2C495%2C660%2C842&edge=0](http://mcdaniel.blogs.rice.edu/files/2010/09/Caillie.jpg)](http://mcdaniel.blogs.rice.edu/files/2010/09/Caillie.jpg)
+http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA74-IA1&img=1&zoom=3&hl=en&sig=ACfU3U0kSP516SmOIA8Bi8PJpisdXXqpgA&ci=130%2C495%2C660%2C842&edge=0][]][Clipped
+from Google Books at
+http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA74-IA1&img=1&zoom=3&hl=en&sig=ACfU3U0kSP516SmOIA8Bi8PJpisdXXqpgA&ci=130%2C495%2C660%2C842&edge=0]
 
 So … where does all of this get us in our search for an answer to why
 the New Jersey and New York settlements, founded respectively in the
 1820s and the 1840s, took their name from Timbuktu? Well, the various
 reports of journeys to Timbuktu from Park to Caillié certainly mean that
 around the time of these settlements’ founding, there was a discourse
-surrounding the African city and, as [a quick Google Books
-search](http://www.google.com/search?tbs=bks:1,bkv:a,cdr:1,cd_min:Jan%201_2%201800,cd_max:Dec%2031_2%201850&tbo=p&q=timbucto+OR+timbuktu+OR+timbuctoo&num=100)
+surrounding the African city and, as [a quick Google Books search][]
 reveals, there was a fair number of published mentions of the place on
 both sides of the Atlantic between 1800 and 1850.
 
@@ -190,10 +185,8 @@ viewed the “Timbuctoo” name for John Brown’s North Elba community as a
 “half-humorous, half-pathetic legend,” and the brief history I’ve
 sketched in this post makes it plausible to imagine hostile whites using
 the name in the same way a century before Donaldson wrote. A
-[contemporary magazine
-article](http://books.google.com/books?id=SzQaAQAAIAAJ&pg=PA22) provides
-at least one such example of a racist, parodic essay from the period
-that pokes fun at Timbuctoo.
+[contemporary magazine article][] provides at least one such example of
+a racist, parodic essay from the period that pokes fun at Timbuctoo.
 
 **Abolitionists and Timbuktu**
 
@@ -211,8 +204,7 @@ granted the largely positive legends surrounding Timbuktu and used them
 to advance different kinds of antislavery arguments.
 
 For example, in an 1824 article in the *North American Review*, a writer
-sympathetic to the aims of [The American Colonization
-Society](http://www.loc.gov/exhibits/african/afam002.html), which
+sympathetic to the aims of [The American Colonization Society][], which
 advocated the removal of free black men and women from the United States
 to western Africa, mentioned “Timbuctoo” in order to support the
 colonizationists’ argument. This writer described Timbuctoo as a
@@ -236,8 +228,7 @@ the unhallowed foot of a slave dealer–civilization advances and the arts
 of social life [flourish]–the natives cultivate the cotton and indigo.”
 
 References to “Timbuctoo” in antislavery literature also spiked slightly
-in 1828 thanks to the publicity that year surrounding [Abd
-al-Rahman](http://en.wikipedia.org/wiki/Abdulrahman_Ibrahim_Ibn_Sori)
+in 1828 thanks to the publicity that year surrounding [Abd al-Rahman][]
 (or Abduhl Rahahman, in contemporary sources), who became widely known
 to Americans in that year because of his improbable, but apparently
 likely, story. Born the son of a Fulbe chief in Africa, Abd al-Rahman
@@ -249,13 +240,11 @@ of the “Prince of Timbo” so he could return to Africa, and the
 Colonization Society sponsored a celebrated lecturing tour in the North.
 In Washington, the Prince met with President John Quincy Adams, who
 recorded the encounter in his diary on May 15, 1828 ([click for a page
-image of the
-diary](http://www.masshist.org/jqadiaries/doc.cfm?id=jqad37_538)). As he
-toured Northern cities, Abd al-Rahman also attracted crowds who were
-fascinated by his ability to write Arabic script. (He often wrote out
-souvenir cards with what curiosity-seekers thought was the Lord’s Prayer
-in Arabic; it turns out that, unbeknownst to his admirers, he was
-writing bits of the Koran.)
+image of the diary][]). As he toured Northern cities, Abd al-Rahman also
+attracted crowds who were fascinated by his ability to write Arabic
+script. (He often wrote out souvenir cards with what curiosity-seekers
+thought was the Lord’s Prayer in Arabic; it turns out that, unbeknownst
+to his admirers, he was writing bits of the Koran.)
 
 Though Abd al-Rahman was from “Timbo,” several sources I’ve seen changed
 this to “Timbuctoo,” perhaps conflating the two places in ignorance. It
@@ -273,30 +262,25 @@ Abd al-Rahman was a perfect illustration.
 
 But Abd al-Rahman captured the interest of African American
 abolitionists in particular, especially the early pan-Africanist and
-black emigrationist [John Brown
-Russwurm](http://en.wikipedia.org/wiki/John_Brown_Russwurm). Russwurm
-had mentioned the “far-famed city of Timbuctoo” in an 1827 essay
-published in the New York City *Freedom’s Journal*, the first African
-American newspaper in the United States. And in Russwurm’s pioneering
-article, “The Mutability of Human Affairs,” Timbuctoo appears as part of
-a larger, mournful argument about how the great ancient civilizations of
-Africa have been forgotten. (You can download a full, PDF issue of
-*Freedom’s Journal* in which Russwurm’s essay appeared
-[here](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v1n05.pdf),
-thanks to the [Wisconsin Historical Society’s
-archive](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/)
-of the paper.) In 1828 the *Journal* reported with great interest on Abd
-al-Rahman’s Northern tour; in one issue
-([PDF](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n32.pdf))
+black emigrationist [John Brown Russwurm][]. Russwurm had mentioned the
+“far-famed city of Timbuctoo” in an 1827 essay published in the New York
+City *Freedom’s Journal*, the first African American newspaper in the
+United States. And in Russwurm’s pioneering article, “The Mutability of
+Human Affairs,” Timbuctoo appears as part of a larger, mournful argument
+about how the great ancient civilizations of Africa have been forgotten.
+(You can download a full, PDF issue of *Freedom’s Journal* in which
+Russwurm’s essay appeared [here][], thanks to the [Wisconsin Historical
+Society’s archive][] of the paper.) In 1828 the *Journal* reported with
+great interest on Abd al-Rahman’s Northern tour; in one issue ([PDF][])
 Russwurm reprinted an article from the New York *Journal of Commerce*
 reporting on the presence of the “native Prince of Timbuctoo,”
 continuing that “Abduhl Rahahman” had been confirming the glowing
 reports of the African city’s commercial wealth and opportunities.
 Russwurm also met Abd al-Rahman himself in Washington, and he mentioned
 the encounter in a *Freedom’s Journal* article on August 29, 1828
-([PDF](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n48.pdf)).
-Russwurm reported that Timbuctoo was one of several cities of great size
-in the African interior and praised Abd Al-Rahman’s extensive learning:
+([PDF][1]). Russwurm reported that Timbuctoo was one of several cities
+of great size in the African interior and praised Abd Al-Rahman’s
+extensive learning:
 
 > It must be evident to every one that the Prince is a man superior to
 > the generality of Africans whom we behold in this country. His
@@ -322,9 +306,8 @@ tradition of discourse about the city explains why African American
 abolitionists and writers also appear to have been quite interested by
 the journeys of Laing and Caillié to the city. The *Freedom’s Journal*,
 for example, noticed the reports about Laing and Caillié in several
-issues in late 1828 and 1829 (especially on [December 26,
-1828](http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n39.pdf);
-as well as on March 28, 1829; and August 10, 1829).
+issues in late 1828 and 1829 (especially on [December 26, 1828][]; as
+well as on March 28, 1829; and August 10, 1829).
 
 **Inconclusive Conclusions**
 
@@ -358,10 +341,9 @@ telling that after 1830, references to the name Timbuctoo, while
 relatively common in *Freedom’s Journal* did not appear other than once
 or twice in other African American titles from the period included in
 the [Accessible Archives database of antebellum free black
-newspapers](http://www.accessible.com/accessible/about/aboutAA.jsp). So
-perhaps the selection of the name “Timbuctoo” for a New Jersey town was
-meant to convey, in the colonizationist atmosphere of the 1820s, a
-subtle but biting political message: home was *here*.
+newspapers][]. So perhaps the selection of the name “Timbuctoo” for a
+New Jersey town was meant to convey, in the colonizationist atmosphere
+of the 1820s, a subtle but biting political message: home was *here*.
 
 Ambiguity also clouds the apparently straightforward use of Timbuctoo by
 abolitionists when we turn to John Brown’s New York settlement. This is
@@ -452,38 +434,63 @@ researchers who, according to the *Post* article that inspired these
 posts, are still trying to figure out how and why Timbuctoo, New Jersey,
 got its name.
 
-**Sources**
+## Sources ## 
 
 There is a decent summary of European attempts to reach Timbuktu on
-[Wikipedia](http://en.wikipedia.org/wiki/Timbuktu#Contact_with_the_West),
-but I also relied on the Oxford Dictionary of National Biography entry
-on Mungo Park, as well as Galbraith Welch’s *[The Unveiling of
-Timbuctoo: the Astounding Adventures of
-Caillié](http://www.worldcat.org/title/unveiling-of-timbuctoo-the-astounding-adventures-of-caillie/oclc/483565021)*
-(1938); and Richard Holmes, *The Age of Wonder: How the Romantic
-Generation Discovered the Beauty and Terror of Science* (2008). The
-quote from Holmes comes on p. 212. **§** For the supporter of
-colonizationism who mentioned Timbuctoo, see “The Sixth Annual Report of
-the American Society for Colonizing the Free People of Color of the
-United States …,” *North American Review* (January 1824), available in
-the American Periodical Series Online database from ProQuest. **§** For
-the article in the *Genius of Universal Emancipation*, see p. 260 in the
-15 April 1826 issue, also available in the APS Online database. **§**
-There is a fascinating biographical sketch of Abd al-Rahman Ibrahima in
-Jill Lepore’s *A is for American: Letters and Other Characters in the
-Newly United States* (2002), pp. 111-136. You can also see [a portrait
-of him at the New York Public
-Library](http://abolition.nypl.org/images/us_slave_trade/4/36) website.
-**§** You can read more about Russwurm in a new biography by Winston
-James, [*The Struggles of John Brown Russwurm: The Life and Writings of
-a Pan-Africanist Pioneer,
-1799-1851*](http://www.amazon.com/Struggles-John-Brown-Russwurm-Pan-Africanist/dp/0814742904/)
-(2010). The issues of *Freedom’s Journal* cited or used in this post
-were published in 1827 (April 6, April 13); 1828 (August 29, October 31,
-December 26); and 1829 (February 28, March 28). **§** The quoted letters
-by John Brown’s sons can be found in the John Brown Jr. papers at the
-[Ohio Historical
-Society](http://www.ohiohistory.org/resource/archlib/index.html#collections),
-MSS 47: see John Brown Jr. to Mary A. Brown, 13 October 1849; Owen’s
-letter contained in Jason Brown to John Brown Jr., 15 February 1853;
-Jason Brown to John Brown Jr. and Wealthy Brown, 13 March 1853.
+[Wikipedia][], but I also relied on the Oxford Dictionary of National
+Biography entry on Mungo Park, as well as Galbraith Welch’s *[The
+Unveiling of Timbuctoo: the Astounding Adventures of Caillié][]* (1938);
+and Richard Holmes, *The Age of Wonder: How the Romantic Generation
+Discovered the Beauty and Terror of Science* (2008). The quote from
+Holmes comes on p. 212. **§** For the supporter of colonizationism who
+mentioned Timbuctoo, see “The Sixth Annual Report of the American
+Society for Colonizing the Free People of Color of the United States …,”
+*North American Review* (January 1824), available in the American
+Periodical Series Online database from ProQuest. **§** For the article
+in the *Genius of Universal Emancipation*, see p. 260 in the 15 April
+1826 issue, also available in the APS Online database. **§** There is a
+fascinating biographical sketch of Abd al-Rahman Ibrahima in Jill
+Lepore’s *A is for American: Letters and Other Characters in the Newly
+United States* (2002), pp. 111-136. You can also see [a portrait of him
+at the New York Public Library][] website. **§** You can read more about
+Russwurm in a new biography by Winston James, [*The Struggles of John
+Brown Russwurm: The Life and Writings of a Pan-Africanist Pioneer,
+1799-1851*][] (2010). The issues of *Freedom’s Journal* cited or used in
+this post were published in 1827 (April 6, April 13); 1828 (August 29,
+October 31, December 26); and 1829 (February 28, March 28). **§** The
+quoted letters by John Brown’s sons can be found in the John Brown Jr.
+papers at the [Ohio Historical Society][], MSS 47: see John Brown Jr. to
+Mary A. Brown, 13 October 1849; Owen’s letter contained in Jason Brown
+to John Brown Jr., 15 February 1853; Jason Brown to John Brown Jr. and
+Wealthy Brown, 13 March 1853.
+
+  [In Search of John Brown’s Timbucto, Part II]: http://mcdaniel.blogs.rice.edu/?p=46
+    "Permanent Link: In Search of John Brown’s Timbucto, Part II"
+  [Part I]: http://mcdaniel.blogs.rice.edu/?p=14
+  [article]: http://www.washingtonpost.com/wp-dyn/content/article/2010/08/02/AR2010080205217.html
+  [Richard Holmes discusses the mystique that thus surrounded Timbuktu]:
+    http://books.google.com/books?id=CmoALmtxN2QC&pg=PA212#v=onepage&q&f=false
+  [Alfred Tennyson’s prize-winning 1829 poem]: http://www.sc.edu/library/spcoll/britlit/tenn/timb.html
+  [*Travels through Central Africa to Timbuctoo*]: http://books.google.com/books?id=u7xjAAAAMAAJ
+  [the account of how he did it]: http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA49
+  [Clipped from Google Books at
+  http://books.google.com/books?id=u7xjAAAAMAAJ&pg=PA74-IA1&img=1&zoom=3&hl=en&sig=ACfU3U0kSP516SmOIA8Bi8PJpisdXXqpgA&ci=130%2C495%2C660%2C842&edge=0]:
+    http://mcdaniel.blogs.rice.edu/files/2010/09/Caillie.jpg
+  [a quick Google Books search]: http://www.google.com/search?tbs=bks:1,bkv:a,cdr:1,cd_min:Jan%201_2%201800,cd_max:Dec%2031_2%201850&tbo=p&q=timbucto+OR+timbuktu+OR+timbuctoo&num=100
+  [contemporary magazine article]: http://books.google.com/books?id=SzQaAQAAIAAJ&pg=PA22
+  [The American Colonization Society]: http://www.loc.gov/exhibits/african/afam002.html
+  [Abd al-Rahman]: http://en.wikipedia.org/wiki/Abdulrahman_Ibrahim_Ibn_Sori
+  [click for a page image of the diary]: http://www.masshist.org/jqadiaries/doc.cfm?id=jqad37_538
+  [John Brown Russwurm]: http://en.wikipedia.org/wiki/John_Brown_Russwurm
+  [here]: http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v1n05.pdf
+  [Wisconsin Historical Society’s archive]: http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/
+  [PDF]: http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n32.pdf
+  [1]: http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n48.pdf
+  [December 26, 1828]: http://www.wisconsinhistory.org/libraryarchives/aanp/freedom/docs/v2n39.pdf
+  [Accessible Archives database of antebellum free black newspapers]: http://www.accessible.com/accessible/about/aboutAA.jsp
+  [Wikipedia]: http://en.wikipedia.org/wiki/Timbuktu#Contact_with_the_West
+  [The Unveiling of Timbuctoo: the Astounding Adventures of Caillié]: http://www.worldcat.org/title/unveiling-of-timbuctoo-the-astounding-adventures-of-caillie/oclc/483565021
+  [a portrait of him at the New York Public Library]: http://abolition.nypl.org/images/us_slave_trade/4/36
+  [*The Struggles of John Brown Russwurm: The Life and Writings of a
+  Pan-Africanist Pioneer, 1799-1851*]: http://www.amazon.com/Struggles-John-Brown-Russwurm-Pan-Africanist/dp/0814742904/
+  [Ohio Historical Society]: http://www.ohiohistory.org/resource/archlib/index.html#collections

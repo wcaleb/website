@@ -2,38 +2,37 @@
 % Caleb McDaniel
 % March 9, 2011
 
+<div id="abstract">
+This page was originally posted on my old blog as [The Case of John L.
+Brown][].
+</div>
+
 Last Friday, I was very fortunate to be a presenter at the annual
-conference of the [Carolina Lowcountry and the Atlantic World
-program](http://spinner.cofc.edu/atlanticworld/?referrer=webcluster&) at
-the College of Charleston. This year’s topic, [“Civil War–Global
-Conflict,”](http://spinner.cofc.edu/atlanticworld/civilwar/index.html)
-attracted a great slate of fascinating papers.
+conference of the [Carolina Lowcountry and the Atlantic World program][]
+at the College of Charleston. This year’s topic, [“Civil War–Global
+Conflict,”][] attracted a great slate of fascinating papers.
 
 Best of all, the conference organizers asked for presenters to
 pre-circulate drafts of any length, so the sessions were devoted mostly
 to discussion. [I’m posting the paper that I circulated for the
-conference](http://scholarship.rice.edu/handle/1911/37261) in Rice’s
-digital repository ([here’s how and why](index.html%3Fp=75.html)), and I
-would welcome any feedback about the paper if you have a chance to read
-it. Click below for a full abstract.
+conference][] in Rice’s digital repository ([here’s how and why][]), and
+I would welcome any feedback about the paper if you have a chance to
+read it. Click below for a full abstract.
 
 My paper is about the infamous Southern trial in which John Brown was
 sentenced to death by hanging for aiding slave flight. But I’m not
-talking about [*that* John
-Brown](http://www2.iath.virginia.edu/jbrown/master.html). I’m talking
-about the much less famous John L. Brown.
+talking about [*that* John Brown][]. I’m talking about the much less
+famous John L. Brown.
 
 John L. Brown was tried and sentenced to hang in South Carolina, not in
 Virginia. And his alleged crime (and I say alleged because I am not sure
 whether I believe Brown was guilty) was helping an enslaved woman named
 Hetty to escape in the fall of 1843. Brown appealed his initial
 conviction, but to no avail. (You can [read all about the appeals trial
-right
-here](http://books.google.com/books?id=Z6sKAAAAYAAJ&pg=PA129#v=onepage&q=&f=false),
-in the *Reports of Cases at Law, Argued and Determined in the Court of
-Appeals of South Carolina* [1844]). On the basis of a state law that
-made it a capital offense to entice slaves to run away, John L. Brown
-was sentenced to die on April 26, 1844.
+right here][], in the *Reports of Cases at Law, Argued and Determined in
+the Court of Appeals of South Carolina* [1844]). On the basis of a state
+law that made it a capital offense to entice slaves to run away, John L.
+Brown was sentenced to die on April 26, 1844.
 
 Before that could happen, however, Brown’s sentence attracted widespread
 attention in the Northern press, especially from abolitionists. Soon,
@@ -68,13 +67,11 @@ Southerners, including Governor Hammond himself and the sentencing judge
 John Bolton O’Neall, spoke back directly to British abolitionists in
 defense of the state’s actions. Indeed, the Brown trial was the
 immediate trigger that [prompted Hammond to write what became a
-“proslavery
-classic,”](http://books.google.com/books?id=29YtAAAAYAAJ&pg=PR4#v=onepage&q=&f=false)in
-the words of his biographer Drew Gilpin Faust. For the previous decade,
-most Southern political leaders had argued that the best way to deal
-with abolitionists was to silence and ignore them. So the reaction of
-Hammond and O’Neall to the protests over Brown’s trial represented
-something of a departure.
+“proslavery classic,”][]in the words of his biographer Drew Gilpin
+Faust. For the previous decade, most Southern political leaders had
+argued that the best way to deal with abolitionists was to silence and
+ignore them. So the reaction of Hammond and O’Neall to the protests over
+Brown’s trial represented something of a departure.
 
 My second objective in the paper is to raise some larger questions about
 how transatlantic abolitionism and, by extension, nineteenth-century
@@ -94,26 +91,25 @@ For a variety of reasons, the abolitionists’ own descriptions of their
 transnational pressure politics have been appealing to scholars as well,
 including scholars of contemporary transnational activism like Kathryn
 Sikkink, Margaret Keck, and Sidney Tarrow. In their book, *[Activists
-Beyond
-Borders](http://www.amazon.com/Activists-Beyond-Borders-Advocacy-International/dp/0801484561)*,
-Keck and Sikkink even cite abolitionists as historical precursors for
-contemporary human rights activists who “promote change” by “reporting
-facts” to the international community. But as I show with a careful
-reconstruction of the John L. Brown case, there are several difficulties
-with this description of abolitionist activism as a straightforward
-process of applying pressure by reporting facts. First, newspaper
-reports about the trial were discrepant, sometimes conflicting, often
-incomplete, and occasionally based on erroneous information or misread
-by the intended audiences. Moreover, the time lag between events in
-South Carolina and reportage about them overseas meant that British
-abolitionists were often acting on information that was already out of
-date by the time it reached them. Indeed, while abolitionists proclaimed
-victory for their tactics when Hammond pardoned Brown, it is likely that
-Hammond commuted Brown’s sentence before reports of British protest ever
-reached him. Because of these realities, many “non-facts” soon began
-circulating in transatlantic print and abolitionist networks about the
-Brown case, ranging from erroneous reports about whether Brown was a
-free man or a slave to conjectures about the complexion of Hetty.
+Beyond Borders][]*, Keck and Sikkink even cite abolitionists as
+historical precursors for contemporary human rights activists who
+“promote change” by “reporting facts” to the international community.
+But as I show with a careful reconstruction of the John L. Brown case,
+there are several difficulties with this description of abolitionist
+activism as a straightforward process of applying pressure by reporting
+facts. First, newspaper reports about the trial were discrepant,
+sometimes conflicting, often incomplete, and occasionally based on
+erroneous information or misread by the intended audiences. Moreover,
+the time lag between events in South Carolina and reportage about them
+overseas meant that British abolitionists were often acting on
+information that was already out of date by the time it reached them.
+Indeed, while abolitionists proclaimed victory for their tactics when
+Hammond pardoned Brown, it is likely that Hammond commuted Brown’s
+sentence before reports of British protest ever reached him. Because of
+these realities, many “non-facts” soon began circulating in
+transatlantic print and abolitionist networks about the Brown case,
+ranging from erroneous reports about whether Brown was a free man or a
+slave to conjectures about the complexion of Hetty.
 
 Instead of fitting our stories of transatlantic abolitionism into a
 model of “promoting change” by “reporting facts” and thereby applying
@@ -137,19 +133,28 @@ and argue that this scholarship can provide methodological resources to
 historians of transatlantic activism as well. Many recent historians
 have drawn attention to the importance of slaves’ “grapevine telegraph,”
 or the information networks that they used to learn about opportunities
-for escape and resistance. ([Steven
-Hahn](http://opinionator.blogs.nytimes.com/2011/02/12/what-lincoln-meant-to-the-slaves/)
-and [Susan Eva
-O’Donovan](http://opinionator.blogs.nytimes.com/2011/02/18/william-webbs-world/)
+for escape and resistance. ([Steven Hahn][] and [Susan Eva O’Donovan][]
 have recently provided brief introductions to this literature in the
 *New York Times*.) Much of this literature is focused on showing what
 was telegraph-like about the grapevine. Conversely, but in a
 complementary way, my paper on transatlantic abolitionism and John L.
 Brown attempts to show what was grapevine-like about telegraphs.
 
-Again, [you can download the full paper I presented at CLAW
-here](http://scholarship.rice.edu/handle/1911/37261). I’m planning to do
-additional research, revise this rough draft, and prepare this article
-for print publication in one form or another. So I welcome critical
-feedback about the piece, either here or by email. If you would like to
-use the paper or cite it, please let me know.
+Again, [you can download the full paper I presented at CLAW here][I’m
+posting the paper that I circulated for the conference]. I’m planning to
+do additional research, revise this rough draft, and prepare this
+article for print publication in one form or another. So I welcome
+critical feedback about the piece, either here or by email. If you would
+like to use the paper or cite it, please let me know.
+
+  [The Case of John L. Brown]: http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
+  [Carolina Lowcountry and the Atlantic World program]: http://spinner.cofc.edu/atlanticworld/?referrer=webcluster&
+  [“Civil War–Global Conflict,”]: http://spinner.cofc.edu/atlanticworld/civilwar/index.html
+  [I’m posting the paper that I circulated for the conference]: http://scholarship.rice.edu/handle/1911/37261
+  [here’s how and why]: index.html%3Fp=75.html
+  [*that* John Brown]: http://www2.iath.virginia.edu/jbrown/master.html
+  [read all about the appeals trial right here]: http://books.google.com/books?id=Z6sKAAAAYAAJ&pg=PA129#v=onepage&q=&f=false
+  [prompted Hammond to write what became a “proslavery classic,”]: http://books.google.com/books?id=29YtAAAAYAAJ&pg=PR4#v=onepage&q=&f=false
+  [Activists Beyond Borders]: http://www.amazon.com/Activists-Beyond-Borders-Advocacy-International/dp/0801484561
+  [Steven Hahn]: http://opinionator.blogs.nytimes.com/2011/02/12/what-lincoln-meant-to-the-slaves/
+  [Susan Eva O’Donovan]: http://opinionator.blogs.nytimes.com/2011/02/18/william-webbs-world/
