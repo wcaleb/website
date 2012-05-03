@@ -2,109 +2,494 @@
 % W. Caleb McDaniel
 % May 2, 2012
 
-This post contains the text of the lecture I delivered at the Houston Museum of Natural Science on April 24 as part of its Distinguished Lecture series on the Civil War. It draws on research done by myself and my students as part of the Dick Dowling Digital Archive, which I previously announced [here](announcing-dick-dowling-archive.html). Readers interested in seeing the primary sources are based should consult the [Dick Dowling and Sabine Pass in History and Memory](http://exhibits.library.rice.edu/exhibits/show/dick-dowling) exhibit at Rice University.
+<div id="abstract">
+This post contains the text of the lecture I delivered at the Houston
+Museum of Natural Science on April 24 as part of its Distinguished
+Lecture series on the Civil War. It draws on research done by myself and
+my students as part of the Dick Dowling Digital Archive, which I
+previously announced [here][]. Readers interested in seeing the primary
+sources on which it was based should consult the [Dick Dowling and
+Sabine Pass in History and Memory][] exhibit at Rice University. A
+recording of the lecture is also available for streaming in [MP3
+format][], and the slides used during the original lecture can be viewed
+in [PDF][].
+</div>
 
-A recording of the lecture is also available for streaming in [MP3 format](http://exhibits.library.rice.edu/items/show/826), and the slides used during the original lecture can be viewed in [PDF format](/pdf/dowling-slides.pdf).
+The Civil War is far away--generations away--from where we sit right
+now. But measured in miles, the Civil War is not very far away at all,
+even here in Houston.
 
----
+Within three miles of this theater, in fact, there are two historic
+markers about the Civil War. One marks the site where recently
+emancipated slaves in Houston built a new tradition for commemorating
+what they regarded as the chief legacy of the war. The other marks the
+statue of a man whom many white Houstonians have long regarded as a
+Civil War hero who saved their state from destruction. The stories I
+want to tell tonight have to do with these two places, right in our
+city's backyard. Think of this, then, as a tale of two sites.
 
-The Civil War is far away--generations away--from where we sit right now. But measured in miles, the Civil War is not very far away at all, even here in Houston. 
+The two sites I will talk about tonight tell very different stories
+about the Civil War. Each represents strikingly different ways that
+Houstonians in the past have remembered this conflict, and continue to
+remember it today. So I'm first going to speak briefly about both of
+their stories, noting where they differ. And then I'm going to discuss a
+third way to understand the two sites in light of historical evidence
+that both sites have neglected.
 
-Within three miles of this theater, in fact, there are two historic markers about the Civil War. One marks the site where recently emancipated slaves in Houston built a new tradition for commemorating what they regarded as the chief legacy of the war. The other marks the statue of a man whom many white Houstonians have long regarded as a Civil War hero who saved their state from destruction. The stories I want to tell tonight have to do with these two places, right in our city's backyard. Think of this, then, as a tale of two sites.
+But let's start from where you are sitting right now. And let me begin
+by taking you a few miles away and more than a century back in time to
+the first of the two sites I'd like to discuss: Houston's Emancipation
+Park.
 
-The two sites I will talk about tonight tell very different stories about the Civil War. Each represents strikingly different ways that Houstonians in the past have remembered this conflict, and continue to remember it today. So I'm first going to speak briefly about both of their stories, noting where they differ. And then I'm going to discuss a third way to understand the two sites in light of historical evidence that both sites have neglected.
+About three miles directly behind you, not far from where Interstate-59
+and Highway 288 join as the Eastex Freeway, there is a park whose
+history dates back to 1872. In that year, a small group of Texans who
+had been recently emancipated by the Civil War joined forces to purchase
+the ten-acre plot now known as Emancipation Park. The fundraising for
+this historic purchase was led by three formerly enslaved men. Two
+African American churches, also made up of recently emancipated people,
+provided most of the capital. And on July 10, 1872, a group of African
+American men calling themselves the "Festival Association" purchased Lot
+No. 25 for $800.[^1]
 
-But let's start from where you are sitting right now. And let me begin by taking you a few miles away and more than a century back in time to the first of the two sites I'd like to discuss: Houston's Emancipation Park.
+This was a considerable sum of money for people who had recently been
+enslaved, so why did the trustees of the Festival Association make this
+purchase? Their name provides the answer. The group wanted a place to
+hold annual *festivals* marking their emancipation on days like
+Juneteenth.
 
-About three miles directly behind you, not far from where Interstate-59 and Highway 288 join as the Eastex Freeway, there is a park whose history dates back to 1872. In that year, a small group of Texans who had been recently emancipated by the Civil War joined forces to purchase the ten-acre plot now known as Emancipation Park. The fundraising for this historic purchase was led by three formerly enslaved men. Two African American churches, also made up of recently emancipated people, provided most of the capital. And on July 10, 1872, a group of African American men calling themselves the "Festival Association" purchased Lot No. 25 for $800.^[For more information about the purchase of Emancipation Park, consult the "Protected Landmark Designation Report" prepared by the City of Houston and [hosted in PDF form here](http://blog.chron.com/bayoucityhistory/files/legacy/EmancipationPark3018DowlingStreetR.pdf). The report is discussed in a *Houston Chronicle* [blog post](http://blog.chron.com/bayoucityhistory/2009/06/marker-dedication-at-emancipation-park/) about the erection of a historical marker at the site in 2009.]
+Juneteenth was important to African Americans in Houston and the
+surrounding areas because it marked the date--June 19, 1865--when
+General Gordon Granger publicly read presidential emancipation orders to
+the citizens of Galveston. By the time the Festival Association
+purchased its park in 1872, it was apparently already known as a place
+where African Americans assembled publicly to celebrate this event. It
+has continued to serve that function, off and on, ever since, and
+eventually it took on the name Emancipation Park. About three
+Juneteenths ago, in 2009, a plaque was unveiled at Emancipation Park to
+mark this remarkable history.[^2]
 
-This was a considerable sum of money for people who had recently been enslaved, so why did the trustees of the Festival Association make this purchase? Their name provides the answer. The group wanted a place to hold annual *festivals* marking their emancipation on days like Juneteenth.
+That's the story *of* Emancipation Park, but what is the story that
+Emancipation Park tells us *about* the Civil War? Once again, the answer
+is in the name: the founders of Emancipation Park understood the Civil
+War primarily as an engine of emancipation from slavery--an engine
+without which slavery might have lasted much longer than it did.
 
-Juneteenth was important to African Americans in Houston and the surrounding areas because it marked the date--June 19, 1865--when General Gordon Granger publicly read presidential emancipation orders to the citizens of Galveston. By the time the Festival Association purchased its park in 1872, it was apparently already known as a place where African Americans assembled publicly to celebrate this event. It has continued to serve that function, off and on, ever since, and eventually it took on the name Emancipation Park. About three Juneteenths ago, in 2009, a plaque was unveiled at Emancipation Park to mark this remarkable history.^[Images of the unveiling of the historical marker can be found on the Houston Parks and Recreation Department page for [Emancipation Park](http://www.houstontx.gov/parks/ourparks/emancipationpark.html).]
+Looking back now, it's easy to see why African Americans after the war
+understood the war this way. In 1860, white Texans held approximately
+185,000 people in human bondage, which was approximately one-third of
+the state's total population. As the Civil War approached, slave prices
+and the slave population were growing in the state, and by the end of
+the war some historians estimate there were closer to a quarter million
+enslaved people here, many of them concentrated in neighboring counties
+like Fort Bend and Brazoria where there were more slaves than white
+residents. With the state's agriculture booming and prominent Texans
+discussing the possibility of reopening the African slave trade, there
+were no signs that slavery was going to die a natural death in the
+state.
 
-That's the story *of* Emancipation Park, but what is the story that Emancipation Park tells us *about* the Civil War? Once again, the answer is in the name: the founders of Emancipation Park understood the Civil War primarily as an engine of emancipation from slavery--an engine without which slavery might have lasted much longer than it did.
+There was also no sign, before the Civil War, that white Texans would
+ever tolerate an *unnatural* death for slavery. For them, slavery itself
+was *natural*, a divine institution justified by God and the laws of
+racial hierarchy. Almost all white Texans considered buying and selling
+"Negroes," as one Houston alderman named Edward Riordan did, to be as
+natural and morally permissible as buying real estate. The secession
+documents that Texans published in 1861 made these beliefs clear, and
+declared that Texans would secede and fight a war before ever allowing
+slavery to come to an end.
 
-Looking back now, it's easy to see why African Americans after the war understood the war this way. In 1860, white Texans held approximately 185,000 people in human bondage, which was approximately one-third of the state's total population. As the Civil War approached, slave prices and the slave population were growing in the state, and by the end of the war some historians estimate there were closer to a quarter million enslaved people here, many of them concentrated in neighboring counties like Fort Bend and Brazoria where there were more slaves than white residents. With the state's agriculture booming and prominent Texans discussing the possibility of reopening the African slave trade, there were no signs that slavery was going to die a natural death in the state. 
+Given these facts, is it any wonder that African Americans in Houston
+and elsewhere in Texas celebrated the arrival of Union officers like
+Granger? Or that they wished to mark the epochal transformation wrought
+by the end of the war? Every time men and women of color gathered in
+Emancipation Park after 1872 to celebrate Juneteenth or hold community
+events, they told a clear, unmistakable story about what the Civil War
+meant to them: the war was significant because it brought an end to
+slavery. The war enabled free people of color, who could not legally
+live in Houston before the war, to purchase a park here, to celebrate
+the death of what is often called the peculiar institution, and to
+demonstrate their determination to create new institutions of their own.
+Viewed from Emancipation Park, that's the most important legacy of the
+Civil War in Texas: the arrival of emancipation.
 
-There was also no sign, before the Civil War, that white Texans would ever tolerate an *unnatural* death for slavery. For them, slavery itself was *natural*, a divine institution justified by God and the laws of racial hierarchy. Almost all white Texans considered buying and selling "Negroes," as one Houston alderman named Edward Riordan did, to be as natural and morally permissible as buying real estate. The secession documents that Texans published in 1861 made these beliefs clear, and declared that Texans would secede and fight a war before ever allowing slavery to come to an end.
+Now let's return back here to the Museum and turn to the next Civil War
+site in our backyard. This site is about one mile behind me on the other
+side of Hermann Park. At the corner of Macgregor and Cambridge Street,
+just across from the fifth green on the golf course, there is marker
+about a dozen years older than the one at Emancipation Park. And it
+stands next to the oldest piece of public statuary in Houston: a
+thirty-foot-tall monument to Richard W. Dowling, the Irish American
+Houstonian better known as Dick Dowling.
 
-Given these facts, is it any wonder that African Americans in Houston and elsewhere in Texas celebrated the arrival of Union officers like Granger? Or that they wished to mark the epochal transformation wrought by the end of the war? Every time men and women of color gathered in Emancipation Park after 1872 to celebrate Juneteenth or hold community events, they told a clear, unmistakable story about what the Civil War meant to them: the war was significant because it brought an end to slavery. The war enabled free people of color, who could not legally live in Houston before the war, to purchase a park here, to celebrate the death of what is often called the peculiar institution, and to demonstrate their determination to create new institutions of their own. Viewed from Emancipation Park, that's the most important legacy of the Civil War in Texas: the arrival of emancipation. 
+I'd wager that most people today don't really know much about Dowling,
+or about this statue, unless perhaps you're from Sabine or went to
+Dowling Middle School on the south side. (Certainly my golfing buddies
+never do when we glimpse him through the trees.) It's easy to miss him
+because it's hard to get a close look from the street without parking a
+good walk away.
 
-Now let's return back here to the Museum and turn to the next Civil War site in our backyard. This site is about one mile behind me on the other side of Hermann Park. At the corner of Macgregor and Cambridge Street, just across from the fifth green on the golf course, there is marker about a dozen years older than the one at Emancipation Park. And it stands next to the oldest piece of public statuary in Houston: a thirty-foot-tall monument to Richard W. Dowling, the Irish American Houstonian better known as Dick Dowling.
+But that wasn't always the case. When this statue was first erected in
+1905, it actually stood outside what was then City Hall in Market
+Square. On the day it was unveiled, huge crowds of people turned out for
+a parade and jostled to see the platform where Dowling's only daughter,
+Annie, loosened the sheet covering the statue. On that day, the crowds
+also heard speeches by the mayor of Houston and the governor of Texas.
 
-I'd wager that most people today don't really know much about Dowling, or about this statue, unless perhaps you're from Sabine or went to Dowling Middle School on the south side. (Certainly my golfing buddies never do when we glimpse him through the trees.) It's easy to miss him because it's hard to get a close look from the street without parking a good walk away. 
+What did Dowling do to garner such accolades and receive such a
+prominent placement outside the city government? To answer that we need
+to go back two years before the original "Juneteenth," when Dowling was
+a Confederate junior officer in charge of a small group of fewer than 50
+men known as the Davis Guards. In September 1863, Dowling and the Guards
+helped to foil a Union landing attempt in the Battle of Sabine Pass, and
+that's still his primary claim to fame.
 
-But that wasn't always the case. When this statue was first erected in 1905, it actually stood outside what was then City Hall in Market Square. On the day it was unveiled, huge crowds of people turned out for a parade and jostled to see the platform where Dowling's only daughter, Annie, loosened the sheet covering the statue. On that day, the crowds also heard speeches by the mayor of Houston and the governor of Texas.
+Now if you grew up in Houston, you may know this battle's story well,
+but I'll briefly tell it again: on September 8, 1863, four shallow Union
+gunboats steamed from the Gulf of Mexico into Sabine Pass at the border
+between Texas and Louisiana. They approached a small fort on the Texas
+coast known as Fort Griffin. Dowling and his men were waiting for them
+there, and when the smoke cleared, only two of the gunboats had steamed
+back out of the Pass to safety. In less than an hour, Dick Dowling's men
+used well-aimed cannon fire to disable the U.S.S. *Clifton* and the
+U.S.S. *Sachem* quickly, killing many of the crew members on the two
+ships and capturing almost all of the rest without suffering any
+casualties of their own.[^3]
 
-What did Dowling do to garner such accolades and receive such a prominent placement outside the city government? To answer that we need to go back two years before the original "Juneteenth," when Dowling was a Confederate junior officer in charge of a small group of fewer than 50 men known as the Davis Guards. In September 1863, Dowling and the Guards helped to foil a Union landing attempt in the Battle of Sabine Pass, and that's still his primary claim to fame. 
+If all Dowling had done was repulse four gunboats, of course, there may
+never have been a historical marker raised to his memory. But behind the
+four gunboats, floating around the mouth of Sabine Pass, there were
+about two dozen other Union boats from New Orleans carrying around 5,000
+Union troops. The aim of this large fleet had been to land these troops
+on the coast south of Dowling's position. From there, while the gunboats
+weakened Dowling's position, the troops would move quickly to rail lines
+that led straight to Houston.
 
-Now if you grew up in Houston, you may know this battle's story well, but I'll briefly tell it again: on September 8, 1863, four shallow Union gunboats steamed from the Gulf of Mexico into Sabine Pass at the border between Texas and Louisiana. They approached a small fort on the Texas coast known as Fort Griffin. Dowling and his men were waiting for them there, and when the smoke cleared, only two of the gunboats had steamed back out of the Pass to safety. In less than an hour, Dick Dowling's men used well-aimed cannon fire to disable the U.S.S. *Clifton* and the U.S.S. *Sachem* quickly, killing many of the crew members on the two ships and capturing almost all of the rest without suffering any casualties of their own.^[For a full account of the battle, consult Edward T. Cotham, Jr., *Sabine Pass: The Confederacy's Thermopylae* (Austin: University of Texas Press, 2004), available on [Amazon](http://www.amazon.com/Sabine-Pass-Confederacys-Thermopylae-Caldwell/dp/0292705948).]
+Capturing Houston, Union forces might well have been able to capture all
+of Confederate Texas in 1863, and if the troops had landed as planned,
+they may well have done so. But things didn't go as planned. Instead of
+landing the troops in advance of the naval attack on Dowling's position,
+as originally planned, Union officers retreated once the first two
+gunboats were sunk, without landing a single soldier. As a result, the
+5,000 troops--whose numbers were sometimes later inflated to figures
+like 10,000 or 15,000--were never really involved in the battle or even
+came into range of Dowling's guns. But that didn't stop Texans from
+celebrating what seemed a tremendous victory against overwhelming odds.
+Overnight, the hasty retreat of Union forces made Dowling a legend who
+had reputedly turned back thousands of Yankees with a few well-aimed
+shots and a few dozen Irish brawlers. In the exhibit currently showing
+upstairs, you can even see one of the medals that was presented by local
+citizens to Dowling's men, known as the Davis Guards.[^4]
 
-If all Dowling had done was repulse four gunboats, of course, there may never have been a historical marker raised to his memory. But behind the four gunboats, floating around the mouth of Sabine Pass, there were about two dozen other Union boats from New Orleans carrying around 5,000 Union troops. The aim of this large fleet had been to land these troops on the coast south of Dowling's position. From there, while the gunboats weakened Dowling's position, the troops would move quickly to rail lines that led straight to Houston.
+Those medals were perhaps the smallest tokens of the respect that Texans
+and former Confederates paid to Dowling for years after the battle of
+Sabine Pass. Here are a few others:
 
-Capturing Houston, Union forces might well have been able to capture all of Confederate Texas in 1863, and if the troops had landed as planned, they may well have done so. But things didn't go as planned. Instead of landing the troops in advance of the naval attack on Dowling's position, as originally planned, Union officers retreated once the first two gunboats were sunk, without landing a single soldier. As a result, the 5,000 troops--whose numbers were sometimes later inflated to figures like 10,000 or 15,000--were never really involved in the battle or even came into range of Dowling's guns. But that didn't stop Texans from celebrating what seemed a tremendous victory against overwhelming odds. Overnight, the hasty retreat of Union forces made Dowling a legend who had reputedly turned back thousands of Yankees with a few well-aimed shots and a few dozen Irish brawlers. In the exhibit currently showing upstairs, you can even see one of the medals that was presented by local citizens to Dowling's men, known as the Davis Guards.^[This lecture was delivered while the [Discovering the Civil War](http://www.archives.gov/exhibits/civil-war/) exhibit from the National Archives was showing at the museum, along with selected items from the John L. Nau III Civil War Collection, which includes one of the Davis Guard medals. An image of the medal being exhibited at the museum as part of an earlier exhibit can be found on [Flickr](http://www.flickr.com/photos/hmns/6073753379/).]
+[At this point of the lecture I discussed some of the evidence presented
+in the [Dowling's Story][] and [Dowling's Statue][] sections of the
+Omeka exhibit at Rice, including Jefferson Davis's speech in 1882, the
+presentation of a medal to Dowling's daughter in 1889, and the naming of
+Dowling Street, which runs right by Emancipation Park, in 1892.]
 
-Those medals were perhaps the smallest tokens of the respect that Texans and former Confederates paid to Dowling for years after the battle of Sabine Pass. Here are a few others:
+Despite all this, Dowling's prominence in Houstonians' memory has also
+declined over the years. (Remember my golfing buddies?) And the statue
+itself gradually fell into disrepair in the twentieth century as it was
+moved farther and farther away from the center of the city.
 
-[At this point of the lecture I discussed some of the evidence presented in the [Dowling's Story](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/2) and [Dowling's Statue](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/3) sections of the Omeka exhibit at Rice, including Jefferson Davis's speech in 1882, the presentation of a medal to Dowling's daughter in 1889, and the naming of Dowling Street, which runs right by Emancipation Park, in 1892.]
+[Here I discussed the movement of the statue from City Hall to Hermann
+Park, a story more fully told in the [Leaving City Hall][] section of
+the Omeka exhibit.]
 
-Despite all this, Dowling's prominence in Houstonians' memory has also declined over the years. (Remember my golfing buddies?) And the statue itself gradually fell into disrepair in the twentieth century as it was moved farther and farther away from the center of the city. 
+If you get out of the car, and read the historical marker, what you'll
+see are also some of the more subtle changes that Dowling's memory has
+undergone. Instead of leading with his Civil War exploits, the marker
+begins with his business dealings and pays particular attention to his
+Irish ancestry. [These themes are more fully explored, as well, in the
+exhibit.]
 
-[Here I discussed the movement of the statue from City Hall to Hermann Park, a story more fully told in the [Leaving City Hall](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/4) section of the Omeka exhibit.]
+But the story the marker tells about the Battle of Sabine Pass is also
+pretty consistent with the story that has always been told. For example,
+at the 1905 unveiling of the statue, the governor of Texas "pointed out
+that the Confederate congress had specially passed resolutions
+commenting upon the remarkable work of the little band of men under
+Dowling." The current historical marker does the same. Pretty much every
+telling of the Dowling story in the nineteenth and twentieth centuries
+told it as story of heroic triumph against long odds. The current marker
+does, too.[^5]
 
-If you get out of the car, and read the historical marker, what you'll see are also some of the more subtle changes that Dowling's memory has undergone. Instead of leading with his Civil War exploits, the marker begins with his business dealings and pays particular attention to his Irish ancestry. [These themes are more fully explored, as well, in the exhibit.]
+Yet perhaps the most remarkable and important fact about the Dowling
+story over the last one hundred and fifty years are not the themes it
+has always included, but rather the issues and facts that have always
+been conspicuous in their absence. In particular, let's go back for a
+moment to Emancipation Park, and see what the Dowling statue looks like
+from there.
 
-But the story the marker tells about the Battle of Sabine Pass is also pretty consistent with the story that has always been told. For example, at the 1905 unveiling of the statue, the governor of Texas "pointed out that the Confederate congress had specially passed resolutions commenting upon the remarkable work of the little band of men under Dowling." The current historical marker does the same. Pretty much every telling of the Dowling story in the nineteenth and twentieth centuries told it as story of heroic triumph against long odds. The current marker does, too.^[The text of the marker can be found [here](http://exhibits.library.rice.edu/items/show/381) as part of the Dick Dowling Digital Archive, and the report of the governor's speech can be found in a newspaper article covering the unveiling of the statue, also available [here](http://exhibits.library.rice.edu/items/show/454).]
+Remember that Houstonians who purchased and established Emancipation
+Park told a clear story about the Civil War: that it had brought
+emancipation. But the story that has almost always been told in the
+shadow of Dick Dowling's statue does not mention slavery or emancipation
+at all. In fact, the marker doesn't really say anything about the
+reasons for the war, about Dowling's reasons for fighting, or about the
+consequences of his victory. And it certainly doesn't point out that the
+battle of Sabine Pass was fought after the Emancipation Proclamation, or
+that the victory Dowling won had anything to do with the timing of
+events like Juneteenth that were so celebrated at Emancipation Park. A
+visitor to the Dowling statue can leave there without having any idea
+about the story of military emancipation told just across 288.
 
-Yet perhaps the most remarkable and important fact about the Dowling story over the last one hundred and fifty years are not the themes it has always included, but rather the issues and facts that have always been conspicuous in their absence. In particular, let's go back for a moment to Emancipation Park, and see what the Dowling statue looks like from there.
+Between these two markers, then, stands a distance greater than the
+approximately four or five miles that separates them. On the one hand is
+a marker that makes no mention of slavery, emancipation, or the causes
+and results of the Civil War. On the other hand is a marker that picks
+up its story in 1865, two years after the Battle of Sabine Pass.
+Perhaps, in the end, this tale of two sites really is a tale of two
+cities: two different groups of Houstonians who have, for over one
+hundred years, emphasized very different stories of the Civil War.
 
-Remember that Houstonians who purchased and established Emancipation Park told a clear story about the Civil War: that it had brought emancipation. But the story that has almost always been told in the shadow of Dick Dowling's statue does not mention slavery or emancipation at all. In fact, the marker doesn't really say anything about the reasons for the war, about Dowling's reasons for fighting, or about the consequences of his victory. And it certainly doesn't point out that the battle of Sabine Pass was fought after the Emancipation Proclamation, or that the victory Dowling won had anything to do with the timing of events like Juneteenth that were so celebrated at Emancipation Park. A visitor to the Dowling statue can leave there without having any idea about the story of military emancipation told just across 288.
+Which marker, which site, has the story right? The answer, as with most
+markers, is that neither marker tells the whole story. (What marker
+*could* tell the whole story?) But the only way to see what *both*
+stories overlook is to look more closely at the Battle of Sabine Pass.
 
-Between these two markers, then, stands a distance greater than the approximately four or five miles that separates them. On the one hand is a marker that makes no mention of slavery, emancipation, or the causes and results of the Civil War. On the other hand is a marker that picks up its story in 1865, two years after the Battle of Sabine Pass. Perhaps, in the end, this tale of two sites really is a tale of two cities: two different groups of Houstonians who have, for over one hundred years, emphasized very different stories of the Civil War.
+Now, this battle, as we have seen, has almost always been remembered
+from the viewpoint of Dowling and his men, and from that view, it's hard
+to say anything about the battle without talking about things like
+Dowling's bravery and tactical achievements. But for the next several
+minutes, let me consider, with you, a question that has not usually been
+asked about Sabine Pass: how does the battle look from Emancipation
+Park? Does it confirm the belief of the park's founders that the course
+of the war and the future of slavery were inextricably linked? Or have
+the stories about Dowling failed to mention slavery and emancipation
+because, perhaps, this was simply an exceptional battle where the
+general rule--that the war was a struggle over slavery--somehow failed
+to apply?
 
-Which marker, which site, has the story right? The answer, as with most markers, is that neither marker tells the whole story. (What marker *could* tell the whole story?) But the only way to see what *both* stories overlook is to look more closely at the Battle of Sabine Pass. 
+Those are big questions. So to answer them, I'm going to call on the
+help of two figures who were involved in the Battle of Sabine Pass,
+directly or indirectly, whose names were *not* Dowling, and show you a
+little bit about what they said or experienced about the battle. Each of
+these two men are probably less familiar to most Houstonians than either
+Dowling or Emancipation Park--but if we listen closely to what they have
+to tell us, they can help us hear part of what has been missing from the
+stories of both of the sites we have visited tonight.
 
-Now, this battle, as we have seen, has almost always been remembered from the viewpoint of Dowling and his men, and from that view, it's hard to say anything about the battle without talking about things like Dowling's bravery and tactical achievements. But for the next several minutes, let me consider, with you, a question that has not usually been asked about Sabine Pass: how does the battle look from Emancipation Park? Does it confirm the belief of the park's founders that the course of the war and the future of slavery were inextricably linked? Or have the stories about Dowling failed to mention slavery and emancipation because, perhaps, this was simply an exceptional battle where the general rule--that the war was a struggle over slavery--somehow failed to apply?
+The first character I'd like to introduce was, indeed, a character: John
+Bankhead Magruder. Magruder was the Confederate Major General in charge
+of Texas when the Battle of Sabine Pass was fought. He was also,
+according to some reports, something of a dandy and lady's man. He liked
+to dance, was known to be a "great talker" and witty conversationalist,
+and was sometimes referred to as "Prince John Magruder." Born in
+Virginia, Magruder also once referred to the Puritans who settled New
+England as "*that pestiferous crew of the Mayflower*," a statement that
+would have accentuated his lisp.[^6]
 
-Those are big questions. So to answer them, I'm going to call on the help of two figures who were involved in the Battle of Sabine Pass, directly or indirectly, whose names were *not* Dowling, and show you a little bit about what they said or experienced about the battle. Each of these two men are probably less familiar to most Houstonians than either Dowling or Emancipation Park--but if we listen closely to what they have to tell us, they can help us hear part of what has been missing from the stories of both of the sites we have visited tonight.
+There was, however, no doubting Magruder's seriousness as an officer. A
+career army man who had fought in the Mexican American War, Magruder
+arrived in Texas in November 1862 and immediately took charge of a
+situation that did not look good for the Confederacy. Union forces had
+managed to capture Galveston the month before, so Magruder's first order
+of business was to launch a successful, nighttime attack on the island
+on New Year's Eve which managed to recapture the important port for the
+Confederacy.
 
-The first character I'd like to introduce was, indeed, a character: John Bankhead Magruder. Magruder was the Confederate Major General in charge of Texas when the Battle of Sabine Pass was fought. He was also, according to some reports, something of a dandy and lady's man. He liked to dance, was known to be a "great talker" and witty conversationalist, and was sometimes referred to as "Prince John Magruder." Born in Virginia, Magruder also once referred to the Puritans who settled New England as "*that pestiferous crew of the Mayflower*," a statement that would have accentuated his lisp.^[See Thomas W. Cutrer, s.v., "Magruder, John Bankhead," in *The Handbook of Texas Online*, <http://www.tshaonline.org/handbook/online/articles/fma15>. The quote about the Mayflower can be found in Arthur J. Fremantle, *Three Months in the Southern States* (Mobile: S. H. Goetzel, 1864), online at <http://docsouth.unc.edu/imls/fremantle/fremantle.html>.] 
+But Magruder's victory was also a narrow one, saved at the last minute
+by some cotton-clad steamers. And Magruder also determined, after
+recapturing Galveston, that the fortifications along the coast were
+insufficient to prevent another Union assult. His next step, therefore,
+was to spend most of 1863 building a complex system of fortifications in
+Galveston and along the coast, including the small installation--Fort
+Griffin--that Dowling defended later that year when the Union forces, as
+expected, did return.
 
-There was, however, no doubting Magruder's seriousness as an officer. A career army man who had fought in the Mexican American War, Magruder arrived in Texas in November 1862 and immediately took charge of a situation that did not look good for the Confederacy. Union forces had managed to capture Galveston the month before, so Magruder's first order of business was to launch a successful, nighttime attack on the island on New Year's Eve which managed to recapture the important port for the Confederacy.
+Fortifying the coast was so important to Magruder that he also took what
+proved to be an unpopular step among the local slaveholding residents of
+the Houston area: he began to force slaveholders to send their slaves to
+labor on the fortifications. He created a special bureau for this
+purpose, and although many slaveholders resisted, he threatened to deal
+with resisters according to military law. In the end, several thousand
+slaves were forced to work on the fortifications in Galveston, and about
+500 slaves were impressed to build Dowling's well-designed fort at
+Sabine Pass.[^7]
 
-But Magruder's victory was also a narrow one, saved at the last minute by some cotton-clad steamers. And Magruder also determined, after recapturing Galveston, that the fortifications along the coast were insufficient to prevent another Union assult. His next step, therefore, was to spend most of 1863 building a complex system of fortifications in Galveston and along the coast, including the small installation--Fort Griffin--that Dowling defended later that year when the Union forces, as expected, did return.
+When slaveholders complained about the conscription of their slaves for
+these projects, Magruder--ever quick with sharp witticisms--had a good
+answer. Consider, for example, [the letter that Magruder wrote to
+Francis Lubbock][], then Governor of Texas, in June 1863. With wry
+understatement, Magruder noted that "a mere inspection of the map should
+satisfy any holder of slave property that these defenses are absolutely
+necessary to its security."
 
-Fortifying the coast was so important to Magruder that he also took what proved to be an unpopular step among the local slaveholding residents of the Houston area: he began to force slaveholders to send their slaves to labor on the fortifications. He created a special bureau for this purpose, and although many slaveholders resisted, he threatened to deal with resisters according to military law. In the end, several thousand slaves were forced to work on the fortifications in Galveston, and about 500 slaves were impressed to build Dowling's well-designed fort at Sabine Pass.^[For more information, see the [Freedom's Frontier](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/3) and [Forced Labor at Sabine Pass](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/4) sections of the Omeka exhibit.]
+What did a mere inspection of the map tell Magruder? The first thing it
+told him was that Union forces were getting closer and closer to
+overtaking the Mississippi Valley. But he also understood that by 1863,
+wherever the Union army was going, it was destabilizing slavery.
 
-When slaveholders complained about the conscription of their slaves for these projects, Magruder--ever quick with sharp witticisms--had a good answer. Consider, for example, [the letter that Magruder wrote to Francis Lubbock](http://exhibits.library.rice.edu/items/show/755), then Governor of Texas, in June 1863. With wry understatement, Magruder noted that "a mere inspection of the map should satisfy any holder of slave property that these defenses are absolutely necessary to its security."  
+[Here I briefly recounted the history of wartime emancipation during the
+Civil War, noting especially the recent passage of the Second
+Confiscation Act and the announcement of the Preliminary Emancipation
+Proclamation shortly before Magruder arrived in Texas. I also mentioned
+evidence that refugee planters from Louisiana were bringing slaves into
+east Texas in 1863 on the understanding that if they remained near Union
+lines, the security of their property was in doubt. Finally, I pointed
+audience members to the recently released [Visualizing Emancipation
+project][] at the University of Richmond to illustrate the effects that
+the war was having on slavery in the region.]
 
-What did a mere inspection of the map tell Magruder? The first thing it told him was that Union forces were getting closer and closer to overtaking the Mississippi Valley. But he also understood that by 1863, wherever the Union army was going, it was destabilizing slavery.
+In short, Magruder understood quite well that another victory by Union
+forces in Galveston or Sabine Pass directly threatened the security of
+slavery in Texas. Here I returned to the letter to the Governor of Texas
+that Magruder wrote to demonstrate his understanding that an invasion by
+Union forces in Texas would lead to the liberation of slaves.]
 
-[Here I briefly recounted the history of wartime emancipation during the Civil War, noting especially the recent passage of the Second Confiscation Act and the announcement of the Preliminary Emancipation Proclamation shortly before Magruder arrived in Texas. I also mentioned evidence that refugee planters from Louisiana were bringing slaves into east Texas in 1863 on the understanding that if they remained near Union lines, the security of their property was in doubt. Finally, I pointed audience members to the recently released [Visualizing Emancipation project](http://dsl.richmond.edu/emancipation/) at the University of Richmond to illustrate the effects that the war was having on slavery in the region.]
+The second non-Dowling figure I'd like to tell you about got an even
+closer look at the action at Sabine Pass, and understood the stakes of
+the battle with far more immediacy than a map could ever provide. But
+I'll warn you in advance that we don't know nearly as much about this
+man as we do about Magruder. He left us no writings or witticisms, and I
+don't have a picture of him to show you. His name, I have, and it's easy
+to remember: George Houston. But even this tantalizing piece of
+information is uncertain, and the name is spelled in different ways in
+the records.
 
-In short, Magruder understood quite well that another victory by Union forces in Galveston or Sabine Pass directly threatened the security of slavery in Texas. Here I returned to the letter to the Governor of Texas that Magruder wrote to demonstrate his understanding that an invasion by Union forces in Texas would lead to the liberation of slaves.] 
+The reason why there is so much uncertainty about George W. Houston is
+that he was, until sometime before September 1863, enslaved. But what I
+can tell you is that George Houston was present at the Battle of Sabine
+Pass, and probably participated in the combat.
 
-The second non-Dowling figure I'd like to tell you about got an even closer look at the action at Sabine Pass, and understood the stakes of the battle with far more immediacy than a map could ever provide. But I'll warn you in advance that we don't know nearly as much about this man as we do about Magruder. He left us no writings or witticisms, and I don't have a picture of him to show you. His name, I have, and it's easy to remember: George Houston. But even this tantalizing piece of information is uncertain, and the name is spelled in different ways in the records.
+[Here I discussed the material that is covered in the [From Slaves to
+Sailors][] section of the Omeka exhibit, focusing especially on [the
+casualty report][] that mentions the presence of George Houston and
+other "contraband" on Union gunboats during the battle.]
 
-The reason why there is so much uncertainty about George W. Houston is that he was, until sometime before September 1863, enslaved. But what I can tell you is that George Houston was present at the Battle of Sabine Pass, and probably participated in the combat.
+The presence of these black men and contraband slaves at the Battle of
+Sabine Pass raises at least three questions. The first two that occur to
+me are these: How did men like George Houston get involved in the
+battle? And what happened to those who went missing there?
 
-[Here I discussed the material that is covered in the [From Slaves to Sailors](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/5) section of the Omeka exhibit, focusing especially on [the casualty report](http://exhibits.library.rice.edu/items/show/773) that mentions the presence of George Houston and other "contraband" on Union gunboats during the battle.]
+In George Houston's case, the first of these questions is harder to
+answer than the second, but we can take some educated guesses based on
+the evidence we have.
 
-The presence of these black men and contraband slaves at the Battle of Sabine Pass raises at least three questions. The first two that occur to me are these: How did men like George Houston get involved in the battle? And what happened to those who went missing there?
+[Here I discussed how "contraband" slaves may have made their way aboard
+the *Clifton* and *Sachem* before the battle, paying special attention
+to the diary kept by Henry O. Gusley. This diary documents the effects
+of Union naval recruitment strategies in the region and the large number
+of "contraband" slaves who came aboard the *Clifton* while it was still
+operating in Louisiana earlier in 1863. An excellent annotated edition
+of the diary has been published by Edward T. Cotham, Jr., as *The
+Southern Journey of a Civil War Marine: The Illustrated Note-Book of
+Henry O. Gusley* (Austin: University of Texas Press, 2006), available on
+[Amazon][]. Also see Joseph P. Reidy's "Black Men in Navy Blue during
+the Civil War," available [online][].]
 
-In George Houston's case, the first of these questions is harder to answer than the second, but we can take some educated guesses based on the evidence we have.
+The enslaved men who somehow found their way to ships like the *Clifton*
+took this step at tremendous risk, not just because of the dangers of
+combat. Several black men on board the *Harriet Lane*, a Union vessel
+captured in the Battle of Galveston earlier that year, appear to have
+been reenslaved after being captured and brought to a prison in Houston.
+But what happened to George Houston?
 
-[Here I discussed how "contraband" slaves may have made their way aboard the *Clifton* and *Sachem* before the battle, paying special attention to the diary kept by Henry O. Gusley. This diary documents the effects of Union naval recruitment strategies in the region and the large number of "contraband" slaves who came aboard the *Clifton* while it was still operating in Louisiana earlier in 1863. An excellent annotated edition of the diary has been published by Edward T. Cotham, Jr., as *The Southern Journey of a Civil War Marine: The Illustrated Note-Book of Henry O. Gusley* (Austin: University of Texas Press, 2006), available on [Amazon](http://www.amazon.com/The-Southern-Journey-Civil-Marine/dp/0292726007/). Also see Joseph P. Reidy's "Black Men in Navy Blue during the Civil War," available [online](http://www.archives.gov/publications/prologue/2001/fall/black-sailors-1.html).] 
+[Here I discussed the evidence that George Houston survived the battle
+and made it aboard the U.S.S. *Arizona*, later enlisting in the Union
+Navy. This story is more fully discussed in the [From Slaves to
+Sailors][] section of the Omeka exhibit.]
 
-The enslaved men who somehow found their way to ships like the *Clifton* took this step at tremendous risk, not just because of the dangers of combat. Several black men on board the *Harriet Lane*, a Union vessel captured in the Battle of Galveston earlier that year, appear to have been reenslaved after being captured and brought to a prison in Houston. But what happened to George Houston?
+Earlier I said that George Houston's presence at Sabine Pass raises
+three questions. We've looked at how he may have gotten there, and at
+what may have happened to him after he went missing. Let me conclude my
+remarks tonight by considering a third question: Should the story of
+George W. Houston change the way we remember the city of Houston's most
+famous battle?
 
-[Here I discussed the evidence that George Houston survived the battle and made it aboard the U.S.S. *Arizona*, later enlisting in the Union Navy. This story is more fully discussed in the [From Slaves to Sailors](http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/5) section of the Omeka exhibit.]
+Well, that's a question you'll have to answer for yourself. But I think
+that Magruder and Houston together tell us two important things about
+the Battle of Sabine Pass that are easy to miss if you only visit the
+public sites here in our city that remember the Civil War. First of all,
+Magruder clearly understood that battles like the ones fought at Sabine
+Pass to protect Texas from invasion were also battles that helped to
+defend slavery and the interests of the state's slaveholding residents.
+Local records from after the battle show that slaveholding residents in
+Texas certainly did not become less anxious when they found out about
+the huge fleet of Union boats that had been floating in the Gulf of
+Mexico before Dowling turned them away. One Confederate officer, P. N.
+Luckett, wrote from Houston only a few weeks after Dowling's battle,
+reporting to his superior about a trip he had just made to the area
+around Velasco. He pointed out that white residents there were concerned
+about Union invasion because of "the precarious tenure" of their "negro
+property" in the event of Texas's fall.
 
-Earlier I said that George Houston's presence at Sabine Pass raises three questions. We've looked at how he may have gotten there, and at what may have happened to him after he went missing. Let me conclude my remarks tonight by considering a third question: Should the story of George W. Houston change the way we remember the city of Houston's most famous battle?
+Sources like this make it impossible to see the Battle of Sabine Pass as
+a battle that had *nothing* to do with slavery and emancipation,
+whatever the absence surrounding these topics in the memory of Dick
+Dowling may imply. On the other hand, the story of George W. Houston
+also complicates the story that African Americans celebrated after the
+Civil War at places like Emancipation Park. Juneteenth, after all, was a
+holiday that celebrated emancipation as a product of the *end* of the
+war that didn't really come until June 19, 1865. But people like George
+W. Houston and the other unnamed African American men like him who were
+present at Sabine Pass show us that African Americans in Texas,
+Louisiana, and the surrounding area weren't all waiting on General
+Gordon Granger to take steps, even dangerous ones, to pursue their own
+freedom.
 
-Well, that's a question you'll have to answer for yourself. But I think that Magruder and Houston together tell us two important things about the Battle of Sabine Pass that are easy to miss if you only visit the public sites here in our city that remember the Civil War. First of all, Magruder clearly understood that battles like the ones fought at Sabine Pass to protect Texas from invasion were also battles that helped to defend slavery and the interests of the state's slaveholding residents. Local records from after the battle show that slaveholding residents in Texas certainly did not become less anxious when they found out about the huge fleet of Union boats that had been floating in the Gulf of Mexico before Dowling turned them away. One Confederate officer, P. N. Luckett, wrote from Houston only a few weeks after Dowling's battle, reporting to his superior about a trip he had just made to the area around Velasco. He pointed out that white residents there were concerned about Union invasion because of "the precarious tenure" of their "negro property" in the event of Texas's fall.
+Notes
+-----
 
-Sources like this make it impossible to see the Battle of Sabine Pass as a battle that had *nothing* to do with slavery and emancipation, whatever the absence surrounding these topics in the memory of Dick Dowling may imply. On the other hand, the story of George W. Houston also complicates the story that African Americans celebrated after the Civil War at places like Emancipation Park. Juneteenth, after all, was a holiday that celebrated emancipation as a product of the *end* of the war that didn't really come until June 19, 1865. But people like George W. Houston and the other unnamed African American men like him who were present at Sabine Pass show us that African Americans in Texas, Louisiana, and the surrounding area weren't all waiting on General Gordon Granger to take steps, even dangerous ones, to pursue their own freedom.
+[^1]: For more information about the purchase of Emancipation Park,
+    consult the "Protected Landmark Designation Report" prepared by the
+    City of Houston and [hosted in PDF form here][]. The report is
+    discussed in a *Houston Chronicle* [blog post][] about the erection
+    of a historical marker at the site in 2009.
 
-## Notes
+[^2]: Images of the unveiling of the historical marker can be found on
+    the Houston Parks and Recreation Department page for [Emancipation
+    Park][].
 
+[^3]: For a full account of the battle, consult Edward T. Cotham, Jr.,
+    *Sabine Pass: The Confederacy's Thermopylae* (Austin: University of
+    Texas Press, 2004), available on [Amazon][1].
+
+[^4]: This lecture was delivered while the [Discovering the Civil War][]
+    exhibit from the National Archives was showing at the museum, along
+    with selected items from the John L. Nau III Civil War Collection,
+    which includes one of the Davis Guard medals. An image of the medal
+    being exhibited at the museum as part of an earlier exhibit can be
+    found on [Flickr][].
+
+[^5]: The text of the marker can be found [here][2] as part of the Dick
+    Dowling Digital Archive, and the report of the governor's speech can
+    be found in a newspaper article covering the unveiling of the
+    statue, also available [here][3].
+
+[^6]: See Thomas W. Cutrer, s.v., "Magruder, John Bankhead," in *The
+    Handbook of Texas Online*,
+    <http://www.tshaonline.org/handbook/online/articles/fma15>. The
+    quote about the Mayflower can be found in Arthur J. Fremantle,
+    *Three Months in the Southern States* (Mobile: S. H. Goetzel, 1864),
+    online at <http://docsouth.unc.edu/imls/fremantle/fremantle.html>.
+
+[^7]: For more information, see the [Freedom's Frontier][] and [Forced
+    Labor at Sabine Pass][] sections of the Omeka exhibit.
+
+  [here]: announcing-dick-dowling-archive.html
+  [Dick Dowling and Sabine Pass in History and Memory]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling
+  [MP3 format]: http://exhibits.library.rice.edu/items/show/826
+  [PDF]: /pdf/dowling-slides.pdf
+  [Dowling's Story]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/2
+  [Dowling's Statue]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/3
+  [Leaving City Hall]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/afterlives-of-dick-dowling/4
+  [the letter that Magruder wrote to Francis Lubbock]: http://exhibits.library.rice.edu/items/show/755
+  [Visualizing Emancipation project]: http://dsl.richmond.edu/emancipation/
+  [From Slaves to Sailors]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/5
+  [the casualty report]: http://exhibits.library.rice.edu/items/show/773
+  [Amazon]: http://www.amazon.com/The-Southern-Journey-Civil-Marine/dp/0292726007/
+  [online]: http://www.archives.gov/publications/prologue/2001/fall/black-sailors-1.html
+  [hosted in PDF form here]: http://blog.chron.com/bayoucityhistory/files/legacy/EmancipationPark3018DowlingStreetR.pdf
+  [blog post]: http://blog.chron.com/bayoucityhistory/2009/06/marker-dedication-at-emancipation-park/
+  [Emancipation Park]: http://www.houstontx.gov/parks/ourparks/emancipationpark.html
+  [1]: http://www.amazon.com/Sabine-Pass-Confederacys-Thermopylae-Caldwell/dp/0292705948
+  [Discovering the Civil War]: http://www.archives.gov/exhibits/civil-war/
+  [Flickr]: http://www.flickr.com/photos/hmns/6073753379/
+  [2]: http://exhibits.library.rice.edu/items/show/381
+  [3]: http://exhibits.library.rice.edu/items/show/454
+  [Freedom's Frontier]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/3
+  [Forced Labor at Sabine Pass]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/4
