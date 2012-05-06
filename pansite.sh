@@ -34,7 +34,8 @@ do
 	 --include-after-body="$FOOTER"\
 	 --output=$PUBDIR/"$POST".html\
 	 "$file"
-	echo ""$SORTDATE"#"$TITLE"#"$POST".html#"$POSTDATE"#"$RSSDATE""\
+	CLIP=$(grep -m 1 -Eo '<p>.+</p>' $PUBDIR/"$POST".html) 
+	echo ""$SORTDATE"#"$TITLE"#"$POST".html#"$POSTDATE"#"$RSSDATE"#"$CLIP""\
 	 >> $LOCDIR/"$CATEGORY".txt
 	fi
 done
@@ -91,7 +92,8 @@ sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
  {print "\t\t<title>" $2 "</title>"}
  {print "\t\t<link>http://wcm1.web.rice.edu/" $3 "</link>"}
  {print "\t\t<guid>http://wcm1.web.rice.edu/" $3 "</guid>"}
- {print "\t\t<pubDate>" $5 "</pubDate>\n\t</item>"}
+ {print "\t\t<pubDate>" $5 "</pubDate>"}
+ {print "\t\t<description>" $6 "[...]</description>\n\t</item>"}
  END{print "</channel>\n</rss>"}'\
  >> $PUBDIR/feed.xml
 
