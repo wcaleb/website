@@ -66,7 +66,7 @@ pandoc $PANOPTS\
  $LOCDIR/cvhead.pdc $LOCDIR/cv.pdc
 sed -E 's/^[^#\[\\]/\\\ind &/g' $LOCDIR/cv.pdc |\
  pandoc -s -S -f markdown --latex-engine=xelatex\
- --template=vita.tex\
+ --template=cv.tex\
  -o $PUBDIR/mcdanielcv.pdf
 
 # Process Colophon
