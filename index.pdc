@@ -1,10 +1,12 @@
 I am an historian of the nineteenth-century United States at Rice University. On this site you can find my [publications][], occasional posts on my current research and teaching, and some geeky computer tricks.
 
-In the spring 2012 semester I am teaching **[HIST 423: American Radicals and Reformers](http://abolition.blogs.rice.edu)** and **[HIST 587: Methods in U.S. Cultural History](files/hist587.pdf)**. In the fall 2013 semester I will be leading a Humanities Research Center [Masterclass on Digital History](https://hrc.rice.edu/masterclasses/).
+In the fall 2012-2013 academic year I will be leading a Humanities Research Center [Masterclass on Digital History](https://hrc.rice.edu/masterclasses/). I am otherwise on leave in the fall 2012 semester.
+
+This July I will be presenting a paper at the annual meeting of [SHEAR](http://faculty.chass.ncsu.edu/ctfriend/SHEAR1.htm), and next January I will be at the annual meeting of the [AHA](http://www.historians.org/annual/2013/index.cfm) in New Orleans.
 
 I also [tweet][], [pin][], [tumble][], [git][], and [vim][].
 
-This site is powered by [pandoc][] and a bash shell script. [Here's how.](colophon.html) It's still a work in progress so please excuse the occasional broken link. All content original to this site is licensed under [CC-BY][] unless otherwise stated.
+This site is powered by [pandoc][] and a bash shell script. You can read about how the site is built on my [colophon](colophon.html). All content original to this site is licensed under [CC-BY][] unless otherwise stated.
 
 [publications]: ./cv.html#publications
 [tweet]: http://twitter.com/wcaleb
