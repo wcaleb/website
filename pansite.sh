@@ -1,5 +1,4 @@
 #!/bin/sh
-# TODO: Pull in favorited tweets for news
 
 LOCDIR=$HOME/Dropbox/website # Run script from this directory
 PUBDIR=$HOME/publish
@@ -9,14 +8,14 @@ PANOPTS="--smart --standalone -f markdown --template=website.html\
  --css=./main.css --include-before-body="$NAVBAR""
 
 # $PANOPTS above assume that the website template is in
-# $HOME/.pandoc/templates/
-# and that the CSS file is in $PUBDIR.
+# $HOME/.pandoc/templates/ and that the CSS file is in $PUBDIR.
 # Next block assumes posts to be published are ...
 # 1. In folders by category in $LOCDIR.
 # 2. In markdown files with *.txt extension.
 # 3. Contain a standard pandoc title block in first three lines.
 
 > $LOCDIR/.allposts
+echo "Processing posts ..."
 find `ls -l $LOCDIR | awk '/^d/ {print $NF}'` -type d -maxdepth 1 | \
 while read -r folder
 do
@@ -50,7 +49,7 @@ pandoc $PANOPTS\
 rm $LOCDIR/"$CATEGORY".txt
 done
 
-# Process index page
+echo "Processing index ..."
 sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
  awk 'BEGIN{FS="#"};{print "* [" $2 "](" $3 ") | " $4 }'\
  > $LOCDIR/recentposts.pdc 
@@ -59,7 +58,8 @@ pandoc $PANOPTS\
  -o $PUBDIR/index.html\
  $LOCDIR/index.pdc $LOCDIR/recentposts.pdc
 
-# Process CV
+if [ $LOCDIR/cv.pdc -nt $PUBDIR/cv.html ];then
+echo "Processing CV ..."
 pandoc $PANOPTS\
  -B $LOCDIR/_contact.html\
  -A "$FOOTER"\
@@ -69,8 +69,9 @@ sed -E 's/^[^#\[\\]/\\\ind &/g' $LOCDIR/cv.pdc |\
  pandoc -s -S -f markdown --latex-engine=xelatex\
  --template=cv.tex\
  -o $PUBDIR/mcdanielcv.pdf
+fi
 
-# Process Colophon
+echo "Processing colophon ..."
 cat $LOCDIR/$0 |\
  awk '
  BEGIN { print "Code used to generate site on"; system("date");
@@ -83,7 +84,7 @@ pandoc $PANOPTS\
  $LOCDIR/colophon.pdc $LOCDIR/.script
 rm $LOCDIR/.script
 
-# Process feed
+echo "Processing RSS feed ..."
 cp $LOCDIR/_feed.xml $PUBDIR/feed.xml
 sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
  awk 'BEGIN{FS="#"}
