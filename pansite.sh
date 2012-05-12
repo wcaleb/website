@@ -82,7 +82,6 @@ pandoc $PANOPTS\
  -o $PUBDIR/colophon.html\
  $LOCDIR/colophon.pdc $LOCDIR/.script
 rm $LOCDIR/.script
-cp $HOME/.pandoc/templates/website.html $PUBDIR/website.txt
 
 # Process feed
 cp $LOCDIR/_feed.xml $PUBDIR/feed.xml
