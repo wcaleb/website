@@ -1,0 +1,88 @@
+% More Plain-Text GTD
+% W. Caleb McDaniel
+% May 15, 2012
+
+About a year ago I adopted a [plain-text system for getting things
+done][], using Notational Velocity, Simplenote, and the "q" key as a
+substitute for bigger GTD programs like Things or OmniFocus. I'm still
+happily using the same system today and have developed a few additional
+"hacks" to make it work for me.
+
+The only major addition I've made to the basic system is that I now
+often assign tasks priority simply by putting `qqq` in the title of my
+note attached to that task, instead of the usual `qq`. This is really
+just a further borrowing from Merlin Mann's "q" trick, which I explained
+in my [original post][]. But at that time, I was still adding hashtags
+like `@tw` or `@td` to tasks that I wanted to accomplish this week or
+today. Now I just using three q's so when I want a more focused list of
+high-priority items, I just search fo `qqq` in NV instead of `qq`, which
+pulls up all of my tasks.
+
+The other thing that has changed in the last year is that I have become
+even more of a plain-text nerd than I already was. I still find
+[Notational Velocity][] to be the easiest way to enter new tasks and
+find old ones, but I also now use Vim, Mutt, and other command-line Unix
+programs as a regular part of my workflow. And I've learned much more
+about baked-in Unix goodies like `grep`, `sort`, and `awk`. All of this
+has allowed me to extend my plain-text GTD system while learning some
+bash scripting along the way.
+
+In fact, keeping all of my tasks in plain text files has advantages now
+that I didn't anticipate at the time because I can so easily manipulate
+my system to add features. For example, let's say I wanted to print off
+a list of all my tasks for this week. I could simply switch to the
+directory where I keep all of my task files and run
+
+    ls | grep qqq | lpr
+
+to print a to-do list from my default printer. That same basic
+`ls | grep` pipe enables me to call up tasks at any time from the
+Terminal, too, and do various things. I can also leverage the power of
+piping in Unix to make new tasks. If I have a text file that requires
+some action on my part, or some text in `stdin` that I want put in a
+task note, I can do something like this:
+
+    cat foo.txt > notes/"qq Take care of the foo".txt
+
+In my earlier post, I mentioned that it was easy to get text into
+Notational Velocity using a Mac OS X service that takes selected text in
+any application and pastes it into a new note. That's possible and
+probably even faster from the command line, too; if I've copied
+something to my system clipboard, I can invoke [DTerm][] and type
+`pbpaste > notes/"qq Read over this text".txt`. In short, as I've gained
+more facility with the command line, I've discovered even more ways to
+quickly create and work with my `qq` files.
+
+Shell scripting extends the system even further. For example, in my
+first post I noted that one of the things I had not figured out yet was
+how to schedule tasks or alert myself automatically when a due date was
+nearing. Now it's possible to imagine how a `cron` job could do that for
+me, though I haven't tried it. What I have done is written a simple
+script that searches through my `qq` files, finds tasks that are due in
+the next two weeks, and then prints a reminder to my terminal every time
+I start a new shell session that looks like this:
+
+    -1 days  Change smoke alarm batteries due(05-13-12)
+    7 days   Change A/C Filter every three months @home due(05-22-12)
+
+Here's the [gist of that script][], but less important than the
+specifics is the basic principle: keeping tasks in plain text files,
+rather than in a proprietary database, makes it possible to easily
+manipulate them--for free--in whatever way makes sense to you.
+[Todo.txt][] is perhaps the most elaborate example of this, but the
+basic idea applies to my system, too. Nor is shell scripting the only
+possible way of doing things like printing a "due soon" reminder. In
+another post that I wrote before really getting into bash, I explained
+[how to use Applescript to make a new task][], and others may be able to
+write more elegant Python, Ruby, or Awk scripts to accomplish similar
+things. That sort of flexibility--and the fact that I only have to see
+those features that *I* need--is what I still like about my GTD system
+today.
+
+  [plain-text system for getting things done]: ./plain-text-gtd.hml
+  [original post]: ./plain-text-gtd.html
+  [Notational Velocity]: http://notational.net
+  [DTerm]: http://decimus.net/DTerm
+  [gist of that script]: git://gist.github.com/2702834.git
+  [Todo.txt]: todotxt.com
+  [how to use Applescript to make a new task]: ./applescript-and-notational-velocity.html

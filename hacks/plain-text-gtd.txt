@@ -344,6 +344,9 @@ example, which uses Dropbox to sync. A forthcoming version of
 [WriteRoom][] on iOS is supposed to do the same. At that point I might
 have to weigh how much that unique email address is worth to me.
 
+[For more about how I am using this system a year later, please visit
+[More Plain-Text GTD](./more-plain-text-gtd.html).]
+
   [How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ
   Trick as a Replacement for the GTD Application Things]: http://mcdaniel.blogs.rice.edu/?p=153
     "Permanent Link: How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things"

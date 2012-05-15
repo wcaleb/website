@@ -15,6 +15,6 @@ This site is powered by [pandoc][] and a shell script. You can read about how on
 [pandoc]: http://www.johnmacfarlane.net/pandoc/
 [CC-BY]: http://creativecommons.org/licenses/by-sa/3.0/
 
-## Recently posted
+## Recently posted [![](./images/rss.png)](./feed.xml)
 
 <!--The list of recent posts is generated dynamically by the shell script that produces this site. See http://wcm1.web.rice.edu/colophon.html for more information.-->
