@@ -14,8 +14,8 @@ note attached to that task, instead of the usual `qq`. This is really
 just a further borrowing from Merlin Mann's "q" trick, which I explained
 in my [original post][]. But at that time, I was still adding hashtags
 like `@tw` or `@td` to tasks that I wanted to accomplish this week or
-today. Now I just using three q's so when I want a more focused list of
-high-priority items, I just search fo `qqq` in NV instead of `qq`, which
+today. Now I just use three q's so when I want a more focused list of
+high-priority items, I just search for `qqq` in NV instead of `qq`, which
 pulls up all of my tasks.
 
 The other thing that has changed in the last year is that I have become
@@ -83,6 +83,6 @@ today.
   [original post]: ./plain-text-gtd.html
   [Notational Velocity]: http://notational.net
   [DTerm]: http://decimus.net/DTerm
-  [gist of that script]: git://gist.github.com/2702834.git
+  [gist of that script]: http://gist.github.com/2702834
   [Todo.txt]: todotxt.com
   [how to use Applescript to make a new task]: ./applescript-and-notational-velocity.html
