@@ -34,13 +34,13 @@ do
 	 --output=$PUBDIR/"$POST".html\
 	 "$file"
 	CLIP=$(grep -m 1 -Eo '<p>.+</p>' $PUBDIR/"$POST".html) 
-	echo ""$SORTDATE"#"$TITLE"#"$POST".html#"$POSTDATE"#"$RSSDATE"#"$CLIP""\
+	echo ""$SORTDATE"%"$TITLE"%"$POST".html%"$POSTDATE"%"$RSSDATE"%"$CLIP""\
 	 >> $LOCDIR/"$CATEGORY".txt
 	fi
 done
 cat $LOCDIR/"$CATEGORY".txt >> $LOCDIR/.allposts
 sort -nr $LOCDIR/"$CATEGORY".txt |\
- awk 'BEGIN{FS="#"};{print "* [" $2 "](" $3 ") | " $4 }'\
+ awk 'BEGIN{FS="%"};{print "* [" $2 "](" $3 ") | " $4 }'\
  > $LOCDIR/.postlist
 pandoc $PANOPTS\
  -A "$FOOTER"\
@@ -51,7 +51,7 @@ done
 
 echo "Processing index ..."
 sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
- awk 'BEGIN{FS="#"};{print "* [" $2 "](" $3 ") | " $4 }'\
+ awk 'BEGIN{FS="%"};{print "* [" $2 "](" $3 ") | " $4 }'\
  > $LOCDIR/recentposts.pdc 
 pandoc $PANOPTS\
  -B $LOCDIR/_contact.html\
@@ -87,7 +87,7 @@ rm $LOCDIR/.script
 echo "Processing RSS feed ..."
 cp $LOCDIR/_feed.xml $PUBDIR/feed.xml
 sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
- awk 'BEGIN{FS="#"}
+ awk 'BEGIN{FS="%"}
  {print "\t<item>"}
  {print "\t\t<title>" $2 "</title>"}
  {print "\t\t<link>http://wcm1.web.rice.edu/" $3 "</link>"}
