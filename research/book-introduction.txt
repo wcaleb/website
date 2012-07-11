@@ -1,0 +1,1213 @@
+% Introduction to My Book
+% W. Caleb McDaniel
+% July 10, 2012
+
+<div id="abstract">The following text is a preprint version of the introduction
+to my forthcoming book, *The Problem of Democracy in the Age of Slavery:
+Garrisonian Abolitionists and Transatlantic Reform*. The final version, with
+a key to abbreviations and pagination for easier citation, will appear in the
+book itself, which is scheduled to be released by Louisiana State University
+Press in early 2013. The book will be part of the <a href="http://lsupress.org/books/by-series/antislavery-abolition-and-the-atlantic-world/">Antislavery, Abolition, and the Atlantic World</a> series, and this preprint appears here by agreement with the
+Press.</div>
+
+On April 14, 1865, hours before Abraham Lincoln sat down for the
+last time at Ford’s Theater in Washington, D.C., the famous abolitionist
+William Lloyd Garrison sat down for the first time in Charleston, South
+Carolina. More than three decades before, Garrison had founded the
+Boston *Liberator,* a newspaper dedicated to universal, immediate slave
+emancipation. In 1833, he helped found the American Anti-Slavery Society
+(AASS), a group devoted to the same goal. And by the time he went to
+Charleston, Garrison had served as the society’s president for over
+twenty years. Only in the last few, however, had emancipation changed
+from a despised, minority opinion to the official policy of federal
+armies in a cataclysmic civil war. With the war now ending and a
+constitutional amendment to abolish slavery awaiting ratification,
+Garrison had come to Fort Sumter to attend a flag-raising ceremony at
+the invitation of Lincoln’s administration.[^1]
+
+ Undoubtedly Garrison’s emotions about the trip were difficult to
+express, and not only because he met recently emancipated slaves, one of
+whom pressed a ten-dollar bill into his hand. Garrison’s emotions were
+also stirred because he could now celebrate a country he had long
+regarded with deep disillusionment—even disgust. That disillusionment
+had two main causes. Four million of Garrison’s countrymen had been
+considered chattel property just three years before. But the
+abolitionists who had worked for three decades to abolish this evil met
+with nearly unremitting hostility, even in the “free states” of the
+North. Garrison once confessed to feeling more at home in Britain, which
+abolished slavery in its West Indian colonies only two years after he
+started his paper, and as recently as 1860, Garrison had objected to
+having the American flag wave over his head. Now, five years later, he
+literally helped pull the Star-Spangled Banner up the flagpole at Fort
+Sumter, accompanied by his friend of thirty-two years, British
+abolitionist George Thompson.[^2]
+
+Thompson was also at his side two years later when Garrison was toasted
+in London at a public breakfast held in his honor. It was Garrison’s
+fourth trip to Great Britain, and among the crowd were other British
+abolitionists who had supported Garrison for two decades or more. There
+was Richard Davis Webb, a Dublin printer. There was the lawyer William
+Shaen, longtime associate of William Henry Ashurst, who had once served
+as the London correspondent for the *Liberator.* These were two of the
+many reformers whom Garrison could recognize on sight. But dotting the
+crowd were also many internationally famous reformers, including John
+Bright, the meeting’s chairman; Victor Schoelcher, the French
+abolitionist; and John Stuart Mill, member of parliament for
+Westminster, author of *On Liberty,* and a leading figure for liberal
+thinkers on both sides of the Atlantic.[^3]
+
+Before 1867, Garrison and Mill had never met, and at first glance they
+had little in common. One was a lifelong printer and agitator, the other
+a statesman and philosopher. Garrison was the son of an alcoholic father
+and pious mother who never received much formal education; Mill, who was
+raised in the shadow of famous English philosophers like his father
+James Mill and the utilitarian Jeremy Bentham, learned to read classical
+Greek at the age of three. But Mill knew about Garrison. In the 1830s,
+he had read about American abolitionists in the essays of the English
+writer Harriet Martineau. Mill had also followed Garrison’s career as an
+advocate of women’s rights, and he shared Garrison’s abhorrence of
+chattel slavery. It was thus only with slight exaggeration that Mill
+wrote, in 1865, that he had always regarded Garrison’s band of
+abolitionists “as the élite of their country, not to say of their
+age.”[^4]
+
+Two years later in London, Mill gave a laudatory speech in honor of
+Garrison, only a few days after the two men had shared a private moment
+at the House of Commons. At a special meal with members of parliament,
+Garrison sat next to Mill. And according to the journal of Frederick W.
+Chesson, who knew both men, Mill told Garrison upon “shaking hands with
+him, that there was no man in the world he was better pleased to see.”
+He later invited Garrison to visit his vacation home in France.[^5]
+
+Garrison proved unable to accept Mill’s invitation. But Garrison had
+already crossed the English Channel earlier in the month, and he
+returned to Paris a few weeks later for an international antislavery
+conference. There he received another round of congratulations from
+European reformers like the Russian exile and anti-serfdom reformer
+Nicholas Tourgeneff and the French liberal Edouard Laboulaye, who
+reminded Garrison of his old friend Charles Follen, the German American
+exile. And between his two trips to the continent, Garrison also visited
+twice with Giuseppe Mazzini, the famous Italian revolutionary.[^6]
+
+Garrison and Mazzini had met thirty years before, and a few days after
+their final meeting the Italian sent Garrison a friendly note expressing
+his regard, accompanied by a photograph of himself. Garrison, in turn,
+later wrote a fond memoir of his “personal friendship” with Mazzini. The
+abolitionist acknowledged that his and Mazzini’s “fields of labor were
+widely apart, and our modes of action in some respects diverse.” But the
+differences between Mazzini and himself, Garrison claimed, were slighter
+than the similarities: “we cherished the same hostility to every form of
+tyranny, and had many experiences in common.”[^7]
+
+In that single, telling line, Garrison opened a revealing window onto
+the world he had known for fifty years: a world in which American
+abolitionists were connected to a transatlantic host of reformers as
+diverse as Thompson, Follen, Chesson, Mazzini, and Mill. This book
+places the story of Garrison and his movement within that wider world,
+and in so doing explains how and on what terms one of American history’s
+most radical critics came to stand beneath the flag.
+
+------
+
+The primary experience that Garrison, Mill, and Mazzini had in
+common was that of being antislavery in an age of slavery. But this book
+highlights another experience they shared: they defended democracy in an
+age of aristocracy, monarchy, and doubt about democracy’s future. These
+experiences differed, however, according to location, or what Garrison
+called each man’s “field of labor.”
+
+All three reformers lived through an epochal transformation in world
+history: the abolition, in about one hundred years, of a transoceanic
+system of slavery that had thrived since the fifteenth century. Between
+the American and Haitian revolutions of the late eighteenth century and
+the Brazilian abolition of 1888, millions of African-descended people
+held as slaves in the Western hemisphere became free in the eyes of the
+law, while observers on both sides of the Atlantic came to regard
+slavery as antithetical to human progress. But during these dramatic
+changes, abolitionism remained more unpopular in America, and for
+longer, than in Europe.[^8]
+
+In Mill’s England, Parliament abolished British West Indian slavery in
+the 1830s, after which many Britons considered being antislavery
+synonymous with being British. In Europe itself, chattel slavery had
+largely disappeared as a legal institution by the time that New World
+African slavery began, so reformers like Mazzini never lived in the sort
+of slave societies that grew up across the Atlantic. In the
+post-revolutionary United States, by contrast, the federal government
+gave numerous protections to a powerful southern planter class, enabling
+slavery to expand rapidly in space and scale. American slavery proved so
+resilient that only civil war succeeded in destroying it.[^9]
+
+Even emancipations outside the antebellum United States often
+strengthened the hand of slavery’s defenders there. After the lengthy
+wars that ended slavery in Haiti, American slaveholders argued that
+merely discussing abolition would provoke apocalyptic bloodshed. British
+abolitionists and their few American allies countered by pointing to the
+British West Indies as a “mighty experiment” in emancipation that proved
+its safety and wisdom. But that strategy faltered in the face of racism,
+American Anglophobia, fears of insurrection or sectional strife, and
+discouraging economic growth in the post-emancipation Caribbean.[^10]
+
+The small minority of Americans who demanded immediate emancipation thus
+remained on the defensive throughout the first five decades of the
+nineteenth century. Even antislavery politicians like Lincoln suggested
+that American slavery could only end gradually and might well survive
+until the 1890s or beyond, while more radical abolitionists like the
+“Garrisonians”—as members of the AASS were known—faced threats,
+ostracism, and even physical violence. So it was no wonder that
+abolitionists looked to England as a safer haven where they could
+“breathe freely,” as Garrison put it. Temporary exile in Great Britain
+provided resources, refuge, and respite from an age of slavery whose end
+was not yet assured.[^11]
+
+The fate of democracy was also far from assured when Garrison’s career
+began. By 1855, more than half a century after French and American
+revolutionaries created self-governing republics, democratic governments
+were still few and feeble on both sides of the Atlantic, and the enemies
+of democracy—monarchs, aristocrats, and their conservative
+defenders—still clung tightly to the reins of power in almost every
+state. Clandestine networks of agitators like Mazzini tried to revive
+popular revolution in Europe after 1815, but most members of these
+groups were forced to live in exile, and in their new homes they still
+often aroused suspicion for their radical views. Even when French
+revolutionaries succeeded in overturning another monarch in 1830, the
+French electorate grew only to around 200,000 men—a number representing
+less than 1 percent of the whole population.[^12]
+
+Elsewhere, universal suffrage remained as controversial as the idea of
+immediate emancipation in the United States. In the United Kingdom,
+parliamentary reformers modified the composition of the electorate with
+the passage of the Reform Act of 1832. But by 1848, despite a massive
+decade-long Chartist movement calling for universal manhood suffrage,
+the number of Englishmen who could vote still hovered consistently at
+just under 20 percent of all adult males in England. Another broadening
+of the franchise would not occur until a second Reform Bill in 1867,
+whose merits Garrison heard being debated in the House of Commons before
+he lunched with Mill.[^13]
+
+In the United States, by contrast, universal white manhood suffrage was
+the law in most states by 1855, making the country an unusual experiment
+in political democracy. Just as many European and American writers
+turned to the British West Indies or Haiti to observe the effects of
+slave emancipation, scores of European travelogues, essays, and books
+about American democracy appeared in the decades when abolitionists were
+most active. Alexis de Tocqueville’s *Democracy in America,* published
+in 1835 and 1840, was only the most famous. As Mill noted in the first
+of his two reviews of that book, the United States was “usually cited by
+the two great parties which divide Europe as an argument for or against
+democracy. Democrats have sought to prove by it that we ought to be
+democrats; aristocrats, that we should cleave to aristocracy, and
+withstand the democratic spirit.”[^14]
+
+Yet even in the antebellum United States, “the democratic spirit”
+remained contested and limited; all of its gains were hard-won. As
+historian Kyle Volk notes, after their own revolution Americans
+continued to debate “the boundaries to the democratic creed of majority
+rule, the rights of minorities and their proper place in policymaking,
+and whether ‘the people’ could ever be too involved in popular
+self-government,” as well as “whether public policy should always
+reflect public opinion.” Many Americans in the Whig Party still admired
+England’s small electorate and property qualifications for voting. And
+even the most ardent Jacksonian Democrats were only willing to follow
+the democratic tendency so far—to the point of political equality for
+adult white men.[^15]
+
+The idea of completely unlimited and equal suffrage was, in short, still
+a radical notion in the world abolitionists knew, even to some
+abolitionists. In 1843, for example, the political abolitionist James
+Birney nearly lost the presidential nomination of the Liberty Party
+after some indiscreet public remarks deploring that, “since the time of
+Mr. Jefferson, what is called democracy has been on the increase.”
+Birney was sure that “no people . . . can advance in moral refinement
+and true civilization under the univ[ersa]l Suffrage.” These were not
+the views of Garrisonians or most Liberty Party members, but outbursts
+like Birney’s showed that “democracy” was not incontrovertible even
+among American reformers. As historian Daniel Feller notes, for a
+nineteenth-century American democrat surveying the world at large,
+“there was reason, in the 1830s and even later, to believe that issues
+we now consider settled by then were in fact not settled.”[^16]
+
+In short, when Garrison launched his *Liberator* in 1831, democrats were
+largely on the defensive everywhere but in the United States, while
+abolitionists were on the defensive everywhere but in Great Britain. The
+map of places where a democrat could breathe freely was almost the
+photographic negative of those where abolitionists felt at ease. For
+American abolitionists, the embattled situation of democrats abroad
+raised fears that the tendency of the times could veer back toward
+tyranny and away from universal freedom, notwithstanding emancipation’s
+recent gains. Conversely, for those struggling for democracy in Europe,
+the persecution of abolitionists in the United States seemed to threaten
+their own success, since conservatives like Sir Robert Peel could point
+to recent mobs and anti-black riots in the United States as arguments
+against “experiments” in “popular Government.” As the French
+abolitionist Victor Schoelcher wrote in a Garrisonian publication, it
+was “an incalculable danger to the democratic idea, both now and
+hereafter, that the most democratic people existing should be holders of
+Slaves!”[^17]
+
+As Schoelcher realized, events in the nineteenth-century Atlantic World
+made it difficult for anyone to debate about slavery without also
+debating the legitimacy of different forms of government. But for
+abolitionists, the age of slavery exposed problems with both aristocracy
+and democracy, with rule by the few as well as rule by the many. On the
+one hand, abolitionists understood slavery as it existed in the American
+South as antithetical to democracy. Slavery denied the democratic
+premise of human equality. It disfranchised millions of black men and
+women who in some parts of the South outnumbered whites. And it
+empowered a small landed class of slaveholders, a “Slave Power” that
+exerted aristocratic control in Congress and legislated in the interests
+of the planter class.
+
+On the other hand, the unpopularity of abolitionism and the persistence
+of slavery in the United States also revealed problems with democracy.
+Slavery survived partly thanks to the votes of congressmen and electors
+in northern states where slavery had ended after the revolution. At the
+state and municipal levels, laws that benefited slaveholding
+aristocrats, repressed northern abolitionists, and discriminated against
+free black communities were often ratified by electoral majorities or
+their representatives. And what anti-abolitionists could not accomplish
+by law they often achieved through violence or harassment that was
+tolerated by elected officials. Mobs like the one that disrupted a
+meeting of abolitionist women in Boston in 1835 and led Garrison through
+the streets by a rope seemed, as one *Liberator* headline put it, to
+provide “Another Argument for Sir Robert Peel” that majority rule in the
+United States had not been an unqualified good.[^18]
+
+These realities made abolitionists acutely aware of the problem of
+democracy: majorities could be unjust, immoral, selfish, and unconcerned
+about the oppression of others. Democratic procedures could even allow
+enfranchised groups to deny minorities the very same rights they already
+enjoyed. Surveying American politics on the eve of the civil war, the
+leading Garrisonian orator Wendell Phillips concluded that, “the
+weakness of a Democracy is that, unless guarded it merges in despotism.”
+Abolitionists like him, more than most Americans, appreciated how easily
+“a Democrat . . . will harden into a despot,” and how difficult it was
+for a minority to protect itself. But given this awareness, how could
+they answer the Peels of the world who doubted “the democratic
+principle”?[^19]
+
+------
+
+The problem of justifying democracy despite its potential for
+despotism is not an easy one to solve; indeed, it continues to vex
+liberal political theorists even in the present. Often democracy is
+minimally defined as a procedure for fair political decision-making, yet
+even so-called procedural democrats acknowledge that the decisions of a
+majority may be wrong or even anti-democratic. As Amy Gutmann and Dennis
+Thompson put it, “numerical might does not make a decision morally
+right. Majorities have a moral right to govern only because minorities
+do not.” Liberal democracy needs protections for minority groups and
+individual rights that cannot be overruled by majorities, but debating
+procedures and deciding the limits of majority rule often exposes even
+deeper moral disagreements. Some theorists, including Gutmann and
+Thompson, argue that greater democratic participation and conversation
+can deal with these disagreements. But debate continues over how to
+justify and create ground rules for deliberation in a way consistent
+with procedural fairness and the principles of autonomy and equality on
+which democratic procedures are based.[^20]
+
+Similar debates on the legitimacy of democracy began during the age of
+slavery, before struggles to establish democratic procedures had even
+been settled beyond doubt. Indeed, abolitionists pondered similar
+questions together with many European contemporaries. When Phillips
+declared that democracy could merge with despotism, he paraphrased
+directly from the writings of Tocqueville, whose books on American
+democracy Phillips read closely and cited often. Mill also read
+Tocqueville’s volumes as soon as they appeared and spent two decades
+puzzling over how to shield democratization in England from the dangers
+of majoritarian tyranny.[^21]
+
+Like them, Garrisonians saw the problems with the democratic procedure
+of majority rule. But unlike many European writers on democracy,
+Garrisonians sought ways to correct democracy’s weaknesses without
+sacrificing its procedures—the representative institutions and voting
+rights which American democrats had fought hard to win. Many of
+Tocqueville’s admirers, including Mill, sometimes entertained the idea
+of placing limitations on suffrage to keep immoral or incompetent
+majorities from running amok, or favored a mixture of aristocracy and
+democracy. Garrisonians, on the other hand, typically grew up believing
+that the United States government provided a model for the world, and
+even their conversions to abolitionism did not entirely destroy that
+faith.
+
+While in Scotland during his second transatlantic tour, for example,
+Garrison affirmed “the superiority of the American form of government
+over every other now existing in the world.” Frederick Douglass, the
+famous African American abolitionist who allied with Garrison in the
+early 1840s, likewise told British audiences that, “aside from slavery I
+regard America as a brilliant example to the world. Only wash from her
+escutcheon the bloody stain of slavery, and she will stand forth as a
+noble example for others to follow.” Similar statements can be found
+scattered throughout the Garrisonians’ writings. Wendell Phillips even
+declared that “I have full faith in democratic institutions” and
+identified the antislavery movement with “the Democratic principle.”[^22]
+
+These expressions of faith in democratic institutions and principles are
+noteworthy because Garrisonians are best known among historians of
+abolitionism for their own refusal to vote. For various reasons,
+including religious beliefs and interpretations of the constitution,
+members of the American Anti-Slavery Society decided after 1840 not to
+cast ballots, even for antislavery parties like the Liberty Party,
+founded in 1840, or the Free Soil Party, founded in 1848. Instead,
+Garrisonians relied exclusively on strategies intended to change public
+opinion, like holding meetings, publishing tracts, circulating
+petitions, and delivering speeches.
+
+Abolitionists who did join the Liberty Party and the Free Soil Party
+often criticized these Garrisonian non-voters for an irresponsible lack
+of faith in democratic procedure, and many historians have leveled the
+same charge. In 1845, for example, Charles Sumner urged his friend
+Phillips to reconsider his refusal to vote, since abolitionists could
+not afford to lose any means of influence for the slave. “I think that
+you would *speak* in favor of an alteration of the Constitution, why not
+*act* in favor of it?” Sumner asked. “Take your place among citizens, &
+use all the weapons of a citizen in this just warfare.”[^23]
+
+Other critics of Garrisonian non-voting were less charitable and accused
+Garrison of caring more for his own moral purity than for abolition.
+They viewed Garrison’s style of agitation, which at one point included
+his public burning of the Constitution, as proof of a blind zeal that
+could not distinguish at all between what was good in American
+institutions and what was bad. As one critic lamented, members of
+Garrison’s society seemed to take “the ‘backing out’ principle” to
+extremes. “Their plan of navigating our poor misguided ship is to
+renounce helm, roles, compass, anchor, all, jump overboard and
+scream!”[^24]
+
+Historians have also often seen Garrisonians as self-righteous
+separatists who backed out instead of pitching in, adopting a
+“remarkably passive plan of action.” On this view, Garrison led his
+small band of followers into a “detour” or “moral dead end . . . a
+seemingly endless pursuit of self-purification that mistook the
+avoidance of politics for progress.” He and his disciples “privileged
+the purification of the individual soul, the conversion of individual
+hearts and minds against slavery and other worldly corruptions, over the
+practical result of abolition.” In short, to many historians, the
+classic image of Garrison is of an impractical, “radically antinomian”
+religious reformer obsessed with moral perfectionism, rather than a
+political activist. By refusing to vote at all, he and his allies
+allegedly showed a “contempt for ordinary politics” that came close to
+contempt for the democratic process itself.[^25]
+
+The Garrisonians’ own self-professed faith in democratic institutions
+has been further obscured by a long tradition in American democratic
+theory that began not long after emancipation. In the last years of the
+nineteenth century, many American intellectuals began to deprecate the
+sort of religious and moral absolutism that could lead someone to burn
+laws and spurn ballots. These thinkers saw the inflexibility of
+abolitionists like Garrison and Phillips as inimical to the pragmatism
+that reformers needed in a complex modern world, where uncertainty and
+pluralism were facts of life. Indeed, already by the 1860s, Garrison’s
+stock was falling among some of the young liberals who admired Mill, a
+philosopher who loved to synthesize seeming opposites into subtle
+wholes. The Unitarian Moncure Conway, who briefly joined Garrison’s
+movement in the 1850s, breezily remembered the editor as the leader of a
+religious sect who refused to work with other abolitionists—in contrast
+to Conway himself, who considered himself more open-minded and “knew
+good people on both sides.”[^26]
+
+Despite these common criticisms, however, Garrisonians unquestionably
+believed in democracy. Indeed, their focus on altering public opinion
+required as much faith in democratic procedures as the decisions of
+other abolitionists to vote, because Garrisonians assumed that majority
+rule allowed changes in public opinion to direct policy. Moreover,
+despite their voluntary decisions to refrain from voting, Garrison and
+his allies did not call for others to be deprived of their votes. By
+advocating equal political rights for women and black Americans, they
+demonstrated a more expansive view of suffrage than many antislavery
+voters. Garrisonians also echoed the hopes of Schoelcher and their
+European friends that the democratic idea would spread to other
+countries, and they hated American slavery partly because it robbed the
+United States of the role they assumed it should play as a global
+exemplar of democracy in action. When Garrison hoisted the flag at Fort
+Sumter at the end of the Civil War, he rejoiced that slavery had
+perished, but like Lincoln, he was also relieved that government of, by,
+and for the people had not.
+
+Still, Garrisonians could not forget the weaknesses of democracy, its
+potential drift toward despotism; they knew firsthand what it meant to
+be a moral minority in an age when slavery and racism still had numbers
+on their side. Though remembered for their own inflexibility, they
+themselves knew the damage done by a bad idea when held by an
+unreflective and unbending majority. Throughout the antebellum period,
+therefore, Garrisonians often meditated not only on the problem of how
+to abolish slavery, but also on how to solve the problem of democracy
+that their ideas and experiences made plain. To make American democracy
+safe for the world, they had to do more than abolish American slavery;
+they had to articulate the habits of mind and social practices that
+would keep future democratic majorities from abusing their power in new
+ways.[^27]
+
+Garrisonian abolitionists wanted to make democracy work, and the key to
+that, they believed, was to couple majority rule and democratic
+procedures with constant *agitation* by at least some citizens outside
+of political institutions. But while this emphasis on agitation as
+essential to democracy was ultimately the thing that most endeared
+Garrisonians to Mill, it was not a self-evident truth to Americans at
+the time. By the time Garrison founded the *Liberator,* many
+conservatives and radicals alike viewed agitation by private clubs and
+extra-parliamentary movements as possible threats to the rule of law,
+which democratic citizens should control through more orderly forms of
+civic participation like jury duty and voting. Surveying the United
+States of the 1830s, Supreme Court Justice Joseph Story spoke for many
+American thinkers in deploring “Ultraism” and the “restless spirit of
+innovation and change—a fretful desire to provoke discussions of all
+sorts.” Many others criticized abolitionist agitation more explicitly as
+a threat to the harmony of the Union, which—as the world’s mighty
+experiment of democracy—had to be preserved even at the expense of
+discussing divisive ideas.[^28]
+
+In short, most antebellum Americans assumed that what made the United
+States a democracy were its political institutions and procedures, not
+the extent to which unpopular views could be expressed. But Garrisonian
+abolitionists preached that dissent was as necessary in a democracy as
+suffrage, representative institutions, or the rule of law. While certain
+of their own moral rectitude, they also articulated a defense of
+constant deliberation and free inquiry that later democratic thinkers
+might have recognized. Because other deeply held views had been proved
+wrong in the past, and because passive conformity favored political
+tyranny, Garrisonians believed, in Phillips’s words, that “unintermitted
+agitation” was essential to self-government—a controversial point in
+their day, but an important one in the history of American democratic
+thought.[^29]
+
+------
+
+Wendell Phillips best summarized the Garrisonians’ vision of
+democracy in 1852, when he compared popular government to an
+“ever-restless ocean,” its waves constantly agitated and never still.
+Phillips returned to that image frequently, as will this book. But the
+ocean was more than a metaphor for abolitionists. Garrisonians also
+crossed the actual ocean frequently, revealing the transnational
+dimensions of American reform and the extent of transatlantic networks
+even in an era of nation-building and civil war.[^30]
+
+As historian C. A. Bayly and others have shown, the nineteenth century
+witnessed the birth of a nascent “international civil society” and the
+rise of transnational “networks of information and political advocacy
+which, though less obvious than the rising national and imperial state,
+[were] no less important.” Abolitionists experienced these realities in
+their everyday lives thanks to revolutions in transportation and
+communications technology that knit the Atlantic World together and
+astonished their contemporaries. By the end of Garrison’s life, one
+American abolitionist marveled to the Irish abolitionist Richard Davis
+Webb about the incredible “wilderness of waters” over which their
+letters always crossed. Yet “our regular, constant, almost daily
+intercourse by steam mail-vessels” had led these distant friends to
+“accept it as a matter of course!”[^31]
+
+Like the generations after them, abolitionists compared their
+experiences to the generations before them and concluded that it was a
+small world after all. Over the course of Garrison’s five eastward
+Atlantic voyages, the length of his trips in days trended steadily
+downward: 21, 25, 15, 10, 11. The first westward crossing Garrison ever
+made, in 1833, took 42 days by sail; his last return from Europe, in
+1877, took 10 days by steam. Those contrasts struck abolitionists as
+proof that “the oceans that divided us, have become bridges to connect
+us,” as Frederick Douglass put it in 1848. The year before, Douglass had
+completed his own first Atlantic crossing, which introduced him to a
+vibrant community of reformers who had corresponded with American
+abolitionists for a decade or more.[^32]
+
+Transatlantic travel and correspondence also brought American
+abolitionists into close contact with a wide range of reform movements,
+including Irish Repeal, Corn Law Repeal, and Chartism. As Douglass
+pointed out after his first tour of Great Britain, many of the British
+reformers whom abolitionists knew identified with “the democratic
+element in British politics”; they sympathized with European exiles like
+“Louis Kossuth and Mazzini, and with the oppressed and enslaved, of
+every color and nation, the world over.” And through these friends
+abolitionists joined dense, overlapping networks that spanned the
+Atlantic Ocean.[^33]
+
+For a sense of how complex these networks could become, it is enough to
+consider one exchange between Mazzini and several of Garrison’s allies
+before the Civil War. In 1855, Mazzini wrote a note to the Bristol
+Unitarian and abolitionist George Armstrong, telling him that “we are
+moving along the same path,” and reporting that he had conveyed a note
+from Armstrong to Kossuth, the Hungarian revolutionary. Mazzini had
+received Armstrong’s note through Ashurst, a mutual friend of Garrison
+and Mazzini. Mazzini had then passed the note to Kossuth’s Italian
+secretary, whom he knew. Finally, in a postscript to Armstrong, Mazzini
+asked for the address of the Boston abolitionist Maria Weston Chapman,
+one of Garrison’s closest allies, who by then had moved to Paris and had
+met Mazzini in London. Armstrong, for his part, copied and sent the
+whole correspondence to Samuel May Jr., a Massachusetts Unitarian who
+had met Armstrong on an abolitionist tour in England.[^34]
+
+Close attention to these networks is important not just for mapping the
+nineteenth-century Atlantic World of reform, but also for understanding
+Garrisonians better. Like the later Progressive intellectuals studied by
+historian James Kloppenberg, the abolitionists’ ideas were “shaped
+within a transatlantic community of discourse rather than a parochial
+national frame of reference,” and many of their strategies and premises
+make sense only within the larger context of the Atlantic World. For
+example, Garrisonians partially modeled their strategy of agitating
+public opinion from outside Congress on successful extraparliamentary
+reform movements overseas, like Daniel O’Connell’s crusade for Catholic
+emancipation in Ireland or Richard Cobden’s struggle against the Corn
+Laws. They viewed setbacks for abolitionists in America as setbacks to
+democracy abroad partly because this is what their own correspondents
+affirmed. And finally, focusing on the extent of their transatlantic
+networks makes clearer why Garrisonians so often described themselves
+not only as democratic agitators, but also as citizens of the world.[^35]
+
+Garrison made his own cosmopolitan ideals clear in the famous motto that
+he published on every issue of the *Liberator*: “Our Country is the
+World—Our Countrymen are all Mankind.” But between 1831 and 1865, this
+motto and its variants also became a mantra for Garrison’s allies on
+both sides of the ocean. George Thompson cited it in a speech in
+Calcutta in 1843. Charles Follen called it “our watchword from the
+beginning.” Douglass claimed Garrison’s motto as his motto, too. And
+when Chapman moved to Paris she told Pease that she had gone partly to
+teach her daughters to “to become cosmopolitan . . . & to be able to say
+with an experimental feeling, ‘My Country is the World My Countrymen are
+all Mankind.’” In 1867, Garrison’s friend and ally Henry Clarke Wright,
+who spent five years in Europe in the 1840s, inscribed the title page of
+the forty-seventh volume of his personal diary with the words: “Henry C.
+Wright. Citizen of the World.”[^36]
+
+Becoming “cosmopolitan,” in short, mattered greatly to Garrison and his
+allies. When Garrison’s sons published a four-volume memorial biography
+of their father, they described “Our Country is the World” as his
+“favorite motto” and printed it on the title page of each book. The
+motto was printed on memorial cards distributed at Garrison’s funeral.
+And it is engraved on the southern side of the Garrison statue that sits
+near the Boston Public Library in Copley Square, where Garrison’s
+voluminous correspondence with European reformers was deposited after
+the Civil War.[^37]
+
+Like their insistence on agitation, the Garrisonians’ cosmopolitanism
+often made them unpopular in their day. Many Americans during and after
+the American Revolution had once believed that ideals like
+cosmopolitanism, world citizenship, and universal benevolence were good
+things; loving the world was not incompatible with loving their country.
+But the early nineteenth century brought with it hardening notions of
+national loyalty that put pressure on these ideals. As Tocqueville
+noticed when he toured the country in 1830s, Americans tended towards an
+“irritable patriotism” that bristled at any criticism from foreigners.
+“Our Country, Right or Wrong”—a popular antebellum slogan—captured the
+way that many Americans thought about patriotism.[^38]
+
+Garrisonians, however, believed both that democracy, like an ocean,
+should be ever-restless, and that crossing the ocean was good for
+democracy. They were wary about the dangers of too much national pride
+in a democracy like theirs, a concern that was both reinforced by their
+transatlantic experiences and echoed by transatlantic writers.
+Contemporary European liberals like Mazzini and Mill also criticized the
+sort of nationality that encouraged “senseless antipathy to foreigners,”
+and they too defended a vision of democracy in which unpopular or
+foreign ideas would not only be tolerated but would be seen as essential
+to the health of any nation. Placing Garrisonians alongside and within
+the personal networks of European reformers therefore makes clearer the
+origins and nature of their own ideas about democracy and patriotism,
+while also revealing intellectual and practical connections between
+their agitation at home and their activities abroad.[^39]
+
+In sum, by highlighting the Garrisonians’ participation in transatlantic
+debates about democracy, slavery, and nationalism, this book presents
+abolitionists both as transatlantic agitators and as transatlantic
+*thinkers*. Although abolitionists usually did not think of themselves
+primarily as intellectuals, they fit David Hollinger’s capacious
+definition of intellectuals as a community of people who exchange ideas,
+ask shared questions, and probe the “points of contact between minds.”
+Words mattered to Garrisonians not just as weapons, but also as carriers
+of ideas. And close readings of their speeches, letters, and pamphlets
+reveal abolitionists to be appropriate subjects for nineteenth-century
+intellectual history.[^40]
+
+To say Garrisonians were thinkers is not, however, to deny they were
+activists. On the contrary, this book also presents Garrisonians as
+goal-oriented activists who wanted to change politics from without.
+Although they did not vote or run for office, Garrisonians were
+extra-parliamentary activists who followed political events closely,
+thought strategically, and assumed their agitation would have political
+effects. To be sure, this depiction again differs from the typical view
+of Garrisonians as reformers who cared little about political outcomes.
+Historians usually do concede that Garrison “eventually adopt[ed] a
+strain of . . . pragmatism,” but this transformation is typically seen
+as a late development brought on by the antebellum sectional crisis or
+the Civil War, “when events overwhelmed his perfectionism.” Rather than
+seeing these events as total breaks from the past, however, this book
+shows that Garrisonians were always more interested in politics than is
+often assumed. Their tack was never one of total withdrawal from
+political engagement.[^41]
+
+Instead, like a later generation of transatlantic liberals studied by
+historian Leslie Butler, Garrison and other abolitionists “confronted
+what they considered national flaws with a strategy of dissent and
+reform rather than a willful retreat from public life.” Throughout their
+careers Garrisonians were politically engaged thinkers, or profoundly
+reflective activists, neither of which was an oxymoron in the world they
+knew. Indeed, whether it is ever appropriate for historians to observe a
+strict distinction between political “activists” and “intellectuals,”
+recent scholars have made clear that such a distinction often broke down
+in the nineteenth-century Atlantic World. In the European context,
+historians and political theorists have recently rediscovered
+“agitators” like Mazzini or Cobden as complex political thinkers, too.
+Mill has been redescribed as both a sophisticated thinker and an engaged
+politician. On the other side of the Atlantic, figures once thought of
+as disengaged intellectuals, like Emerson, Henry David Thoreau, and
+Margaret Fuller, are now recognized as agitators.[^42]
+
+Garrisonians, likewise, were agitators informed by ideas, which were in
+turn informed by their agitation. Their experiences as a persecuted
+minority raised a set of shared intellectual questions that they tried
+to answer in ways that accounted for their experiences. Simultaneously,
+however, they never ceased to follow political events, to care deeply
+about their effectiveness, or to consider how well their
+extraparliamentary tactics were influencing politics. And despite their
+criticisms of national pride, they remained vitally concerned with the
+reputation of American democracy in the world at large, convinced that
+love for country and shame for country were not incompatible
+feelings.[^43]
+
+------
+
+Part I of this book begins with Garrison as a teenager, following
+him through his conversion to abolitionist work and the origins of his
+transatlantic reform networks. These chapters proceed chronologically,
+but they emphasize the continuities and persistent ideas that linked the
+adolescent Garrison of 1818 to the transatlantic abolitionist of 1854.
+Among the most important of these continuities were Garrison’s belief in
+the special mission of the United States as a republican model to the
+world, and a related belief that “public opinion” had special power to
+change American institutions. Those beliefs coexisted with, rather than
+being supplanted by, the views for which Garrisonians are still better
+known.
+
+Having discussed the experiences of Garrisonian abolitionists up to
+1854, I turn in Part II to the intellectual problems that these
+experiences posed. These chapters are organized more synchronically.
+They emphasize the ways Garrisonian ideas resembled and were sometimes
+informed by transatlantic thinkers and activists like Tocqueville,
+Mazzini, Mill, O’Connell, Cobden, the Chartists, and the British allies
+of Garrisonian abolitionists introduced in Part I.
+
+Part III then returns to the chronological narrative, picking up with
+the democratic revolutions that rocked Europe in 1848 and following
+Garrisonians into the Civil War, when many new tensions suddenly
+appeared between longtime allies like Garrison and Phillips. With this
+tripartite structure, which turns from events to ideas and back to
+events, I hope to convey something of how Garrisonians themselves turned
+back and forth between their experiences as transatlantic abolitionists
+and their ideas about democracy, “public opinion,” nations,
+cosmopolitanism, and the United States. Reasoning in light of their
+experiences, they also interpreted experiences in light of their ideas.
+
+For the purposes of this book, “Garrisonians” were those members of the
+American Anti-Slavery Society who remained with the society after a
+famous split in its ranks in 1840. Yet even on that definition,
+Garrisonians were a diverse lot. They resist generalization partly
+because they themselves resisted strict criteria for membership in the
+AASS. After 1844, Garrisonians in the AASS were somewhat more united by
+the fact that they all identified with the motto “No Union with
+Slaveholders” and refused to vote. But they remained divided on a range
+of questions about violence, theology, capitalism, and much else. When
+drawing generalizations about Garrisonians, I have thus tried to note
+significant exceptions to the rule.
+
+My primary focus, however, is on those Garrisonians who belonged to the
+organization early enough to experience the schism of 1840; who embraced
+its non-voting tactics during all or most of the 1840s and 1850s; and
+who then supported the Union war effort and participated in political
+campaigns after 1861. I have chosen this focus in order to show why
+postwar scenes like Garrison’s trips to Charleston and London were more
+explicable than they may appear, but my focus does mean paying less
+attention to Garrisonians who left the AASS long before 1861, or who
+joined long after 1840, or who were uncomfortable with wartime views
+like Garrison’s—a broad spectrum that includes figures like Parker
+Pillsbury, George Bradburn, Stephen Foster, Abby Kelley, John A.
+Collins, and many black abolitionists. On the other hand, I sometimes
+discuss reformers not typically treated as Garrisonians, like Frederick
+Douglass. Though he made the decision to support political candidates
+for election a decade earlier than Garrison and Phillips, he too
+remained a non-voting “disunionist” throughout the 1840s and thus went
+through the same transformation they did at a more accelerated rate.
+
+Throughout the book, however, my two main characters are William Lloyd
+Garrison and Wendell Phillips—two figures who at first seem almost as
+different as Garrison and Mill. Phillips descended from one of the
+wealthiest families in Boston’s history and was educated at elite
+schools like Boston Latin and Harvard; Garrison was an ink-stained
+printer who was viewed as a vulgar fanatic by most Bostonians of
+Phillips’s rank. While it was Garrison who eventually met Mill and
+Mazzini, it was Phillips who read works by the likes of Mill and
+Tocqueville and synthesized their arguments with the outlook of
+Garrison’s band.
+
+Despite their differences, each of these men built a life that would not
+be intelligible apart from the other. Phillips credited Garrison’s
+influence with making him “a better man” and marveled to his friend in
+1846 “that our slightly different paths lead always to the same point.”
+After Garrison’s death, Phillips confessed that “no words can adequately
+tell the measureless debt I owe him, the moral and intellectual life he
+opened to me. I feel like the old Greek who, taught himself by Socrates,
+called his own scholars ‘the disciples of Socrates.’” While Garrison
+remained the president of the AASS for most of its career, Phillips
+became the society’s leading intellectual and orator—a man so closely
+identified with Garrison by outsiders that they were seen as
+inseparable. Together, they helped define the boundaries of Garrisonian
+abolitionism in the antebellum period, and despite disagreeing on some
+points, Garrison never seriously objected to any argument Phillips made
+until the civil war.[^44]
+
+I have chosen to tell a focused narrative of the Garrisonians’ movement
+not because it is the only story that could be told, but because it
+helps to demonstrate how the age of slavery raised questions for
+abolitionists about democracy and agitation, too, including questions
+that persisted for Americans, reformers, and democratic theorists well
+beyond emancipation. Even the famous rupture between Phillips and
+Garrison at the end of their careers, discussed in Part III, serves this
+larger goal. In 1863 and 1864, the lifelong friendship between Garrison
+and Phillips was riven by a sharp disagreement that divided the AASS
+itself into warring camps. Yet these wartime quarrels emerged from
+shared questions that long predated and long outlived the specific
+causes of dispute.
+
+In particular, Phillips and Garrison had spent decades defending the
+agitation of public opinion both as a necessary, permanent feature of
+democracy and as an effective way to change politics in a democracy from
+the outside. Their alliance broke not on those two points, on which they
+always agreed, but on two unresolved questions that this agreement had
+obscured: When could and should politicians guide public opinion,
+instead of the other way around? And how could extraparliamentary
+agitators or politicians ever be sure what the state of public opinion
+was? Those questions remained open after their particular age of slavery
+had closed, and they persisted for American reformers who lived outside
+the period covered by this volume. But to later generations of
+reformers, Garrisonians also bequeathed a cosmopolitan patriotism, a
+persevering faith in democracy despite its flaws, and a belief in the
+importance of ever-restless agitation; how and why they did so is the
+subject of this book.
+
+[^1]: Henry Mayer, *All on Fire: William Lloyd Garrison and the
+Abolition of Slavery* (New York: St. Martin’s Griffin, 1998), 577–85.
+
+[^2]: Garrison and Thompson told the story about the ten-dollar bill to
+Frederick W. Chesson. See the entry for June 10, 1867, in Frederick
+Chesson Diary, May 1867–April 1868, REAS, 11/15. For Garrison’s
+deprecating comment about the American flag, see “Independence Day:
+Anti-Slavery Celebration at Framingham,” *Liberator,* July 20, 1860.
+
+[^3]: See *Proceedings at the Public Breakfast Held in Honour of William
+Lloyd Garrison, of Boston, Massachusetts, in St. James’s Hall, London,
+on Saturday, June 29th, 1867* (London: William Tweedie, 1868); Richard
+J. M. Blackett, “‘And There Shall Be No More Sea’: William Lloyd
+Garrison and the Transatlantic Abolitionist Movement,” in *William Lloyd
+Garrison at Two Hundred: History, Legacy, and Memory,* ed. James Brewer
+Stewart (New Haven, Conn.: Yale University Press, 2008), 36–37. On
+Mill’s importance to transatlantic liberals, see Leslie Butler,
+*Critical Americans: Victorian Intellectuals and Transatlantic Liberal
+Reform* (Chapel Hill: University of North Carolina Press, 2007), 109–20.
+Previous studies of transatlantic abolitionism which have informed this
+work include David Turley, *The Culture of English Antislavery,
+1780–1860* (London: Routledge, 1991); Frank Thistlethwaite, *The
+Anglo-American Connection in the Early Nineteenth Century*
+(Philadelphia: University of Pennsylvania Press, 1959); Betty Fladeland,
+*Men and Brothers: Anglo-American Antislavery Cooperation* (Urbana:
+University of Illinois Press, 1972); Howard Temperley, *British
+Antislavery, 1833–1870* (London: Longman, 1972); Clare Taylor, ed.,
+*British and American Abolitionists: An Episode in Transatlantic
+Understanding* (Edinburgh: Edinburgh University Press, 1974); R. J. M.
+Blackett, *Building an Antislavery Wall: Black Americans in the Atlantic
+Abolitionist Movement, 1830–1860* (Baton Rouge: Louisiana State
+University Press, 1983). A focus on the transatlantic dimensions of
+abolitionism informed and shaped the magisterial works of David Brion
+Davis, including *The Problem of Slavery in the Age of Revolution*
+(Ithaca, N.Y.: Cornell University Press, 1975), and *Slavery and Human
+Progress* (New York: Oxford University Press, 1984).
+
+[^4]: John Stuart Mill to Moncure Daniel Conway, October 23, 1865, *CWJSM*
+16:1106. See also Mill to Harriet Taylor, October 29, 1850, *CWJSM*
+14:49–50; Mill to John Robertson, October 2, 1838, *CWJSM* 13:389; Mill
+to Harriet Taylor, March 31, 1849, *CWJSM* 14:21–23; *Oxford Dictionary
+of National Biography,* online ed., s.v. “Nichol, John Pringle
+(1804–1859).” One of Mill’s close friends was the astronomer John P.
+Nichol, who in 1853 married Elizabeth Pease, one of Garrison’s closest
+friends since the late 1830s.
+
+[^5]: Entry for June 20 in Frederick Chesson Diary, May 1867–April 1868,
+REAS; WLG to HEG, August 12, 1867, *LWLG* 5:527. Mill also told John
+Elliot Cairnes that “it would have given you great pleasure had you been
+at the Garrison breakfast, and heard, especially Bright, and Garrison
+himself” (Mill to John Elliot Cairnes, June 30, 1867, *CWJSM* 16:1284).
+In 1868 Mill would also contribute to a National Testimonial fund for
+Garrison; see WLG to National Testimonial Committee, 12 March 1868,
+*LWLG* 6:42. The year after that Garrison would regret that Mill was not
+reelected. See WLG to Mary Estlin, January 1, 1869, *LWLG* 6:97; WLG to
+SMJr, July 23, 1869, *LWLG* 6:126.
+
+[^6]: *Special Report of the Anti-Slavery Conference, Held in Paris . . .
+on the Twenty-Sixth and Twenty-Seventh August, 1867* (London: British
+and Foreign Anti-Slavery Society, 1867); WLG to HEG, June 7, 1867,
+*LWLG* 5:499–501; entries for June 20 and June 23 in Frederick Chesson
+Diary, May 1867–April 1868, REAS; WLG, introduction to *Joseph Mazzini:
+His Life, Writings, and Political Principles,* ed. Emilie Ashurst
+Venturi (New York: Hurd and Houghton, 1872), viii.
+
+[^7]: Venturi, ed., *Joseph Mazzini,* xi, vii. See also WLG to William
+Lloyd Garrison, Jr., August 14, 1867, BPL, Ms.A.1.1.7.52.
+
+[^8]: On these changes, see recent syntheses by Seymour Drescher,
+*Abolition: A History of Slavery and Antislavery* (Cambridge, U.K.:
+Cambridge University Press, 2009), esp. ix-x; David Brion Davis,
+*Inhuman Bondage: The Rise and Fall of Slavery in the New World* (New
+York: Oxford University Press, 2006); Robin Blackburn, *The American
+Crucible: Slavery, Emancipation and Human Rights* (London: Verso, 2011).
+
+[^9]: On British national identity and antislavery after emancipation, see
+Richard Huzzey, *Freedom Burning: Anti-Slavery and Empire in Victorian
+Britain* (Ithaca, N.Y.: Cornell University Press, forthcoming).
+
+[^10]: See Edward Bartlett Rugemer, *The Problem of Emancipation: The
+Caribbean Roots of the American Civil War* (Baton Rouge: Louisiana State
+University Press, 2008); Seymour Drescher, *The Mighty Experiment: Free
+Labor versus Slavery in British Emancipation* (New York: Oxford
+University Press, 2002); Carl Paulus, “The Slaveholding Crisis: The Fear
+of Insurrection, the Wilmot Proviso, and the Southern Turn against
+American Exceptionalism,” Ph.D. diss., Rice University, 2012.
+
+[^11]: WLG to Harriet Minot, March 19, 1833, *LWLG* 1:215. In November
+1861, one of Lincoln’s potential timetables for “gradual, federally
+compensated emancipation” in Delaware would have allowed slavery there
+to exist until 1893. See George M. Fredrickson, *Big Enough to Be
+Inconsistent: Abraham Lincoln Confronts Slavery and Race* (Cambridge,
+Mass.: Harvard University Press, 2008), 95-96.
+
+[^12]: Mike Rapport, *1848: Year of Revolution* (New York: Basic Books,
+2008), 1–41. According to Rapport, after the French Revolution of 1830,
+“the electorate swelled to include only 170,000 of France’s richest men:
+this was a mere 0.5 per cent of the French population, a sixth of those
+who enjoyed the vote in Britain after 1832” (p. 3). Timothy Roberts puts
+the size of the French electorate under Louis Philippe at “the
+wealthiest 250,000 men out of a population of some 35 million, about
+twice as large as the U.S. population in 1840.” See Timothy Mason
+Roberts, *Distant Revolutions: 1848 and the Challenge to American
+Exceptionalism* (Charlottesville, Va.: University of Virginia Press,
+2009), 12. On exiles, see Bernard Porter, *The Refugee Question in
+Mid-Victorian Politics* (Cambridge, U.K.: Cambridge University Press,
+1979); Sabine Freitag, ed., *Exiles from European Revolutions: Refugees
+in Mid-Victorian England* (New York: Berghahn, 1999).
+
+[^13]: K. Theodore Hoppen, *The Mid-Victorian Generation, 1846–1886* (New
+York: Oxford University Press, 1998), 237–39; James Vernon, *Politics
+and the People: A Study in English Political Culture, c. 1815–1867*
+(Cambridge, U.K.: Cambridge University Press, 1993).
+
+[^14]: John Stuart Mill, “De Tocqueville on Democracy in America [I],”
+*CWJSM* 18:50. See also David Paul Crook, *American Democracy in English
+Politics 1815–1850* (Oxford, U.K.: Clarendon Press, 1965).
+
+[^15]: Kyle G. Volk, “The Perils of ‘Pure Democracy’: Minority Rights,
+Liquor Politics, and Popular Sovereignty in Antebellum America,”
+*Journal of the Early Republic* 29, no. 4 (Summer 2009): 641–79, qtd. on
+644. On the contradictions inherent in “democracy” during these period,
+compare Daniel Walker Howe, *What Hath God Wrought: The Transformation
+of America, 1815–1848* (New York: Oxford University Press, 2006); Sean
+Wilentz, *The Rise of American Democracy: Jefferson to Lincoln* (New
+York: W. W. Norton, 2005); Alexander Keyssar, *The Right to Vote: The
+Contested History of Democracy in the United States* (New York: Basic
+Books, 2000).
+
+[^16]: Dwight L. Dumond, ed., *Letters of James Gillespie Birney,
+1831–1857* (2 vols., New York: D. Appleton-Century, 1938), vol.
+2:733–34, 744–45, qtd. on 733; Daniel Feller, “Rediscovering Jacksonian
+America,” in Melvyn Stokes, ed., *The State of U.S. History* (New York:
+Berg, 2002), 82. See also Betty Fladeland, *James Gillespie Birney:
+Slaveholder to Abolitionist* (Ithaca, N.Y.: Cornell University Press,
+1955), 215–26; Aileen S. Kraditor, *Means and Ends in American
+Abolitionism: Garrison and His Critics on Strategy and Tactics,
+1834–1850* (1969; rpt., Chicago: Ivan R. Dee, 1989), 149.
+
+[^17]: “Sir Robert Peel at Tamworth,” *Liberator,* October 24, 1835;
+Victor Schoelcher, “American Slavery, and the London Exhibition,”
+*Liberty Bell* 12 (1852): 167.
+
+[^18]: “Another Argument for Sir Robert Peel,” *Liberator,* October 24,
+1835.
+
+[^19]: Wendell Phillips, “Idols,” in *SLL,* 249; “The Republican Scholar
+of Necessity an Agitator,” *Liberator,* August 21, 1857. For another
+scholar who explores how abolitionists confronted this problem, with an
+emphasis on their debts to republican ideology, see Daniel J. McInerney,
+*The Fortunate Heirs of Freedom: Abolition and Republican Thought*
+(Lincoln: University of Nebraska Press, 1994).
+
+[^20]: Amy Gutmann and Dennis Thompson, *Democracy and Disagreement*
+(Cambridge, Mass.: Harvard University Press, 1996), 28. See also the
+essays in Seyla Benhabib, ed., *Democracy and Difference: Contesting the
+Boundaries of the Political* (Princeton, N.J.: Princeton University
+Press, 1996); Nancy L. Rosenblum, ed., *Liberalism and the Moral Life*
+(Cambridge, Mass.: Harvard University Press, 1989).
+
+[^21]: Other central concerns in contemporary democratic theory, like the
+problem of how to reconcile individualism with social feeling and
+obligation, also date to this period and are mentioned below, but they
+will occupy less of this book. For a good recent summary of one such
+strand of democratic theory that stretches back to Tocqueville, see
+Johann N. Neem, “Taking Modernity’s Wager: Tocqueville, Social Capital,
+and the American Civil War,” *Journal of Interdisciplinary History* 41,
+no. 4 (Spring 2011), 591–618.
+
+[^22]: WLG to Marcus Gunn, July 27, 1840, *LWLG* 2:672; John W.
+Blassingame, ed., *The Frederick Douglass Papers, Series One: Speeches,
+Debates, and Interviews* (New Haven, Conn.: Yale University Press,
+1979), vol. 1:212; Wendell Phillips, “A Metropolitan Police,” *SLL,*
+522; Phillips, “Disunion,” in *SLL,* 348.
+
+[^23]: Charles Sumner to Wendell Phillips, February 4, 1845, in *The
+Selected Letters of Charles Sumner,* ed. Beverly Wilson Palmer (Boston:
+Northeastern University Press, 199), vol. 1:144.
+
+[^24]: Elizur Wright, Jr., to James G. Birney, 6 February 1844, in Dumond,
+ed., *Letters of James Gillespie Birney* 2:778.
+
+[^25]: James Oakes, *The Radical and the Republican: Frederick Douglass,
+Abraham Lincoln, and the Triumph of Antislavery Politics* (New York: W.
+W. Norton, 2007), 8, 9; Bruce Laurie, *Beyond Garrison: Antislavery and
+Social Reform* (New York: Cambridge University Press, 2005), 5; Margot
+Minardi, *Making Slavery History: Abolitionism and the Politics of
+Memory in Massachusetts* (New York: Oxford University Press, 2010), 92;
+Peter C. Myers, *Frederick Douglass: Race and the Rebirth of American
+Liberalism* (Lawrence: University of Kansas Press, 2008), 83; Louis
+Menand, *The Metaphysical Club: A Story of Ideas in America* (New York:
+Farrar, Straus and Giroux, 2001), 15. I quote these authors not to
+criticize their excellent books, which are not primarily or only about
+Garrisonians anyway, but instead to show how resilient these views
+remain even in recent historiography. For a good introduction to earlier
+scholarship, see Betty L. Fladeland, “Revisionists vs. Abolitionists:
+The Historiographical Cold War of the 1930s and 1940s,” *Journal of the
+Early Republic,* 6 (Spring 1986): 1–21.
+
+[^26]: Moncure Daniel Conway, *Autobiography: Memories and Experiences*
+(Boston: Houghton Mifflin and Co., 1904), vol. 1:185. On uncertainty and
+flexibility as key concepts for Progressive-era democratic thinkers, see
+Menand, *The Metaphysical Club;* James T. Kloppenberg, *Uncertain
+Victory: Social Democracy and Progressivism in European and American
+Thought, 1870–1920* (New York: Oxford University Press, 1986); and the
+somewhat discredited but still insightful Morton G. White, *Social
+Thought in America: The Revolt against Formalism* (Boston: Beacon Press,
+1957). On Mill’s penchant for resolving contradictions between opposing
+philosophies, see Nicholas Capaldi, *John Stuart Mill: A Biography* (New
+York: Cambridge University Press, 2004).
+
+[^27]: The phrase “make democracy safe for the world” is adapted from
+George Wilson Pierson, *Tocqueville in America* (Baltimore: Johns
+Hopkins University Press, 1996), 167.
+
+[^28]: On fears of agitation in the early republic, see Mark G. Schmeller,
+“Imagining Public Opinion in Antebellum America: Fear, Credit, Law, and
+Honor,” Ph.D. diss., University of Chicago, 2001, chap. 5, Joseph Story
+qtd. on 262. Also see Seth Cotlar’s discussion of the early national
+backlash against participatory democracy and radical agitation in
+Cotlar, *Tom Paine’s America: The Rise and Fall of Transatlantic
+Radicalism in the Early Republic* (Charlottesville: University of
+Virginia Press, 2011).
+
+[^29]: Wendell Phillips, “Public Opinion,” in *SLL,* 52.
+
+[^30]: Phillips, “Public Opinion,” 54. For a sampling of other recent work
+on the mid-nineteenth-century Atlantic world of reform, see Roberts,
+*Distant Revolutions*; Angela F. Murphy, *American Slavery, Irish
+Freedom: Abolition, Immigrant Citizenship, and the Transatlantic
+Movement for Irish Repeal* (Baton Rouge: Louisiana State University
+Press, 2010); Amanda Bowie Moniz, “Saving the Lives of Strangers: Humane
+Societies and the Cosmopolitan Provision of Charitable Aid,” *Journal of
+the Early Republic* 29, no. 4 (2009): 607–40; Mischa Honeck, *We Are the
+Revolutionists: German-Speaking Immigrants and American Abolitionists
+after 1848* (Athens: University of Georgia Press, 2011); Kathryn Kish
+Sklar and James Brewer Stewart, eds., *Women’s Rights and Transatlantic
+Antislavery in the Era of Emancipation* (New Haven, Conn.: Yale
+University Press, 2007); Bonnie S. Anderson, *Joyous Greetings: The
+First International Women’s Movement, 1830–1860* (New York: Oxford
+University Press, 2000); Margaret H. McFadden, *Golden Cables of
+Sympathy: The Transatlantic Sources of Nineteenth-Century Feminism*
+(Lexington: University Press of Kentucky, 1998); Carl J. Guarneri, *The
+Utopian Alternative: Fourierism in Nineteenth-Century America* (rpt.,
+Ithaca, N.Y.: Cornell University Press, 1994). For a slightly later
+period, see Daniel T. Rodgers, *Atlantic Crossings: Social Politics in a
+Progressive Age* (Cambridge, Mass.: Harvard University Press, 1998); Ian
+Tyrrell, *Woman’s World/Woman’s Empire: The Women’s Christian Temperance
+Union in International Perspective, 1880–1930* (Chapel Hill: University
+of North Carolina Press, 1991); Leila J. Rupp, *Worlds of Women: The
+Making of an International Women’s Movement* (Princeton, N.J.: Princeton
+University Press, 1997).
+
+[^31]: C. A. Bayly, *The Birth of the Modern World, 1780–1914* (Oxford,
+U.K.: Blackwell, 2004), 118; SMJr to RDW, March 26, 1871, BPL,
+Ms.B.1.6.11.9. On the transportation revolution in the United States
+during this same period, see Howe, *What Hath God Wrought.* For
+overarching surveys of the persistence of the Atlantic World into the
+nineteenth century, especially as a zone of cultural and economic
+exchange, see Donna Gabaccia, “A Long Atlantic in a Wider World,”
+*Atlantic Studies* 1, no. 1 (2004): 1–27; Aaron Spencer Fogleman, “The
+Transformation of the Atlantic World, 1776–1867,” *Atlantic Studies* 6,
+no. 1 (2009): 5–28; Jürgen Osterhammel and Niels P. Petersson,
+*Globalization: A Short History* (Princeton, N.J.: Princeton University
+Press, 2005), 57–80; José C. Moya, “Modernization, Modernity, and the
+Trans/formation of the Atlantic World in the Nineteenth Century,” in
+*The Atlantic in Global History, 1500–2000,* ed. Jorge
+Cañizares-Esguerra and Erik R. Seeman (Upper Saddle River, N.J.:
+Pearson, 2007), 179–98; and Thistlethwaite’s still useful *The
+Anglo-American Connection.* See also the account of nineteenth-century
+transatlantic connections as one of interplay between the continued
+“flow” of connections and the “closure” of others in Charles Bright and
+Michael Geyer, “Where in the World Is America? The History of the United
+States in the Global Age,” in Thomas Bender, ed., *Rethinking American
+History in a Global Age* (Berkeley: University of California Press,
+2002), 76–77. For scholarship relating European politics and the
+Atlantic economy to early American politics and territorial expansion,
+see Thomas Bender, *A Nation among Nations: America’s Place in World
+History* (New York: Hill and Wang, 2006), 60–115; François Furstenberg,
+“The Significance of the Trans-Appalachian Frontier in Atlantic
+History,” *American Historical Review* 113 (June 2008): 647–77; John
+Craig Hammond, “Slavery, Settlement, and Empire: The Expansion and
+Growth of Slavery in the Interior of the North American Continent,
+1770–1820,” *Journal of the Early Republic* 32, no. 2 (Summer 2012):
+175–206; Rosemarie Zagarri, “The Significance of the ‘Global Turn’ for
+the Early American Republic,” *Journal of the Early Republic* 31, no. 1
+(Spring 2011): 1–37; Matthew Rainbow Hale, “On their Tiptoes: Political
+Time and Newspapers during the Advent of the Radicalized French
+Revolution, circa 1792–1793,” *Journal of the Early Republic* 29 (Summer
+2009): 191–218; Rachel Hope Cleves, *The Reign of Terror in America:
+Visions of Violence from Anti-Jacobinism to Antislavery* (New York:
+Cambridge University Press, 2009). Also see Andre M. Fleche, *The
+Revolution of 1861: The American Civil War in the Age of Nationalist
+Conflict* (Chapel Hill: University of North Carolina Press, 2012); and
+the various works mentioned in two recent forums: “Interchange:
+Nationalism and Internationalism in the Era of the Civil War,” *Journal
+of American History* 98, no. 2 (2011): 455–89; “AHR Conversation: On
+Transnational History,” *American Historical Review* 111, no. 5
+(December 2006).
+
+[^32]: Philip S. Foner, ed., *The Life and Writings of Frederick
+Douglass,* vol. 1: *Early Years, 1817–1849* (New York: International
+Publishers, 1950), 323. For the lengths of Garrison’s trips, each number
+represents the number of days for a one-way crossing, rounded up to the
+nearest whole day, between Boston and Garrison’s English port, which was
+sometimes Liverpool and sometimes London. I have compiled the figures
+from Wendell Phillips Garrison and Francis Jackson Garrison, *William
+Lloyd Garrison, 1805–1879: The Story of His Life Told by His Children*
+(4 vols.; New York: The Century Co., 1885–1889); and correspondence in
+*LWLG.* For more on abolitionists’ encounters with steam travel, see my
+“Saltwater Antislavery: American abolitionists on the Atlantic Ocean in
+the Age of Steam,” *Atlantic Studies* 8, no. 2 (2011): 141–63.
+
+[^33]: Frederick Douglass, *My Bondage and My Freedom,* ed. John David
+Smith (1855; New York: Penguin, 2003), 278.
+
+[^34]: See George Armstrong to SMJr, August 14, 1855, and Joseph Mazzini
+to George Armstrong, in *BAA,* 416–17.
+
+[^35]: Kloppenberg, *Uncertain Victory,* 10.
+
+[^36]: George Thompson, *Addresses; Delivered at Meetings of the Native
+Community of Calcutta: and on Other Occasions* (Calcutta: Thacker and
+Co., 1843), 24; Charles Follen, “Speech before the Anti-Slavery
+Society,” in *The Works of Charles Follen, with a Memoir of His Life,*
+ed. Eliza Lee Follen (Boston: Hilliard, Gray, and Co., 1841), vol.
+1:629–30; MWC to EPN, December 25, 1849, Ms.A.1.2.18.88, BPL; HCW-BPL,
+vol. 47 (1867).
+
+[^37]: For “favorite motto,” see Garrison and Garrison, *Garrison* 1:xi.
+For the memorial cards, see McKim-Garrison Family Papers, New York
+Public Library, Box 3, MGF 31.
+
+[^38]: Alexis de Tocqueville, *Democracy in America,* trans. Gerald Bevan
+(London: Penguin, 2003), 277. See also Cotlar, *Tom Paine’s America.*
+
+[^39]: Mill qtd. in Maurizio Viroli, *For Love of Country: An Essay on
+Patriotism and Nationalism* (Oxford: Clarendon Press, 1995), front
+matter. See also Georgios Varouxakis, *Mill on Nationality* (London:
+Routledge, 2002).
+
+[^40]: David Hollinger, “Historians and the Discourse of Intellectuals,”
+in *In the American Province: Studies in the History and Historiography
+of Ideas* (Baltimore: Johns Hopkins University Press, 1985), 130–51,
+quoted on 132.
+
+[^41]: David W. Blight, “William Lloyd Garrison at Two Hundred: His
+Radicalism and His Legacy for Our Time,” in Stewart, ed., *William Lloyd
+Garrison at Two Hundred,* 7. Past historiography better recognized the
+Garrisonians’ political aims. See especially James Brewer Stewart, “The
+Aims and Impact of Garrisonian Abolitionism, 1840–1860,” *Civil War
+History* 15, no. 3 (1969): 197–209; Kraditor, *Means and Ends*; Bertram
+Wyatt-Brown, “William Lloyd Garrison and Antislavery Unity: A
+Reappraisal,” *Civil War History* 13, no. 1 (1967): 5–24. See also Mark
+Voss-Hubbard, “The Political Culture of Emancipation: Morality,
+Politics, and the State in Garrisonian Abolitionism, 1854–1863,”
+*Journal of American Studies* 29, no. 2 (1995): 159–84, which argues
+that, despite their “doctrinaire” and “antinomian” religious views,
+Garrisonians “were capable of responding to their circumstances in
+unpredictable ways,” though these unpredictable departures did not
+happen, according to Voss-Hubbard, until after 1854.
+
+[^42]: Butler, *Critical Americans,* 12. See, for example, Anthony Howe
+and Simon Morgan, eds., *Rethinking Nineteenth-Century Liberalism:
+Richard Cobden Bicentenary Essays* (Aldershot, Hampshire, U.K.: Ashgate,
+2006); C. A. Bayly and Eugenio F. Biagini, eds., *Giuseppe Mazzini and
+the Globalisation of Democratic Nationalism, 1830–1920* (Oxford, U.K.:
+Oxford University Press, 2008); Sandra Harbert Petrulionis, *To Set This
+World Right: The Antislavery Movement in Thoreau’s Concord* (Ithaca,
+N.Y.: Cornell University Press, 2006); Charles Capper and Cristina
+Giorcelli, eds., *Margaret Fuller: Transatlantic Crossings in a
+Revolutionary Age* (Madison: University of Wisconsin Press, 2007); Dean
+Grodzins, *American Heretic: Theodore Parker and Transcendentalism*
+(Chapel Hill: University of North Carolina Press, 2002); Nadia Urbinati
+and Alex Zakaras, eds., *J. S. Mill’s Political Thought: A Bicentennial
+Reassessment* (New York: Cambridge University Press, 2007); Stefan
+Collini, *Public Moralists: Political Thought and Intellectual Life in
+Britain, 1850–1930* (New York: Oxford University Press, 1991); Butler,
+*Critical Americans;* Salvo Mastellone, *Mazzini and Marx: Thoughts Upon
+Democracy in Europe* (Westport, Conn.: Praeger, 2003); Nadia Urbinati,
+*Mill on Democracy: From the Athenian Polis to Representative
+Government* (Chicago: University of Chicago Press, 2002).
+
+[^43]: Christopher Leslie Brown has spotlighted the role that concerns
+about a nation’s reputation and “moral capital” played in British reform
+movements, and Dorothy Ross has argued that broader narratives of the
+rise of antislavery thought, which focus on the progressive unfolding of
+liberal or moral sentiment, have obscured the role that nationalism
+played as a foundation for antislavery critique, particularly in Abraham
+Lincoln’s thinking about emancipation. In this book I will also draw
+attention to the role that ideas about the “nation” played even in
+transatlantic Garrisonian abolitionism. See Christopher Leslie Brown,
+*Moral Capital: Foundations of British Abolitionism* (Chapel Hill:
+University of North Carolina Press, 2006); Dorothy Ross, “Lincoln and
+the Ethics of Emancipation: Universalism, Nationalism, Exceptionalism,”
+*Journal of American History* 96, no. 2 (September 2009).
+
+[^44]: Qtd. in Irving H. Bartlett, *Wendell Phillips: Brahmin Radical*
+(Boston: Beacon Press, 1961), 105; “William Lloyd Garrison,” in *SLL:
+Second Series,* 466. Focusing on these two figures and their closest
+allies does require leaving to other scholars important questions about
+the Garrisonians’ constitutional theory, the regional diversity of their
+movement, the limits and radicalism of their explanations of human
+difference, and even their thinking about the philosophical problem of
+human bondage itself. Likewise, this book does not attempt to measure
+their effectiveness in changing public opinion or determine the extent
+to which Garrisonians contributed directly to the coming of the Civil
+War, though it does explain how Garrisonians perceived their
+contributions to the conflict and explores the intellectual sources of
+those perceptions. Some of the most exciting recent scholarship on the
+abolitionist movement has considered the question of how abolitionists
+affected the coming of the Civil War. See, for example, Rugemer, *The
+Problem of Emancipation*; Elizabeth R. Varon, *Disunion! The Coming of
+the American Civil War, 1789–1859* (Chapel Hill: University of North
+Carolina Press, 2008); James Brewer Stewart, “Reconsidering
+Abolitionists in an Age of Fundamentalist Politics,” *Journal of the
+Early Republic* 26, no. 1 (2006), 1–24; Stanley Harrold, *Subversives:
+Antislavery Community in Washington, D.C., 1828–1865* (Baton Rouge:
+Louisiana State University Press, 2003), 253–57. On Garrisonians’
+contributions to racial theory, see Bruce Dain, *A Hideous Monster of
+the Mind: American Race Theory in the Early Republic* (Cambridge, Mass.:
+Harvard University Press, 2002). For good recent works on the regional
+diversity and rank-and-file members of the abolitionist movement, see
+Stacey M. Robertson, *Hearts Beating for Liberty: Women Abolitionists in
+the Old Northwest* (Chapel Hill: University of North Carolina Press,
+2010); Julie Roy Jeffrey, *The Great Silent Army of Abolitionism:
+Ordinary Women in the Antislavery Movement* (Chapel Hill: University of
+North Carolina Press, 1998).
+
+
