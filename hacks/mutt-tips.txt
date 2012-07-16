@@ -1,0 +1,389 @@
+% Tips for Using Mutt
+% W. Caleb McDaniel
+% July 16, 2012
+
+For about six months now, I've been using [Mutt][] as my email client.
+It's not perfect (as the tagline on the official website admits), but it
+works for me.
+
+It took a long time of hacking around before Mutt began to save me time,
+and the initial time investment probably isn't worth it unless you enjoy
+the journey as much as the destination. Philosopher and programmer
+extraordinaire [John MacFarlane][] recently confessed that "I would like
+to think that the time I've spent developing tools to make writing more
+efficient has been repaid by the time I've saved using these tools, but
+I'm pretty sure it hasn't." The same probably applies to Mutt.
+
+That disclaimer means that this essay is less a sales pitch than a
+running log of tricks I've learned about Mutt along the way, aimed at
+someone who has already imbibed enough of the kool-aid to install the
+program and give it a try. If there's nothing here you didn't already
+know, you can also check out my [Pinboard links][] on Mutt or my
+[muttrc][], but the best source of information remains the [manual][].
+
+## ~~Why~~ When I Started Using Mutt
+
+This was originally going to be a section on *why* I use Mutt, but as I
+have already implied, Mutt has its reasons of which Reason knows
+nothing. Besides, I am an historian by trade, so I tend to think that
+"why" is often a question of *when*.
+
+If I recall correctly, I started using Mutt not long after reading
+Stephen Ramsay's [Life on the Command Line][], which included a sales
+pitch for an even more archaic email program (or set of programs) called
+[nmh][]. I was interested enough in his description to read a little
+more about nmh, but that didn't take long because there's not much
+support documentation for it on the web. Or, at least, there wasn't
+enough to read that was intelligible to me. At that time, I had just
+started learning about Unix, and while I was ready to try some
+command-line tools, it was clear that Mutt would be a more comfortable
+place to start than nmh.
+
+What appealed to me about both nmh and Mutt was the ability to use a
+plain text editor like Vim to edit email. Around the time I read
+Ramsay's post, I had begun to experiment with plain text for doing my
+scholarly writing, largely for the reasons that Lincoln Mullen later
+detailed in [this post][]. I was using the excellent editor
+[TextWrangler][], but my brother had also been twisting my arm to try
+Vim. I was worried about the steep learning curve for Vim, but using it
+for email seemed like a good way to test it out and see if I wanted to
+use it exclusively. (Turns out, I did.)
+
+The other thing that appealed to me about Ramsay's description of nmh
+was the ability to "pipe" email messages directly to other command-line
+programs. I had recently developed a [plain-text system for Getting
+Things Done][], and I was also beginning to experiment with a workflow
+for [grading on my iPad][]. I imagined using a program like nmh or Mutt to
+take an email with a student paper, press one or two keys, and have the
+paper converted to PDF, moved to a folder that synchronized with my
+iPad, and added to my GTD system. Eventually I figured out how to get
+Mutt to do that, too, but first there were a few essential tweaks I had
+to implement just to make Mutt work-able for everyday mail.
+
+Essential Tweaks and Tips
+-------------------------
+
+### Format-Flowed
+
+It took me a couple of months of using Mutt before I realized that all
+the messages I was sending to other people included weird line breaks.
+That's because I didn't know about `format=flowed`. You can read all
+about it [here][], or you can just trust me when I say that you *want*
+all of your plain text messages to be in this format. Otherwise, they
+will look ugly and barely readable when your recipients open them on
+their iPhones or email clients, as they probably will.
+
+To set this up requires small changes both within Mutt and within Vim.
+In my `muttrc` I had to add this line
+
+    set text_flowed=yes
+
+Then, within Vim, I edited the filetype file that Vim uses for mail to
+include this line:
+
+    setlocal fo+=aw
+
+So far, those two tweaks seem to be working. No more ugly linebreaks!
+
+### Setting Up Contacts
+
+From the beginning, I knew that Mutt wasn't going to be worth my time if
+I couldn't easily import or auto-complete my contacts when writing
+emails. Fortunately, Mutt has its own syntax for creating [aliases][],
+which basically means creating a long text file with lines that look
+like this:
+
+    alias mcdaniel-caleb Caleb McDaniel <example@email.com>
+
+That makes it possible to simply type `mcdaniel-caleb` (or a part of it)
+when composing a new message and hit "tab" to have it completed from the
+alias file. Hitting tab a second time shows all of the matches in the
+alias file, which can also be searched from within Mutt, so it's never
+hard to find an alias ... assuming the alias is there.
+
+The practical question I faced was how to build an alias file from
+scratch, without having to look up all the emails I cared about and
+convert them into the Mutt alias syntax. I wanted the alias file to be
+created automatically, so that emails I needed would auto-magically
+appear in my "to" line, much like they did when I was using Apple Mail.
+
+The solution I found was to use an obscure Mutt setting called
+`set display_filter`. Typically I think this setting is used to pass a
+message through an external script that filters out any unwanted text
+before displaying it. So, for example, if I never wanted to see the
+words "strategic dynamism" in an email, I could write a shell script
+that simply used `sed` or some-such tool to remove or replace the phrase
+before showing me the message.
+
+Thinking of this setting simply as a "display" filter limits its real
+utility, though. What it really does is this: *it pipes every message
+you look at through a shell script---any shell script---before showing
+it to you*. Once I realized that, I wrote a script that takes a message,
+finds the email address of the sender, creates a Mutt alias from that
+address, checks to see if that alias is already in my alias file, and
+then, if not, appends the new alias to my contact list. Finally, the
+script shows me the original, unmodified message. The script looks like
+this:
+
+~~~~ {.bash}
+#!/bin/sh
+
+MESSAGE=$(cat)
+
+NEWALIAS=$(echo "${MESSAGE}" | grep ^"From: " | sed s/[\,\"\']//g | awk '{$1=""; if (NF == 3) {print "alias" $0;} else if (NF == 2) {print "alias" $0 $0;} else if (NF > 3) {print "alias", tolower($(NF-1))"-"tolower($2) $0;}}')
+
+if grep -Fxq "$NEWALIAS" $HOME/.mutt/aliases.txt; then
+    :
+else
+    echo "$NEWALIAS" >> $HOME/.mutt/aliases.txt
+fi
+
+echo "${MESSAGE}"
+~~~~
+
+All of this happens faster than the blink of an eye, and the result is
+this: anytime I choose to open a message in Mutt, the sender is
+automatically added to my alias list.
+
+This method allowed me to rapidly create an alias file from scratch, and
+it usually means that when I press "tab" to find an alias, I can expect
+it to already be there. But this isn't a perfect solution for a couple
+of reasons. One, there are some services (I'm looking at you, Evite)
+which send emails with a personal name in the "from" field even though
+the field contains a service-specific reply-to address. Two, this
+methods makes for a very long alias file that sometimes contains ugly
+aliases from mailing lists. But the first issue has only been a problem
+for me once, and it's easily fixed by deleting the "bad" alias from the
+alias file. And the second issue is seldom a problem because I rarely
+open the aliases text file.
+
+Having a lengthy alias file also makes it easy to look up email
+addresses simply by piping the alias file through `grep`. This can be
+especially useful when writing an email within Vim. Let's say I wanted
+to send Joe Smith's email address to a third party; while writing that
+email, I could simply run this command within Vim:
+
+    :r !grep smith-joe /path/to/aliases.txt
+
+That will (usually) put the relevant line from my aliases file directly
+into my email message, without my ever having to leave Vim or open up a
+new window. If this was a frequent use case, I could even make a
+user-defined command for my `vimrc` that would grab just the email
+address and use a shorter syntax.
+
+Despite the advantages of using the Mutt alias file, I also sometimes
+want to be able to look up addresses in my Apple Address Book from
+within Mutt. I use [this handy method][] to do that. Using these two
+methods together, I would estimate that I am able to easily autocomplete
+email addresses 98% of the time. When composing a message, I just tap
+the first few letters of the recipient's last name and press tab once or
+(if there are multiple matches) twice. If no Mutt-defined aliases comes
+up, I just finish typing the last name and hit Ctrl-T, and 9 times out
+of 10 it grabs the email address from my Address Book instead.
+
+### Using `offlineimap` and `notmuch`
+
+My current Mutt setup allows me to sign in directly to my university
+IMAP account and edit messages, tags, and folders directly on the
+server. Sometimes, however, you want to be able to look at messages
+while offline. To do that, I use [offlineimap][], paired with
+[notmuch][] for searching through all my downloaded messages. I
+periodically run `offlineimap` from the command line to update my local
+store of messages, and when I want to browse or search through the
+full-text of old messages, I type `muff`. Muff is a bash alias I have
+defined to run
+
+    mutt -F $HOME/.muffrc
+
+where `$HOME/.muffrc` is a small mutt configuration file that points
+Mutt to my local email store instead of to my IMAP server.
+
+I didn't know about `notmuch` until recently, and had to do some hacking
+to get it installed. It's a great feature, though, because Mutt's search
+functions take forever to search the bodies of email messages online.
+Mutt works great for finding messages if you know the sender, recipient,
+or a keyword in the subject, but if you want to search full messages or
+attachments, `notmuch` is the way to go.
+
+To install `notmuch` on Lion, I had to use Macports to install the
+following dependencies:
+
+-   Xapian-core 1.2.8
+-   Xapian-bindings 1.2.8
+-   Talloc 2.0.1
+-   Gmime 2.4.23
+
+When running the local `configure` command before installing notmuch, I
+added the `--without-emacs` flag. And before `notmuch` would work, I had
+to create a `.cache` directory in my $HOME directory.
+
+Once I installed `notmuch`, I used [these instructions][] to add some
+keybindings to my `$HOME/.muffrc` file that allow me to search all of my
+downloaded messages quickly.
+
+### Attachments and the .mailcap file
+
+Viewing attachments is perhaps the least intuitive part of Mutt. It
+requires creating a `~/.mailcap` file that specifies which applications
+should be used to open which kinds of attachments. I basically adopted
+[this system wholesale][], especially the `view_attachment.sh` script.
+
+For example, these lines in my `.mailcap` file tell Mutt to open
+Microsoft Word documents in TextEdit, while allowing it to open \*.docx
+files in Microsoft Word. Rich Text files are opened using [Bean][]. HTML
+attachments and messages are piped through [pandoc][] and converted to
+markdown for easy reading.
+
+    application/msword; /Users/wcm1/Scripts/viewattach.sh %s "-" '/Applications/TextEdit.app' ; print=/Users/wcm1/Scripts/printattach.sh %s 
+
+    application/vnd.openxmlformats-officedocument.wordprocessingml.document; /Users/wcm1/Scripts/viewattach.sh %s "-" ; print=/Users/wcm1/Scripts/printattach.sh %s 
+
+    application/rtf; /Users/wcm1/Scripts/viewattach.sh %s "-" '/Applications/Bean.app' ; print=/Users/wcm1/Scripts/printattach.sh %s
+
+    application/pdf; /Users/wcm1/Scripts/viewattach.sh %s "-" '/Applications/Preview.app' ; print=/Users/wcm1/Scripts/pdfattach.sh %s 
+
+    text/html; pandoc -f html -t markdown; copiousoutput; compose=vim %s
+
+For the first four of these lines, the text that follows the second
+semicolon is not essential for viewing attachments. But using the
+"print" setting in a `.mailcap` file has allowed me to further extend
+Mutt's ability to work with attachments, as described below.
+
+My Peculiar Customizations
+--------------------------
+
+The tips above are essential, I've discovered, just for making Mutt
+workable as an email client. But I originally wanted to use Mutt for
+peculiar reasons specific to my workflow. In particular, I wanted a way
+to get the body of email messages into my plain-text GTD system. And
+because I receive lots of files that I need to convert to PDF, move to
+my iPad, and annotate or grade, I wanted a way to quickly do that
+without leaving the keyboard.
+
+### Piping Attachments
+
+Unfortunately, unlike the nmh system that Ramsay described, Mutt doesn't
+have an obvious way to pipe attachments like Microsoft Word documents to
+other Unix commands. Eventually I discovered a workaround using the
+"print" flag in my `mailcap` file. Like the `set display_filter` option,
+the `mailcap` print flag is intended for a fairly narrow purpose: it
+allows you to specify what command Mutt will use to send an attachment
+to the printer, like `lpr`. At some point, however, I realized or read
+that you could feed any command to the "print" flag. Printing from the
+attachment menu in Mutt will basically "pipe" the attachment to the
+command specified in the `mailcap` entry under "print."
+
+That's why the `mailcap` entries I listed above often include something
+like this at the end:
+
+    print=/Users/wcm1/Scripts/printattach.sh %s 
+
+The script `printattach.sh` is just a simple shell script that
+accomplishes some of the idiosyncratic things I often want to do with my
+attachments. For example, when presented with a Word file, I usually
+want to do one of several things: convert it to a PDF and move it to a
+folder that syncs with my iPad; add a grading rubric if it's a student
+paper; and/or add a note to my GTD system reminding me to read the
+paper. So I wrote a script that looks like this:
+
+~~~~ {.bash}
+#!/bin/bash
+#
+# Based on save_attachment.sh by Eric Gebhart
+
+# Mutt puts everything in /tmp by default. 
+# This gets the basic filename from the full pathname.
+
+newfile=`basename $1`
+
+# Copy the file to our new spot so mutt will not delete it
+# before the script has a chance to print it.
+
+cp $1 $newfile
+
+# Prompt user for desired script.
+
+echo "What do you want to do? (a)nnotate, (r)ubric, (i)nbox or (o)ther folder?"
+read -n 1 SWITCH
+echo ""
+
+if [ $SWITCH = "a" ]; then
+    $HOME/Scripts/annotate.sh $newfile
+elif [ $SWITCH = "r" ]; then
+    $HOME/Scripts/any2pdf.sh $newfile
+    pdffile=$(echo $newfile | sed -E 's/\.do[cx]+/\.pdf/g')
+    $HOME/Scripts/append.rb $pdffile && mv $pdffile $HOME/.Trash/
+    mv $newfile $HOME/.Trash/
+elif [ $SWITCH = "i" ]; then
+    $HOME/Scripts/any2pdf.sh -o $HOME/Inbox/ $newfile
+    mv $newfile $HOME/.Trash/
+else
+    echo "Which folder in home do you want to print PDF to?"
+    read OTHERPATH
+    $HOME/Scripts/any2pdf.sh -o /Users/wcm1/"$OTHERPATH" $newfile
+    mv $newfile $HOME/.Trash/
+fi
+~~~~
+
+Assuming this script is listed in my `mailcap` file under the
+appropriate entries, here's what happens when I choose to "print" an
+attachment in Mutt: I get a brief dialog asking me what I want to do.
+Based on my input, the script then re-routes the file to other scripts
+that accomplish my particular tasks. It's a somewhat clunky workaround
+for piping attachments, but it works great and is, by its very nature,
+extremely customizable.
+
+### Integration with GTD
+
+The other peculiar goal I wanted to accomplish with Mutt was a way to get the
+body of email messages directly into [my plain-text GTD system][plain-text
+system for Getting Things Done]. This problem was actually much easier to solve
+because Mutt does have excellent support for piping *messages* to shell
+commands. Within Mutt's pager, all I have to do is hit the vertical bar to pipe
+the message to any command I choose. So I wrote up a simple script that takes
+the message, cleans it up, and puts it in a plain text file whose title
+I specify within Mutt.
+
+In practice, that means if I get a message I need to act on, I hit `|`
+and then type `mqq "Do something about this"`. Behind the scenes, the
+script will put that "to do" in the folder where I keep my tasks,
+together with a copy of the message that I can refer to later from
+within Notational Velocity or any other text editor I choose.
+
+Like many of the other tasks I've described here, it was possible to do
+something similar from within Apple Mail, but using a GUI program would
+have required me (in this example), to use the mouse or a hotkey to copy
+the message text, which I then probably would have pasted in Notational
+Velocity. Those two steps are now reduced to one that does everything
+without having to leave the keyboard. Whether that's a savings that
+justifies using Mutt remains an open question, but for now I'm happy
+with this setup---happy enough to leave it alone for the foreseeable
+future!
+
+  [Mutt]: http://www.mutt.org/ "Mutt"
+  [John MacFarlane]: http://john.macfarlane.usesthis.com/
+    "Interview with John MacFarlane on UsesThis.com"
+  [Pinboard links]: http://pinboard.in/u:wcaleb/t:mutt
+    "wcaleb's Pinboard links on Mutt"
+  [muttrc]: https://github.com/wcaleb/dotfiles/blob/master/muttrc
+    "wcaleb's muttrc on Github"
+  [manual]: http://www.mutt.org/doc/manual/ "Mutt manual"
+  [Life on the Command Line]: http://lenz.unl.edu/2011/04/09/life-on-the-command-line.html
+    "Life on the Command Line by Stephen Ramsay"
+  [nmh]: http://www.nongnu.org/nmh/ "nmh - New Mail Handling System"
+  [this post]: http://chronicle.com/blogs/profhacker/writing-power-tools-text-editors/38940
+    "Writing Power Tools: Text Editors"
+  [TextWrangler]: http://www.barebones.com/products/TextWrangler/
+    "TextWrangler from Bare Bones Software"
+  [plain-text system for Getting Things Done]: http://wcm1.web.rice.edu/plain-text-gtd.html
+  [grading on my iPad]: http://wcm1.web.rice.edu/grading-with-my-ipad.html
+  [here]: http://joeclark.org/ffaq.html
+  [aliases]: http://wiki.mutt.org/?MuttGuide/Aliases
+    "Mutt User Manual on aliases"
+  [this handy method]: http://oif.eafarris.com/blog/hooking-os-xs-address-book-to-mutt
+  [offlineimap]: http://offlineimap.org/ "OfflineIMAP homepage"
+  [notmuch]: http://notmuchmail.org/ "notmuch homepage"
+  [these instructions]: http://log.or.cz/?p=228
+  [this system wholesale]: http://linsec.ca/Using_mutt_on_OS_X#mailcap
+  [Bean]: http://www.bean-osx.com/Bean.html "Bean homepage"
+  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc homepage"
