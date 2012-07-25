@@ -1,0 +1,466 @@
+% Trusting the Water Cure
+% W. Caleb McDaniel
+% July 24, 2012
+
+<div id="abstract">This is the paper I delivered on July 20 at the 2012 annual
+meeting of the <a href="http://www.shear.org">Society for Historians of the
+Early American Republic</a> in Baltimore. The (slightly modified) title of the
+talk was: "Spreading the News about Hydropathy: How Did Americans Learn to Stop
+Worrying and Trust the Water Cure?" A printer-friendly version can be found in
+Rice University's <a href="http://hdl.handle.net/1911/64493">Digital
+Scholarship Archive</a>.</div> 
+
+Historians of the early republic now understand a great deal about how
+the post office, the steam engine, the telegraph, and the printing press
+helped to stitch a growing nation together while simultaneoulsy
+connecting Americans to a wider world. The "water cure," a
+nineteenth-century health reform movement also known as hydropathy, was
+in many ways the perfect example of how an antebellum "communications
+revolution" created extensive information networks on even the most
+obscure topics. After its genesis in Austria in the 1830s and 1840s, by
+the 1850s the "water cure" claimed a transatlantic following with
+devotees as diverse as Charles Darwin, Stonewall Jackson, David Ruggles,
+Harriet Beecher Stowe, and a host of unknown clients from Russia,
+Germany, Italy, and beyond. By the beginning of the Civil War, the New
+York City newspaper, *The Water-Cure Journal*, claimed tens of thousands
+of subscribers, and over 200 hydropathic establishments dotted the
+country from upstate New York, to Biloxi, Mississippi, and Salem,
+Oregon.[^1]
+
+Yet health reform movements like the "water cure" also illustrate the
+two biggest points I would like to make in this talk. First, information
+networks built by new institutions, technologies, and publications never
+wholly displaced interpersonal networks as conduits of information. New
+media has almost always been "social" media, and in the early republic
+friends and family members remained crucial sources of information who
+shared and spread the news they liked and steered each other away from
+what they did not. Leaders and fans of alternative health movements
+understood this well. The followers of homeopathist Samuel Thomson sent
+agents into 22 states and territories by 1833 to form "Friendly
+Societies," local groups of families and friends who could support each
+other and share information about botanical remedies. The publishers of
+the *Water-Cure Journal* likewise built their subscription base by
+offering prizes to readers who used their interpersonal ties to bring
+friends or family members to the cause. Such savvy tactics showed an
+awareness of how important the social network was to the spread of new
+ideas.[^2]
+
+A second point I want to make today is related to the first:
+interpersonal communication networks remained important in the early
+nineteenth century not just as means of *circulating* information, but
+as means of cultivating *trust* in information. The case of the "water
+cure" helps make this point especially clear, for the dramatic spread of
+hydropathy was more than just a matter of spreading news and methods.
+Rather, the spread of hydropathy was the product of countless private
+decisions by individuals to place their *trust* in "water cure"
+therapies--enough trust to try them on their own bodies or the bodies of
+those they loved.
+
+The ailing American abolitionist Henry Clarke Wright made that decision
+in the winter of 1843 and 1844, when he traveled to the Austrian water
+cure establishment run by Vincent Priessnitz in Graefenberg, nestled
+high in the Silesian alps. Priessnitz was renowned as the inventor of
+hydropathy, and by the time Wright arrived he was attracting as many as
+1700 people a year to Graefenberg. True believers in Priessnitz's
+methods for curing illness preached that anyone could practice
+hydropathy, even in their own home. But Wright, who had suffered for
+much of the year with a persistent cough, was persuaded to travel all
+the way to the water cure's source to consult with Priessnitz
+himself.[^3]
+
+The methods that Wright discovered there shared much in common with
+other contemporary health reforms--hostility to drugs and "heroic"
+therapies like blood-letting, distrust of traditional physicians, an
+emphasis on diet and preventive hygiene, and a belief that restoring the
+sick to health was mostly a matter of allowing nature take its course.
+But what distinguished Priessnitz's ideas from other cures was the
+belief that applications of water alone could resolve most illnesses,
+whether they were chronic or acute. Patients like Wright were wrapped in
+freezing cold wet sheets and then cocooned in thick blankets to relieve
+fever. Water cure patients sat in water, submerged themselves in water,
+stood under water as it was poured over them, wore wet compresses,
+wrapped themselves in dripping sheets, and ate a meager diet washed
+down, of course, with water.
+
+Needless to say, these experiences were not always pleasant in an Alpine
+winter. Nine weeks into his stay, Wright described climbing into baths
+rimmed with ice and confessed to a friend in England that he had
+developed a "perfect *Hydrophobia*. I have a horror of cold water. I
+can't get warm. But I'm told it is a good sign!" Wright went on to joke
+with his correspondent, another water cure devotee, about the seeming
+absurdity of his position. "Oh dear me!" he exclaimed. "Weakness, low
+spirits, shiverings & shakings, fever, head-ache, tooth-ache, & every
+other ache, a good sign! Well---I know my *lungs* are getting well."[^4]
+
+In these lines, Wright pinpointed the paradox at the heart of
+hydropathy: Priessnitz held that wet sheets and douches worked by
+bringing the body to a moment of crisis, in which any morbid elements
+would be expelled. But in practice, this meant that patients who began
+to feel *worse* under Priessnitz's ministrations were often told they
+were getting better! "Everything is reversed here," Wright explained, "&
+you are counted fortunate & happy according to the intensity of your
+pain & anguish. 'The cure is taking effect' is the consolatory response
+to all your groans & cries of torture."[^5]
+
+Such candid admissions may seem amusing in retrospect, but they point to
+a problem that historians of the cure have only partially answered: in
+the heat (or the cold!) of the moment, how and why did water cure
+patients decide to *trust* specific treatments and doctors to make them
+well, even in the face of their own doubts or awareness of
+countervailing evidence? The experience of another, more famous
+abolitionist highlights how potentially unamusing such decisions could
+be. In April 1849, William Lloyd Garrison and his wife Helen Garrison
+watched with growing concern as their six-year-old son, Charles Follen
+Garrison, "complained of feeling unwell." Through several days of
+vomiting and flu-like symptoms, the Garrisons attempted to treat their
+son with the water cure, wrapping him in "the wet sheet three or four
+times." When that failed, Lloyd later reported in an anguished letter,
+"we also gave him the homeopathic prescriptions as accurately as we
+could discover his symptoms described in our books, but without much
+skill or knowledge." Finally, after four days, while still "hesitating
+whether to go for a physician," Garrison was "advised by a friend to try
+a medicated vapor bath."[^6]
+
+The same friend "said that his wife would be happy to administer it,"
+and Garrison quickly agreed, believing that sweating was what Charley
+needed---a key premise for movements like hydropathy. He therefore
+agreed to make an "experiment" of the vapor bath, and even helped his
+friend's wife strap his lethargic son into a wooden chair positioned
+above steaming water. Almost as soon as the "bath" began, however, the
+poor boy became, in Garrison's words, "perfectly frantic . . . his
+screams were appalling." When Charley was removed, fifteen or twenty
+minutes later, Garrison discovered, too late, that his child had been
+horribly scalded by steam from the vapor bath, "the skin being entirely
+destroyed on one side." A few days later, the injured boy died, leaving
+his parents enveloped in guilt and grief.[^7]
+
+As the Garrisons' tragic experience shows, decisions to trust
+alternative therapies and delay other sorts of care could quickly become
+matters of life and death for nineteenth-century families. Yet
+Garrison's story illustrates just how persistent *trust* in the water
+cure or similar therapies could be, even in the face of strong
+countervailing evidence that the cures were not working or were actively
+causing harm. In this case, as Garrison later explained, "such was my
+confidence in the judgment of the lady" who administered the vapor bath
+that "I did not even suspect that she might be raising the steam to an
+undue height." As his son screamed in pain, Garrison even "appealed to
+his little manhood in the best way I could . . . urging him to bear it
+all with fortitude, as he would undoubtedly be benefitted by the
+operation."[^8]
+
+All parents face difficult choices when trying to care for a suffering
+child. But it is still appropriate to ask why someone like Garrison
+could place so much confidence in the prescriptions or judgments of
+alternative health practitioners, enough to urge his son to endure an
+obviously botched treatment? In the case of the water cure, the current
+historiography answers questions like this only in the most general
+terms. Scholars have explained the attractions of hydropathy partly by
+contrasting its relatively passive and hygenic regime with "harsh"
+conventional techniques practiced by professional doctors. And
+historians have also shown why hydropathy complemented general currents
+in antebellum culture, especially to women and reformers drawn to the
+camaraderie and respite of water cure establishments and the ethic of
+individual empowerment and non-conformism offered by the cure. More
+generally, historians of alternative medicine have shown why cures that
+seem ridiculous now made sense given nineteenth-century assumptions
+about the body and its operations that patients, physicians, and
+alternative practitioners all, to some extent, shared. Historians of
+medicine also point to the charisma and savvy marketing skills of
+individual physicians as crucial to establishing the credibility of
+unconventional therapies.[^9]
+
+Yet while all of these approaches do much to explain why antebellum
+Americans in general might be attracted to hydropathy or persuaded to
+try its methods, they are less successful when it comes to explaining
+specific decisions by specific individuals like Garrison and Wright. For
+example, pointing to the perils of professional medicine at the time
+does not explain fully why a patient might trust the water cure over
+other alternative therapies, or why patients trusted certain
+combinations of therapies. As Garrison's experience illustrates,
+antebellum Americans attracted to hydropathy seldom chose one therapy,
+even to address one case of illness. To understand the decision-making
+matrices that produced their trust in these therapeutic regimes, we need
+to know more than the things that made the water cure culturally
+appealing.[^10]
+
+It is here, I think, that attention to interpersonal networks of
+information may ultimately provide insights that an exclusively
+macroscopic approach cannot. Antebellum Americans who trusted the water
+cure did not make their decisions in a vacuum or solely with the help of
+impersonal media like printed books, which, as Garrison's testimony
+shows, could fail to offer consolation and help in a moment of crisis.
+In those moments, most people do---and did---turn to the embodied or
+empathetic knowledge provided by close friends and family members.
+Significantly, Garrison tried the vapor bath for his son largely on the
+advice of "a friend."[^11]
+
+The role that such friends played in shaping decisions like Garrison's
+is not easy to measure, primarily because obtaining glimpses into the
+private decisions of individual patients is more difficult than counting
+the number of water cure establishments or subscriptions to water cure
+publications. Garrison and Wright were hardly representative Americans,
+and may not even have been representative of those who tried alternative
+therapies like the water cure. Nonetheless, in their cases and others,
+anecdotal evidence *does* suggest the importance of close interpersonal
+ties of kinship and friendship in engendering confidence in hydropathy.
+
+Wright, for example, was largely convinced to visit Graefenberg on the
+recommendation of his friend Elizabeth Pease, a Quaker abolitionist from
+Darlington, England, who frequented a water cure establishment at Ben
+Rhydding and who met many American abolitionists in person during their
+tours of the British Isles. Wright and Pease were also critical to
+Garrison's decision to try the water cure only a few months before
+Charley's death. When Garrison, a longtime adherent of homeopathic
+treatments, became ill in the spring of 1848, he initially considered
+using sarsaparilla. But, as he told his good friend Pease, "dear Henry
+is urging me very strongly to go to Dr. [David] Ruggles's Water Cure
+Establishment in Northampton," and Pease added her own strong
+endorsements of that advice, writing later that year that she hoped
+"hydropathy may do as much for thee as under the blessing of God, it has
+done for me."[^12]
+
+Garrison and Wright were not the only American abolitionists whom Pease
+ultimately persuaded to trust or try the water cure. In 1847 she also
+recommended the cure to the invalid wife of Boston abolitionist Wendell
+Phillips, who told Pease in August 1847 that "your cordial description
+of Ben Rhydding would almost draw Ann across the water. She looks
+longingly on the Cure, & may try it yet." When Wendell and Ann Phillips
+did ultimately go to Northampton to seek help from David Ruggles, the
+African American hydropathist, Wendell gratefully informed Pease of
+their decision "to try your own valued water cure." And Garrison's own
+eventual decision to go to Northampton also highlighted the importance
+of a valuable friend like Pease, the only correspondent to whom Garrison
+confided the details of Charley's gruesome death, in prompting
+individual decisions to act. In a letter of introduction to British
+abolitionists written for his friend Maria Weston Chapman, who was about
+to cross the Atlantic, Garrison noted that Pease would be "highly
+gratified on hearing that I am at last trying the 'Water Cure.'" And in
+the same letter, he wrote, in reference to Pease, "what would the world
+be without such friendship?"[^13]
+
+A world without such friendship may very well have been a world in which
+the "water cure" had a less extensive and enduring reach. To be sure,
+advice from friends was no guarantee that someone would trust
+hydropathy, any more than exposure to an issue of the *Water Cure
+Journal* might have been. Garrison had been "prevailed on" by friends to
+try the water cure for years before he actually did so. Another Boston
+abolitionist associated with Garrison confessed in a letter to an Irish
+abolitionist that his family remained "a sad set of misbelievers" in the
+"*hydromania*" of friends like Pease and Wright. For every example of
+someone converted to the water cure by the recommendation of a friend or
+relative, one could probably find another example of someone like the
+abolitionist John Brown, who had "little faith in the water treatment"
+even though his sons were devoted readers of the *Water Cure Journal*
+and his wife visited Ruggles's water cure establishment. Indeed, the
+authors of personal testimonials published in the *Water Cure Journal*
+often boasted of their persistence in trusting the water cure *against*
+the advice of their skeptical friends and family, or spoke vaguely of
+having "heard of the Water-Cure" from no one in particular.[^14]
+
+Nonetheless, beneath these proud statements of individual self-reliance
+and skepticism, I suspect there are numerous experiences more akin to
+Garrison's and Wright's, like the decisions of abolitionists Abby Kelley
+and Stephen Foster to try the water cure only after urging from family
+and friends, or the decision of Susan Helen DeKroyft, a popular
+nineteenth-century author who began losing her eyesight in 1845 and
+published a book of letters about her long search for a cure. DeKroyft's
+journey began at the New York Institution for the Blind, but there she
+was subjected to a battery of conflicting advice of what she should do.
+"Last summer," she wrote, "the advice of all the doctors was, 'Go to the
+springs; showering and bathing will do more for you than medicine,'"
+while still others advised that she try a water cure establishment on
+Long Island. "To that various objections were raised," not least from
+DeKroyft herself, who was skeptical of hydropathy "until a friend gave
+it a very satisfactory trial." This friend, equipped with her own douche
+bath and water cure apparatus in her home, allowed DeKroyft to try the
+method "with much benefit both to my general health and eyes." Another
+"good friend" proved critical to her later decision to go to Long Island
+after all.[^15]
+
+I have sketched the outlines of a problem that I believe still warrants
+examination: how did antebellum Americans decide to trust particular
+information and recommendations about the water cure enough to submit to
+its rigors? I have also suggested that an answer may lie in the
+interpersonal means by which news of the water cure reached them. Both
+the problem and the answer are only visible, however, if we take
+seriously the difficult and sometimes agonizing choices that patients
+had to make about therapy for themselves and their loved ones.
+
+After all, when antebellum Americans like Garrison chose to apply the
+water cure in their families, it was not a light decision. As Elizabeth
+Cady Stanton once said in the case of her own son's sickness, which she
+treated with the water cure, "I am anxious beyond endurance" and "feel
+guilty when I have a sick child." In the face of such powerful emotions
+of anxiety and guilt, simple belief in the proposition of the water cure
+may well have needed the endorsement of other patients who were close
+friends or kin. Helen DeKroyft suggested as much when she confessed that
+"sometimes the simple, unvarnished story of a patient, tells more in
+favor of the doctor than all of his long and well-written essays upon
+Materia Medica, Theory and Practice."[^16]
+
+To confirm that DeKroyft's insight was more widely shared would require
+more research than I have presented today. But examining the importance
+of inter-patient and interpersonal networks in the spread of the water
+cure may prove useful for two groups of historians. For historians of
+medicine who are usually focused on relations between doctor and
+patient, the water cure may present a case in which networks and
+friendships among patients proved critical to the cure's expansion and
+credibility. Meanwhile, for historians of the communications revolution
+in this period, the water cure suggests the need for continued attention
+to the micro-historical scale of information exchange. Infrastructral
+changes deserve most of the credit for the circulation and spread of
+news about hydropathy, but understanding why particular people made
+personal decisions to act on information received may require looking at
+ties closer at hand.
+
+[^1]: For overviews of the water cure and similar cures in the antebellum
+United States, see Susan E. Cayleff, *Wash and Be Healed: The Water-Cure
+Movement and Women’s Health* (Philadelphia: Temple University Press, 1987),
+figures cited on p. 3; Norman Gevitz, ed., *Other Healers: Unorthodox Medicine
+in America* (Baltimore: Johns Hopkins University Press, 1988); Marshall Scott
+Legan, “Hydropathy in America: A Nineteenth-Century Panacea,” *Bulletin of the
+History of Medicine* 45 (September 1971): 267–280. On the transatlantic
+dimensions of the movement, see Annette Nolte, “The Ebb and Flow of Hydropathy:
+The Water-Cure Movement in Europe and America” (Ph.D diss., University of Texas
+at Arlington, 2001). For the Mississippi hydro, see John Duffy, “Medical
+Practice in the Ante Bellum South,” *Journal of Southern History* 25 (February
+1959): 53–72. For Oregon, see G. Thomas Edwards, “Dr. Ada M. Weed: Northwest
+Reformer,” *Oregon Historical Quarterly* 78 (March 1977): 4–40. On the
+"communications revolution," see Daniel Walker Howe, *What Hath God Wrought:
+The Transformation of America, 1815–1848* (New York: Oxford University Press,
+2007); Richard R. John, *Spreading the News: The American Postal System From
+Franklin To Morse* (Cambridge, Mass.: Harvard University Press, 1995); John J.
+McCusker, "The Demise of Distance: The Business Press and the Origins of the
+Information Revolution in the Early Modern Atlantic World," *American
+Historical Review* 110, no. 2 (2005), 295--321; Robert A. Gross and Mary
+Kelley, eds., *An Extensive Republic: Print, Culture, and Society in the New
+Nation, 1790--1840* (Chapel Hill: University of North Carolina Press, 2010).
+
+[^2]: On Thomsonian "Friendly Societies," see William G. Rothstein, “The
+    Botanical Movements and Orthodox Medicine,” in *Other Healers:
+    Unorthodox Medicine in America*, ed. Norman Gevitz
+    (Baltimore: Johns Hopkins University Press, 1988), 29–51, esp. pp.
+    43--45. On contests to encourage new subscriptions, see Cayleff,
+    *Wash and Be Healed*, 26.
+
+[^3]: On Wright, see Lewis Perry, *Childhood, Marriage, and Reform:
+    Henry Clarke Wright, 1797-1870* (Chicago: University of Chicago
+    Press, 1980). For Priessnitz's clients, see Cayleff, *Wash and Be
+    Healed*, 20–21.
+
+[^4]: Henry Clarke Wright to Elizabeth Pease, March 13, 1844, Garrison
+    Family Papers, Houghton Library, Harvard University, bMS, Am 1906
+    (653), hereafter cited as GFP.
+
+[^5]: Henry Clarke Wright to Elizabeth Pease, March 27, 1844, Garrison
+    Family Papers.
+
+[^6]: William Lloyd Garrison to Elizabeth Pease, June 20, 1849, LWLG
+    3:618--22, quoted on 619, 620.
+
+[^7]: William Lloyd Garrison to Elizabeth Pease, June 20, 1849, LWLG
+    3:620. See also Harriet Hyman Alonso, *Growing Up Abolitionist: The
+    Story of the Garrison Children* (Amherst: University of
+    Massachusetts Press, 2002), 57--61. A vapor bath like the one
+    Garrison tried was not among the techniques Priessnitz used, but as
+    Susan Cayleff notes, the "ideological purity" of the water cure
+    movement declined over time, as traditional methods like the wet
+    sheet began to be used alongside electrical treatments, mesmerism,
+    homeopathic therapies, and even clairvoyance. See Cayleff, *Wash and
+    Be Healed*, 103.
+
+[^8]: William Lloyd Garrison to Elizabeth Pease, June 20, 1849, LWLG
+    3:620. Occasional stories of casualties even from the cold water
+    cure circulated in the correspondence of sympathizers and skeptics
+    alike. Irish abolitionist Richard Davis Webb, for example, reported
+    knowing a consumptive young man who panicked while wrapped in a wet
+    sheet pack and died after exhausting himself trying to escape. An
+    aunt of Webb's wife also reported having a paralytic attack during a
+    wet sheet bath. See RDW to NPR, November 17, 1844, Haverford
+    Collection 806, Box 1. Infections caused by unsanitary sheets were
+    also a real risk to patients of the cure. See Abby Kimber to Hannah
+    Webb, June 20, 1847, BPL, Ms.A.1.2.17.50
+
+[^9]: See Charles E. Rosenberg, “The Therapeutic Revolution: Medicine,
+    Meaning, and Social Change in Nineteenth-Century America,”
+    *Perspectives in Biology and Medicine* 20 (Summer 1977): 485–506;
+    Steven Shapin, “Trusting George Cheyne: Scientific Expertise, Common
+    Sense, and Moral Authority in Early Eighteenth-Century Dietetic
+    Medicine,” *Bulletin of the History of Medicine* 77 (Summer 2003):
+    263–297; Cayleff, *Wash and Be Healed*. For an account of Harriet
+    Beecher Stowe's conversion to hydropathy that reflects this
+    historiography and emphasizes broad cultural factors, see Joan D.
+    Hedrick, *Harriet Beecher Stowe: A Life* (New York: Oxford
+    University Press, 1994), 173--85.
+
+[^10]: In the case of hydropathy, certainly, encounters with charismatic
+    practitioners like Priessnitz, whom Wright called "an extraordinary
+    man," were often decisive in making a person fall in love with the
+    water cure. Yet trust in water cure therapies often survived even
+    the death of prominent hydropathic practitioners whose methods
+    failed to work in their own cases. Often, as in Garrison's case,
+    Americans trusted alternative therapies enough to try them at home
+    and in the absence of professional guides who ran hydropathic
+    establishments. Finally, while the techniques of charismatic doctors
+    to build credibility with patients undoubteduly played key roles in
+    cultivating trust, they do not fully explain why a patient would
+    seek out a doctor in the first place, or trust one charismatic
+    practitioner over another.
+
+[^11]: Some more recent research suggests the importance of
+    interpersonal connections and experience in shaping patient
+    decisions about whether to, say, breastfeed an infant or accept
+    prenatal genetic screening during pregnancy. Such forms of embodied
+    knowledge, I am suggesting, played similar roles in the decisions of
+    nineteenth-century Americans. See Holly Etchegary et al., "The
+    Influence of Experiential Knowledge on Prenatal Screening and
+    Testing Decisions," *Genetic Testing* 12, no. 1 (2008), 115--24; Pat
+    Hoddinott and Roisin Pill, "Qualitative Study of Decisions about
+    Infant Feeding among Women in East End of London," *BMJ* 318, no.
+    7175 (1999), 30--34; and, for the concepts of "embodied" and
+    "empathetic" knowledge, Emily K. Abel and C. H. Browner, "Selective
+    Compliance with Biomedical Authority and the Uses of Experiential
+    Knowledge," in *Pragmatic Women and Body Politics*, ed. Margaret
+    Lock and Patricia A. Kaufert (Cambridge, Eng.: Cambridge University
+    Press, 1998), 310--26. Such present-day studies should not be read
+    back directly to the antebellum period, however, as other research
+    suggests that contemporary patients place far more credit in
+    biomedical technology and "authoritative knowledge" than previous
+    generations. See C. H. Browner and Nancy Press, "The Production of
+    Authoritative Knowledge in American Prenatal Care," *Medical
+    Anthopology Quarterly* 10, no. 2 (June 1996), 141--56.
+
+[^12]: WLG to Elizabeth Pease, May 3, 1848, LWLG 3:555ff; Pease to WLG,
+    November 12, 1848, BPL, Ms.A.1.2.18.39. See also WLG to George W.
+    Benson, May 17, 1848, LWLG 5:558. On Wright's health, see Pease to
+    Nathaniel P. Rogers, September 13, 1843, Haverford Collection 806,
+    Box 1.
+
+[^13]: Wendell Phillips to Elizabeth Pease, August 29, 1847, BPL,
+    Ms.A.1.2.17.66; Phillips to Pease, November 21, 1852, BPL,
+    Ms.A.1.2.21.124; WLG to MWC, July 19, 1848, LWLG 3:568.
+
+[^14]: Mary Grew to Helen E. Garrison, July 23, 1846, BPL,
+    Ms.A.1.2.16.75; Edmund Quincy to Richard Davis Webb, January 30,
+    1844, BPL, Mss. 960, vol. 1, no. 5. For examples of testimonials in
+    the *Water Cure Journal*, see "Dr. Ruggles' Hydropathic Experience,"
+    *Water Cure Journal*, April 1848; James Caleb Jackson, "Past and
+    Present Experience of a Hydropathy," *Water Cure Journal*, January
+    1850. On the Brown family's disagreements over the water cure, see
+    John Brown Jr. to John Brown, September 18, 1849; Jason Brown to
+    John Brown Jr., August 17, 1849; and Thomas Thomas to John Brown
+    Jr., September 4, 1849, all at Ohio Historical Society. The British
+    reformer Richard Cobden likewise regarded hydropathy as a
+    "*superstition*" even though his wife and brother-in-law were firm
+    believers. See Richard Cobden to Joseph Sturge, February 3, 1857,
+    British Library Add. 43722, f. 204.
+
+[^15]: DeKroyft quotes are from her *A Place in Thy Memory* (New York:
+    J. F. Trow, 1850), pp. 135--37. I am quoting from the edition of the
+    book contained in the North American Women's Letters and Diaries
+    Database published by Alexander Street Press. Re: Abby Kelley's
+    decision, see Abby Kelley to Wendell Phillips, July 28, 1858,
+    Phillips Papers (556/4). See also Dorothy Sterling, *Ahead of Her
+    Time*, 277--78.
+
+[^16]: DeKroyft, *A Place in Thy Memory*, 145--48.
