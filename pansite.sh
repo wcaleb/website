@@ -29,7 +29,7 @@ do
 	SORTDATE=$(date -jf '%B %e, %Y' "$POSTDATE" +%y%m%d)
 	RSSDATE=$(date -jf '%B %e, %Y' "$POSTDATE" '+%a, %d %b %Y 00:00:00 %Z')
 	pandoc $PANOPTS\
-	 --variable=category:"$CATEGORY"\
+ 	 --variable=category:"$CATEGORY"\
 	 --include-after-body="$FOOTER"\
 	 --output=$PUBDIR/"$POST".html\
 	 "$file"

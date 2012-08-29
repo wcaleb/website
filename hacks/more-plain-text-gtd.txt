@@ -79,7 +79,7 @@ things. That sort of flexibility--and the fact that I only have to see
 those features that *I* need--is what I still like about my GTD system
 today.
 
-  [plain-text system for getting things done]: ./plain-text-gtd.hml
+  [plain-text system for getting things done]: ./plain-text-gtd.html
   [original post]: ./plain-text-gtd.html
   [Notational Velocity]: http://notational.net
   [DTerm]: http://decimus.net/DTerm

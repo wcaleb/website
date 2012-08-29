@@ -1,12 +1,10 @@
 I am an historian of the nineteenth-century United States at Rice University. On this site you can find my [publications][], occasional posts on my current research and teaching, and some geeky computer tricks.
 
-My first book, *The Problem of Democracy in the Age of Slavery: Garrisonian Abolitionists and Transatlantic Reform*, is forthcoming from [LSU Press][] in 2013. In the meantime, you can read a [preprint of the introduction](./book-introduction.html) here.
-
-In the fall 2012-2013 academic year I will be leading a Humanities Research Center [Masterclass on Digital History](https://hrc.rice.edu/masterclasses/). I am otherwise on leave in the fall 2012 semester. This July I will be presenting a paper at the annual meeting of [SHEAR](http://faculty.chass.ncsu.edu/ctfriend/SHEAR1.htm), and next January I will be at the annual meeting of the [AHA](http://www.historians.org/annual/2013/index.cfm) in New Orleans.
+My first book, *The Problem of Democracy in the Age of Slavery: Garrisonian Abolitionists and Transatlantic Reform*, is forthcoming from [LSU Press][] in 2013. In the meantime, you can read [the introduction](./book-introduction.html). In the fall 2012-2013 academic year I will be leading a Humanities Research Center [Masterclass on Digital History](http://digitalhistory.blogs.rice.edu). I am otherwise on leave in the fall 2012 semester.
 
 I also [tweet][], [pin][], [tumble][], [git][], and [LibraryThing][].
 
-This site is powered by [pandoc][] and a shell script. You can read about how on my [colophon](colophon.html). All content original to this site is licensed under [CC-BY][] unless otherwise stated.
+This site is powered by [pandoc][] and a [shell script](colophon.html). All content original to this site is licensed under [CC-BY][] unless otherwise stated.
 
 [publications]: ./cv.html#publications
 [tweet]: http://twitter.com/wcaleb

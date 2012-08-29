@@ -3,18 +3,10 @@
 % May 26, 2011
 
 <div id="abstract">
-Next week I’m going to be speaking at the [Wendell Phillips Bicentennial
-Commemoration][] at the Harvard Law School in Cambridge, and this post
-is a more extended version of the remarks I’m planning to make at the
-symposium on Friday. It’s also a post that discusses the Wendell
-Phillips quote that has provided me with a new title for my book
-manuscript: *The Ever-Restless Ocean*. Comments and feedback are
-welcome, and if you’re in Cambridge or Boston next week, you may want to
-take advantage of the [events][] that are planned for the commemoration
-by registering now.
-
-[This post was originally published on my old blog as [Wendell Phillips
-and the “Ever-Restless Ocean” of Democracy][].]
+This post was originally published on my old blog as [Wendell Phillips and the
+“Ever-Restless Ocean” of Democracy][]. I presented the essay in 2011 at the
+[Wendell Phillips Bicentennial Commemoration][] at Harvard Law School in
+Cambridge.
 </div>
 
 American democracy means, at the very least, majority rule. And Wendell
@@ -470,8 +462,6 @@ cold and still sublimity, be the emblem of Despotism," said this
 abolitionist democrat, then "the ever-restless ocean is ours, which,
 girt within the eternal laws of gravitation, is pure only because never
 still.”[^22]
-
-### Notes
 
 [^1]: "Massachusetts Anti-Slavery Society Annual Meeting," *Liberator*,
     17 February 1865. Phillips made the statement while arguing for

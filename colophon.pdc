@@ -2,12 +2,6 @@
 % W. Caleb McDaniel
 % 
 
-The background image for this website is taken from [an 1844 letter][]
-by Irish abolitionist Richard Davis Webb, one of the characters in my
-forthcoming book. There were many abolitionists with handwriting *as*
-bad as Webb's, but few had handwriting that was worse--fortunately for
-me.
-
 Tools I Use
 -----------
 
@@ -41,7 +35,7 @@ others.
 
 The key part of the script is the long `echo` command that comes after
 using pandoc to convert each post to html. This line creates a record
-for each post containing information fields (separated by \#) that are
+for each post containing information fields (separated by %) that are
 then manipulated later in the script by `awk` to generate an RSS feed
 and lists of posts for the main page and each category page.
 
