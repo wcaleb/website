@@ -1,0 +1,176 @@
+% Why Study Digital History?
+% W. Caleb McDaniel
+% August 31, 2012
+
+<div id="abstract">
+This academic year I am leading a Rice University [masterclass][] on
+[digital history][]. This essay is [cross-posted][] on our course blog,
+along with a comment box.
+</div>
+
+In our first meeting of [Digital History at Rice][digital history], we
+each shared our reasons for wanting to study this subject. Here I want
+to elaborate a little bit on mine. My graduate program in history did
+not offer any training in digital history methods, but in the last ten
+years, I've had a series of realizations that make me want to learn more
+about them.
+
+### 1. I realized I was already doing digital history, whether I wanted to or not.
+
+Since the 1990s, primary sources in my field---nineteenth-century
+American history---have been digitized at an incredible rate, by [Google
+Books][], the [Internet Archive][], [Making of America][], and many
+others.When I began my dissertation, I spent much of my time looking
+through microfilm of the antislavery newspaper the *Liberator*. By the
+time I finished, there were multiple digitized copies of the paper
+available from at least three private companies.
+
+It would be foolish not to make use of these resources, so I do---all
+the time. But the more I started to notice the differences among
+databases and search engines, the more I began to realize that by using
+them, I was already engaging in a collaborative enterprise with software
+engineers. To be sure, this is a collaboration with strangers whose
+names I seldom learn, but the decisions that they make about how to
+program search engines, how to structure databases, and what formats to
+make available to me now have a direct bearing on the work that I do as
+an historian of the nineteenth century. That made me realize that even
+if I never make a web scraper, scan an archive, or encode a document
+myself, I needed to understand something about the way these things are
+done if I want to use these tools effectively and intelligently. Indeed,
+it's now as important to know something about these things as it is to
+know how to read a book or write a book review.
+
+The more I began to think about this issue, the more I realized how
+ubiquitous these invisible collaborations were in my day-to-day work;
+every time I entered a query into Google, or fired up Microsoft Excel, I
+was, if not *programming,* at least *being* programmed and relying on
+the programming others had done. Paying attention to digital history
+slowly made me start to realize [how much I don't know about things like
+database design][], but reading blog posts like that one and following
+digital historians through social media means I now know a lot more than
+I once did. That means that (at the very least) I can now make more
+informed decisions about the tools I use.
+
+So far I've related these points to my research, but my experiences
+teaching were also a big part of coming to the realization that I needed
+to study digital history. In the very first course I taught, I used a
+blog, and I have been [teaching with blogs][] or online forums ever
+since. But that experience also confronted me with the sometimes
+frustrating limitations of different platforms, ranging from Blogger to
+Wordpress to Blackboard---all of which has forced me to pay more
+attention to what is going on under the hood of the digital tools I use.
+
+### 2. I realized other people in my field were going to do digital history, whether I did or not.
+
+Even if, by some miracle of time travel, I were now able to do my work
+without computers at all, other historians who write about things I care
+about are going to be doing digital history. In one of the journals I
+read regularly, [articles citing digital databases now appear all the
+time][].
+
+That means I need to know something about digital history if I want to
+be able to assess my peers' work fairly and teach it to my students.
+This is a responsibility I owe to the general public, as well as to my
+students and colleagues. As [Ted Underwood][] notes, journalists and
+academics in a variety of fields aren't going to stop using digital
+tools to draw sweeping generalizations about history even if I choose
+not to. Historians and humanists "need to step up our game," as
+Underwood puts it, if we want to counteract misleading impressions drawn
+from casual use of tools like Google's ngram. At the same time, if I'm
+going to be a responsible member of the academy, I need to be able to
+think and speak critically about bad uses of digital history without
+dismissing out of hand [more careful and sophisticated work][].
+
+### 3. I realized that digital history might have uses for me in my future work, whether or not I could foresee them in the present.
+
+Back in 2005 and 2006, while writing one of the chapters of [my
+dissertation][], I spent quite a bit of time tracking the movements of
+American abolitionist Henry Clarke Wright during his lengthy European
+tour. I had his journal entries and dozens of dispatches written by
+Wright to the *Liberator* from places like Basel, Lintz, Innsbruck,
+Mannheim, and other locations that were not always easy to find on a
+contemporary map. So to organize the trip in my mind, I located an old
+map of Europe on the [David Rumsey Map Collection][], printed it out,
+and drew on it to produce this:
+
+![Henry Clarke Wright's European Journey][]
+
+Not long after that, while making campus job visits in 2006, I also
+decided that I wanted a handout that would give audience members a quick
+sense of where the main characters in my dissertation lived and which
+countries were central to my study of transatlantic abolitionism. Though
+it pains me to say it now, I actually used Microsoft Word to make a very
+simple image that looked like this:
+
+![Selected Members of Garrisonian Networks][]
+
+I wince to look at how simple these maps are now, given what I know
+about the capabilities of even the least powerful GIS software and basic
+principles of network analysis. But at the time I didn't really know how
+to make these images any other way. A trip down memory lane in my
+bookmarks shows that I saved [this how-to post][] in my Delicious
+account in May 2006. In truth, however, that was not the time---while
+finishing my dissertation and preparing job talks---to learn how to make
+multimedia maps or use GIS software. Other things rightly took priority.
+
+If I had known something about these tools *before* it was urgent to use
+them, however, they may well have made a difference in my analysis and
+presentation. That realization is what makes me interested in studying
+digital history progressively over time, *even before* I know clearly
+how I might use its methods. Of course, now---as then---it would be
+unwise to spend *all* my time learning complicated tools before the
+return on the investment is clear. But waiting until the very moment
+when I need a tool or method to learn *anything* about it will, almost
+always, mean waiting too long.
+
+I'm grateful that I have had some professors along the way who taught
+with that principle in mind. My first exposure to HTML was actually in
+an honors horticulture class, in which we were required to code a basic
+webpage. It wasn't immediately clear how that would help me do
+horticulture, but I learned to be willing to learn something even
+*before* its utility was immediately clear.
+
+### 4. I realized studying digital history is fun.
+
+All of the points I've made so far make a good case, in my mind, for
+learning about digital history even if (a) computers aren't your thing;
+and (b) you don't plan to do something like topic modeling anytime soon.
+But in my case, I can add to these reasons a very important
+consideration: I think computers are fun.
+
+This is, of course, the most personal and idiosyncratic realization I've
+mentioned so far. But there's no use avoiding the fact. I like to [hack
+around][] and always have, from the days when I built a really
+embarrassing checklist program using Visual Basic on my dad's PC to my
+undergraduate years, when [structured procrastination][] led me to start
+and design a [now defunct online undergraduate journal][]. What can I
+say? I'm a nerd. [These are my people.][]
+
+In academia, the value of pursuing something that you think is fun
+should not be underrated. As [Stephen Ramsay][] writes, there is plenty
+of anxiety and stress in academic life to go around. But it's possible
+to mitigate them, at least slightly, by finding ways to "follow your own
+bliss," as he puts it---not because that will necessarily lead you to
+the next "hot thing," but because it will be fun.
+
+  [masterclass]: http://hrc.rice.edu/masterclasses/
+  [digital history]: http://digitalhistory.blogs.rice.edu
+  [cross-posted]: http://digitalhistory.blogs.rice.edu/2012/08/31/why-study-digital-history/
+  [Google Books]: http://books.google.com
+  [Internet Archive]: http://archive.org
+  [Making of America]: http://quod.lib.umich.edu/m/moagrp/
+  [how much I don't know about things like database design]: http://sappingattention.blogspot.com/2011/03/what-historians-dont-know-about.html
+  [teaching with blogs]: http://wcm1.web.rice.edu/teaching-with-blogs.html
+  [articles citing digital databases now appear all the time]: http://wcm1.web.rice.edu/digital-early-republic.html
+  [Ted Underwood]: http://tedunderwood.wordpress.com/2012/08/25/how-not-to-do-things-with-words/
+  [more careful and sophisticated work]: http://www.dancohen.org/2012/05/30/a-conversation-with-data-prospecting-victorian-words-and-ideas/
+  [my dissertation]: http://hdl.handle.net/1911/27492
+  [David Rumsey Map Collection]: http://www.davidrumsey.com
+  [Henry Clarke Wright's European Journey]: http://wcm1.web.rice.edu/wrightmap.jpg
+  [Selected Members of Garrisonian Networks]: http://wcm1.web.rice.edu/networksmap.jpg
+  [this how-to post]: http://www.engadget.com/2005/03/08/how-to-make-your-own-annotated-multimedia-google-map/
+  [hack around]: http://wcm1.web.rice.edu/hacks.html
+  [structured procrastination]: http://www.structuredprocrastination.com
+  [now defunct online undergraduate journal]: http://web.archive.org/web/20000902170648/http://www.tamu.edu/chr/agora/
+  [These are my people.]: http://xkcd.com/149/
+  [Stephen Ramsay]: http://lenz.unl.edu/papers/2012/04/09/hot-thing.html
