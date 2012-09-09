@@ -1,0 +1,62 @@
+% Search Engines from the Command Line on a Mac
+% W. Caleb McDaniel
+% September 7, 2012
+
+Lincoln Mullen wrote a post yesterday about [How to Hack URLs for Faster
+Searches in Your Browser][]. His tips showed how to add different search
+engines to Google Chrome, but it got me thinking about how I could do
+something similar from the command line. A few bash functions later, I
+now have an easy way to search Google Scholar, Flickr, IMDb, and even
+proprietary databases in my university library---all in the browser of
+my choice. For example, say I want to search Google Scholar. At the
+command line, I can now just type this:
+
+    $ scholar "benedict anderson imagined communities"
+
+And I get [this][]. Or if I want to search the Handbook of Texas Online,
+I type this:
+
+    $ hotx "monroe edwards"
+
+And I get [these results][]. I can even use Google Translate to get
+Spanish translations of English words. I type:
+
+    $ spanish "it's hot outside"
+
+And I get a [quick translation][].
+
+My method is basically to create a series of bash functions that use the
+built-in Mac OS X [open command][]. I've put these functions in a
+[GitHub repository][]. To use them yourself, just copy the
+`se-aliases.sh` file to your computer, and then add this line to your
+`.bashrc` file (or create one if you don't have one):
+
+    $ source path/to/se-aliases.sh
+
+Once you're done, you can use any of the functions at the command line.
+I also find it convenient to do this using [DTerm][]. I can invoke DTerm
+with a global hotkey (mine is Shift-Command-Return), and then type in my
+command, like so:
+
+![Searching IMDb with DTerm][]
+
+Hitting enter on the command in that image immediately sent me to [this
+page][] about a good documentary I recently saw about "Being Elmo,"
+which seems like it's almost as fun as being geeky. Happy searching!
+
+* * * * *
+
+P.S. I did a little googling after my initial post and found [someone
+else][] doing exactly the same thing, with some slight variations in the
+way input is handled. Check it out!
+
+  [How to Hack URLs for Faster Searches in Your Browser]: http://chronicle.com/blogs/profhacker/how-to-hack-urls-for-faster-searches-in-your-browser/42304
+  [this]: http://scholar.google.com/scholar?hl=en&q=benedict+anderson+imagined+communities
+  [these results]: http://www.tshaonline.org/search/node/monroe%20edwards
+  [quick translation]: http://translate.google.com/#en/es/it%27s+hot+outside
+  [open command]: http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/open.1.html
+  [GitHub repository]: http://github.com/wcaleb/se-aliases
+  [DTerm]: http://decimus.net/DTerm
+  [Searching IMDb with DTerm]: ./dterm-screen.jpg
+  [this page]: http://www.imdb.com/title/tt1787660/
+  [someone else]: http://www.if-not-true-then-false.com/2009/google-search-from-linux-and-unix-command-line/
