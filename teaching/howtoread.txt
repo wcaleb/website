@@ -2,14 +2,6 @@
 % W. Caleb McDaniel
 % August 1, 2008 
 
-<div id="abstract">
-In 2012, I prepared <a href="./readingslides.html">this
-slideshow</a> for a presentation based on this essay. You can also get the <a
-href="http://github.com/wcaleb/handouts/blob/master/how-to-read-slides.txt">source
-code</a> for the slideshow, or download this essay as a <a
-href="./howtoread.pdf">PDF</a>.
-</div>
-
 History courses usually have heavy reading loads. But you can make the
 load lighter if you develop effective strategies for reading. This page
 is designed to introduce history students to some of those strategies,
@@ -423,6 +415,13 @@ Further Reading on Reading
 -   [Reading Your Textbooks Effectively and Efficiently][], *from the
     Academic Skills Center at Dartmouth College*
 -	[How to Read an Academic Article][], *by Becky Rosenberg*
+-	[How to Read for a College History Course][], *by Heather Cox Richardson*
+
+*****
+
+P.S. In 2012, I prepared [a slideshow][] for a presentation based on this
+essay. You can also get the [source code][] for the slideshow, or
+download this essay as a [PDF][].
 
   [the advice of others]: #further-reading-on-reading
   [Style: Toward Clarity and Grace]: http://www.amazon.com/exec/obidos/tg/detail/-/0226899152/
@@ -435,3 +434,7 @@ Further Reading on Reading
   [How to Read a Book]: http://www.si.umich.edu/~pne/PDF/howtoread.pdf
   [Reading Your Textbooks Effectively and Efficiently]: http://www.dartmouth.edu/~acskills/success/reading.html
   [How to Read an Academic Article]: http://faculty.washington.edu/davidgs/ReadArticle.html
+  [How to Read for a College History Course]: http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html
+  [this slideshow]: ./readingslides.html
+  [source code]: http://github.com/wcaleb/handouts/blob/master/how-to-read-slides.txt
+  [PDF]: ./howtoread.pdf
