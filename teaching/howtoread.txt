@@ -435,6 +435,6 @@ download this essay as a [PDF][].
   [Reading Your Textbooks Effectively and Efficiently]: http://www.dartmouth.edu/~acskills/success/reading.html
   [How to Read an Academic Article]: http://faculty.washington.edu/davidgs/ReadArticle.html
   [How to Read for a College History Course]: http://histsociety.blogspot.com/2009/05/richardsons-rules-of-order-part-iv-how.html
-  [this slideshow]: ./readingslides.html
+  [a slideshow]: ./readingslides.html
   [source code]: http://github.com/wcaleb/handouts/blob/master/how-to-read-slides.txt
   [PDF]: ./howtoread.pdf

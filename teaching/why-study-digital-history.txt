@@ -20,7 +20,7 @@ about them.
 Since the 1990s, primary sources in my field---nineteenth-century
 American history---have been digitized at an incredible rate, by [Google
 Books][], the [Internet Archive][], [Making of America][], and many
-others.When I began my dissertation, I spent much of my time looking
+others. When I began my dissertation, I spent much of my time looking
 through microfilm of the antislavery newspaper the *Liberator*. By the
 time I finished, there were multiple digitized copies of the paper
 available from at least three private companies.

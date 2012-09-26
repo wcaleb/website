@@ -196,7 +196,7 @@ advertisements of slaves for sale in the early months of 1865,
 indicating optimism among white Texans that slavery would survive the
 war. As historian Dale Baum notes, "expectations that Texas would elude
 the ramifications of Lincoln's Emancipation Proclamation died
-hard.".[^5] One slave auction even took place on Congress Street in
+hard."[^5] One slave auction even took place on Congress Street in
 Austin in April 1865.[^6]
 
 Even when Juneteenth came only two months later, life remained largely
@@ -351,7 +351,7 @@ visions of freedom as wage labor did not always operate to the benefit
 of African Americans in the immediate aftermath of the war. In that
 sense, the Emancipation Proclamation is a turning point that is still
 turning; perhaps any proclamation of emancipation needs to be seen, I
-suggested as "preliminary," and as an invitation to further discussion
+suggested, as "preliminary," and as an invitation to further discussion
 about what constitutes freedom.]
 
 [^1]: See Jack Johnson, "A Bit of History about Texas History Movies,"
@@ -383,7 +383,9 @@ about what constitutes freedom.]
     Cantrell and Elizabeth Hayes Turner (College Station: Texas A&M
     University Press, 2007), 143–175, 147.
 
-[^8]: @harrison2006, 247, 251, 254.
+[^8]: Kimberly Harrison, ed., *A Maryland Bride in the Deep South: The Civil
+    War Diary of Priscilla Bond* (Baton Rouge: Louisiana State University Press,
+    2006), 247, 251, 254.
 
 [^9]: Quotes from McHatton are taken from the electronic edition of her
     memoir, *From Flag to Flag*, published on [DocSouth][].
