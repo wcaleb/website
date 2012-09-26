@@ -1,0 +1,406 @@
+% Before Juneteenth: The Emancipation Proclamation in Texas
+% W. Caleb McDaniel
+% September 25, 2012
+
+<div id="abstract">
+This is an inexact transcript of a lecture I recently gave at <a href="http://www.hbu.edu/Choosing-HBU/Academics/Colleges-Schools/College-of-Arts-Humanities/Departments/Department-of-History/Emancipation-Proclamation-Commemoration.aspx">The Emancipation Proclamation: A Turning Point</a>, a commemoration event in Houston marking the sesquicentennial of the preliminary Emancipation Proclamation last week. 
+</div>
+
+In 1926, the *Dallas Morning News* began publishing a serial comic strip
+on Texas history. It ran for only two years, but it shaped the way that
+generations of Texas schoolchildren learned about their state's past.
+And it highlights the uncertain place of the Emancipation Proclamation
+in Texans' memory of the Civil War.
+
+The comic, illustrated by Jack Patton with captions by "amusements
+editor" John Rosenfeld Jr., was simple and even easy to miss---its four
+panels were run weekly at the bottom of the *News*, separated from the
+national strips. But its vivid depictions of historical figures like Sam
+Houston and William Barrett Travis proved extremely popular---so popular
+that after its conclusion, the strip was published in a 217-page
+hardback edition called *Texas History Movies*. That book went through
+multiple printings, and between 1928 and 1960, an abridged booklet
+version was distributed, for free, to millions of Texas schoolchildren
+under the sponsorship of Magnolia Petroleum Company, later Mobil
+oil.[^1]
+
+As the cover suggests, the *Texas History Movies* dealt at length with
+Texas's early history and events. They were much thinner, however, on
+the subject of the Civil War, and they said nothing about the event we
+are commemorating today. The original abridged version of *Texas History
+Movies* stopped at the Battle of San Jacinto, though the booklet given
+to students was later expanded. But even those who read the full version
+of the comics would have learned little about the Civil War---and even
+less about the Emancipation Proclamation. The full hardback edition
+included only one page--four panels on the *third-to-last* page---about
+the War, and the main message of the caption was that the Civil War
+barely affected Texas at all. It contained no mention of the Preliminary
+Emancipation Proclamation of 1862, Emancipation Proclamation of 1863, no
+mention of the over 200,000 slaves living in Texas at the beginning of
+the war, and no mention even of emancipation after the war.
+
+![*Texas History Movies*, 1928 edition][]
+
+A 1970 edition of *Texas History Movies*, with new text by O. O.
+Mitchell, Jr., did mention slavery on the single page about the Civil
+War. But it, too, failed to say anything about the end of slavery or the
+Emancipation Proclamation.
+
+![*Texas History Movies*, 1970 edition][]
+
+Only in 2007, when Austin artist Jack Johnson published a completely
+revised *New Texas History Movies* for the Texas State Historical
+Association, did slavery and emancipation make it into this publication
+in a significant way. For the first time, Johnson devoted several pages
+to the Civil War and to Reconstruction, calling special attention to the
+successes of freedpeople after the war in winning political office and
+organizing new communities. But the Emancipation Proclamation remains
+absent in this latest edition. In the panel dealing with emancipation,
+Jackson writes that it was Union general Gordon Granger who "freed the
+slaves" in 1865, not President Lincoln in 1862 or 1863.
+
+![*Texas History Movies*, 2007 edition][]
+
+If the *Texas History Movies* are any guide to the way that Texans have
+thought about the Civil War during the past century, they show that the
+Emancipation Proclamation has not historically figured in Texans' mind
+as a "turning point" *here*. Remember that these comic strips were
+likely seen by millions of schoolchildren in Texas between 1928 and
+1960. And if those students read these comics, it's easy to see how they
+could have ended up with the idea that Lincoln's Proclamation had
+scarcely any effect in their state at all.
+
+A lot has changed, of course, since 1960. But even today, I would not be
+surprised to learn that many Texas schoolchildren have only the faintest
+idea of what the Emancipation Proclamation meant for Texas in
+particular. Consider the [guidelines][] that history teachers are
+currently offered from the state for teaching the Civil War. In eighth
+grade, when students study U.S. History, they are required "to explain
+... significant events of the Civil War, including the firing on Fort
+Sumter; the battles of Antietam, Gettysburg, and Vicksburg; the
+announcement of the Emancipation Proclamation; Lee's surrender at
+Appomattox Court House; and the assassination of Abraham Lincoln."
+
+In seventh grade, however, when students focus on *Texas* History, the
+Emancipation Proclamation is not mentioned as a significant event in the
+state. Instead, when learning about the Civil War here, seventh-graders
+are expected to "identify significant individuals and events concerning
+Texas and the Civil War such as John Bell Hood, John Reagan, Francis
+Lubbock, Thomas Green, John Magruder and the Battle of Galveston, the
+Battle of Sabine Pass, and the Battle of Palmito Ranch." In short,
+students in Texas are still taught that that the Emancipation
+Proclamation was a turning point in the nation, but not that it was a
+turning point in the state.
+
+It would be a mistake, of course, to place too much weight on these
+guidelines; I'm sure that individual teachers do cover the Emancipation
+Proclamation in their Texas history classes, particularly when talking
+about Juneteenth. And students in all three grades of middle school
+observe [Celebrate Freedom Week][], which includes mention of the
+Proclamation.
+
+More importantly, schools are not the only place where history is taught
+and remembered. Outside of the classroom, African Americans in Texas
+have long commemorated emancipation as the most important legacy of the
+Civil War in the state. And unlike the early editions of the *Texas
+History Movies*, which contained numerous racist caricatures and erased
+slavery almost entirely from their depictions of Texas history, black
+Texans have always kept the memory of slavery and emancipation alive,
+whether inside or outside of school. In 1965, for example, African
+Americans in Houston organized a "Century of Emancipation March and
+Parade" to commemorate the coming of emancipation, "lest we forget."[^2]
+
+Yet even celebrations like this one agree, in one respect, with the
+picture of the Civil War represented by the *Texas History Movies*. You
+probably noticed, for instance, that the "Century of Emancipation March
+and Parade" was held in 1965---one hundred years after
+*Juneteenth*---not in 1963, one hundred years after Lincoln's
+Proclamation. Juneteenth---or June 19, 1865---has long been remembered
+among African Americans in Texas as an even more significant date than
+September 22, 1862, or January 1, 1863. Juneteenth was the date, as
+we've already seen, when Union General Gordon Granger *read* the
+Emancipation Proclamation in Galveston, and soon after that event,
+freedpeople in Texas began marking the occasion at sites like
+Emancipation Park. But Juneteenth occurred after the Civil War was over,
+and almost three years after the Preliminary Emancipation Proclamation
+we are marking today.
+
+All of this raises the questions I'd like to focus on this afternoon:
+Did the Emancipation Proclamation have any effects on Texas before
+Juneteenth? Was it a turning point here? Or were the *Texas History
+Movies* and generations of African Americans who remembered Juneteenth
+right that not much happened here during the War itself?
+
+* * * * *
+
+To address these questions, I'm going to briefly make three points this
+afternoon. First, I'm going to show why the Emancipation Proclamation
+was not *the* turning point in the history of emancipation in Texas.
+Then I'm going to explain why the Emancipation Proclamation was still
+*a* turning point, even in Texas and even before Juneteenth. Finally,
+I'll conclude by considering what may be a more difficult question: how
+far did the Emancipation Proclamation turn the fates of enslaved people
+in Texas, and which direction did it turn them in? That is, even if the
+Emancipation Proclamation *had* been the major turning point in Texas
+history, did the vision of freedom it represented match the visions of
+freedpeople themselves?
+
+I'll turn to that difficult question at the end. First, however, point
+number one: the Emancipation Proclamation was *not* the major turning
+point in the history of emancipation. Why? Well, whether intentionally
+or not, the *Texas History Movies* we looked at earlier actually
+contained a clue: Texas was generally "removed from the theater of the
+war," and for enslaved Texans, the absence of Union troops dramatically
+limited the impact of federal orders like the Emancipation Proclamation.
+
+Elsewhere in the Confederacy, historians now know that the presence of
+Union troops directly undermined the peculiar institution by encouraging
+hundreds of thousands of slaves to flee to Union military lines.
+Wherever the Union army was on the move, slaves were on the move, too.
+Indeed, as early as the summer of 1861, African Americans in Virginia
+were already braving incredible dangers and long odds to present
+themselves to Union commanders in the war's eastern theater. And the
+flight of slaves to Union fortifications and "contraband" camps
+continued throughout the war, forcing Congress to respond with policies
+that only encouraged more flight, long before Lincoln had decided to
+act. Yet the rush of slaves away from plantations to Union lines
+certainly accelerated after the Emancipation Proclamation and the
+movement of Union forces into the heart of the Confederacy. As Ulysses
+S. Grant's army moved into Tennessee after the fall of Vicksburg in July
+1863, for example, one Union soldier noted that the rush of slaves was
+"like the oncoming of cities," and by the end of the war, historians
+estimate that as many as half a million slaves had made it behind Union
+lines.[^3]
+
+Enslaved people in the Confederate South seem to have understood
+instinctively from the beginning that Union armies presented them with
+unique, unprecedented opportunities for flight and freedom. In Texas,
+however, Union forces never made it to the state's interior, where there
+were approximately 200,000 enslaved people when the war began. Galveston
+was occupied briefly in the fall of 1862, but on New Year's Day, 1863,
+the very day when the Emancipation Proclamation was scheduled to take
+effect, Confederate forces led by General John Bankhead Magruder
+recaptured the port. Later Union attempts to occupy either Texas were
+either limited to the state's southern coastline, far away from the
+counties with the densest slave populations, or they were turned back
+before they even reached Texas, as in the disastrous Red River campaign
+of spring 1864. As the historian Randolph P. Campbell notes, "federal
+troops thus had no opportunity to create more than minor disruptions of
+slavery in Texas."[^4]
+
+Even when federal troops finally did arrive in Texas at the conclusion
+of the war, historians have emphasized that emancipation proceeded more
+slowly than in other states, partly because slavery had survived
+relatively undisturbed for so long. Texas newspapers still contained
+advertisements of slaves for sale in the early months of 1865,
+indicating optimism among white Texans that slavery would survive the
+war. As historian Dale Baum notes, "expectations that Texas would elude
+the ramifications of Lincoln's Emancipation Proclamation died
+hard.".[^5] One slave auction even took place on Congress Street in
+Austin in April 1865.[^6]
+
+Even when Juneteenth came only two months later, life remained largely
+the same for many enslaved people in Texas, particularly in isolated
+rural areas. As one historian has noted, the spread of emancipation was
+"ragged" in Texas, and violent too. Even after Juneteenth, many people
+of color were murdered, lynched, and harrassed by white Texans who
+operated with relative impunity in the early days of military
+occupation. "The war may not have brought a great deal of bloodshed to
+Texas," notes historian Elizabeth Hayes Turner, "but the peace certainly
+did."[^7]
+
+As all of this suggests, it would be a mistake to consider the
+preliminary proclamation of 1862 or the Emancipation Proclamation of
+1863---or even Juneteenth, for that matter---as *the* single turning
+points in the history of Texas slavery. But the second point I'd like to
+make is that the Emancipation Proclamation was still *a* turning point.
+In at least two indirect but significant ways, Lincoln's proclamation in
+Washington did impact even faraway Texas, and even *before* Juneteenth.
+
+First, the Emancipation Proclamation encouraged tens of thousands of
+white Confederate slaveholders in *other* states to flee to Texas with
+their enslaved people, a process known as "refugeeing." Although Texas
+slaveholders clearly remained confident about the survival of slavery
+right up to the end of the war, slaveholders in neighboring states were
+not so sure, especially after the fall of New Orleans, Union occupation
+of the Mississippi River valley, and---most of all---Lincoln's
+Emancipation Proclamation. After January 1, 1863, as white planters from
+Arkansas, Missouri, and especially Louisiana watched the approach of
+Union armies, they understood that the closer the Yankees got to their
+homes and plantations, the more precarious their control over slaves
+became. Many began to move from southwestern Arkansas and Louisiana into
+Texas.
+
+In deciding to take or send their slaves into Texas for safekeeping,
+planters admitted what their slaves already knew---that slaves would
+quickly take advantage of opportunities to emancipate themselves,
+especially as news of the Emancipation Proclamation spread. Priscilla
+Bond, a white slaveholding woman from Maryland who was living in
+southwestern Louisiana by the time of the Emancipation Proclamation,
+reported in her journal of October 1863 that one of her slaves, Amanda
+or "Mandy," "says she hopes the Yankees will come here; she will tell
+them to take our clothes & things from us, says she hates the *Bonds*. I
+hope," wrote Mrs. Bond after this outburst, that "[Mandy] will be
+dispatched from here soon." The very next month, when a small group of
+about 50 Union soldiers did ride into town, Bond observed that one rode
+up to her slave Mandy briefly and said "*We'll hurry*," before seeking
+out some information from other "negroes" in the town. Later that month,
+Bond's family sold Mandy away rather than risk the total loss of their
+human property.[^8]
+
+Many planters in similar situations, however, chose not to sell their
+slaves but to "dispatch" them to Texas, away from areas where they might
+encounter Union troops or take advantage of wartime chaos to run away.
+One Baton Rouge planter named Eliza McHatton noted that as federal
+forces moved closer and closer to her plantation along the Mississippi
+River, planters in the neighborhood became extremely "fearful ... of
+negro assemblages, so apprehensive lest they communicate from plantation
+to plantation, and a stray spark enkindle the fires of sedition and
+rebellion." Eventually "a number of our negroes were sent to my
+brother's plantation" in Texas, McHatton remembered, in order to
+"partially relieve us of an element of querulous discontent that was
+fast becoming dangerous."[^9]
+
+McHatton's slaves were not the only ones run into Texas. A British
+traveler in the Confederacy, Arthur J. Fremantle, noted in May 1863 that
+hundreds of slaves were being brought into the Lone Star State. Although
+estimates vary widely, many historians now believe that at least 50,000
+refugeed slaves, and perhaps twice or three times that many, were
+brought to Texas from other states, most of them in the year after
+Lincoln's Emancipation Proclamation went into effect. Many were hired
+out to work in Texas or sometimes forced to build military
+fortifications along the Texas coast, and it is highly likely that these
+men and women, well before Juneteenth, brought news to Texas slaves of
+the dramatic changes afoot in the rest of the South, caused above all by
+what Lincoln and his government had said about slavery.[^10]
+
+There was, however, a second, more direct way in which the Emancipation
+Proclamation affected Texas, which has to do less with what Lincoln said
+about slavery and more with what he said about soldiers. Although it's
+often too easily forgotten, the Emancipation Proclamation was also an
+*Enlistment* Proclamation. At the end of the document, Lincoln declared
+that people freed under the terms of the Proclamation would now "be
+received into the armed service of the United States."
+
+In reality, people of color and even freedpeople in the South had been
+received into the armed service even before January 1, 1863, both
+because of previous acts of Congress and because of the decisions of
+commanders in the field. Records show that African American sailors even
+participated on the Union side in the Battle of Galveston that took
+place on the very day the Proclamation was finalized, and some were
+among those captured by Confederate forces and marched to Houston. But
+by stamping the controversial measure of arming African Americans with
+the imprimatur of the Executive branch, Lincoln's Proclamation
+encouraged even more concerted efforts to enlist men of color in the
+armed forces and led directly to the organization of United States
+Colored Troops regiments.
+
+In fact, although Texas saw few large battles during the War, those that
+did occur showed directly the results of the government's enlistment
+policies after the Emancipation Proclamation. African American
+sailors---some of whom were escaped slaves---[participated even at the
+Battle of Sabine Pass][] of September 1863. And over two hundred members
+of the [62nd United States Colored Infantry][] fought in the [Battle of
+Palmito Ranch][], which has often been called the last battle of the
+Civil War. This regiment of black troops was not from Texas; it was
+raised in Missouri. But the regiment was first recruited in June 1863 as
+a byproduct of the changes wrought by the Emancipation Proclamation.
+
+In sum, Texas was not entirely an island unto itself during the Civil
+War, and the shock effects of the Emancipation Proclamation reverberated
+even there. First, emancipation increased panic and uncertainty among
+waves of planters who rushed with their enslaved people to Texas,
+doubtless bringing news and information about the Union's activities and
+intentions into the state well before General Gordon Granger arrived.
+Moreover, the Emancipation Proclamation removed the final barriers to
+the rapid mobilization of United States Colored Troops, who also saw
+action in Texas before Juneteenth. After the war was over, African
+American troops were also among the many thousands who were marched to
+the Texas-Mexico border to assist Mexican liberals and combat the plans
+of the French empire to attack the weakened United States from the
+South. In a [1941 interview][], former slave Harriet Smith of Hempstead,
+Texas, remembered watching, as a little girl, as "colored soldiers"
+marched by her home on their way to San Antonio---a vivid memory that
+must have seemed like quite a "turning point" indeed to a young enslaved
+or recently emancipated woman.
+
+Given all this, it should be impossible to return to a depiction of
+Civil War Texas like that in the original *Texas History Movies*---a
+Texas in which the Emancipation Proclamation did not register at all.
+Still, we should keep the stress on that little big word "a"---the
+Proclamation was *a* turning point in Texas history, not *the* pivot on
+which everything turned.
+
+One reason for this, as we've already seen, is that Union troops did not
+occupy the state in large numbers until *after* Juneteenth, limiting the
+number of slaves who could use Lincoln's armies to alter their fates.
+That is one reason why planters from neighboring states believed their
+slave property would be safe in Texas, and why white Texans continued to
+buy and sell slaves right up to the end of the Civil War. "Final
+freedom" would have to wait for the Thirteenth Amendment to the
+Constitution and a more extensive military presence by federal troops in
+the state.
+
+Even once these later turning points came, however, we should be careful
+not to assume that emancipation brought the freedom that enslaved people
+envisioned for themselves and their families. [In the closing moments of
+the talk, I discussed Lincoln's mention of compensation and colonization
+in the Preliminary Emancipation Proclamation, and his advise in the
+final Proclamation to freed slaves to work for wages, noting how these
+visions of freedom as wage labor did not always operate to the benefit
+of African Americans in the immediate aftermath of the war. In that
+sense, the Emancipation Proclamation is a turning point that is still
+turning; perhaps any proclamation of emancipation needs to be seen, I
+suggested as "preliminary," and as an invitation to further discussion
+about what constitutes freedom.]
+
+[^1]: See Jack Johnson, "A Bit of History about Texas History Movies,"
+    in *New Texas History Movies* (Austin: Texas State Historical
+    Association, 2007), 44--48; [@crisp2009, 7--8.]
+
+[^2]: For details about this parade, visit
+    <http://exhibits.library.rice.edu/items/show/542>, which is part of
+    the online exhibit, [Dick Dowling and the Battle of Sabine Pass in
+    History and Memory][].
+
+[^3]: Steven Hahn, *A Nation Under Our Feet: Black Political Struggles
+    in the Rural South From Slavery To the Great Migration* (Cambridge,
+    Mass.: Harvard University Press, 2003), 72.
+
+[^4]: Randolph B. Campbell, *An Empire for Slavery: The Peculiar
+    Institution in Texas* (Baton Rouge: Louisiana State University
+    Press, 1989), 233.
+
+[^5]: Dale Baum, “Slaves Taken to Texas for Safekeeping during the Civil
+    War,” in *The Fate of Texas: The Civil War and the Lone Star State*,
+    ed. Charles D. Grear (Fayetteville: University of
+    Arkansas Press, 2008), 84.
+
+[^6]: Campbell, *Empire for Slavery*, 241.
+
+[^7]: Elizabeth Hayes Turner, “Juneteenth: Emancipation and Memory,” in
+    *Lone Star Pasts: Memory and History in Texas*, ed. Gregg
+    Cantrell and Elizabeth Hayes Turner (College Station: Texas A&M
+    University Press, 2007), 143–175, 147.
+
+[^8]: @harrison2006, 247, 251, 254.
+
+[^9]: Quotes from McHatton are taken from the electronic edition of her
+    memoir, *From Flag to Flag*, published on [DocSouth][].
+
+[^10]: For the best discussion of numbers, see Baum, "Slaves Taken to Texas." Some
+    contemporaries estimated that 150,000 slaves were refugeed into
+    Texas, but this number is likely exaggerated.
+
+  [*Texas History Movies*, 1928 edition]: http://wcaleb.rice.edu:4000/thm1928.jpg
+  [*Texas History Movies*, 1970 edition]: http://wcaleb.rice.edu:4000/thm1970.jpg
+  [*Texas History Movies*, 2007 edition]: http://wcaleb.rice.edu:4000/thm2007.jpg
+  [guidelines]: http://ritter.tea.state.tx.us/rules/tac/chapter113/ch113b.html
+  [Celebrate Freedom Week]: http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=19&pt=2&ch=74&rl=33
+  [participated even at the Battle of Sabine Pass]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/5
+  [62nd United States Colored Infantry]: http://www.nps.gov/civilwar/search-regiments-detail.htm?regiment_id=UUS0062RI00C
+  [Battle of Palmito Ranch]: http://www.tshaonline.org/handbook/online/articles/qfp01
+  [1941 interview]: http://hdl.loc.gov/loc.afc/afc9999001.t5499a
+  [Dick Dowling and the Battle of Sabine Pass in History and Memory]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/1
+    "Dick Dowling exhibit at Rice University"
+  [DocSouth]: http://docsouth.unc.edu/fpn/ripleyflag/ripley.html

@@ -21,17 +21,16 @@ Pandoc's extended version of [Markdown][]. I then use the bash shell
 script below to turn those files into flat HTML documents that are
 uploaded to my server.
 
-The shell script is a much more basic version of full-featured static
-site generators like [Hakyll][], [Jekyll][], and [Hyde][]. I looked at
-some of these programs but wanted to see if I could build something
-lighter for myself that used Unix tools I was already familiar with.
-Pandoc is robust enough, for my purposes, to do most of the heavy
-lifting with a simple pandoc HTML template, which I've posted for
-reference [here][]. For now, at least, this script also manages to
-conform to [the Hakyll philosophy][]; not only does configuration take
-less than 100 lines of code, but the whole shell script is under 100
-lines. I took some inspiration for it from [this page][] and a few
-others.
+The shell script is a much more basic version of full-featured static site
+generators like [Hakyll][], [Jekyll][], and [Hyde][], and even more like
+[rawk][]. I looked at some of these programs but wanted to see if I could
+build something lighter for myself that used Unix tools I was already
+familiar with. Pandoc is robust enough, for my purposes, to do most of the
+heavy lifting with a simple pandoc HTML template, which I've posted for
+reference [here][]. For now, at least, this script also manages to conform to
+[the Hakyll philosophy][]; not only does configuration take less than 100
+lines of code, but the whole shell script is under 100 lines. I took some
+inspiration for it from [this page][] and a few others.
 
 The key part of the script is the long `echo` command that comes after
 using pandoc to convert each post to html. This line creates a record
@@ -60,6 +59,7 @@ as this site.
   [Hakyll]: http://jaspervdj.be/hakyll/
   [Jekyll]: http://jekyllrb.com
   [Hyde]: http://ringce.com/hyde
+  [rawk]: http://rawk.brokenlcd.net
   [here]: http://github.com/wcaleb/pandoc-templates/blob/master/website.html
   [the Hakyll philosophy]: http://jaspervdj.be/hakyll/philosophy.html
   [this page]: http://sohcahtoa.org.uk/pages/publish-a-web-site-with-bash-scripts.html
