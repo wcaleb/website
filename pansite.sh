@@ -26,8 +26,12 @@ do
 	POST=$(basename "$file" .txt)
 	TITLE=$(sed -n '1 s/% //p' "$file")
 	POSTDATE=$(sed -n '3 s/% //p' "$file" | sed 's/[ ]$//')
+	# Next two lines use BSD date command. For GNU date, use commented line
+	# Thanks to @fravashi http://github.com/wcaleb/website/issues/1
 	SORTDATE=$(date -jf '%B %e, %Y' "$POSTDATE" +%y%m%d)
+	# SORTDATE=$(date -d "$POSTDATE" +%y%m%d)
 	RSSDATE=$(date -jf '%B %e, %Y' "$POSTDATE" '+%a, %d %b %Y 00:00:00 %Z')
+	# RSSDATE=$(date -d "$POSTDATE" '+%a, %d %b %Y 00:00:00 %Z')
 	pandoc $PANOPTS\
  	 --variable=category:"$CATEGORY"\
 	 --include-after-body="$FOOTER"\
