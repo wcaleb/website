@@ -36,8 +36,8 @@ publications in plain text, and in fact, Lincoln Mullen and I are
 Of course, what is possible is not always desirable, and in this post I
 want to focus on the specific, idiosyncratic reasons why I wanted (and
 still want) to write this way, using nothing more than a text editor and
-[Pandoc][1]. I'll briefly conclude with a rough primer on *how* I used
-[Pandoc][1] for my book, but the main point of this post is about *why*
+[Pandoc][]. I'll briefly conclude with a rough primer on *how* I used
+[Pandoc][] for my book, but the main point of this post is about *why*
 I did it, with no apologies for the fact that many of these reasons may
 not be compelling to everyone. They were, and remain, compelling to me.
 
@@ -242,7 +242,6 @@ possible. And having done it once, [I'm not looking back][].
   [my academic book]: ./book-introduction.html
   [Pandoc]: http://johnmacfarlane.net/pandoc/
   [working on a paper]: http://github.com/lmullen/workflow-paper
-  [1]: 
   [the standard text editor]: http://cs.wellesley.edu/~cs249/Resources/ed_is_the_standard_text_editor.html
   [stupid and inefficient]: http://ricardo.ecn.wfu.edu/~cottrell/wp.html
   [gotten worse over time]: http://512pixels.net/2011/05/markdown-new-word51/
