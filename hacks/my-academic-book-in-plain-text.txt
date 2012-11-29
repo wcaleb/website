@@ -1,0 +1,265 @@
+% Why (and How) I Wrote My Academic Book in Plain Text
+% W. Caleb McDaniel
+% September 28, 2012
+
+These days, it seems like the ancient past of personal computing is
+becoming the wave of the future. Do a simple search for [writing in
+plain text][] and you'll find thousands of people making the case for
+using a file format (\*.txt) that worked long before Microsoft Word was
+a sparkle in Bill Gates's eye. In fact, I don't even have to make the
+general case for using plain text here; people like [David Sparks][],
+[Michael Schechter][], and [Lincoln Mullen][] have already done the work
+for me.
+
+Nonetheless, academic writers---and particularly historians---may well
+be skeptical about whether working in plain text can really work for
+them. Most of us still intend for our writing to end up on a printed
+page. We need the kinds of formatting---like boldface and italics---that
+do not exist in a plain text file. Most of all, we need footnotes and
+all the bibliographic trappings that, "like the high whine of the
+dentist's drill," assure the reader that we are serious professionals
+and have done our homework.[^1] Journals and academic presses generally
+want our work to be submitted as Word documents, not as text files.
+
+I'm writing this post partly to tell you that *none* of these are
+insuperable obstacles for the academic historian who wants to use plain
+text. In fact, I wrote the entirety of [my academic book][], forthcoming
+in early 2013, in plain text files. Before submitting the manuscript to
+my press, I converted all of my plain text files, complete with notes
+about what to italicize and where to place footnotes, to Microsoft Word
+documents using a simple program called [Pandoc][], and the press never
+knew the difference. I've done the same thing now with a conference
+paper and journal article, too. It is possible to write academic
+publications in plain text, and in fact, Lincoln Mullen and I are
+[working on a paper][] that will spell out how to do so in detail.
+
+Of course, what is possible is not always desirable, and in this post I
+want to focus on the specific, idiosyncratic reasons why I wanted (and
+still want) to write this way, using nothing more than a text editor and
+[Pandoc][1]. I'll briefly conclude with a rough primer on *how* I used
+[Pandoc][1] for my book, but the main point of this post is about *why*
+I did it, with no apologies for the fact that many of these reasons may
+not be compelling to everyone. They were, and remain, compelling to me.
+
+Why Not Just Use Word?
+----------------------
+
+Unless your name is Ken Thompson and you've been happily typing away in
+Ed, [the standard text editor][], since 1971, you're not coming to plain
+text in a vacuum. I wasn't. I wrote my dissertation in Microsoft Word,
+and started writing my book in the same. So for me, the question of why
+I would want to use plain text occurred in a much different form: Why
+don't I want to keep using Word? And over time, that question became
+easier and easier to answer:
+
+### 1. Microsoft Word eats my work.
+
+Have you ever worked on a complicated section of a chapter or a
+footnote, only to have Word crash for some unspecified reason and erase
+your work? I have. This only has to happen once to get you thinking
+about alternatives. But let's just put it this way (and here I'm being
+charitable): in all my years of using Word, this happened more than
+once. In all the time I've used text editors, it's never happened, even
+once.
+
+### 2. Microsoft Word distracts me.
+
+Everyone has their own writing tics and pathologies. One of mine is
+adjusting the "look" of a word processing document. A full-featured
+processor like Word practically invites this---you can double-space, you
+can single-space---heck, you can 1.75 space. You can write in Palatino,
+or how about Courier---or what about Bookman Old Style? Is your page
+breaking at a funny spot? Why not adjust the margins, or the point size,
+or force a break at another point?
+
+All valid questions, in their own way. But none of these questions have
+to do with the most important one of all: What do you want to say? On a
+rough writing day when I didn't want to confront that question, I often
+found myself wasting time on *formatting*, thinking that getting the
+right look would juice my thoughts. But my preferences about these
+things are fickle, so changing fonts or font sizes one day would usually
+lead me to change it all again on another. This is the vicious cycle
+that makes word processors [stupid and inefficient][]: they confuse the
+process of typesetting with the process of composition. And this has
+only [gotten worse over time][].
+
+Another of my personal writing distractions is the constant temptation
+to read what I wrote at my last session before starting to write new
+material. Therein lies great danger. Yet Microsoft Word opens every
+document at the top "[by product design][]." There are workarounds, but
+none of them takes into account the extent of the temptation I face
+whenever I open a chapter. *Yes, I could press SHIFT+F5, but why don't I
+just glance over the introduction again ...* In moments of weakness,
+that's all it would take for me to waste a writing session tweaking
+instead of producing new material.
+
+One solution to this kind of distraction is to break up a long chapter
+into chunks or sections, so that when I open the working file, I'm right
+where I need to be. The trouble is that combining Documents back
+together, and splitting them up again when needed, is [not very easy][].
+Text files, on the other hand, are different; almost any text editor has
+the ability to quickly combine large numbers of files into a new,
+complete file while leaving the chunks alone. The same task can be
+accomplished at the Unix command line with commands like this:
+
+    cat chap1a chap1b chap1c > chap1
+    cat chap1 chap2 chap3 chap4 > dissertation
+    cat chap* > book
+
+I find it less distracting to open only that section of a chapter or an
+article I need to be working on, and plain text makes that easy to do.
+And many editors allow me, by design, to open a file at precisely the
+point where I last left off writing. When I'm ready to re-read my work,
+I now do so when the spirit is willing, instead of when the flesh is
+weak.
+
+### 3. Microsoft Word is not very mobile.
+
+Getting an iPod touch was one of the straws that broke Word's back for
+me. Having the Touch opened the possibility of writing *anywhere*,
+whenever the mood struck. But try to find an app that makes this easy to
+do with Word documents on an iPhone or iPad, and you'll find it's [not
+as easy or as cheap as it sounds][]. More importantly, your choices of
+apps to work with are, at this moment, highly limited.
+
+Plain text, on the other hand, travels well. Want an app that makes
+editing text on the iPhone or iPad easy and cheap? Want more than two or
+three feasible options? [Here you go.][] Since switching to plain text,
+I've been able to work on my book by the pool, in the car, on the bus,
+and wherever else my elusive Muse showed up. And unlike many of the apps
+for working with Word documents, synchronization with my desktop
+computer through [Dropbox][] has been easy and automatic.
+
+### 4. Microsoft Word is not cheap.
+
+The price tag for a Microsoft product is steep---and even steeper when
+you factor in the need to upgrade regularly so that your work will
+remain backwards- and forwards-compatible. Plain text, whether you're
+using Windows or Mac, is free, and free (or very cheap) text editors are
+abundant. Switching to other software is trivially easy.
+
+But the price of the software isn't the only "cost" associated with
+Word. There are also associated storage costs, especially if you use
+something like [Dropbox][1] for backup and synchronization across
+multiple computers. The final copy of my dissertation is a 1.2MB file;
+the folder that contains all of my draft files for the project is over
+20 times that size. The folder containing the plain text files for my
+final book manuscript, and all previous working drafts, is 4MB. That's
+not a huge difference, but if I multiply the difference across the
+multiple projects I have going at any one time---lecture notes,
+articles, conference papers, short essays, and so on---it can add up. By
+keeping file sizes lean, I've managed to stay well under my free 2GB
+limit on [Dropbox][1] and don't foresee having to upgrade anytime soon.
+(Yes, I'm that cheap.)
+
+Kicking the Word Habit
+----------------------
+
+Those were some of my reasons for wanting a viable alternative to doing
+my academic writing primarily in Word. Perhaps others have other, still
+better reasons for wanting to kick the habit. But all of those reasons
+beg the question of whether it can be done. The short answer is yes.
+
+For many years I clung to Word because I thought I needed it to do my
+work; when unhappy with it, I would try out simpler but still complex
+alternatives like [Mellel][] or [Bean][]. But one day I realized that my
+needs as an academic writer are often very minimal. To do most of my
+writing I basically need only three kinds of special formatting:
+emphasis, blockquotes, and footnotes. (There are exceptions, of course,
+and cases where foreign character sets or symbols are neeeded; but I'm
+talking about 99% of my own work.) Adding each of those things is simple
+using [Pandoc-flavored markdown][].
+
+In plain English, that means that when I want to [italicize a word][] in
+plain text, I `*emphasize*` it with asterisks. If I want a
+[blockquote][], I simply begin the paragraph with an arrow character
+(`>`). With footnotes, I have [more options][], but usually when I'm
+writing, I simply use at a caret and brackets at the end of the
+paragraph, and put the footnote in the brackets.
+
+This is easier to understand by looking at an example. The first two
+paragraphs of my [book introduction][my academic book] looked like this
+in my text editor:
+
+    On April 14, 1865, hours before Abraham Lincoln sat down for the last time at Ford's Theater in Washington, D.C., the Boston abolitionist William Lloyd Garrison sat on a platform in Charleston, South Carolina. More than three decades before, Garrison had founded the *Liberator*, a newspaper dedicated to agitating for universal, immediate slave emancipation. In 1833, he also helped found the American Anti-Slavery Society (AASS), a group devoted to the same goal. And by the time he went to Charleston, Garrison had served as the Society's president for over twenty years. Only in the last few, however, had emancipation changed from a despised, minority opinion to the official policy of federal armies in a cataclysmic civil war.
+
+    Now, with the war ending and a Constitutional amendment to abolish slavery awaiting ratification, Garrison had come to Fort Sumter to attend a flag-raising ceremony at the invitation of the government. Undoubtedly his emotions about the trip were difficult to express, and not only because he met recently emancipated slaves, one of whom pressed a ten dollar bill into his hand. Garrison's emotions were also stirred because he could now celebrate a country he had long regarded with deep disillusionment--even disgust.^[Henry Mayer, *All on Fire: William Lloyd Garrison and the Abolition of Slavery* (New York: St. Martin's Griffin, 1998), 577-580. Garrison and Thompson told the story about the ten-dollar bill to Frederick W. Chesson. See the entry for June 10, 1867, in Frederick Chesson Diary, May 1867-April 1868, REAS, 11/15.]
+
+I like writing this way, with footnotes tied directly to the text, but
+it's also possible to name long footnotes with descriptive titles and
+separate them from the paragraph, as in another paragraph of the
+introduction:
+
+    As historian C. A. Bayly and others have shown, the nineteenth century witnessed the birth of a nascent “international civil society” and the rise of transnational “networks of information and political advocacy which, though less obvious than the rising national and imperial state, [were] no less important.” Abolitionists experienced these realities in their everyday lives thanks to revolutions in transportation and communications technology that knit the Atlantic World together and astonished their contemporaries. By the end of Garrison’s life, one American abolitionist marveled to the Irish abolitionist Richard Davis Webb about the incredible “wilderness of waters” over which their letters always crossed. Yet “our regular, constant, almost daily intercourse by steam mail-vessels” had led these distant friends to “accept it as a matter of course!”[^atlantic]
+
+    [^atlantic]: C. A. Bayly, *The Birth of the Modern World, 1780–1914* (Oxford, U.K.: Blackwell, 2004), 118; SMJr to RDW, March 26, 1871, BPL, Ms.B.1.6.11.9. On the transportation revolution in the United States during this same period, see Howe, *What Hath God Wrought.* For overarching surveys of the persistence of the Atlantic World into the nineteenth century, especially as a zone of cultural and economic exchange, see Donna Gabaccia, “A Long Atlantic in a Wider World,” *Atlantic Studies* 1, no. 1 (2004): 1–27; Aaron Spencer Fogleman, “The Transformation of the Atlantic World, 1776–1867,” *Atlantic Studies* 6, no. 1 (2009): 5–28; Jürgen Osterhammel and Niels P. Petersson, *Globalization: A Short History* (Princeton, N.J.: Princeton University Press, 2005), 57–80; José C. Moya, “Modernization, Modernity, and the Trans/formation of the Atlantic World in the Nineteenth Century,” in *The Atlantic in Global History, 1500–2000,* ed. Jorge Cañizares-Esguerra and Erik R. Seeman (Upper Saddle River, N.J.: Pearson, 2007), 179–98; and Thistlethwaite’s still useful *The Anglo-American Connection.* [actual footnote continues ...]
+
+After [installing Pandoc][] and writing the entire book manuscript in
+this way, converting all of my chapters into a docx was as easy as
+issuing a single command in my Mac's Terminal program:
+
+    pandoc -s -o book.docx *.txt
+
+Having done that, it was possible to open the manuscript, now complete
+with numbered footnotes, and adjust the formatting to the specifications
+given to me by my press (i.e., double-spaced, endnotes instead of
+footnotes, and so on). But it's also important that I only had to do
+that adjusting once. By modifying the default "styles" within this Word
+document and then saving that docx, I could also instruct Pandoc to use
+my correctly formatted file as a template for future document
+generation, like this:
+
+    pandoc -s --reference-docx=/Users/wcm1/lsu.docx -o book.docx *.txt
+
+That only scratches the surface of what Pandoc can do. After learning a
+minimal amount of LaTeX, for example, I was able to turn a conference
+paper that looked like [this][] in plain text into this [formatted
+PDF][] suitable for depositing in my institutional repository. And the
+same plain text file was converted by Pandoc to the [HTML version][] you
+can find on my webpage.
+
+Learning to use Pandoc does take some time, to be sure. You can copy the
+plain text file I provided in the last paragraph and try it out yourself
+to see the kind of default output Pandoc produces. But my point here is
+that even its minimal functionality enables me to turn plain text files
+into `*.docx` files with relative ease. And only a little bit of reading
+and experimenting also enables me to distribute my academic work in a
+variety of formats. When sending my book manuscript to colleagues for
+review, for example, I was able to provide PDF, EPUB, or DOCX copies
+without changing the underlying plain text files at all. In short, I'm
+living proof that writing an academic book for history in plain text is
+possible. And having done it once, [I'm not looking back][].
+
+[^1]: Whiirrrrr, whirrrr, whirrrrrrrrrrr. The quote about the dentist's
+    drill comes from Anthony Grafton's book on the history of footnotes,
+    and is quoted [here][], too.
+
+  [writing in plain text]: http://www.google.com/search?q=writing+in+plain+text
+    "Google search on plain text writing"
+  [David Sparks]: http://www.macworld.com/article/1161549/forget_fancy_formatting_why_plain_text_is_best.html
+  [Michael Schechter]: http://bettermess.com/a-plain-text-primer/
+  [Lincoln Mullen]: http://chronicle.com/blogs/profhacker/writing-power-tools-text-editors/38940
+  [my academic book]: ./book-introduction.html
+  [Pandoc]: http://johnmacfarlane.net/pandoc/
+  [working on a paper]: http://github.com/lmullen/workflow-paper
+  [1]: 
+  [the standard text editor]: http://cs.wellesley.edu/~cs249/Resources/ed_is_the_standard_text_editor.html
+  [stupid and inefficient]: http://ricardo.ecn.wfu.edu/~cottrell/wp.html
+  [gotten worse over time]: http://512pixels.net/2011/05/markdown-new-word51/
+  [by product design]: http://support.microsoft.com/kb/95694
+  [not very easy]: http://www.techrepublic.com/forum/questions/101-349962/how-do-you-combine-multiple-word-documents-using-ms-word-2010
+  [not as easy or as cheap as it sounds]: http://www.macworld.com/article/1151397/word_ipad.html
+  [Here you go.]: http://brettterpstra.com/ios-text-editors/
+  [Dropbox]: http://db.tt/SXfRhdY
+  [Mellel]: http://www.redlers.com
+  [Bean]: http://www.bean-osx.com/Bean.html
+  [Pandoc-flavored markdown]: http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown
+  [italicize a word]: http://johnmacfarlane.net/pandoc/README.html#emphasis
+  [blockquote]: http://johnmacfarlane.net/pandoc/README.html#block-quotations
+  [more options]: http://johnmacfarlane.net/pandoc/README.html#footnotes
+  [installing Pandoc]: http://johnmacfarlane.net/pandoc/installing.html
+  [this]: http://raw.github.com/wcaleb/website/master/research/trusting-water-cure.txt
+  [formatted PDF]: http://scholarship.rice.edu/bitstream/handle/1911/64493/mcdaniel-shear2012.pdf
+  [HTML version]: http://wcm1.web.rice.edu/trusting-water-cure.html
+  [I'm not looking back]: http://stevenpoole.net/blog/goodbye-cruel-word/
+  [here]: http://www.nytimes.com/2011/10/09/books/review/will-the-e-book-kill-the-footnote.html

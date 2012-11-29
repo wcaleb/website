@@ -1,0 +1,58 @@
+% Communicating with Professors
+% W. Caleb McDaniel
+% September 4, 2012
+
+The best parts of my college experience were the relationships I built
+with individual professors. In my very first semester, for example, I
+took an introductory logic course with [Colin Allen][], now at Indiana
+University. I loved the logic, but even more important for my
+development as a student were the conversations I had with Allen outside
+of class, on topics ranging from science to computer programming to the
+philosophy of religion.
+
+I still remember vividly the night, only a few weeks into my college career,
+when Allen suggested we grab a sandwich at Subway to continue a conversation
+that had spilled outside into the hall after class. I had something else to do
+that night and had to decline, but that openness to communication meant
+everything to me. It gave me the confidence to correspond with him by email on
+matters mundane and serious. And most of all, it meant that I approached future
+relationships with faculty unafraid to start conversations and express my
+views.
+
+I hope every undergraduate can have similar experiences, but my
+experience on the other side of the desk, as it were, suggests that they
+are rarer than they need to be. Sometimes this is because students don't
+approach faculty in the first place, limiting their engagement to
+whatever they get as part of the general class population. Other times
+it is because some easy mistakes lead to miscommunications or awkward
+first impressions that create static on the line between student and
+professor.
+
+This semester I prepared a brief presentation for undergraduates on "How
+to Communicate with Professors," hoping to head off common problems and
+demystify the process. My hope is that by getting brass tacks out of the
+way, the sort of conversations that meant so much to me as an
+undergraduate will be more comfortable for the students I know.
+
+You can view the [slideshow][] for the presentation and get the [source
+code][] if you wish, or you can also look at my [Storify][] page
+containing advice gathered from Twitter on this topic. Thanks to all
+those who offered their advice and turned out for the presentation.
+
+### More Resources
+
+-   [The Email Charter][]
+-   [18 Etiquette Tips for Emailing your Professor][]
+-   [A Primer on Electronic Communication][] by Eszter Hargittai
+-   [How to E-Mail your Professor][] by Michael Leddy
+-   [A Note about Professors][] by Heather Cox Richardson
+
+  [Colin Allen]: http://www.indiana.edu/~hpscdept/people/allen.shtml
+  [slideshow]: ./talkingtoprofs.html
+  [source code]: http://github.com/wcaleb/handouts/blob/master/talkingtoprofs.txt
+  [Storify]: http://storify.com/wcaleb/communicating-with-professors
+  [The Email Charter]: http://emailcharter.org
+  [18 Etiquette Tips for Emailing your Professor]: http://www.usnews.com/education/blogs/professors-guide/2010/09/30/18-etiquette-tips-for-e-mailing-your-professor
+  [A Primer on Electronic Communication]: http://www.insidehighered.com/advice/2006/11/28/hargittai
+  [How to E-Mail your Professor]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+  [A Note about Professors]: http://histsociety.blogspot.com/2009/11/richardsons-rules-of-order-part-xi-note.html

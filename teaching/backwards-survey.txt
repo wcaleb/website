@@ -1,0 +1,391 @@
+% Backward Design for a Backwards History Survey
+% W. Caleb McDaniel 
+% November 27, 2012
+
+Next semester I am planning to try something new with my HIST 118
+course, which is listed in the schedule as "The United States, 1848 to
+the Present." I am going to teach the course backwards---from the
+present to 1848.
+
+I've been considering a backwards survey course for several years, ever
+since I encountered the idea on [Rob MacDougall's blog][]. That post
+pointed to two examples ([here][] and [here][1]) of historians who have
+done this before. Although [the idea has remained controversial][], I
+still find it compelling---at least enough to give it a shot.
+
+Deciding to give something a shot is easy; deciding what you're shooting
+*for* is not. For this to work, I realize I have to begin by thinking
+explicitly about goals and desired outcomes.
+
+[Mark Sample][] and [others][] have referred to this goal-centered
+approach to course-planning as "the backward design process." Instead of
+starting with content and working towards the course's objectives,
+designing a course backwards means deciding what students should
+understand by the end---a decision no less important, and arguably more
+important, when course conventions are scrambled.
+
+This post, then, is my attempt to think through a "backward design" for
+a backward survey. It is not the syllabus for the course (though I will
+post that when it is finished); it's a set of reminders to myself that I
+will revisit throughout the year to make sure I'm aiming in the right
+direction.
+
+Teaching Backwards
+------------------
+
+My primary reasons for teaching the survey backwards are similar to
+those that others have named:
+
+-   When learning new material in any discipline, it usually helps to
+    proceed from the most familiar content to the least familiar.
+-   Questions like "how did things get the way they are?" or "how far
+    back do we have to go to find the roots of this problem?" are
+    usually more interesting---and more recognizable as historical
+    problems---than questions like "what happened next?"
+-   Historians' own questions often have their roots in reflections on
+    the present, or reflections on what came before a pivotal juncture;
+    starting a course in the same way "uncovers," as [Lendol Calder][]
+    puts it, what working historians often do.
+-   Starting in the present helps students see the relevance of history
+    even today, prompting excitement about the study of the more distant
+    past.
+
+This last rationale is perhaps the most important of all. One of my
+primary goals in any history course is to convince students that history
+and historical thinking *matter* to their lives and in the world today.
+Historians believe this already; as Kenneth Stampp (quoted [here][2])
+put it, "With the historian it is an article of faith that knowledge of
+the past is a key to understanding the present." Anything that may help
+students adopt that same article of faith is worthy of serious
+consideration.
+
+I suspect most students already believe on some level that history does
+matter; after all, they have always been required to study the past.
+Their minds are also well-stocked with clichés about being doomed to
+repeat the past if they don't. At the same time, however, students I
+have met often complain that the history courses they took in high
+school never made it past World War II or the 1960s. As [Annette
+Atkins][here] notes, "Such courses are something like picking up a
+mammoth biography that walks us day by day through a person's childhood,
+adolescence, early adulthood, but trails off (or wears us out) before
+getting to the adulthood that had drawn us to the book in the first
+place."
+
+Such courses may also explain the frustration that I recently heard when
+I asked a small group of first-year students at Rice why we should study
+history. All agreed that we *should* study history, for reasons that
+kept mentioning the present. "I personally study history to better
+understand how the world got the way it is today," said one student.
+Another evocatively compared human life to being born in the midst of a
+sequel, requiring each of us to pick up the prequel if we want to
+understand what's happening around us.
+
+Another student confessed, however, that studying the past often feels
+like watching CNN footage from some distant part of the world you've
+never heard of before; it prompts the vague sense that what you're
+seeing affects you in some way, but it's not exactly clear how. Without
+clarity on that point, this student suggested, history can start to seem
+just like "a series of events." If those series of events never
+terminate in the actual present, it's not hard to see why students would
+have trouble squaring their belief that history is important with
+courses that present the past *only* as a far-off, foreign country.
+
+Disappointment with these sorts of courses may be one reason why
+whenever I have mentioned my plan to undergraduates, I'm instantly met
+by more excitement and interest than I've ever received when describing
+another course. Of course, the plea that students often make for their
+subjects to be "relevant" can sometimes be misguided or crudely
+instrumental ("when am I going to *use* this?"), but it is also a valid
+concern. Can we blame students for doubting history's importance to
+understanding their lives if we never reach their own lifetimes, never
+talk explicitly about how the present is informed by the past? Students
+rightly desire a chance to test their inchoate sense that history is
+*important* against the data that they presumably know best---the data
+gathered from their day-to-day experience.
+
+Taking students' own lifetimes as a starting point does raise the danger
+of "presentism"---in the sense of anachronism. To some extent the past
+really is like a foreign country, as [John Fea recently reminded his
+students][], and not every "series of events" will lead to "us."
+Confusion on this point is always a danger, however, and it may actually
+be mitigated by a "backwards" approach. It is hard for students to avoid
+thinking anachronistically about a period before they really know when
+certain events occurred or began; moving backward in time may have an
+advantage here, in that an instructor can easily remind students that
+each new generation studied has not yet witnessed any of the events we
+have already talked about in class.
+
+I also hope that teaching backwards will help ward off another kind of
+"presentism"---in the sense of favoritism towards the present. One
+signature of historical thinking is to realize that even the present is
+"historical"---that our choices, no less than the choices made by people
+in the past, are conditioned and sometimes constrained either by what
+has come before or by what we remember. Yet the instinctive answer that
+many people give to the question of "why study history"---so that we
+don't have to repeat it---has a way of making the present an exceptional
+vantage point, turning us into observers and the past into the observed.
+
+Indeed, the dictum that those who fail to study the past are doomed by
+it implies that we study the past primarily in order to be free of its
+clutches. Ultimately, I want students to reach the quite different
+understanding, articulated most clearly by [Karl Marx][], that "men make
+their own history, but they do not make it just as they please; they do
+not make it under circumstances chosen by themselves, but under
+circumstances directly encountered, given and transmitted from the past.
+The tradition of all the dead generations weighs like a nightmare on the
+brain of the living."
+
+That dictum highlights (in a way unique to the discipline of history)
+that the circumstances of human life are "transmitted" not just from
+biology or contemporary social and political arrangements, but also from
+"the past." It hints that human choices are shaped not just *by* the
+past but also by *memories* of the past---by the dreams about history,
+whether good or bad, that continually play in the minds of the living.
+Most of all, it presents the present as no less "historical" than the
+past. We make our history under a particular set of circumstances, just
+as people before us did.
+
+My greatest hope is that teaching backwards can help lead students to
+this understanding. By moving away from the present over the course of a
+semester, instead of inexorably towards it, perhaps they will start to
+think of the present itself as less familiar and more of a foreign
+country than they thought---a time that also needs close, historical
+study in order to be fully understood.
+
+Teaching Historical Thinking
+----------------------------
+
+Drawing on the work of Grant Wiggins and Jay McTighe, Mark Sample's
+[post][Mark Sample] on "Planning a Course with Backward Design" invites
+teachers to:
+
+> Imagine a set of three concentric rings. The outer ring represents
+> knowledge "worth being familiar with" for students. The middle ring
+> encapsulates knowledge and skills "important to know and do." Finally,
+> the smallest ring, the inner ring, represents "enduring
+> understanding"---the fundamental ideas you want to students to
+> remember days and months and years later, even after they've forgotten
+> the details of the course.
+
+So far I've been talking mainly about the "inner ring," what Sample
+calls "the bullseye of your target." But what about the actual content
+of the course---the outer rings that will hopefully direct students to
+the central goal? What should a United States history survey contain?
+
+For a long time most history professors (including myself) have answered
+that question in a way that swaps the outer and middle rings of Sample's
+target: what was most important was to cover knowledge that history
+students needed to be familiar with as comprehensively as possible;
+learning the "skills" of a working historian could be put off to later,
+post-survey courses.[^1]
+
+The logic behind this choice has typically been based on the premise
+that students may only take one United States history course in their
+college careers, making it essential to help them get "the facts"
+straight. As I've [argued before][], however, the premise that "this is
+the only history class they will ever take" does not settle the question
+of what they should be taught, even if it does make that question more
+urgent. And with each course I teach I'm coming to see the wisdom of
+those who argue that the survey's main goal should be to teach
+"historical thinking"---to "uncover" what working historians do instead
+of "covering" a static body of material.
+
+The primary proponents of this idea, like [Sam Wineburg][] and [Lendol
+Calder][], argue that the introductory survey should bear the mark of
+history's "signature." In his well-known [2006 article][] on
+"uncoverage," Calder defines this signature as six "cognitive habits" he
+wants his students to develop: "questioning, connecting, sourcing,
+making inferences, considering alternate perspectives, and recognizing
+limits to one's knowledge." [John Fea][] recently cited [a slightly
+different list][] called "The Five C's": change over time, context,
+causality, contingency, and complexity. [David J. Voelker][] elaborates
+on these lists to arrive at this definition of historical
+"understanding":
+
+> First and foremost, a student who understands history realizes that
+> historians are engaged in an ongoing conversation about the past and
+> that they must rely on a variety of primary sources, emanating from a
+> variety of perspectives, in order to construct narratives and
+> interpretations. Engaging in historical discourse, furthermore,
+> requires several other abilities, including: awareness of continuity
+> and change over time, of the multitudinous ways in which the past
+> differs fundamentally from the present while the present is
+> nevertheless rooted in the past; recognition that past events
+> developed within a complex context, within a web of causality where
+> multiple causes and effects were densely connected; consciousness of
+> the contingency of past events, of the advantages and disadvantages of
+> relying on hindsight; and an ability to judge the relative
+> significance of past events.
+
+Whether referred to as "cognitive habits" or remembered by alliteration,
+these are the skills of historical thinking that should make up the
+"middle circle" of my target.
+
+I believe that aiming for this middle ring is essential precisely
+because students will be confronted throughout their lives with claims
+about the past. Even if mine is the only formal history course they ever
+take, next semester will not be the only time students are curious about
+history or confronted by a historical claim. And at those times, getting
+*information* about the past---dates, names, and basic narratives---will
+not be the problem students face.
+
+As Sam Wineburg put it in a [recent interview][], "Becker's notion of
+'every man his own historian' has never been more pertinent than in the
+age of Google. Students know how to find information but many are
+ill-equipped to answer whether that information should be believed in
+the first place." Even more are ill-equipped to evaluate whether factual
+*information* is being used in the service of a misleading or partial
+*interpretation* of the past. Focusing my efforts on "historical
+thinking" will, I hope, better prepare students to critically analyze
+the history and pseudo-history they will encounter throughout their
+lives, whether at the movies, on cable news, or in written form.
+
+At this point, Wineburg, Calder, and others would push the case for
+"uncoverage" one step further. They argue that "teaching historical
+thinking" and "covering content" are almost mutually exclusive aims;
+history professors who try to do both, or only the latter, end up doing
+neither.
+
+I'm not sure whether that's true in the case of every history professor,
+but it seems to be true of me. [The last time I taught the survey
+course][], I made gestures towards trying to engage students in
+analyzing primary sources, questioning, and contextualizing. But much of
+the course was still built around lectures designed to follow what I had
+already decided, from day one, were the "major storylines" for our
+period. And at the end of the semester, I was unsatisfied with what I
+had done.
+
+As I wrote in a "note to myself" at the end of that semester (something
+various [Profhacker][] writers have also recommended), "Ideally I want
+students to think critically about the present" so that they will be
+able to analyze and evaluate the "talking heads" who tell them what the
+lessons of history are ...
+
+> *but how can I do that if I'm basically just another talking head?*
+> The only feeble attempts I made at involving them in the learning
+> process were reading responses that I never really talked about in
+> class and graded hurriedly; a Wiki timeline that basically became busy
+> work because I made it due so late and never integrated the stories
+> they were finding into my lectures ..., and hastily answered
+> questions. This class needs to be redesigned from the ground up.
+
+That total "redesign" is clearly what I'm embarking on now, and I'm
+doing so armed with three primary take-aways from the scholarship on
+"uncoverage" that I have read:
+
+1.  A course in "historical thinking" must be "question driven." It
+    should teach students how to ask good historical questions and how
+    to construct meaningful answers to those questions.
+2.  Historians deal with both primary historical texts and with
+    secondary historical debates; thinking historically means being able
+    to work with both kinds of discourse and assess them on their own
+    terms. In the case of primaries, this means learning how to "source"
+    and "contextualize" a document, as well as learning how to connect
+    it with others to form new questions, narratives and arguments; in
+    the case of historiography, this means learning how to understand
+    the nature of historical disagreements, evaluate interpretations,
+    and assess a writer's use of evidence.
+3.  Students benefit from "routine." Lendol Calder has been the biggest
+    advocate of this, arguing that students unfamiliar with an
+    "uncoverage" course need to have set routines that orient them. This
+    will be even more important for me given the disorientation some
+    students will doubtless feel in a "backwards" course. Learning new
+    ways of thinking, Calder contends, also requires iterative practice.
+
+Fortunately, I think a chronologically "backwards" course like the one
+[Annette Atkins][here] teaches lends itself beautifully to the first and
+third of these guidelines. As she describes it, students start by
+generating questions about issues that matter to them in the present,
+and then work backwards from those questions. After doing this once,
+they later repeat the exercise beginning in 1860---introducing the kind
+of routine that Calder advocates, too.
+
+Atkins's model also includes some attention to the second guideline I've
+named. Although her course uses a textbook and does not include much
+discussion of historiographical debate, students do read primary source
+accounts to generate questions about nineteenth-century issues that may
+not have occurred to them but were clearly on the minds of historical
+actors.
+
+Drawing on Atkins's example as well as [Calder's][], right now I'm
+envisioning a Monday-Wednesday-Friday course structured roughly like
+this. After a couple of introductory weeks spent discussing issues in
+the present and generating questions about them (as Atkinds does), the
+course will settle into a predictable routine:
+
+-   **Wednesday:** Students will come to class having read or viewed a
+    set of primary sources, drawn from a generation of Americans who
+    lived roughly two decades earlier than those discussed the week
+    before. An assignment before class will require students to
+    investigate some factual question raised by the sources (a name they
+    didn't recognize, an event they hadn't heard of before) and to write
+    up a list of new interpretive questions and issues generated by
+    these sources. We will discuss those questions and issues in class
+    and settle on a "top three" or top four we want to investigate
+    further. We will also discuss whether these sources help us answer
+    any of the questions raised and left outstanding in earlier weeks,
+    paying special attention to the provenance and context of the
+    sources under discussion.
+-   **Friday:** I'll prepare and present a lecture that focuses on
+    trying to answer one of the questions we flagged in class on
+    Wednesday, using the lecture to model how a working historian goes
+    about thinking through a question.
+-   **Monday:** Students will come to class prepared to discuss a set of
+    articles by historians who address another of the "top" questions
+    flagged on Wednesday.
+
+The process will then begin again with a new set of primary sources on
+Wednesday. Throughout the semester, however, I'll also schedule some
+breathing room and make some "back to the future" assignments that
+encourage reflection on how what we've learned so far helps us to answer
+questions raised by later events (later in time---earlier in the
+semester), either about causality, change over time, or contingency (was
+another series of events possible, and if so, at what point was the
+fateful die cast that led to the present?).
+
+I have no illusions that this first attempt at a new way of teaching the
+survey will go perfectly smoothly. Clearly, I still have a lot to settle
+about the precise form of these assignments, as well as about the
+schedule of the course.[^2] As I finish that process of course-planning,
+however, I feel better that I'm designing "in reverse"---not from a set
+of things I feel I have to cover, but from a set of objectives that I'm
+aiming at. Stay tuned to see how it turns out ...
+
+[^1]: If you haven't yet, be sure to read Joel M. Sipress and David J.
+    Voelker, "The End of the History Survey Course: The Rise and Fall of
+    the Coverage Model," *Journal of American History* (March 2011),
+    1050--1066, available [online][]. Sipress and Voelker show both that
+    the "coverage" model of the survey itself has a history of fairly
+    recent vintage, and that it has had critics from the beginning.
+
+[^2]: I feel mostly excitement about this idea, but whatever anxiety I
+    feel comes mostly from the "choose your own adventure" layout of the
+    course. Will I be able to improvise lectures, topics and readings
+    from week to week, while making sure to push students, where
+    appropriate, into areas of inquiry that they may prefer not to
+    investigate but which are crucial to answering questions they've
+    asked? I'm taking a leap of faith that the rewards of following
+    lines of inquiry generated collaboratively with students will
+    outweigh the labor costs on my end.
+
+  [Rob MacDougall's blog]: http://www.robmacdougall.org/blog/2008/05/the-backwards-survey/
+  [here]: http://www.historians.org/perspectives/issues/2000/0003/0003tec1.cfm
+  [1]: http://khermann.files.wordpress.com/2006/03/backwards.pdf
+  [the idea has remained controversial]: http://us-intellectual-history.blogspot.com/2011/04/off-topic-methodology-bleg-teaching.html
+  [Mark Sample]: http://chronicle.com/blogs/profhacker/planning-a-class-with-backward-design/33625
+  [others]: http://www.jstor.org/stable/40543888
+  [Lendol Calder]: http://www.journalofamericanhistory.org/textbooks/2006/calder/
+  [2]: http://histsociety.blogspot.com/2011/04/perspective-that-history-gives-us.html
+  [John Fea recently reminded his students]: http://www.youtube.com/watch?v=bW53pM28Hqs&feature=plcp
+  [Karl Marx]: http://chnm.gmu.edu/revolution/d/580/
+  [argued before]: http://modeforcaleb.blogspot.com/2005/12/only-history-class-they-will-ever-take.html
+  [Sam Wineburg]: http://historicalthinkingmatters.org/why/
+  [2006 article]: http://www.journalofamericanhistory.org/textbooks/2006/calder.html
+  [John Fea]: http://www.youtube.com/watch?v=9ysAbk0NhVk&feature=plcp
+  [a slightly different list]: http://www.historians.org/perspectives/issues/2007/0701/0701tea2.cfm
+  [David J. Voelker]: http://www.jstor.org/stable/40543888?seq=4
+  [recent interview]: http://histsociety.blogspot.com/2012/10/teaching-history-to-undergrads.html
+  [The last time I taught the survey course]: http://wcm1.web.rice.edu/pdf/hist118.pdf
+  [Profhacker]: http://chronicle.com.ezproxy.rice.edu/blogs/profhacker/end-of-the-semester-review/37707
+  [Calder's]: http://www.journalofamericanhistory.org/textbooks/2006/calder/un_syllabus.html
+  [online]: http://jah.oxfordjournals.org/content/97/4/1050.full.pdf

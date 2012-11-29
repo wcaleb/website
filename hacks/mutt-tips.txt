@@ -365,7 +365,7 @@ future!
     "Interview with John MacFarlane on UsesThis.com"
   [Pinboard links]: http://pinboard.in/u:wcaleb/t:mutt
     "wcaleb's Pinboard links on Mutt"
-  [muttrc]: https://github.com/wcaleb/dotfiles/blob/master/muttrc
+  [muttrc]: http://github.com/wcaleb/dotfiles/blob/master/_mutt/main.muttrc
     "wcaleb's muttrc on Github"
   [manual]: http://www.mutt.org/doc/manual/ "Mutt manual"
   [Life on the Command Line]: http://lenz.unl.edu/2011/04/09/life-on-the-command-line.html
