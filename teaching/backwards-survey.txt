@@ -25,10 +25,10 @@ understand by the end---a decision no less important, and arguably more
 important, when course conventions are scrambled.
 
 This post, then, is my attempt to think through a "backward design" for
-a backward survey. It is not the syllabus for the course (though I will
-post that when it is finished); it's a set of reminders to myself that I
-will revisit throughout the year to make sure I'm aiming in the right
-direction.
+a backward survey. It is not the syllabus for the course (you can find that
+[here](http://hist118.wcaleb.rice.edu/Syllabus)); it's a set of reminders to
+myself that I will revisit throughout the year to make sure I'm aiming in the
+right direction.
 
 Teaching Backwards
 ------------------
