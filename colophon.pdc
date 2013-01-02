@@ -6,11 +6,11 @@ Tools I Use
 -----------
 
 -   MacBook Pro running Lion
--   Terminal.app
+-   [iTerm2](http://www.iterm2.com/#/section/home)
 -   [Vim][] for text editing
 -   [Pandoc][] for document conversion
--   [Notational Velocity][] for light-duty notetaking, task management,
-    and [Simplenote][] synchronization
+-   [Notational Velocity][] for light-duty notetaking and task management
+-	[Notesy](http://notesy-app.com) and [Drafts](http://agiletortoise.com/drafts) for iOS notetaking
 -   [Mutt][] for my email
 
 How This Site is Built
