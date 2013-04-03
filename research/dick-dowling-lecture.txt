@@ -2,7 +2,7 @@
 % W. Caleb McDaniel
 % May 2, 2012
 
-<div id="abstract">
+<div class="well">
 This post contains the text of the lecture I delivered at the Houston
 Museum of Natural Science on April 24 as part of its Distinguished
 Lecture series on the Civil War. It draws on research done by myself and

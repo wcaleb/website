@@ -1,0 +1,342 @@
+% Turning Gmail into Google Reader
+% W. Caleb McDaniel
+% March 21, 2013
+
+In 2005, Karthikeyan Sankaralingam wrote a webpage about using [Gmail as
+an RSS reader][]. It ended with this note: "I am fully aware when/if
+Google releases a true RSS reader---this tool may become obsolete."
+
+Well, it's 2013, and Google has in fact released a true RSS reader. But
+now it, too, is about to be [obsolete][]. Like the rest of geekdom, I've
+been mulling over what to do once Google Reader is dead, and yesterday I
+put together a solution not so different from the one Sankaralingam set
+up nearly a decade ago.
+
+The short version: I'm using a script called [rss2email][] to send items
+from RSS feeds to my Gmail account. Each item is automatically given a
+dedicated "feeds" label and moved out of my inbox, where it can wait for
+me to view it later. A little searching reveals that I'm [not the only
+one][] doing this, but since the documentation for `rss2email` is not
+the best, I thought someone else might be interested in the longer
+version.
+
+A disclaimer is in order, however. I've tried to spell out the steps I
+took to set this up on my system as completely as possible. But I'm
+aware that replicating it on every system might not be possible. I
+haven't thought through every potential pitfall that might need
+troubleshooting, so proceed only if you are somewhat comfortable at the
+command line in a Unix/Linux environment.
+
+The Final Product
+-----------------
+
+Before explaning how I have set things up, let's take a look at the
+final product:
+
+![Click [here][] to enlarge.][here]
+
+Looks a lot like Google Reader, doesn't it? But it's actually just a
+bunch of email messages in my Gmail account that are all labeled
+"feeds." And here's what the "feeds" page looks like in the Gmail app
+for iOS:
+
+<center>
+<br> <img src="./gmail-feeds-ios.jpg" width=50%> <br> <br>
+</center>
+
+As you can see, each email with a "feeds" label is actually an RSS item:
+the title of the feed is listed as the sender of the message, and the
+title of the feed item is the subject line of the email. All of this is
+automated so that to read my feeds, I simply log into Gmail in my
+browser or iOS app and click on the "feeds" label.
+
+If you're still interested, read on for instructions. If you're not sure
+whether to be interested or not, you can jump to [my reasons for doing
+this][].
+
+HOWTO
+-----
+
+### Preparing your Google Setup
+
+If you are transitioning from Google Reader, like I am, you'll want to
+head to [Google Takeout][] and download an archive of your Google Reader
+data. After you finish the download, you'll have a folder on your
+computer with a title like `username@gmail.com-takeout`. The file you
+need from this folder is one called `subscriptions.xml`.
+
+Now head over to your Gmail inbox and [create a new label][] called
+"feeds." Then, under your Gmail settings, [create a new filter][] that
+directs any incoming mail to the address `yourusername+feeds@gmail.com`
+to be immediately archived so that your RSS feeds don't clog up your
+Inbox.
+
+### Installing rss2email
+
+The heavy lifting for this set up is all done by a little Python program
+called `rss2email`, which was apparently developed originally by the
+late [Aaron Swartz][]. The next thing to do is install it. (The
+remainder of this page assumes you have a Unix-based machine like a Mac
+or a Linux box, though I believe the program will work on Windows, too.)
+
+First, check to make sure you have Python installed. In your Terminal,
+type:
+
+    python --version
+
+If the output shows that you have some version of Python 2.x, then you
+are good to go.
+
+There are multiple ways to install different versions of `rss2email`,
+but be aware that:
+
+1.  Some of the earliest versions that show up in Linux package managers
+    don't have important features like the ability to import or export
+    an XML list of feed subscriptions; and
+2.  The [most recent development version][] maintained by W. Trevor King
+    requires Python 3, which you may not have or want.
+
+For these reasons, I decided to install [an older version released by
+Lindsey Smith][] and still available on Github. To do this yourself,
+first head to the Terminal and make sure you have `git` installed by
+typing:
+
+    git --version
+
+If you get a version number in return, then you can head straight to
+installing `rss2email` into its own folder in your home directory (or
+wherever else you choose) like this:
+
+    cd ~
+    git clone https://github.com/turbodog/rss2email.git
+    cd rss2email
+    chmod a+x r2e
+
+The last line makes the script you will use to run `rss2email`
+executable. You may need to type `sudo` at the start of the command to
+invoke the requisite privileges.
+
+Also, note that having git isn't essential to the installation process.
+You can also go to the Github repository and download all the files you
+need manually, but you'll still need to open the Terminal, navigate to
+the `rss2email` directory, and make the `r2e` script executable with a
+`chmod` command.
+
+### Configuring rss2email
+
+Within the `rss2email` directory that now exists on your computer,
+you'll find an example configuration file that you should copy:
+
+    cp config.py.example config.py
+
+Now you'll want to edit the `config.py` file in the text editor of your
+choice, making alterations to the following lines:
+
+    # The email address messages are from by default:
+    DEFAULT_FROM = "bozo@dev.null.invalid"
+
+Change the "bozo" email address to a dummy address of your choice. You
+can even use a real email address of your own, but one piece of advice:
+**don't put your Gmail address here**. If you do, then Gmail will get
+upset later when your RSS items show up in your inbox appearing to come
+from your Gmail account, but without authentication.
+
+I also chose the following settings, which are different from the
+default:
+
+    # 1: Only use the DEFAULT_FROM address.
+    # 0: Use the email address specified by the feed, when possible.
+    FORCE_FROM = 1
+
+    # 1: Use SMTP_SERVER to send mail.
+    # 0: Call /usr/sbin/sendmail to send mail.
+    SMTP_SEND = 0
+
+If you change the `SMTP_SEND` setting to 0, then make sure you have
+`sendmail` installed first by typing this at the command line:
+
+    which sendmail
+
+If you instead use SMTP\_SERVER, you'll need to fill in your SMTP server
+details in the config file. But `sendmail` appears to work fine for me.
+
+Once you've made these changes, save the configuration file.
+
+### Starting rss2email
+
+You should still be in the `rss2email` directory in your Terminal, but
+make sure with a `pwd` command. Next you'll need to create a new feed
+list for `rss2email`. Do this with a slightly modified version of your
+Gmail address:
+
+    ./r2e new yourusername+feeds@gmail.com
+
+Now you'll want to import all of your feeds from Google Reader into this
+account.
+
+    ./r2e opmlimport /path/to/subscriptions.xml
+
+If that works, you should see output at the command line listing all the
+subscriptions that were added. Next, you'll run `rss2email` for the
+first time, but without sending any items to Gmail.
+
+    ./r2e run --no-send
+
+At this point, everything should be set up and ready to go. But to test
+things out, keep using Google Reader in your web browser until you
+*know* that new items have appeared in your feeds since the time you ran
+the above command. Once you have new items, go back to the command line
+and run the script again:
+
+    ./r2e run
+
+If all is well, this should send the new items to your Gmail address,
+labeling each item "feeds" and moving the messages out of your inbox. If
+these messages don't quickly show up in Gmail, try checking your Spam
+folder. You may have to tell Gmail that these messages arriving from the
+dummy address you invented in your `config.py` file are not spam. If you
+don't even see the messages in Spam, [make sure sendmail works][]. If it
+does, try troubleshooting on the [rss2email homepage][rss2email] or
+[rss2email mailing list][].
+
+### Managing Feeds
+
+Adding new subscriptions to your feed list is as easy as this command,
+from within your `rss2email` directory:
+
+    ./r2e add http://www.example.com/feed/
+
+And if you tire of using this program, getting all of your subscriptions
+out is also a cinch:
+
+    ./r2e opmlexport > subscriptions.xml
+
+One disadvantage of Gmail over Reader is that you may not find it as
+easy to organize your feeds by tags, but you can use Gmail labels to
+approximate this feature. Once you've added a new feed, just create a
+new filter in Gmail that labels all the messages that have a particular
+feed's title in the "From:" field.
+
+### Sharing Feed Items
+
+One of the nice things about Google Reader and its many affiliated apps
+was the ease with which items could be shared with other bookmarking and
+blogging services.
+
+Fortunately, [Pinboard][], [Instapaper][], [Tumblr][], and many other
+sites allow you to post or save by email using dedicated addresses. Once
+you have added these special email addresses to your Google Contacts,
+you will be able to forward items directly to these popular services.
+After all, you will already be in Gmail just looking at a message;
+"Fwd:" For the Win!
+
+### Automated Checking
+
+By default, `rss2email` checks for new items in your feeds whenever you
+run:
+
+    ./r2e run
+
+But it would be a drag to have to type this command every time you
+wanted to check your feeds. Fortunately, on Mac OS X, you can use a
+program called `launchd` to run specific commands at scheduled times.
+Most Unix systems also have a program called `cron` that does the same
+thing in a different way.
+
+I'm not a heavy user of these services, but I figured out most of what I
+needed to know from tutorials by [Nathan Grigg][] and [Kevin van
+Zonnevelt][]. I initially set up this system using `launchd` on my Mac,
+but then decided instead to run `rss2email` from a Linux virtual machine
+with `cron`. The advantage here is that the VM is always on and can
+check my RSS feeds periodically whether my personal computer is running
+or not, allowing me to keep tabs on feeds from my iPhone or iPad even if
+I haven't turned my laptop on in a while.
+
+One potential speed bump when automating `rss2email` is the fact that
+the script which controls it needs to be run from the `rss2email`
+directory, which may not be in your system `PATH`. An easy fix is to
+edit the `r2e` bash script, adding a line at the top that changes the
+directory to correct folder. In other words, change the `r2e` script
+from this:
+
+    #!/bin/sh
+    python rss2email.py feeds.dat $*
+
+To this:
+
+    #!/bin/sh
+    cd path/to/rss2email
+    python rss2email.py feeds.dat $*
+
+Then make sure that you declare the full path to `r2e` when making your
+crontab or launchd plist file.
+
+Why Gmail
+---------
+
+I've covered the basics of how I'm turning Gmail into (a version of)
+Google Reader, but there may be an even more basic question: *Why?*
+
+For starters, this alternative to Google Reader is free. I won't add any
+new costs by managing RSS this way.
+
+I realize that some might say that my desire to keep reading RSS feeds
+for free is part of the problem that led to Reader's downfall. I've seen
+several people on the Interwebs urging users to pony up money to RSS
+services so that they won't go under. Isn't Readergate what happens when
+people refuse to pay?
+
+Maybe, but I'm willing to bet Gmail is not going anywhere soon. And like
+[Marco Arment][], I'm not sure the logic of the "free-is-bad" movement
+holds up in this case. As he points out, the real threats to software
+access are "proprietary monocultures" like Facebook; it's the closed
+nature of the software that makes it vulnerable to disappearance, not
+the free cost. And RSS (Really Simple Syndication) is simple enough that
+it shouldn't require fancy, expensive software to make it work
+reasonably well. In fact, after setting up this system I gained a new
+perspective on Google's decision to shutter Reader: it really added very
+little functionality that Gmail and a free python script couldn't
+replicate. (I'm more worried by the possible death of Google Scholar,
+which doesn't seem as easy to reproduce.)
+
+Meanwhile, by sticking with Gmail, instead of trying out one of the
+[many][] [other][] [alternatives][] to Google Reader now coming to the
+fore, I will be staying in an already comfortable environment with
+[familiar keyboard shortcuts][], plenty of storage space, and excellent
+search.
+
+Finally, for all its alleged faults, Google is not beset by the number
+one problem that seems to be facing other RSS websites suddenly swamped
+with new users: lack of server space. I can be fairly confident Gmail
+will run just as quickly on my computer and mobile devices as Google
+Reader did, and since I'm the only one using my VM to check for RSS
+updates, I can set `cron` to check my subscriptions as often as I want
+without worrying about overall performance.
+
+Those, at least, are enough reasons for me to try this method for the
+time being. Whether it will stick, time will tell.
+
+  [Gmail as an RSS reader]: http://www.cs.utexas.edu/~karu/gmailrss/
+  [obsolete]: http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html
+  [rss2email]: http://www.allthingsrss.com/rss2email/
+  [not the only one]: http://blog.triumphovermadness.com/2013/03/hooray-i-dont-need-google-reader.html
+  [here]: ./gmail-feeds.jpg
+  [my reasons for doing this]: #why-gmail
+  [Google Takeout]: http://www.google.com/takeout/
+  [create a new label]: http://support.google.com/mail/answer/118708?hl=en
+  [create a new filter]: http://support.google.com/mail/answer/6579?hl=en
+  [Aaron Swartz]: http://www.aaronsw.com/weblog/001148
+  [most recent development version]: http://github.com/wking/rss2email
+  [an older version released by Lindsey Smith]: http://github.com/turbodog/rss2email
+  [make sure sendmail works]: http://scratching.psybermonkey.net/2011/03/sendmail-how-to-test-sending-email.html
+  [rss2email mailing list]: http://dir.gmane.org/gmane.mail.rss2email
+  [Pinboard]: http://pinboard.in/howto/#post_by_mail
+  [Instapaper]: http://www.instapaper.com/extras
+  [Tumblr]: http://www.tumblr.com/docs/en/email_publishing#can
+  [Nathan Grigg]: http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/
+  [Kevin van Zonnevelt]: http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/
+  [Marco Arment]: http://www.marco.org/2013/03/19/free-works
+  [many]: http://reviews.cnet.com/8301-19512_7-57574201-233/google-reader-is-dying-but-we-have-five-worthy-alternatives/
+  [other]: http://lifehacker.com/5990456/google-reader-is-getting-shut-down-here-are-the-best-alternatives
+  [alternatives]: http://bryanalexander.org/2013/03/14/going-beyond-google-reader-rip/
+  [familiar keyboard shortcuts]: http://support.google.com/mail/answer/6594?hl=en

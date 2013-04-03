@@ -2,7 +2,7 @@
 % W. Caleb McDaniel
 % July 24, 2012
 
-<div id="abstract">This is the paper I delivered on July 20 at the 2012 annual
+<div class="well">This is the paper I delivered on July 20 at the 2012 annual
 meeting of the <a href="http://www.shear.org">Society for Historians of the
 Early American Republic</a> in Baltimore. The (slightly modified) title of the
 talk was: "Spreading the News about Hydropathy: How Did Americans Learn to Stop

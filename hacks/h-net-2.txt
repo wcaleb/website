@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % July 17, 2011 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [H-Net 2.0?][].
 </div>
 

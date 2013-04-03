@@ -1,0 +1,145 @@
+% Resolutions for Teaching Digital History
+% W. Caleb McDaniel
+% January 6, 2013
+
+<div class="well">
+These are the comments I prepared for a roundtable session on [Teaching
+Digital History Methods for History Graduate
+Students](http://aha.confex.com/aha/2013/webprogram/Session8610.html) at
+the 2013 Annual Meeting of the AHA in New Orleans.
+</div>
+
+Last semester, I received some funding from my campus's Humanities
+Research Center to run what the center calls a
+[Masterclass](http://hrc.rice.edu/masterclass/)---a year-long,
+one-credit special topics course in which both undergraduates and
+graduates can enroll. [My masterclass
+course](http://digitalhistory.blogs.rice.edu) is on digital history, but
+in my case "masterclass" is a bit of a misnomer. I am far from having
+"mastered" digital history, and have not yet made serious use of digital
+history methods in my own research. My institution has no center in
+digital history, and my department has no cluster of self-identifying
+digital historians. The "masterclass" so far has basically been a
+lecture series in which I have invited digital historians from
+*off-campus* to speak about their methods and lead practical workshops
+and discussions with my students.
+
+I say all this to make clear that my experience in training graduate
+students in digital history methods---the topic of this roundtable---is
+limited. Other than the so-called "masterclass," my experience amounts
+to having grafted some discussions of digital history projects and
+digital tools into my existing, otherwise conventional [methods
+seminar](http://wcm1.web.rice.edu/methods-in-us-cultural-history.html).
+On some aspects of digital history, I have students who know far more
+than I do.
+
+These confessions may make you wonder why I'm even on this panel. I
+wondered too when Sharon Leon asked me to join. I *think* I'm here,
+however, because my situation is probably fairly typical. Many of us
+find ourselves wanting to know more about digital history, or at least
+feeling like our students should know more about it, but we lack
+institutional precedent, resources, individual experience, or even all
+three. That's the situation I want to speak to today: how do you teach
+methods that you are just learning about yourself?
+
+Now, to put the question that way shows that this conversation about
+*digital* history education immediately raises larger questions about
+training graduate students in general. Let me lay my cards on the table
+by saying that my own teaching philosophy doesn't regard my own areas of
+ignorance as problems so much as opportunities. Often, my role as a
+graduate instructor is to model informed befuddlement about history, to
+be actively not-knowing in front of students and then to demonstrate how
+I learn and think about something new to me.
+
+Indeed, that's what I want to do in this roundtable: to think out loud
+about *teaching* methods that are still new to me. Instead of expertise,
+what I want to offer---in the spirit of the New Year---are several
+*resolutions* I've made about teaching digital history with some
+thoughts-in-progress about how it's gone so far.
+
+My first resolution: *I resolve to share with students my own reasons
+for interest in digital history.* My masterclass began, as many classes
+do, with my asking students why they were taking the class; but it also
+started with my telling them [why I was teaching
+it](http://wcm1.web.rice.edu/why-study-digital-history.html). In my
+case, I started to become interested in digital history when I realized
+that I was already a digital historian whether I wanted to be or
+not---that is, when I realized that I rely heavily for my work on
+digital databases and digital tools whose workings I needed to better
+understand. In your case, you may feel a professional obligation to talk
+about digital skills given that an increasing number of job ads mention
+them and an increasing number of careers require them. But whatever your
+reasons for being here might be, you can resolve to be open with
+students about them. I've found that this simple step is not a bad way
+to get quickly into some of the debates at the center of the digital
+humanities.
+
+My second resolution: *I resolve to encourage students to build an
+online presence.* In both of my graduate seminars, students create blogs
+in which they write about course readings and projects, and many
+students also join Twitter. This has two important effects. First, it
+extends our classroom by connecting students with practicing digital
+historians at other institutions who are more expert than I. Second, the
+practice of running a simple blog or website and playing around with
+it---changing themes, installing Wordpress plugins, tweaking CSS and
+HTML---can be a good preparation for learning about more complex digital
+history tools and encourage more reflective use of things like search
+engines and databases.[^1]
+
+Third, *I resolve to assign some digital history projects and articles
+as part of the reading for my courses.* Even if students in a particular
+course do not make a digital project, they can learn how to examine and
+evaluate articles and websites that do make extensive use of digital
+methods. So, for example, in my methods in social and cultural history
+course, placing a couple of articles that do rudimentary text mining on
+the syllabus exposes students to such work and again encourages
+reflection on the way they themselves use keyword searching or databases
+like Google Books.
+
+My fourth resolution: *I resolve to learn from graduate students and
+colleagues from outside my department.* I have to say that I've learned
+a ton just from reading the tutorials and blogs of graduate students in
+classes like [the one Fred Gibbs
+teaches](http://www.fredgibbs.net/clio3workspace/blog/) at George Mason.
+I consider blogging graduate students like [Cameron
+Blevins](http://www.cameronblevins.org), [Jeri
+Wieringa](http://jeriwieringa.com), and [Benjamin
+Schmidt](http://bmschmidt.wordpress.com) my digital hisory teachers. And
+at my own institution, many students and staff members have more
+expertise on GIS software or web server administration than I. Training
+others in these methods requires being trained, and a willingness---as
+[Stephen Ramsay once put
+it](http://stephenramsay.us/text/2010/10/08/care-of-the-soul.html)---to
+sometimes be "the dumbest person in the room."
+
+And finally, *I resolve to be open with students about my own research and
+learning process.* If students are often reluctant to try new things and fail,
+who can blame them if we are too? That's why, when I recently used part of
+a leave to learn some computer programming skills, [I blogged about the
+experience](http://digitalhistory.blogs.rice.edu/category/python/) for my
+masterclass. It's also why, in my methods course, I shared with students the
+history of my first article, from outline to seminar paper to publication.
+I not only gave them access to every rough draft of the paper that I wrote, but
+also showed them reader's reports (both from the first, rejected submission and
+the second, accepted one) and the methods I used to keep my research notes
+along the way. This meant, of course, talking with them about dead ends, false
+starts, and things I wish I had known then about organizing notes or keeping
+citations.
+
+My goal here was both to demystify the publishing process for them and
+to demonstrate that it's OK---and inevitable---to feel lost at certain
+points along the way. Perhaps that does not seem immediately relevant to
+teaching digital history, but I've found, as [Ramsay has also
+said](http://stephenramsay.us/2012/06/10/learning-to-program.html), that
+learning about computers and digital methods requires not so much
+special expertise or experience as it does a willingness to fail in
+public, an ability to endure error messages and push through frustrating
+problems. To the extent that I can make myself and my graduate students
+less paralyzed by the new and more comfortable with the struggle, I can
+begin to train them in digital history.
+
+[^1]: This, at least, has been my own experience: starting my own blog
+    as a graduate student made me roughly familiar with things like HTML
+    and Javascript; like a tumbleweed, I picked up bits and pieces of
+    knowledge along the way that have accumulated into the skill set I
+    now have.

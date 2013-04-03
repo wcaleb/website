@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % January 13, 2012 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [Methods in U.S.
 Cultural History][].
 </div>

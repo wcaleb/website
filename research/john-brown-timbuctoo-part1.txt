@@ -2,7 +2,7 @@
 % W. Caleb McDaniel
 % August 11, 2010
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [In Search of John
 Brown’s Timbucto, Part I][].
 </div>

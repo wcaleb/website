@@ -2,7 +2,7 @@
 % W. Caleb McDaniel
 % September 25, 2012
 
-<div id="abstract">
+<div class="well">
 This is an inexact transcript of a lecture I recently gave at <a href="http://www.hbu.edu/Choosing-HBU/Academics/Colleges-Schools/College-of-Arts-Humanities/Departments/Department-of-History/Emancipation-Proclamation-Commemoration.aspx">The Emancipation Proclamation: A Turning Point</a>, a commemoration event in Houston marking the sesquicentennial of the preliminary Emancipation Proclamation last week. 
 </div>
 

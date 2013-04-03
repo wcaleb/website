@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % April 5, 2012 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [Announcing the
 Dick Dowling Digital Archive][].
 </div>

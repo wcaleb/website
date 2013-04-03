@@ -2,7 +2,7 @@
 % Caleb McDaniel
 % March 9, 2011
 
-<div id="abstract">
+<div class="well">
 This page was originally posted on my old blog as [The Case of John L.
 Brown][].
 </div>

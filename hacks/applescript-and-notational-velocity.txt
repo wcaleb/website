@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % October 1, 2011 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [Applescript and
 Notational Velocity][].
 </div>

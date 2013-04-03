@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % May 24, 2011 
 
-<div id="abstract">
+<div class="well">
 A version of this post was originally published on my old blog as [How
 I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as
 a Replacement for the GTD Application Things][].

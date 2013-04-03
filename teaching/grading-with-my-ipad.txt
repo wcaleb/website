@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % March 13, 2011 
 
-<div id="abstract">
+<div class="well">
 This page was originally posted on my old blog as [Grading with my
 iPad][].
 </div>

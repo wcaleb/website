@@ -1,0 +1,431 @@
+% The Lives of Frederick Douglass
+% W. Caleb McDaniel
+% January 9, 2013 
+
+<div class="well">
+In honor of the premiere of <em><a href="http://www.pbs.org/wgbh/americanexperience/films/abolitionists/">The Abolitionists</a></em> on PBS this week, I decided to publish a very old essay of mine on Frederick Douglass and William Lloyd Garrison, two of the featured characters in the film. This essay originally appeared in 2004 on <a href="http://modeforcaleb.blogspot.com/2004/12/lives-of-douglass-part-i.html">my old blog</a>, where it appeared in two parts. For this version I have made some slight changes, added a few pointers to primary sources that have since been digitized, and fixed a few broken links.
+</div>
+
+Many Americans are familiar with the *[Narrative of the Life of Frederick
+Douglass][]*, published in 1845; it is certainly the most famous personal
+narrative of slavery ever written. (In 2002, the City of Baltimore
+sponsored a city-wide reading of the *Narrative*, which the mayor
+lauded as an "example of perseverance and determination.") But fewer
+readers are aware that Douglass wrote another autobiography in 1855,
+entitled *[My Bondage and My Freedom][]*. Probably even fewer are aware
+that a third autobiography was published in 1881, *[The Life and Times of
+Frederick Douglass][]*.
+
+The most notable feature of the second autobiography is that by 1855,
+Douglass had more "bio" to "graph." Seventeen years had passed since his
+escape from slavery in Maryland, and ten years separated him from the
+book that made him a celebrity. In that decade, he had established
+himself as a lecturer on the antislavery circuit, toured Great Britain
+to much acclaim, received funds from British friends to purchase his
+freedom, and founded his own newspaper in upstate New York. *My Bondage
+and My Freedom* covers these new events as well as most of the same
+episodes that were in the *Narrative*. But these episodes in Douglass's
+life as an enslaved Marylander are almost always embellished with
+greater detail in his second book. More detail was partly a retort to
+skeptics who doubted the authenticity of the *Narrative*. But the richer
+detail of the second book is even more important as an example of
+Douglass's incisive and innovative thinking about the problem of
+slavery.
+
+The *Narrative* had a mostly propagandistic function: it was intended as
+an exposé of slavery's brutality. My Bondage more directly exposed
+Douglass's inner experience in slavery. And it illuminated the
+connections between that experience and his thought. The narrative
+logic of the first book assumed that readers would infer antislavery
+conclusions from the episodes it related. The second book complicated
+and multiplied the possible conclusions that a reader could reach. For
+one thing, it corrected what some readers might have perceived in the
+*Narrative* as an antislavery argument based primarily on the poor
+treatment of particular slaves. *My Bondage and My Freedom* made more
+explicit what the *Narrative* had implied: that it was not just cruel
+treatment, but the idea of slavery itself that repulsed Douglass and
+provoked his desire to escape.
+
+In the second book, for example, when discussing the kindness of Mrs.  Auld,
+a Baltimore mistress who helped teach him how to read until rebuffed by her
+husband, Douglass emphasizes that the slave-master relationship corrupted
+whatever kind feelings existed between him and Auld. (Compare [this][] and
+[this][1].) Her treatment of Douglass was incidental to the problem of slavery.
+"Nature had made us *friends*," he wrote in *My Bondage*, "slavery made us
+*enemies*. ... It was *slavery*---not its mere *incidents*---that I hated.
+I had been cheated. ... The feeding and clothing me well, could not atone for
+taking my liberty from me." In the first place, then, *My Bondage and My Freedom*
+contains subtle but significant differences in Douglass's recounting of his
+experience in "bondage." This book was not a litany of "mere incidents"---it
+was a meditation on "slavery" and why Douglass hated it.
+
+The second autobiography also extends the story of Douglass's "bondage"
+into the story of his "freedom." Douglass's life as an abolitionist
+after 1845 goes a long way towards explaining why he felt a second book
+was needed by 1855. Today, *My Bondage and My Freedom* interests
+antislavery historians mainly for what it tells us about Douglass's
+conflicted relationship with radical white abolitionists like William
+Lloyd Garrison and Wendell Phillips.
+
+Garrison and his allies---usually known as the Garrisonians---played a
+crucial role in launching Douglass's career as a professional
+abolitionist. Conversely, Douglass's fame as a speaker and moral
+authority as a fugitive lent credibility to the Garrisonians as
+antislavery leaders. As Douglass recounted in both the *Narrative* and *My
+Bondage and My Freedom*, he was introduced to the world of Northern
+antislavery in the late summer of 1841, while living in New Bedford,
+Massachusetts and working as a day laborer. In August, at an
+abolitionist meeting in Nantucket, Douglass delivered a rousing speech
+that greatly impressed Garrison. Soon afterwards, Douglass was hired by
+the Garrisonian American Anti-Slavery Society (AASS) as a lecturer, and
+it was this association that also helped bring the *Narrative* into print.
+
+Both Garrison and Phillips wrote introductory letters to the 1845
+edition, vouching for its author's credibility as well as associating
+themselves with this powerful new voice. And when the *Narrative*
+attracted attention and seemed likely to endanger Douglass, the
+Garrisonians' contacts with British abolitionists gave Douglass an
+entrée into the United Kingdom, where he toured throughout 1846
+addressing large audiences. But it was during this trip abroad that
+Douglass's relationship with the Garrisonians began to fray around the
+edges, a strain that worsened in 1847 after Douglass returned home, now
+a legally free man who was intent on becoming his own editor.
+
+The reasons for strain between Douglass and the Garrisonians were both personal
+and ideological. On a personal level, Douglass sensed a patronizing tone among
+many of his patrons, a mistrust of him that in many cases bordered on or
+crossed over into a malicious bigotry. While touring in Britain, for instance,
+Douglass learned that Maria Weston Chapman, a leading Boston Garrisonian, had
+corresponded with some of Garrison's friends in Ireland and warned them to keep
+an eye on Douglass's management of his money. Incensed by this and other
+letters, [Douglass wrote an anguished reply to
+Chapman](http://archive.org/details/lettertomrsmwcha00doug) that foreshadowed
+his eventual break with the AASS.
+
+But those personal conflicts cannot be separated from the ideological
+disagreements that increasingly divided Douglass from the
+Garrisonians---disagreements about the wisdom of "buying" slaves in order to
+free them, for instance, or about the position of the Constitution on the issue
+of slavery. At any rate, by the early 1850s, both faultlines---the personal as
+well as the principled---had opened into a complete fracture, with both
+parties sniping at each other and crying foul. Douglass repudiated the
+Garrisonians; the Garrisonians likewise repudiated Douglass. These new
+circumstances, in Douglass's mind, called for a new autobiography, and *My
+Bondage and My Freedom* was the result.
+
+Many scholars rightly blame this fracture partly on the persistence of racial
+prejudice among white Garrisonians, which explains why some of them
+(like Chapman) treated Douglass with a condescending paternalism. Many
+Garrisonians failed to see past "Douglass the Fugitive" to Frederick
+Douglass himself. For example, in *My Bondage and My Freedom*, Douglass
+recalled that at the Nantucket meeting, Garrison followed Douglass's
+speech with one of his own, "taking me as his text." This was a
+revealing aside. In the early years of their acquaintance, white
+Garrisonians often referred to Douglass as if he were mainly a Walking
+Counterexample, a living rebuttal to the argument that black people were
+degraded by nature. His life was first and foremost a "text" to
+which they could turn for proof that former slaves could "rise," just as
+the *Narrative* was a text they could use to prove the cruelty of Southern
+bondage.
+
+This was a strategy whose intention was to combat Northern racial prejudice
+rather than to condone it. But it was understandable when Douglass lost
+patience with constantly being gestured *at*, rather than being freed to
+gesture in whatever direction he chose. Moreover, in driving the point home
+that Douglass had risen from degradation to dignity, the Garrisonians often
+lingered a little too long on the degradation and not as long on the dignity.
+In early 1842, while introducing Douglass to [an antislavery meeting at Faneuil
+Hall](http://archive.org/details/annualreport10mass) in Boston, Garrison said,
+"It is recorded in holy writ, that a beast once spoke. A greater miracle is
+here to-night. A chattel becomes a man."
+
+Such analogies---which seem to suggest that Douglass's transformation from
+slave into orator was as miraculous as Balaam's donkey learning to speak---are
+rightly galling to our ears. But it is possible to exaggerate the extent to
+which they were galling then, even to some black abolitionists. In his early
+years as an abolitionist, Douglass also used himself as an example of the
+extraordinary transformation from chattel-hood to manhood that only freedom
+could effect. In *My Bondage and My Freedom*, he excerpted [a letter that he
+wrote to Garrison](http://www.yale.edu/glc/archive/1091.htm) shortly after he
+set foot on British soil, where legal proscriptions and social discrimination
+against free blacks were less pronounced than in the Northern states. "I
+breathe," Douglass exulted, "and lo! the chattel becomes a man."
+
+Douglass and many other black abolitionists used such masculine language
+to imagine the passage from slavery to freedom as a passage from
+childishness and ignorance into manliness and respectability. Statements
+like theirs and Garrison's were rhetorically strategic: they confronted
+the terrible fact that Southern slaves *were* legally bought and sold as
+if they were beasts of burden. In antebellum newspapers, advertisements
+announcing rewards for the return of fugitive slaves were routinely
+printed directly adjacent to advertisements that announced rewards for
+the return of runaway horses. Given such pervasive visual iconography,
+it was radically subversive to suggest that Douglass had been changed
+from a "chattel" to a "man."
+
+In short, Douglass's breach with the Garrisonians had less to do than
+one might think with the fact that they viewed black abolitionists as
+respectable and black slaves as degraded. Douglass himself held the same
+view. Rather, what bothered Douglass was the way that Garrisonians
+expected Douglass to play the role of the degraded slave, to straddle
+the chasm they both saw between bondage and freedom. For example, white
+Garrisonians often advised Douglass not to be *quite* so eloquent,
+fearing that Douglass's excellence on the platform would give ammunition
+to skeptics who doubted that he had ever been a slave. And since they
+viewed Douglass's life as a propagandistic "text," they encouraged him
+to stick to the story. In *My Bondage and My Freedom*, Douglass singled
+out this kind of advice as insulting, constraining, and above all,
+boring:
+
+> During the first three or four months, my speeches were almost
+> exclusively made up of narrations of my own personal experience as a
+> slave. 'Let us have the facts,' said the people. So also said Friend
+> George Foster, who always wished to pin me down to my simple
+> narrative. 'Give us the facts,' said Collins, 'we will take care of
+> the philosophy.' Just here arose some embarrassment. It was impossible
+> for me to repeat the same old story month after month, and to keep up
+> my interest in it. It was new to the people, it is true, but it was an
+> old story to me; and to go through with it night after nights, was a
+> task altogether too mechanical for my nature. 'Tell your story,
+> Frederick,' would whisper my then revered friend, William Lloyd
+> Garrison, as I stepped upon the platform. I could not always obey, for
+> I was now reading and thinking. New views of the subject were
+> presented to my mind. It did not entirely satisfy me to *narrate*
+> wrongs; I felt like *denouncing* them.
+
+That last line can be read as a thinly veiled critique of the Narrative
+itself and an apologia for its sequel. It was also an indictment of the
+Garrisonians' attempts to direct his life story in the way they saw fit.
+There certainly were elements of racial prejudice in some of these
+efforts to "pin" Douglass to his *Narrative*. But there is still much
+ambiguity on this point. Since many freed people took new surnames as
+signs of their independence---Douglass changed his from "Bailey" to
+"Douglass"---we may be meant to see Garrison's whispering to him as
+"Frederick" as an insult. Yet it might equally be seen as evidence of
+the real intimacy and friendship that existed between Garrison and
+Douglass prior to their parting of the ways.
+
+Racial prejudice, at least, was the interpretation offered by James
+McCune Smith, the black abolitionist and medical doctor who wrote the
+preface to *My Bondage and My Freedom*, assuming the role that Garrison
+and Phillips had claimed in the *Narrative*. Such gentlemen, Smith said,
+
+> although proud of Frederick Douglass, failed to fathom, and bring out
+> to the light of day, the highest qualities of his mind; the force of
+> their own education stood in their own way: they did not delve into
+> the mind of a colored man for capacities which the pride of race led
+> them to believe to be restricted to their own Saxon blood. Bitter and
+> vindictive sarcasm, irresistible mimicry, and a pathetic narrative of
+> his own experiences of slavery, were the intellectual manifestations
+> which they encouraged him to exhibit on the platform or in the lecture
+> desk.
+
+It is also accurate to say, however, that Douglass's growing dissatisfaction
+with the white Garrisonians had as much to do with his pride in respectability
+as it did with their "pride of race." As Douglass read and thought, he
+understood himself to be moving farther and farther away from his former life
+on the Eastern Shore of Maryland.  The white abolitionists' advice to adopt the
+persona of Frederick Bailey seemed like an attempt to deprive him of what he
+understood as "freedom"---the freedom not to act in what he perceived to be
+a "slavish" way. In short, although race was at issue in the breach between
+Douglass and the Garrisonians, so was respectability: Douglass did not disagree
+that "freedom" meant the education and uplift of black Americans. He too
+believed, with them, that escaping slavery meant elevating oneself from
+a degraded state. What he disliked was the way they encouraged him to mimic
+that former state.
+
+Personal conflict with white Garrisonians, then, was one seed of which
+the fruit was Douglass's second book. The roots of that personal
+conflict were entangled with weeds of racial prejudice that sprung up
+even in the soil of radical white abolitionism. But there were other
+seeds of discontent sown between Douglass and his former friends, and
+their eventual rift also had to do with severe doctrinal disagreements.
+
+---
+
+Garrison and Douglass each needed the other for their joint movement to grow.
+As James McCune Smith put it in the introduction to Douglass's second
+autobiography, "It is not too much to say, that he formed a complement which
+[the Garrisonians] needed, and they were a complement equally necessary to his
+'make-up.'"
+
+Yet by the time *My Bondage and My Freedom* was published in 1855, both
+complements and compliments had given way to open conflict between Douglass and
+the Garrisonians. As we have seen, part of the blame belongs to the persistence
+of racial prejudice among some white Garrisonians---a condescension of which
+Douglass became acutely aware while he toured Great Britain in 1846. Yet
+prejudice alone does not explain the rift between Douglass and his former
+friends.
+
+Nor should we patronize Douglass with the condescension of posterity
+by assuming that he was but a passive victim, who played no active role in the
+rift. As McCune Smith also suggested in his foreword to *My Bondage and My
+Freedom*, one of Douglass's own personality traits may have been an extreme
+sensitivity to any hint of patronization---a trait that certainly would have
+been understandable in a man with his history and in his circumstances. "The
+same strong self-hood," wrote Smith, "which led him to measure strength with
+Mr. Covey," (the slave driver immortalized by [the famous fight scene][] in
+Douglass' *Narrative*) "and to wrench himself from the embrace of the
+Garrisonians, and which has borne him through many resistances to the personal
+indignities offered him as a colored man, sometimes becomes
+a hyper-sensitiveness to such assaults as men of his mark will meet with, on
+paper."
+
+It may be impossible, however, to judge finally whether Garrisonians'
+insensitivity or Douglass's sensitiveness was most to blame for the
+complex personal friction between the two parties. What *is* clear is
+that the friction only encouraged Douglass's desire for independence.
+And however justified or understandable that desire might have been, it
+is also clear that Douglass framed his break with the Garrisonians in
+the most provocative of ways by publishing *My Bondage and My Freedom*.
+The title itself was edgy. It claimed Douglass's narrative, his life, as
+his own property: "*My* Bondage and *My* Freedom." In the introduction,
+Smith's implicit comparison between Covey and the Garrisonians also
+suggested that Douglass's "Freedom" from *Southern* "Bondage" would not
+be the book's only plot. The book would also conclude by framing
+Douglass's relationship with the Garrisonians as itself a kind of
+"Bondage," and his decision to found his own newspaper in Rochester as a
+new birth of "Freedom."
+
+Sparks flew in the closing chapter of the book, when Douglass recounted
+the objections that many Garrisonians had to his newspaper. These
+objections were interpreted by Douglass as accusations that he was
+"ambitious and presumptuous." Such words certainly had not been unknown
+in Garrisonian circles when the subject of Douglass's new venture came
+up. Although he tried hard to convince his former allies that he knew
+what he was doing, Douglass wrote that he was "not sure that I was not
+under the influence of something like a slavish adoration of my Boston
+friends." Douglass knew that the Bostonians would be pricked by the word
+"slavish," no matter how carefully it was swaddled in awkward syntax
+(the double negative that began the sentence) and qualifications
+("something like" ... "adoration" ... "friends"). The inflammatory word
+was "slavish." And in the years after 1855, Douglass fanned the flame.
+In [an 1857 speech](http://www.lib.rochester.edu/index.cfm?PAGE=4398), he declared:
+
+> I know, my friends, that in some quarters the efforts of colored
+> people meet with very little encouragement. We may fight, but we must
+> fight like the Sepoys of India, under white officers. This class of
+> Abolitionists don't like colored celebrations, they don't like colored
+> conventions, they don't like colored Anti-Slavery fairs for the
+> support of colored newspapers. They don't like any demonstrations
+> whatever in which colored men take a leading part. They talk of the
+> proud Anglo-Saxon blood, as flippantly as those who profess to believe
+> in the natural inferiority of races. Your humble speaker has been
+> branded as an ingrate, because he has ventured to stand up on his own
+> right, and to plead our common cause as a colored man, rather than as
+> a Garrisonian. I hold it to be no part of gratitude to allow our white
+> friends to do all the work, while we merely hold their coats.
+> Opposition of the sort now referred to, is partisan opposition, and we
+> need not mind it.
+
+Comparing Garrisonians to the colonial officers of the British empire?  These
+were strong words indeed, especially when one considers that they were uttered
+in the year of the "[Sepoy Mutiny][]" in India. But Douglass's 1857 speech also
+brings us to a second important dimension of the Garrisonian rift, for it
+suggests that the break had to do not only with personal offense, but also with
+"partisan opposition." Douglass's break occurred at the same time that the
+antislavery movement as a whole was fracturing, and not just along faultlines
+dividing white and black reformers.
+
+In the 1840s, many white abolitionists, like Gerrit Smith, James Birney,
+and Lewis Tappan, increasingly disagreed with the Garrisonians about
+major strategic and dogmatic issues, like the question of whether
+violence could be used in the service of antislavery goals. Many black
+abolitionists also broke with Garrisonians on precisely this issue.
+Another major disagreement revolved around the Garrisonians' opposition
+to forming political parties to run antislavery candidates for local and
+national offices. Some Garrisonians opposed politics because they were
+near-anarchists who believed that all human governments were sinfully
+coercive. A larger number opposed antislavery parties because they
+believed the Constitution itself was a proslavery document, a "covenant
+with death" as Garrison put it. Any political action within the existing
+framework---even voting, according to some---was corrupted before it
+began. Beginning in 1842, Garrison and many of his supporters carried
+this logic to its fullest extreme by calling for "disunion" between the
+North and the South.
+
+In 1854, a year before *My Bondage and My Freedom* was published,
+Garrison dramatized the radicalism of these positions by publicly
+burning a copy of the Constitution at a Fourth of July picnic for
+abolitionists. Long before that act, however, Douglass had already
+dissociated himself from such incendiary views. Against the
+Garrisonians, he agreed with Gerrit Smith and others that the
+Constitution was not necessarily proslavery, but had only been made so
+by misinterpretation. He believed that political action was not only
+justified on behalf of abolition, but positively required if it could be
+effective. In *My Bondage*, Douglass spelled out his change of opinion
+on these subjects. Even after he had moved to Rochester to start his new
+paper, Douglass continued to be "on the anti-slavery question, a
+faithful disciple of William Lloyd Garrison, and fully committed to his
+doctrine touching the pro-slavery character of the United States, and
+the *non-voting principle.*" But in 1851, following the passage of an
+even more stringent Fugitive Slave Law by Congress, Douglass "became
+convinced that there was no necessity for dissolving" the Union, and
+"that to abstain from voting, was to refuse to exercise a legitimate and
+powerful means for abolishing slavery." Douglass also concluded that the
+Constitution, far from being a pact with the devil, as Garrison called
+it, was "an anti-slavery instrument."
+
+These conclusions placed Douglass firmly on the side of the Garrisonians'
+opponents within the antislavery movement, and they reopened the wounds of
+earlier schisms. Douglass's close friendship with McCune Smith and Gerrit Smith
+and his complicated relationship with John Brown (see [this book][]) made the
+wound wider. By 1853, [Garrison wrote to his
+friend](http://books.google.com/books?id=v5aZrAuKt0wC&pg=PA256&lpg=PA256),
+Samuel J. May, that "with Douglass, the die seems to be cast. I lament the
+schism, but it is unavoidable." It was made unavoidable partly by Douglass's
+commitment to positions on which Garrison could admit no compromise. And as the
+years wore on, the wounds only festered. By 1860 Garrison wrote in another
+letter to May that Douglass's plans to be at an upcoming meeting "powerfully
+repel me from attending. I regard him as thoroughly base and selfish, and
+I know that his hostility to the American Anti-Slavery Society and its leading
+advocates is unmitigated and unceasing. ... In fact, he reveals himself more
+and more to me as destitute of every principle of honor, ungrateful to the last
+degree, and malevolent in spirit. He is not worthy of respect, confidence, or
+countenance."
+
+Garrison is notorious for his unflinching positions, and his tendency to
+impute false motives to anyone who disagreed with him. In that sense, he
+was an equal opportunity offender. His public reproaches of white
+enemies within the movement could be as harsh as those that he uttered
+privately against Douglass in 1860. So what should we make of such hard
+words?
+
+We might turn again to what Douglass made of them in the
+concluding pages of *My Bondage and My Freedom.*
+
+> Here was a radical change in my opinions, and in the action logically
+> resulting from that change. To those with whom I had been in agreement
+> and in sympathy, I was now in opposition. What they held to be a great
+> and important truth, I now looked upon as a dangerous error. A very
+> painful, and yet a very natural, thing now happened. Those who could
+> not see any honest reasons for changing their views, as I had done,
+> could not easily see any such reasons for my change, and the common
+> punishment of apostates was mine.
+
+Douglass's statement might seem to settle the issue, except that it ultimately
+opens up the same questions with which we began about how to explain the rift
+between Douglass and the Garrisonians? Were the causes as simple as racism
+among white abolitionists? Or did Garrisonians prove that they thought of
+Douglass as equal to their white opponents by dignifying him with "the *common*
+punishment" that they meted to all "apostates"? The question remains
+a fascinating one, even today, precisely because it is difficult to
+answer.^[For further reading, I recommend Benjamin Quarles's still valuable
+1938 article on "The Breach between Douglass and Garrison," published in *The
+Journal of Negro History* and available on
+[JSTOR](http://www.jstor.org/stable/10.2307/2714343).]
+
+  [Narrative of the Life of Frederick Douglass]: http://etext.virginia.edu/toc/modeng/public/DouNarr.html
+  [city-wide reading]: http://www.ci.baltimore.md.us/news/press/020807.html
+  [My Bondage and My Freedom]: http://etext.lib.virginia.edu/toc/modeng/public/DouMybo.html
+  [The Life and Times of Frederick Douglass]: http://docsouth.unc.edu/neh/dougl92/menu.html
+  [earlier post]: http://modeforcaleb.blogspot.com/2004/12/notes-for-philosophy-of-teaching.html
+  [online cheaters]: http://modeforcaleb.blogspot.com/2004/08/online-cheating.html
+  [this]: http://etext.virginia.edu/etcbin/toccer-new2?id=DouNarr.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=8&division=div1
+  [1]: http://etext.lib.virginia.edu/etcbin/toccer-new2?id=DouMybo.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=11&division=div2
+  [second post]: http://modeforcaleb.blogspot.com/2004/12/lives-of-douglass-part-ii.html
+  [Part I]: http://modeforcaleb.blogspot.com/2004/12/lives-of-douglass-part-i.html
+  [the famous fight scene]: http://etext.virginia.edu/etcbin/toccer-new2?id=DouNarr.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=11&division=div1
+  [Sepoy Mutiny]: http://en.wikipedia.org/wiki/Sepoy_Mutiny
+  [Sepoy]: http://www.chapatimystery.com/1857blog.html
+  [this book]: http://www.amazon.com/exec/obidos/tg/detail/-/0674006453/qid=1103690594/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/104-8045739-2839148?v=glance&s=books&n=507846

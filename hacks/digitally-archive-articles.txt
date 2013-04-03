@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % September 20, 2010 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my blog as [Post the Fourth, In
 Which I Digitally Archive Some Articles][].
 </div>

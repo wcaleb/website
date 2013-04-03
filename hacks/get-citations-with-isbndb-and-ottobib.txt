@@ -1,0 +1,78 @@
+% Get Book Citations at the Command Line using OttoBib and ISBNdb
+% W. Caleb McDaniel
+% March 16, 2013
+
+Recently I've been finishing footnotes for an article, a process that
+invariably requires looking up or checking lots of bibliographic
+information.
+
+Usually, when I'm late in the drafting process, my manuscripts contain
+lots of short-form citations with just the author's last name, book
+title, and page numbers. That means I have to fill in the full title and
+subtitle, full author name, publisher and city, and year of publication.
+To double-check this information, I usually either *(a)* get the book
+down from a shelf in my office and flip to the copyright page or *(b)*
+search on my library catalog or Amazon for the full book record. The
+result is usually a desk stacked with leaning towers of books, or a
+broswer filled with hanging tabs.
+
+The conventional way to solve this problem digitally is to use
+bibliographic management software like [Zotero][]. But sometimes you
+just want to quickly cite something that's not already in your library
+of citations.
+
+Yesterday I started wondering if there is a better way to do quick
+bibliographic checking during the drafting process. Some searching
+online turned up [OttoBib][], which can take a book ISBN and return a
+(usually) well-formatted bibliographic citation in either Chicago, APA,
+or MLA style. Of course, it's not that much easier to find an ISBN
+number than it is to find a full record. But [ISBNdb.com][] allows you
+to search for books by title and author and get ISBN numbers in return.
+
+After a little more head-scratching, I realized that I could probably
+use a Python script to connect the functionality of OttoBib and ISBNdb
+together. [This script is the result.][] I call it `blookup`, and it
+basically allows me to get formatted book citations from the command
+line with nothing but an author and some title words.[^1]
+
+For example, if I enter:
+
+    blookup.py "david blight race and reunion"
+
+The output I get is:
+
+    Blight, David W. *Race and reunion : the Civil War in American memory*. Cambridge, Mass: Belknap Press of Harvard University Press, 2001. 
+
+If I so desire, I can pipe that output to my Mac clipboard using
+`pbcopy` and paste it directly into my manuscript. But I can also just
+use it to check my memory about the publication date or the subtitle.
+Since I use [DTerm][] to quickly call up a commandline window, it's
+pretty easy to do this with a hotkey without ever leaving my chair or my
+manuscript.
+
+So far the script has done a pretty good job with any book I've thrown
+at it. But if anyone else tries it out, some caveats are in order. The
+first are the same caveats offered by Jonathan Otto, the author of
+OttoBib.com: "I strive for accuracy of the citations but you should
+treat this tool as a starting point in your works cited, because you
+still need to look it over." The second is that the script fetches the
+ISBN of the top result returned by ISBNdb for the search string, so it
+helps to include as much of the author and title as you can.
+
+Finally, [the script][This script is the result.] doesn't work right out
+of the box. It requires several Python modules, which I've explained in
+the comments. And to use ISBNdb.com, you have to create a free account
+and generate an API key, which then has to be hand-coded into the
+script.
+
+Happy citing!
+
+[^1]: I've been slowly learning some Python, and have blogged a little
+    bit about the experience [elsewhere][].
+
+  [Zotero]: http://www.zotero.org
+  [OttoBib]: http://www.ottobib.com
+  [ISBNdb.com]: http://isbndb.com
+  [This script is the result.]: https://gist.github.com/wcaleb/5178632
+  [DTerm]: http://decimus.net/dterm
+  [elsewhere]: http://digitalhistory.blogs.rice.edu/category/python/

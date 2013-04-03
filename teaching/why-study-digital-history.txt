@@ -2,7 +2,7 @@
 % W. Caleb McDaniel
 % August 31, 2012
 
-<div id="abstract">
+<div class="well">
 This academic year I am leading a Rice University [masterclass][] on
 [digital history][]. This essay is [cross-posted][] on our course blog,
 along with a comment box.

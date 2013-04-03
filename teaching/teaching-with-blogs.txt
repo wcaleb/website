@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % October 13, 2010 
 
-<div id="abstract">
+<div class="well">
 This post was originally published on my old blog as [Teaching with
 Blogs][].
 </div>

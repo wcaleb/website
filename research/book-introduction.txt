@@ -2,13 +2,9 @@
 % W. Caleb McDaniel
 % July 10, 2012
 
-<div id="abstract">The following text is a preprint version of the introduction
+<div class="well">The following text is a preprint version of the introduction
 to my forthcoming book, *The Problem of Democracy in the Age of Slavery:
-Garrisonian Abolitionists and Transatlantic Reform*. The final version, with
-a key to abbreviations and pagination for easier citation, will appear in the
-book itself, which is scheduled to be released by Louisiana State University
-Press in early 2013. The book will be part of the <a href="http://lsupress.org/books/by-series/antislavery-abolition-and-the-atlantic-world/">Antislavery, Abolition, and the Atlantic World</a> series, and this preprint appears here by agreement with the
-Press.</div>
+Garrisonian Abolitionists and Transatlantic Reform*, which is available for pre-order from <a href="http://www.amazon.com/Problem-Democracy-Slavery-Abolitionists-Transatlantic/dp/0807150185/">Amazon</a>. The book is part of the <a href="http://lsupress.org/books/by-series/antislavery-abolition-and-the-atlantic-world/">Antislavery, Abolition, and the Atlantic World</a> series, and this preprint appears here by agreement with LSU Press.</div>
 
 On April 14, 1865, hours before Abraham Lincoln sat down for the
 last time at Ford’s Theater in Washington, D.C., the famous abolitionist

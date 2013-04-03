@@ -2,7 +2,7 @@
 % W. Caleb McDaniel 
 % April 7, 2011
 
-<div id="abstract">
+<div class="well">
 This page was originally published on my old blog as [The Digital Early
 Republic][].
 </div>
