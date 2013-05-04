@@ -5,7 +5,7 @@ PUBDIR=$HOME/publish
 FOOTER=$LOCDIR/_footer.html
 NAVBAR=$LOCDIR/_navigation.html
 PANOPTS="--smart --standalone -f markdown --template=website.html\
- --css=./main.css --include-before-body="$NAVBAR""
+ --css=./bootstrap.css --css=./main.css --include-before-body=$NAVBAR"
 
 # $PANOPTS above assume that the website template is in
 # $HOME/.pandoc/templates/ and that the CSS file is in $PUBDIR.
@@ -58,14 +58,13 @@ sort -nr $LOCDIR/.allposts | sed -n '1,5 p'|\
  awk 'BEGIN{FS="%"};{print "* [" $2 "](" $3 ") | " $4 }'\
  > $LOCDIR/recentposts.pdc 
 pandoc $PANOPTS\
- -B $LOCDIR/_contact.html\
+ -A "$FOOTER"\
  -o $PUBDIR/index.html\
  $LOCDIR/index.pdc $LOCDIR/recentposts.pdc
 
 if [ $LOCDIR/cv.pdc -nt $PUBDIR/cv.html ];then
 echo "Processing CV ..."
 pandoc $PANOPTS\
- -B $LOCDIR/_contact.html\
  -A "$FOOTER"\
  -o $PUBDIR/cv.html\
  $LOCDIR/cvhead.pdc $LOCDIR/cv.pdc
