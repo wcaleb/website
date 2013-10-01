@@ -1,0 +1,276 @@
+% How Many Slaves Were Refugeed to Confederate Texas?
+% W. Caleb McDaniel
+% June 25, 2013
+
+<div class="well">
+This "white paper" is drawn from my larger, ongoing research project on slavery and its aftermath in Texas and its surrounding regions. To follow my research and thinking on this project, you can visit my <a href="http://wiki.wcaleb.rice.edu">open research notebook</a>. Please send any comments or questions to me by email or <a href="http://twitter.com/wcaleb">Twitter</a>.
+</div>
+
+In his new book, *Freedom National*, historian James Oakes notes that by
+the middle of 1862, slavery was already crumbling in the lower
+Mississippi Valley---the "throne" of the South's "cotton kingdom." In
+Louisiana, northern Mississippi, and western Tennessee, "everyone knew
+that runaway slaves and Union armies formed a nearly irresistible
+magnetic attraction." One result, writes Oakes, was that many planters
+began trying to "refugee" their slaves by moving them west out of the
+path of Union armies---sometimes by traveling as far as Texas.[^1]
+
+I've [spoken before][] about this wave of refugeed slaves to Texas, and
+contemporaries noticed and spoke about it, too. Arthur J. Fremantle, for
+example, a famous British traveler who journed from Mexico to
+Pennsylvania in time to witness the Battle of Gettysburg, commented on
+the movement of slaves from western Louisiana into Texas when he passed
+through the region in the spring of 1863. "We met several planters on
+the road, who with their families and negroes were taking refuge in
+Texas, after having abandoned their plantations in Louisiana," Fremantle
+wrote, adding two days later near Monroe, Louisiana, that "the road
+to-day was alive with negroes, who are being 'run' into Texas. ... We
+must have met hundreds of them."[^2]
+
+That numerous slaves were refugeed to Texas is by now an established
+fact. But just *how many* slaves were "run" into Texas to remove them
+from the magnetic pull of Union armies?
+
+One frequently cited estimate is that 150,000 slaves entered the Lone
+Star State. In a recent essay on Juneteenth, [Henry Louis Gates][]
+claimed that 150,000 slaves had "made the trek west," citing Leon
+Litwack's *Been in the Storm So Long* as his source. Litwack himself
+said the number applied only to those slaves "sent out of Louisiana and
+Mississippi." Historian [Thavolia Glymph][], in another Juneteenth essay
+several years ago, cited 150,000 as the number of slaves taken to Texas
+just in the aftermath of the battle of Vicksburg in July 1863. And other
+historians, too, have used this number.[^3]
+
+In all of these works, the 150,000 estimate usually serves one of two
+purposes: either to emphasize the significance of Juneteenth by drawing
+attention to the large number of enslaved people in Texas at the end of
+the war, or to emphasize how desperate Confederate planters were to move
+away from the "magnetic attraction" that Union armies exerted on their
+slaves. Viewed from another angle, however, a number this large raises
+questions about the relative power of Union armies and slaveholders in
+the lower Mississippi Valley. If planters were able to forcibly move
+150,000 people to Texas---a number slightly larger than the number of
+runaway slaves who were enlisted in the Union army after January 1,
+1863---we may well have to reconsider the general claim that the
+approach of Union armies after 1862 always worked to disrupt the power
+of slaveholders.[^4]
+
+Indeed, a smaller estimate of "refugeed" slaves to Texas would do more
+to strengthen the common argument that slavery in the lower Mississippi
+Valley was collapsing by the summer of 1862, rendering slaveholders
+unable to control the movements of bondspeople in the region. And, in
+fact, two Texas historians have offered much smaller estimates of
+refugeed slaves. In 1989, Randolph B. Campbell used Texas county tax
+records from 1862 and 1864 to estaimte that there were at least 32,000
+more slaves taxed in 1864 than there would have been given natural rates
+of increase. While Campbell admitted that 32,000 was likely an
+underestimate since some refugee planters would have avoided paying
+their taxes, his conservative estimate was still a far cry from the
+150,000 cited by other scholars.[^5]
+
+In a more recent 2008 essay, historian Dale Baum has offered some
+persuasive reasons why Campbell's estimate should be revised upward. By
+once again mining county tax records from 1862 and 1864, while changing
+some of Campbell's premises about uncounted refugeed slaves and the
+antebellum natural rate of increase in the slave population, Baum
+suggests a number closer to 47,800, and speculates that the total number
+could "have easily reached 51,000." Factoring in the mortality rate of
+Texas slaves could make that estimate even higher, especially
+considering ample contemporary evidence that refugees suffered high
+rates of disease on the road, but even Baum's higher estimate falls well
+short of six digits.[^6]
+
+Yet if Baum's statistical estimate of refugeed slaves brought to Texas
+is approximately correct, then where did the oft-cited figure of 150,000
+come from in the first place?
+
+The earliest source for that number appears to be Confederate general
+[John Bankhead Magruder][]. After serving for about a year as commander
+of the District of Texas, New Mexico, and Arizona, Magruder was
+transfered to Arkansas in August 1864, and in November he wrote [a
+letter to one of Arkansas's senators][] that touched on the subject of
+refugeed slaves. "I am told," Magruder said, "that over 150,000 negroes
+have gone from Missouri and Arkansas into Texas."[^7]
+
+Two things are worth noting about Magruder's estimate. First, if
+accurate, it would probably require historians to raise their estimates
+of refugeed slaves to Texas even higher than 150,000. After all,
+Magruder referred only to those taken into the state before November
+1864, and he claimed that this was the number taken only from *Missouri
+and Arkansas,* leaving the more heavily populated slave districts of
+Louisiana totally out of the equation. No scholar that I have found has
+come close to suggesting that such a large number of refugeed slaves
+came from Missouri and Arkansas alone, even though Magruder appears to
+be the source for the 150,000 estimates used by Leon Litwack and
+others.[^8]
+
+Secondly, however, the circumstances surrounding Magruder's 1864 letter
+make it highly plausible that the general exaggerated for rhetorical
+effect. Magruder was writing Johnson in 1864 partly to complain about
+his need for additional enslaved laborers to build fortifications and
+support his troops' movements in Arkansas. In February 1864, the
+Confederate Congress had authorized military commanders to impress up to
+20,000 slaves to perform labor for the army, and in keeping with that
+legislation, Magruder's superior in the Trans-Mississippi Department,
+Kirby Smith, had recently ordered Magruder to impress slaves in Arkansas
+to support an upcoming campaign to Fort Smith. But Magruder balked at
+the order, partly because of his past experience with Confederate
+slaveholders who were reluctant to comply with slave impressment orders
+and legislation. In Texas during the previous year, Magruder had battled
+constantly with state officials and private citizens in his attempts to
+impress slaves to build coastal fortifications in Galveston and
+elsewhere, and some of the fiercest resistance had come from refugee
+planters who believed they should have been exempted from impressment
+until they were settled in a new home.[^9]
+
+In view of these experiences, Magruder was convinced that any effort at
+mass impressment in Arkansas in November 1864 would lead to backlash
+among local planters, especially since (he claimed) the slave population
+of the state had already been so depleted by flight to Texas. His
+motives become clearer in the complete sentence containing his estimate
+of refugeed slaves:
+
+> I am told that over 150,000 negroes have gone from Missouri and
+> Arkansas into Texas, and leaving out all considerations of fairness, I
+> fear that if the few that remain here are impressed, those who would
+> otherwise sow and plant would emigrate to Texas, and through the
+> depopulation of the country we should not be able to support an army
+> through another season, though otherwise successful.
+
+Clearly, then, Magruder's vague report ("I am told") of over 150,000
+refugeed slaves in Texas stemmed partly from his view that Smith's
+orders were unfair and partly from his view that Arkansas planters would
+not abide a general impressment. Magruder hoped instead that Smith would
+attach some Texas counties to the Arkansas district in order to give
+Magruder access to a larger pool for impressment, especially since he
+believed that many of the refugeed slaves in Texas had been settled
+between Harrison County (just across the border from Shreveport,
+Louisiana) and Indian Territory to the north. He hoped that Johnson
+would help persuade Smith "as to the impolicy of impressing negroes in
+Arkansas."[^10]
+
+In sum, I believe that Magruder's estimate owed less to a careful
+empirical survey than to the politics of slave impressment in the waning
+days of the Confederacy. Further support for that view may be found in
+the fact that the next month, in [a similar letter][] on his impressment
+orders, Magruder asserted that "from 100,000 to 150,000 slaves had gone
+to Texas from Arkansas and Missouri," offering a much wider margin of
+error for his estimate. According to historian Ira Berlin, there is
+another letter in the National Archives, bearing the same date as
+Magruder's second letter, which also uses the 150,000 figure. I have not
+been able to see this letter yet, but given that it was written by
+Theodore Herman, a Confederate *engineer* in the District of Arkansas,
+it seems likely that Herman was also writing in the context of a
+discussion on impressment and fortifications, and he may well have been
+repeating what he had heard earlier from Magruder.[^11]
+
+This brief inquiry into the origins of the estimate that 150,000 slaves
+were refugeed nonetheless has two potentially very different
+implications for historians of emancipation and slavery in the lower
+Mississippi Valley. On the one hand, since Magruder's immediate
+political purposes were clearly best served by a large estimate of
+refugeed slaves, we perhaps should be more suspicious of the number that
+he used. It may well have been hyperbole intended for rhetorical effect.
+If so, the lower estimates offered by Campbell and Baum may strengthen
+the argument that by 1863, the power of slaveholders' to control the
+movements of enslaved people was dissolving rapidly across the region.
+
+On the other hand, Magruder's estimate does give valuable evidence of
+slave movements in 1864---a period that is beyond the reach of the
+statistical methods used by Campbell and Baum to arrive at their smaller
+estimates. As Baum notes, the Union army's Red River campaign in the
+spring of 1864 likely brought a new surge of refugees into Texas, and
+none of these slaves would have been assessed for tax purposes until the
+first day of 1865. In other words, large numbers of slaves arriving from
+Arkansas, Missouri, Louisiana, or farther away in 1864 and 1865 would
+not be accounted for in many wartime county tax rolls. And because of
+Juneteenth and the end of the Confederacy in the first half of 1865,
+this influx of refugeed slaves never would have left a significant trace
+on public records.[^12]
+
+Magruder's estimate, despite being a likely exaggeration, therefore
+remains useful as evidence that a significant number of slaves were
+refugeed into Texas in the very last months of the war. While their
+numbers may not have have reached the 150,000 high water mark often
+cited by historians, they may well have been higher than the low water
+mark estimated by Baum. Either way, the ability of refugee slaveholders
+to increase the slave population of Texas by 25 to 50 percent suggests
+that despite the "magnetic" pull of Union armies in the lower
+Mississippi Valley, a large number of slaveholders retained enough power
+or pull of their own to move thousands of enslaved people farther away
+from freedom.[^13]
+
+[^1]: James Oakes, *Freedom National: The Destruction of Slavery in the
+    United States* (New York: W. W. Norton, 2013), 318.
+
+[^2]: Arthur J. Fremantle, *Three Months in the Southern States,
+    April--June 1864* (Edinburgh: William Blackwood, 1863), 78--80, 85,
+    <http://books.google.com/books?id=hHMFAAAAQAAJ>.
+
+[^3]: See also Yael Sternhell, *Routes of War: The World of Movement in
+    the Confederate South* (Cambridge, Mass.: Harvard University Press,
+    2012), 99; Ira Berlin et al., *The Destruction of Slavery*, vol. 1
+    of *Freedom: A Documentary History of Emancipation*, ser. 1 (New
+    York: Cambridge University Press, 1985), 676; Leon Litwack, *Been in
+    the Storm So Long: The Aftermath of Slavery* (New York: Alfred A.
+    Knopf, 1979), 32; Bruce Levine, *The Fall of the House of Dixie: The
+    Civil War and the Social Revolution that Transformed the South* (New
+    York: Random House, 2013), 155.
+
+[^4]: Of the approximately 180,000 black troops who served in Union
+    forces during the war, 146,304 were recruited from the slave states.
+    See Oakes, *Freedom National*, 543n65.
+
+[^5]: Randolph B. Campbell, *An Empire for Slavery: The Peculiar
+    Institution in Texas* (Baton Rouge: Louisiana State University
+    Press, 1989), 245.
+
+[^6]: Dale Baum, "Slaves Taken to Texas for Safekeeping during the Civil
+    War," in *The Fate of Texas: The Civil War and the Lone Star State*,
+    ed. Charles D. Grear (Fayetteville: University of Arkansas Press,
+    2008), 83--103.
+
+[^7]: Maj. Gen. J. B. Magruder to Robert W. Johnson, November 5, 1864,
+    *O.R.*, ser. 1, vol. 41, part 4, 1030.
+
+[^8]: Litwack, one of the earliest historians of emancipation to use the
+    150,000 estimate, in turn cites Robert L. Kerby, *Kirby Smith's
+    Confederacy: The Trans-Mississippi South, 1863--1865* (New York:
+    Columbia University Press, 1972), 255. Kerby's footnote to this
+    paragraph includes the Magruder to Johnson letter discussed above.
+    Baum also mentions Magruder's estimate of refugees from Arkansas and
+    Missouri in passing but suggests that other reports were "perhaps
+    more accurate." See Baum, "Slaves Taken to Texas," 92.
+
+[^9]: For more on Confederate slave impressment legislation, see Bernard
+    H. Nelson, "Confederate Slave Impressment Legislation, 1861--1865,"
+    *Journal of Negro History* 31, no. 4 (October 1946), 392--410, or
+    the [timeline I am compiling][]. For more on Magruder's struggle to
+    implement an impressment policy in Texas, see the exhibit on
+    [Slavery and the Battle of Sabine Pass][] put together by myself and
+    my students at Rice University.
+
+[^10]: Maj. Gen. J. B. Magruder to Robert W. Johnson, November 5, 1864,
+    *O.R.*, ser. 1, vol. 41, part 4, 1030.
+
+[^11]: Maj. Gen. J. B. Magruder to Brig. Gen. W. R. Boggs, December 4,
+    1864, *O.R.*, ser. 1, vol. 41, part 4, 1097. See Berlin, et al.,
+    *The Destruction of Slavery*, 676n.
+
+[^12]: See Baum, "Slaves Taken to Texas," 87.
+
+[^13]: Magruder's letter may also offer additional evidence that the
+    flight of Confederate slaveholders could be spurred by Confederate
+    impressment policy as well as Union emancipation policy, a point
+    that is consonant with the findings of Stephanie McCurry,
+    *Confederate Reckoning: Power and Politics in the Civil War South*
+    (Cambridge, Mass.: Harvard University Press, 2010), chap. 6.
+
+  [spoken before]: http://wcm1.web.rice.edu/before-juneteenth-talk.html
+  [Henry Louis Gates]: http://www.theroot.com/views/what-juneteenth
+  [Thavolia Glymph]: http://thegrio.com/2009/06/18/the-truth-about-juneteenth/
+  [John Bankhead Magruder]: http://www.tshaonline.org/handbook/online/articles/fma15
+  [a letter to one of Arkansas's senators]: http://texashistory.unt.edu/ark:/67531/metapth145061/m1/1030/
+  [a similar letter]: http://texashistory.unt.edu/ark:/67531/metapth145061/m1/1097/
+  [timeline I am compiling]: http://wiki.wcaleb.rice.edu/Confederate%20Slave%20Impressment
+  [Slavery and the Battle of Sabine Pass]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/1
