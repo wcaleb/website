@@ -1,0 +1,402 @@
+% Open Notebook History
+% W. Caleb McDaniel
+% May 22, 2013
+
+What would happen if historians made their research notes public? What
+would it look like to make our notebooks "open source"?
+
+Some historians already do this, of course, after retirement or the
+completion of a research project. Many scholars deposit their research
+notes posthumously in the special collections or archives of the
+universities where they spent their careers. Many are willing to share
+old notes or sources with inquiring students or friends.[^1]
+
+But can these fairly common practices be considered Open Source history?
+
+It depends on what you mean by that term. In the world of software
+development, the decision to release, or make "open," the source code
+for a program can mean two very different things. In some cases, it
+signals that active development on a program has effectively ceased;
+open source is the elephant's graveyard where some formerly proprietary
+programs go to die. In most cases, though, [open source software][]
+(OSS) is code that anyone can inspect and change even while the software
+is in active development. It's software that encourages collaboration
+and sharing at the earliest stages of a project's life.[^2]
+
+Most historians who decide to "open" their research notes for public
+view more closely resemble the first kind of OSS developer than the
+second. As [Andrew Berger][] has astutely observed, we are usually
+willing to share sources when we are finished with them, when the
+publications that they were gathered to support have been released, or
+when we are not "actively using" what we have found. But in this post
+I'm asking about a different possibility: what would it look like to
+make our notebooks digital and "open source" from the very *beginning*
+of a project?[^3]
+
+The Promise of Open Notebook History
+------------------------------------
+
+The rise of digital media and web publishing software---some of it
+open-source---has made such a question imaginable for the first time in
+the long history of historiography. Open-source [blogging platforms][],
+[curation tools][], [bibliographic software][], and [micro-blogging
+platforms][] enable historians to easily share information about our
+research *as it happens*. As [Chad Black noted][] a few years ago, "we
+now have the possibility to construct and curate our research materials
+and process archives, what I call ... the 'Papers of You,' in real time,
+and make it immediately available to those without the resources to gain
+access to our eclectic collections."
+
+The advantages of such a practice have already been well-articulated by
+the proponents of something called [Open Notebook Science][], a movement
+that recently received [positive attention in the prominent journal
+*Nature*][]. Open Notebook Science (ONS) is the practice of putting
+one's entire lab notebook online, so that other researchers have access
+not just to a scientist's publications, but to the underlying data,
+methods, and experimental results that drive research projects forward.
+
+Open Notebook scientists place a premium on sharing even the results of
+failed or small experiments, which often produce what scientists refer
+to as [dark data][]. Biologist [Carl Boettiger's notebook][] is an
+oft-cited example of an ONS site in which *all* content is shared
+immediately or "without significant delay." But some researchers may be
+required (by funding agencies, for example) to limit the amount of data
+they share. So supporters of ONS have also created a set of distinctive
+badges for their notebooks, with each one communicating [different
+levels of openness][]. Much like the stepped licenses that authors can
+choose from the [Creative Commons][], these badges encourage scientists
+to be more open about their research even if they cannot make their
+entire notebooks immediately "open source."
+
+At first glance, the advantages of "open notebooks" may seem more
+obvious in science than in history. Sharing data makes scientific
+experiments reproducible, so that errors can be more easily spotted and
+corrected. But as [the recent attention paid to an Excel error made by
+two economists][] shows, this virtue of transparent data has relevance
+for history, as well. And, as [Chad Black has also noted][], even the
+famous [Bellesiles controversy][] could have been more easily avoided or
+settled if the notes taken to write the book had been available to
+anyone who wished to evaluate Bellesiles's claims, or if Bellesiles had
+taken his notes with the scrupulousness that would come from knowing
+they might be seen.
+
+Ultimately, however, the prevention of error is not the most exciting
+promise made by Open Notebook Science or Open Notebook History. Nor is
+it a very good recruiting tool. Academic writers are already a
+"paranoid" lot, as [William Germano has recently argued][]; our writing
+is often hampered by the paralyzing fear "that someone is always
+watching, eager to find fault." If all Open Notebook scholarship
+promises is more scrutiny from more potential fault-finders, it is hard
+to see its attraction.
+
+A better way to frame the appeal of open notebooks is less in terms of
+*fear* and more in terms of what [Black][Chad Black noted] called "the
+better parts of academics' nature"---our scholarly values of open
+intellectual exchange, integrity, and honesty. One can focus on the
+ethical value of sharing, as Black does. But it is also possible to
+justify open notebook practices in terms of their qualitative value to
+scholars. *Sharing* is something that tends to make scholars, *qua*
+scholars, happy; presumably it's why we are in the business of writing,
+speaking, and teaching in the first place.
+
+The movement of many historians on to platforms like Twitter, Tumblr,
+and Wordpress provides ample evidence of this impulse; we like to
+discover new things---links, sources, books, et cetera---and we like to
+share our eureka moments with others. When it comes to our own research,
+however, historians often delay the gratification of sharing our finds
+for months, years, and decades. And some finds---that pesky
+transcription, the identity of that little-known person, the odd letter
+stuck in the back of a folder, the carefully constructed timeline for a
+series of events---are *never* shared because they ultimately turn out
+to be tangential to our primary questions.
+
+The result is a vast repository of knowledge and thought hidden from
+public view, a black hole's worth of historical "dark data." Venture on
+to any genealogical website and you will find "lay" historians sharing
+countless examples of their hard-won archival victories and findings,
+and with a joy and easy camaraderie that is palpable; professional
+historians, however, leave many of our notes sitting in dusty file
+folders, overstuffed hard drives, and stacked bankers' boxes. The
+promise of open notebook history is the vast potential joy that could be
+ours if we chose to share our hoarded wealth.[^4]
+
+To be sure, this joy can be had in some measure without sharing our
+research while it is in progress. I can imagine a line of thought that
+goes like this: "It's true that one historian's trash is another
+historian's treasure. So, once I'm done with my treasure, I'll share my
+trash for those who might want it."
+
+But that thinking dodges the full implications of the fact that trash
+(and treasure) are in the eyes of the beholder: *The truth is that we
+often don't realize the value of what we have until someone else sees
+it.* By inviting others to see our work in progress, we also open new
+avenues of interpretation, uncover new linkages between things we would
+otherwise have persisted in seeing as unconnected, and create new
+opportunities for collaboration with fellow travelers. These things
+might still happen through the sharing of our notebooks *after*
+publication, but imagine how our publications might be enriched and
+improved if we lifted our gems to the sunlight *before* we decided which
+ones to set and which ones to discard? What new flashes in the pan might
+we find if we sifted through our sources in the company of others?
+
+The Promise of Digital History Notebooks
+----------------------------------------
+
+These questions would be moot, of course, if historians still lived in a
+pre-digital age. But available technology already makes it possible to
+disseminate notes widely. Even paper notes taken the "old-fashioned"
+(but still quite prevalent) way can be scanned and published online at
+minimal cost. Still, there are different ways of keeping "open"
+notebooks, each with distinct advantages and disadvantages.
+
+Consider, for example, [the digitized common-place book][] of the famous
+Boston abolitionist Wendell Phillips. This notebook is clearly no longer
+in active development (its author died in 1884), but when it was,
+Phillips used it to keep notes on a variety of subjects. He copied
+quotes, sketched outlines, pasted clippings, and drew links between
+things he was reading; in short, he did what many historians do as part
+of their daily work. Take a sample page from Phillips's notes and you
+can get a quick glimpse into how his mind worked: a quote from a British
+review is followed by a parenthetical note to himself about how it could
+be used in one of his speeches; marginal annotations point to other
+passages that might be related.
+
+![[Sample page][] from the Commonplace Book of Wendell Phillips][]
+
+Phillips did all of this on paper, a medium with several built-in
+liabilities---not least that a reader (himself included) could only
+consult his notes if he and the book were present in the same room.
+Thanks to the notebook's digitization, modern readers are no longer so
+constrained; anyone with access to the Internet can now see what
+Phillips wrote without having to travel to the Boston Public Library in
+Copley Square, which is where the original resides.
+
+But as a window into a working mind, Phillips's paper notebook has other
+disadvantages that a slavish digital copy does not necessarily rectify.
+First, it seems likely that Phillips added notes to this page over time,
+since some markings are in pen and other are in pencil. But there is no
+easy way to tell when specific additions were made. Nor is it possible
+to know for sure whether Phillips persisted in seeing the connections
+that he sketched out on this page, or whether he changed his mind about
+them in a signficant way. Perhaps at some point he even "turned the
+page," both literally and figuratively, and never thought of these
+quotes again.
+
+Historians beginning their notebooks today can mitigate some of these
+problems with the use of relatively simple technologies. One is the
+*hyperlink*, a deceptively simple innovation so ubiquitous on the World
+Wide Web that its power is too often taken for granted. "Linking" items
+together on a website is not just a means of facilitating browsing; it
+is also a machine-readable way of doing what historians do all the time
+when we "link" sources, ideas, concepts and arguments together. The
+link, as [Gardner Campbell has eloquently explained][], is a powerful
+way to "symbolize ideas about relationship" and thus to symbolize the
+act of higher-order cognition itself. Phillips did a version of this by
+noting cross-references in the margins, but hyperlinks would have
+facilitated both his ability to navigate to related material and to see
+multiple layers of relevance by, for example, seeing all of the notes
+that linked to a particular source.
+
+Hyperlinks would *not* have solved the other weakness of Phillips's
+notebook: its inability to track, at a fine-grained level, changes to a
+page or to his thinking over time. Digital notebooks, however, could
+overcome this challenge as well. The solution here is *version control*,
+a technology familiar to the open-source software world and embedded
+(behind the scenes) in many of the tools historians already use.
+Microsoft Word's "track changes" feature is essentially a version of
+version control, a way of seeing precisely how a text has been modified
+at a particular moment of time. Wikipedia's "history" pages provide a
+more powerful version of the same feature. And as Konrad Lawson has
+shown in a recent [Profhacker series on Github][], programs like Git
+provide the most powerful version control systems of all, allowing their
+users exceedingly fine-grained views of when and how files were changed.
+
+A history notebook kept under version control would, much like Carl
+Boettiger's open science notebook, allow both author and reader to track
+the development of a project over time. But unlike a blog, which serves
+a similar purpose by timestamping posts and publishing them in reverse
+chronological order, version control would also make clear what the
+*most current* version of a researcher's thinking is. An old blog post
+whose arguments have since been superseded or changed remains
+permanently in the archives of a blog; so does a page of notes kept
+under version control. In the second case, however, older versions are
+more easily hidden from view. Updates overwrite old notes while still
+making the older copies available to those who want to look closer.
+
+For those who *do* want to look closer, version control may be able to
+unlock some of the deeper possibilities of Open Digital Notebook
+History. Historian William G. Thomas III spelled out these possibilities
+in a [2008 forum][] on "The Promise of Digital History," when he wrote
+that
+
+> the digital medium offers a unique means to create interpretive and
+> evidentiary models under continual change. Digital history should
+> embrace the impermanence of the medium, use it to convey the changing
+> nature of the past and of how we understand it. I consider such
+> digital sites open research platforms where scholars can stage
+> problems and continually modify their work, readers can view the
+> research as it develops, and both can continually assemble new
+> associations as an interpretive model is built.
+
+For historians, the attraction here should be easy to see. We already
+believe in contingency, that interpretive models depend for their
+development on time and context. Unlike Open Notebook Scientists, our
+motive for providing our data will have less to do with a desire to make
+our experiments reproducible, and more to do with a belief that
+historical arguments are on a fundamental level irreproducible. Each one
+is the product of a particular person or group of people at a particular
+time and place. In this sense, open history notebooks under version
+control may represent the perfect marriage of medium and message; they
+can both enable us to develop specific historical arguments and
+communicate the general argument most important to historians, that the
+"nature of the past" and "how we understand it" are under "continual
+change."[^5]
+
+An Experiment in Open Notebook History
+--------------------------------------
+
+The above considerations have led me to try an experiment: I'm going to
+see what it's like to keep an open notebook for my new book project.
+
+The platform I have chosen is [an open wiki][] run on [Gitit][], which
+has built in version control by Git. This makes it possible for me to
+edit my notes locally in my own text editor, using Pandoc and Markdown,
+or online using Gitit's web interface. Most importantly, however, Gitit
+automates the process of keeping track of changes I have made to
+individual pages or the site as a whole. The [activity page][], for
+example, keeps a running list of which notes I have changed, together
+with links that allow immediate comparisons between the latest version
+and the last one.
+
+![A screenshot of the [recent changes][activity page] page on my
+Wiki.][]
+
+I'm calling this an experiment because I'm aware that there are
+potential downsides to Open Notebook History. Some of them came up in a
+[THATCamp discussion on ONH][] held in January 2013. Konrad Lawson has
+also outlined some potential objections, together with some persuasive
+replies, in his recent post on [forking the academy][].
+
+One concern often raised about experiments like this has to do with
+their implications for publication. Two questions may arise: What if
+someone "scoops" an idea before it can be published? And what if a
+publisher won't publish articles whose data and sources are already so
+open and available?
+
+The first question doesn't strike me as a reason to abandon Open
+Notebook History, for the simple reason that a digital notebook of the
+kind I am describing will preserve, in what some might call excruciating
+detail, precisely when an author had an idea and where he or she got it.
+The second question is a more serious one, but its force can be
+deflected by a simple thought experiment: consider the file drawer full
+of your notes, jottings, photocopies, and scribbled upon napkins, and
+then consider the manuscript you are writing or have written with the
+use of these notes. If you have little trouble seeing that one of these
+things is not the other, I suspect a publisher likewise won't confuse
+your wad of notes with the carefully crafted, argumentative narrative
+you present for publication. And if that remains a concern, it may be
+worth noting that Open Notebook Scientists don't seem to have
+experienced a noticeable decline in rates of publication because of
+their choice to put lab notebooks online.[^6]
+
+Still, there are problems associated with keeping an open notebook, like
+issues pertaining to the copyright law governing sources, that I am
+still thinking about and will take time to resolve. One possible way
+forward is to do as Open Notebook Scientists have done and create a
+[stepped system of notifications][different levels of openness] that
+communicates to readers how *much* of a researcher's notebook or source
+base is being shared. These notifications could range from one that
+says, essentially, "if it isn't in the notebook others can assume that
+you haven't done it, " to more limited notifications that say clearly
+"others cannot assume that if it isn't in the notebook you haven't done
+it."
+
+Even if open history notebooks ultimately fall more often on the latter
+end of this spectrum, however, I think they hold out tremendous
+potential to create a rich back-channel of information about the work
+historians do. Enough examples exist to show that it is possible to
+create the "open research platforms" that Will Thomas spoke of in 2008;
+to demonstrate their utility, what's needed is a critical mass of
+historians willing to try them out. The experiment could well fail, but
+we won't know unless we try.
+
+[^1]: In 2010, Deborah Kaplan wrote a [moving account][] of how these
+    impulses shaped the personal archive of her late husband, Roy
+    Rosenzweig. Her essay, "The Afterlife of an Archive," may be one of
+    the best things I've ever read in *The Chronicle of Higher
+    Education*.
+
+[^2]: I may get in trouble in some circles for saying this, but I'd
+    point to [TextMate][] as an illustration of open source signaling a
+    project's senescence, while [Vim][] is an example of an open-source
+    project that remains in active development.
+
+[^3]: Jason Heppler has a similar, [excellent post][] that uses the
+    "open source" metaphor to argue for open access publication by
+    historians. Here I'm thinking less about open-access publication and
+    more about open-access notes, which raise some distinctive questions
+    and open some unique possibilities that aren't necessarily discussed
+    in conversations about OA.
+
+[^4]: The recent [ITHAKA report][] on historians' research practices
+    notes that "scholars are now amassing incredible personal libraries
+    of digitized material, alongside the content they are producing as
+    part of the research process (notes or writings)," which is probably
+    an understatement.
+
+[^5]: The sort of notebook I am imagining may also serve the secondary
+    but not insignificant purpose of sharing with other historians our
+    methods for conducting research. The [recent ITHAKA report][ITHAKA
+    report] on historians' research practices indicates that historians
+    in training often learn about how to organize and keep notes in
+    haphazard way. This is changing thanks to blogs like Profhacker and
+    books like [*Writing History in the Digital Age*][], but it remains
+    largely true that historians keep their research workflows largely
+    to themselves and leave new historians to reinvent for themselves
+    the wheels we are already using.
+
+[^6]: Carl Boettiger [reports][Carl Boettiger's notebook] that after
+    three years, his open lab notebook "has seen six projects go from
+    conception to publication." In a [recent interview][], he also gave
+    a thought-provoking response to the question of whether he feared
+    being scooped: "That concern is there, but I haven't experienced any
+    scoops. I think it is an overrated fear, especially when compared
+    with the risk of being unknown in your field."
+
+  [open source software]: http://en.wikipedia.org/wiki/Open-source_software
+  [Andrew Berger]: http://www.andrewjberger.net/wordpress/2012/08/29/what-would-it-take-for-historians-to-be-able-to-share-archival-material/
+  [blogging platforms]: http://www.wordpress.org
+  [curation tools]: http://www.omeka.org
+  [bibliographic software]: http://www.zotero.org
+  [micro-blogging platforms]: http://twitter.com
+  [Chad Black noted]: http://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/
+  [Open Notebook Science]: http://en.wikipedia.org/wiki/Open_notebook_science
+  [positive attention in the prominent journal *Nature*]: http://www.nature.com/nature/journal/v495/n7442/full/495437a.html
+  [dark data]: http://www.wired.com/science/discoveries/magazine/15-10/st_essay
+  [Carl Boettiger's notebook]: http://carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html
+  [different levels of openness]: http://onsclaims.wikispaces.com
+  [Creative Commons]: http://creativecommons.org
+  [the recent attention paid to an Excel error made by two economists]: http://www.nextnewdeal.net/rortybomb/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems
+  [Chad Black has also noted]: https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/
+  [Bellesiles controversy]: http://en.wikipedia.org/wiki/Arming_America
+  [William Germano has recently argued]: http://chronicle.com/article/Do-We-Dare-Write-for-Readers-/138581/
+  [the digitized common-place book]: http://archive.org/stream/commonplacebooku00phil
+  [Sample page]: http://archive.org/stream/commonplacebooku00phil#page/n99/mode/2up
+  [[Sample page][] from the Commonplace Book of Wendell Phillips]: ./phillips-page.jpg
+  [Gardner Campbell has eloquently explained]: http://www.gardnercampbell.net/blog1/?p=2080
+  [Profhacker series on Github]: http://chronicle.com/blogs/profhacker/tag/github101
+  [2008 forum]: http://www.journalofamericanhistory.org/issues/952/interchange/
+  [an open wiki]: http://wiki.wcaleb.rice.edu
+  [Gitit]: http://gitit.net
+  [activity page]: http://wiki.wcaleb.rice.edu/_activity
+  [A screenshot of the [recent changes][activity page] page on my
+  Wiki.]: ./wiki-screenshot.jpg
+  [THATCamp discussion on ONH]: https://docs.google.com/document/d/1HOVQMyu90vs_Scuj5AsDBpAQgNBVDf1azxNz6aasV8Y/edit?usp=sharing
+  [forking the academy]: http://chronicle.com/blogs/profhacker/fork-the-academy/48935
+  [moving account]: http://chronicle.com/article/The-Afterlife-of-an-Archive/124564/
+  [TextMate]: http://arstechnica.com/apple/2012/08/odgaard-i-will-continue-working-on-textmate-as-long-as-i-am-a-mac-user/
+  [Vim]: http://www.vim.org
+  [excellent post]: http://www.jasonheppler.org/2008/11/08/open-source-scholarship-and-why-history-should-be-open-source.html
+  [ITHAKA report]: http://www.sr.ithaka.org/research-publications/supporting-changing-research-practices-historians
+  [*Writing History in the Digital Age*]: http://writinghistory.trincoll.edu
+  [recent interview]: http://www.nature.com/naturejobs/science/articles/10.1038/nj7434-711a
