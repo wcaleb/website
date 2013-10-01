@@ -1,0 +1,266 @@
+% Mining the BPL Anti-Slavery Collection on the Internet Archive
+% W. Caleb McDaniel
+% October 1, 2013
+
+No archival collection was more important to my book on American
+abolitionism than the [Anti-Slavery Collection][] at the Boston Public
+Library in Copley Square. Today, it contains not only the letters of
+William Lloyd Garrison, one of the icons of the abolitionist movement,
+but also large collections of letters by and to reformers somehow
+connected to him. And by "large collection," I mean *large*. According
+to the library's estimates, there are over 16,000 items at Copley, many
+of which I pored over in three separate trips to Boston while writing my
+dissertation and book.
+
+Fortunately for historians of abolitionism, this historic collection is
+now being gradually digitized and uploaded to the [Internet Archive][].
+This is good news, not only because the Archive is committed to making
+its considerable cultural resources free for download, but also because
+each uploaded item is paired with a wealth of metadata suitable for
+machine-reading.
+
+Take [this letter][] sent by Frederick Douglass to William Lloyd
+Garrison. Anyone can read the [original manuscript][] online, without
+making the trip to Boston, and that alone may be enough to revolutionize
+and democratize future abolitionist historiography. But you can also
+download [multiple files][] related to the letter that are rich in
+metadata, like a [Dublin Core][] record and a fuller [MARCXML][] record
+that uses the [Library of Congress's MARCH 21 Format for Bibliographic
+Data][].
+
+Stop and think about that for a moment: *every* item uploaded from the
+Collection contains these things. Right now, that means historians have
+access to rich metadata, full images, and partial descriptions for [over
+6,400 antislavery letters, manuscripts, and publications][].
+
+In short, to quote [Ian Milligan][], "The Internet Archive rocks."
+
+To figure out just how much the Internet Archive rocks (spoiler: *a
+lot*), I decided to test my still embryonic Python chops, learned mostly
+from the [Programming Historian][], to see if I could explore the
+digital anti-slavery collection programmatically.
+
+### Getting a List of Item URLs
+
+The first thing I wanted to do was get a list of URLs to all the
+collection items that have been uploaded to the Internet Archive so far.
+
+To do that, I examined the URL for [one of the results pages][] for a
+search in the `bplscas` collection:
+
+    http://archive.org/search.php?query=collection%3Abplscas&page=1
+
+From this page I clicked on the link to the "last" results page, and
+noticed that the URL for this page was the same, except for the final
+digit, which at this writing was 130:
+
+    http://archive.org/search.php?query=collection%3Abplscas&page=130
+
+I then turned to a Programming Historian lesson on how to [download
+multiple pages from a website using query strings][]. By slightly
+modifying the code in that lesson, I knew I could get the HTML for every
+one of the 130 results pages.
+
+But that would have given me more HTML than I actually wanted. All I
+wanted were the URLs to each individual item, not all the other bells
+and whistles on the results page.
+
+Thankfully, by inspecting the HTML for one of the results pages in my
+browser, I learned that the URL I want always seems to be contained in
+an `<a class="titleLink">` tag. So I also turned next to a Programming
+Historian lesson on [Beautiful Soup][], which helped me figure out how I
+could parse the HTML for each results page and just get the contents of
+that one tag for each page. Putting it all together, I came up with
+this:
+
+~~~~ {.python}
+import urllib2
+from bs4 import BeautifulSoup
+
+# Get the HTML for each list of results from the BPL collection. URLs look
+# like this: http://archive.org/search.php?query=collection%3Abplscas&page=1
+# I know there are 130 pages.
+
+for resultsPage in range(1, 131):
+
+    url = "http://archive.org/search.php?query=collection%3Abplscas&page=" + str(resultsPage)
+    response = urllib2.urlopen(url).read()
+    soup = BeautifulSoup(response)
+    links = soup.find_all(class_="titleLink")
+    for link in links:
+        itemURL = link['href']
+        f = open('bplitemurls.txt','a')
+        f.write('http://archive.org' + itemURL + '\n')
+        f.close()
+~~~~
+
+After running that and waiting for a few minutes, I got a text file
+containing URLs to all of the items currently in the `bplscas`
+collection. At this writing, that's 6453 items. You can get the list of
+URLs I produced, as well as the above script, in [a GitHub
+repository][], but here's a taste of what the list looks like:
+
+    http://archive.org/details/lettertodearmrma00chap2
+    http://archive.org/details/lettertomariawes00webb2
+    http://archive.org/details/lettertodearmiss00smit10
+    http://archive.org/details/lettertomydearde00west33
+    http://archive.org/details/lettertodearanne00chap7
+
+It may not look like much, but that list makes it possible to write
+further scripts that iterate through the entire collection to download
+associated files and metadata about each item.
+
+### Getting URLs to the MARC Records for Items
+
+The next thing I wanted to do was be able to access the full MARCXML
+record for each of the items in the collection. That's where I can get
+the really valuable information---author, recipient, original call
+number and so on.
+
+Unfortunately, however, the base URLs for the MARCXML records vary
+according to item; most look something like this:
+
+    http://ia801703.us.archive.org/fetchmarc.php?path=%2F29%2Fitems%2Flettertowilliaml00doug%2Flettertowilliaml00doug_marc.xml
+
+Close inspection shows that the end of that URL is just the item page
+URL, with `_marc.xml` appended to the end. But the base URL characters
+(in this case `ia801703`) are different for every item. So to construct
+the URL to the MARC record, I had to use BeautifulSoup again, this time
+on the HTML for each item page.
+
+~~~~ {.python}
+f = open('bplitemurls.txt','r')
+for line in f:
+
+    # remove new lines, save item name for later when forming url to MARC
+    line = line.rstrip()    
+    itemname = line.rsplit("/", 1)[1]
+
+    # go to item page to get root for HTTPS url, needed for url to MARC
+    itempage = urllib2.urlopen(line).read()
+    htmlsoup = BeautifulSoup(itempage)
+    https_string = htmlsoup.find(text="HTTPS")  
+    xmlurl = https_string.find_parent("a")['href'] + "/" + itemname + "_marc.xml"
+~~~~
+
+Armed with the `xmlurl` for each item, it's now possible to use Python
+to download the XML records to local files, or to use Beautiful Soup
+again to grab specific data from the XML and write it to a file.
+
+### Getting Metadata from the MARC Records for Items
+
+One limitation of the digitized version of the Anti-Slavery Collection
+is that it does not contain full-text transcriptions of each letter
+(which would/will be a monumental undertaking). But the metadata for
+each item alone can be pretty useful for macrolevel analysis of the
+collection.
+
+For example, by starting (but not finishing) a [Coursera class on social
+network analysis][] last year, I learned a little bit about how to use
+the visualization program [Gephi][] to graph interpersonal networks.
+Through that course I learned that even a [fairly simple, CSV text
+file][] showing relationships between people can be fed into Gephi for a
+quick graph.[^1]
+
+Using BeautifulSoup and the standard MARC datafields for [main personal
+name][] and [added personal name][], it only took a little additional
+coding to figure out how to output the author and likely recipient of
+each BPL item into a semicolon-separated file.[^2]
+
+~~~~ {.python}
+# Function for dealing with empty datafields in the MARC record.
+# http://stackoverflow.com/questions/3376666/
+def getstring(tag):
+    return "None" if tag is None else tag.subfield.string.encode('utf-8')
+
+# Go to MARC record for item to get author and recipient
+marcxml = urllib2.urlopen(xmlurl).read()
+xmlsoup = BeautifulSoup(marcxml, "xml")
+author = getstring(xmlsoup.find(tag="100"))
+recipient = getstring(xmlsoup.find(tag="700"))
+
+# In this case, I'm going to write the author and recipient to a CSV file
+# suitable for uploading into Gephi.
+f = open('bplnetwork.txt','a')
+f.write(author + ';' + recipient + '\n')
+f.close
+~~~~
+
+Those lines got me [a lengthy table][] of the author and recipient for
+each item in my list of item URLs. Here's a snippet of what this looks
+like:
+
+    Chapman, Maria Weston,;May, Samuel,
+    Webb, Richard Davis,;Chapman, Maria Weston,
+    Smith, Evelina A. S.;Weston, Anne Warren,
+    Weston, Anne Warren,;Weston, Deborah,
+
+The list as a whole has some problems, created by the facts that (a)
+many letters don't have the recipient listed and (b) not all the items
+in the collection are letters. To make my first network visualization, I
+just removed the 600 or so letters that had "None" as a creator or a
+recipient. But to do further analysis, I would have to do more data
+cleaning.
+
+Still, by feeding the table I had into Gephi (with a `source;target`
+header row appended before the first row of names), and running a
+standard layout, I got this pretty neat looking graph:
+
+![image][]
+
+I've cropped the image to remove some of the outliers who did not have
+many letters in the collection, but each dot on this graph represents a
+name. The central "node" in the lower image is, not surprisingly,
+William Lloyd Garrison, and at the center of the cluster above him is
+the [quartet of abolitionist sisters][], Maria Weston Chapman, Caroline
+Weston, Deborah Weston, and Anne Warren Weston.
+
+The next step in this exploration would be to figure out what this
+visualization means, but that's a subject for another post. To me, the
+graph alone is an indication of the exciting opportunities created by
+mining the BPL on the Internet Archive. And the fact that I was able to
+do this mining largely on the basis of [Programming Historian][] lessons
+is evidence that even historians more accustomed to sitting in archives
+and flipping through folders can also learn to interact with primary
+sources on the web in ways that go beyond Googling and browsing.[^3]
+
+[^1]: A post by Justin Briggs on [How to Visualize Open Site Explorer
+    Data in Gephi][] also offers a useful introduction to Gephi's
+    features.
+
+[^2]: Note that to use BeautifulSoup to parse the XML records, I had to
+    have `lxml` installed. I'm also inferring from the records I've
+    examined that the original catalogers put the author of the letter
+    in the `100` datafield and the receipient in the first subfield of
+    the `700` tag in the MARCXML record. I'm fairly confident this is
+    the convention used, and spot-checking confirms that, but caveat
+    emptor.
+
+[^3]: If you'd like to explore the scripts and the data further, I've
+    created a [GitHub repository][a GitHub repository] with the code and
+    output discussed in this post.
+
+  [Anti-Slavery Collection]: http://www.bpl.org/distinction/featured-collections/anti-slavery/
+  [Internet Archive]: http://archive.org/details/bplscas/
+  [this letter]: http://archive.org/details/lettertowilliaml00doug
+  [original manuscript]: http://archive.org/stream/lettertowilliaml00doug/39999066767938#page/n0/mode/2up
+  [multiple files]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/
+  [Dublin Core]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/lettertowilliaml00doug_dc.xml
+  [MARCXML]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/lettertowilliaml00doug_marc.xml
+  [Library of Congress's MARCH 21 Format for Bibliographic Data]: http://www.loc.gov/marc/bibliographic/
+  [over 6,400 antislavery letters, manuscripts, and publications]: http://archive.org/search.php?query=collection%3Abplscas&sort=-publicdate
+  [Ian Milligan]: http://activehistory.ca/2013/09/the-internet-archive-rocks-or-two-million-plus-free-sources-to-explore/
+  [Programming Historian]: http://programminghistorian.org
+  [one of the results pages]: http://archive.org/search.php?query=collection%3Abplscas&page=1
+  [download multiple pages from a website using query strings]: http://programminghistorian.org/lessons/downloading-multiple-records-using-query-strings
+  [Beautiful Soup]: http://programminghistorian.org/lessons/intro-to-beautiful-soup
+  [a GitHub repository]: https://github.com/wcaleb/mining-bpl
+  [Coursera class on social network analysis]: https://www.coursera.org/course/sna
+  [Gephi]: http://gephi.org
+  [fairly simple, CSV text file]: https://gephi.org/users/supported-graph-formats/csv-format/
+  [main personal name]: http://www.loc.gov/marc/bibliographic/bd100.html
+  [added personal name]: http://www.loc.gov/marc/bibliographic/bd700.html
+  [a lengthy table]: https://github.com/wcaleb/mining-bpl/blob/master/bplnetwork.txt
+  [image]: ./bplnetwork1.png
+  [quartet of abolitionist sisters]: http://www25.uua.org/uuhs/duub/articles/mariawestonchapman.html
+  [How to Visualize Open Site Explorer Data in Gephi]: http://justinbriggs.org/how-visualize-open-site-explorer-data-in-gephi
