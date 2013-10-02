@@ -25,7 +25,7 @@ making the trip to Boston, and that alone may be enough to revolutionize
 and democratize future abolitionist historiography. But you can also
 download [multiple files][] related to the letter that are rich in
 metadata, like a [Dublin Core][] record and a fuller [MARCXML][] record
-that uses the [Library of Congress's MARCH 21 Format for Bibliographic
+that uses the [Library of Congress's MARC 21 Format for Bibliographic
 Data][].
 
 Stop and think about that for a moment: *every* item uploaded from the
@@ -96,8 +96,8 @@ for resultsPage in range(1, 131):
 
 After running that and waiting for a few minutes, I got a text file
 containing URLs to all of the items currently in the `bplscas`
-collection. At this writing, that's 6453 items. You can get the list of
-URLs I produced, as well as the above script, in [a GitHub
+collection. At this writing, that's 6453 items. You can get [the list of
+URLs](https://github.com/wcaleb/mining-bpl/blob/master/bplitemurls.txt) I produced, as well as the above script, in [a GitHub
 repository][], but here's a taste of what the list looks like:
 
     http://archive.org/details/lettertodearmrma00chap2
