@@ -206,7 +206,7 @@ Still, by feeding the table I had into Gephi (with a `source;target`
 header row appended before the first row of names), and running a
 standard layout, I got this pretty neat looking graph:
 
-![][./bplnetwork1.png]
+![](./bplnetwork1.png)
 
 I've cropped the image to remove some of the outliers who did not have
 many letters in the collection, but each dot on this graph represents a
