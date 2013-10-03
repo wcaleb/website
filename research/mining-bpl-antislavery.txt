@@ -206,7 +206,7 @@ Still, by feeding the table I had into Gephi (with a `source;target`
 header row appended before the first row of names), and running a
 standard layout, I got this pretty neat looking graph:
 
-![image][]
+![][./bplnetwork1.png]
 
 I've cropped the image to remove some of the outliers who did not have
 many letters in the collection, but each dot on this graph represents a
@@ -261,6 +261,5 @@ sources on the web in ways that go beyond Googling and browsing.[^3]
   [main personal name]: http://www.loc.gov/marc/bibliographic/bd100.html
   [added personal name]: http://www.loc.gov/marc/bibliographic/bd700.html
   [a lengthy table]: https://github.com/wcaleb/mining-bpl/blob/master/bplnetwork.txt
-  [image]: ./bplnetwork1.png
   [quartet of abolitionist sisters]: http://www25.uua.org/uuhs/duub/articles/mariawestonchapman.html
   [How to Visualize Open Site Explorer Data in Gephi]: http://justinbriggs.org/how-visualize-open-site-explorer-data-in-gephi
