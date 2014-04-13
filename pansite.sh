@@ -22,8 +22,8 @@ do
 CATEGORY=$(basename "$folder")
 for file in `ls "$folder"/*.txt`
 do
+POST=$(basename "$file" .txt)
 	if head -n 1 "$file" | grep -Eq "^%"; then
-	POST=$(basename "$file" .txt)
 	TITLE=$(sed -n '1 s/% //p' "$file")
 	POSTDATE=$(sed -n '3 s/% //p' "$file" | sed 's/[ ]$//')
 	# Next two lines use BSD date command. For GNU date, use commented line
@@ -32,11 +32,14 @@ do
 	# SORTDATE=$(date -d "$POSTDATE" +%y%m%d)
 	RSSDATE=$(date -jf '%B %e, %Y' "$POSTDATE" '+%a, %d %b %Y 00:00:00 %Z')
 	# RSSDATE=$(date -d "$POSTDATE" '+%a, %d %b %Y 00:00:00 %Z')
-	pandoc $PANOPTS\
- 	 --variable=category:"$CATEGORY"\
-	 --include-after-body="$FOOTER"\
-	 --output=$PUBDIR/"$POST".html\
-	 "$file"
+	if [ $file -nt $PUBDIR/$POST.html ]; then
+		echo "| $POST"
+		pandoc $PANOPTS\
+ 		 --variable=category:"$CATEGORY"\
+		 --include-after-body="$FOOTER"\
+		 --output=$PUBDIR/"$POST".html\
+		 "$file"
+	fi
 	CLIP=$(grep -m 1 -Eo '<p>.+</p>' $PUBDIR/"$POST".html) 
 	echo ""$SORTDATE"%"$TITLE"%"$POST".html%"$POSTDATE"%"$RSSDATE"%"$CLIP""\
 	 >> $LOCDIR/"$CATEGORY".txt
