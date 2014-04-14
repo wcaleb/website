@@ -26,7 +26,7 @@ and democratize future abolitionist historiography. But you can also
 download [multiple files][] related to the letter that are rich in
 metadata, like a [Dublin Core][] record and a fuller [MARCXML][] record
 that uses the [Library of Congress's MARC 21 Format for Bibliographic
-Data][].
+Data][MARC].
 
 Stop and think about that for a moment: *every* item uploaded from the
 Collection contains these things. Right now, that means historians have
@@ -109,6 +109,10 @@ repository][], but here's a taste of what the list looks like:
 It may not look like much, but that list makes it possible to write
 further scripts that iterate through the entire collection to download
 associated files and metadata about each item.
+
+<div class="well">
+**Update, October 10:** Thanks to a tweet from [Bill Turkel](https://twitter.com/williamjturkel/status/385463996368687104), I subsequently learned of [this `internetarchive` Python package](https://pypi.python.org/pypi/internetarchive/0.4.3), which would have made many parts of this exercise much easier. For example, the package comes with a command-line program that can search the Internet Archive directly. To get my list of all of the item names in the `bplscas` collection, I could simply have typed `ia search 'collection:bplscas'` at the command line and piped it to a file. Live and learn!
+</div>
 
 ### Getting URLs to the MARC Records for Items
 
@@ -224,6 +228,7 @@ is evidence that even historians more accustomed to sitting in archives
 and flipping through folders can also learn to interact with primary
 sources on the web in ways that go beyond Googling and browsing.[^3]
 
+
 [^1]: A post by Justin Briggs on [How to Visualize Open Site Explorer
     Data in Gephi][] also offers a useful introduction to Gephi's
     features.
@@ -247,7 +252,7 @@ sources on the web in ways that go beyond Googling and browsing.[^3]
   [multiple files]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/
   [Dublin Core]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/lettertowilliaml00doug_dc.xml
   [MARCXML]: https://ia801703.us.archive.org/29/items/lettertowilliaml00doug/lettertowilliaml00doug_marc.xml
-  [Library of Congress's MARCH 21 Format for Bibliographic Data]: http://www.loc.gov/marc/bibliographic/
+  [MARC]: http://www.loc.gov/marc/bibliographic/
   [over 6,400 antislavery letters, manuscripts, and publications]: http://archive.org/search.php?query=collection%3Abplscas&sort=-publicdate
   [Ian Milligan]: http://activehistory.ca/2013/09/the-internet-archive-rocks-or-two-million-plus-free-sources-to-explore/
   [Programming Historian]: http://programminghistorian.org

@@ -1,35 +1,43 @@
-# Greetings!
+<h1 id="greetings">Greetings!</h1>
+
+<p>My name is <strong>W. Caleb McDaniel</strong>. I'm an assistant professor of history at Rice University and a scholar of the nineteenth-century United States. I am also a Board Member and social media director for <a href="http://www.historiansagainstslavery.org/">Historians Against Slavery</a>.</p>
 
 <a name="site-map"></a>
 
-My name is **W. Caleb McDaniel**. I'm an assistant professor of history at Rice University and a scholar of the nineteenth-century United States. On this site you can find my **[publications][]**, occasional posts on my current **[research](./research.html)** and **[teaching](./teaching.html)**, and some geeky computer **[hacks](./hacks.html)**.
+<p>On this site you can find my <strong><a href="./cv">CV</a></strong> and <strong><a href="./cv.html#publications">publications</a></strong>, occasional posts on my current <strong><a href="./research.html">research</a></strong> and <strong><a href="./teaching.html">teaching</a></strong>, and some geeky computer <strong><a href="./hacks.html">hacks</a></strong>.</p>
 
-[![](./images/book.jpg)][Amazon] My first book, *The Problem of Democracy in the Age of Slavery: Garrisonian Abolitionists and Transatlantic Reform*, is forthcoming from [LSU Press][] in May 2013 ([Amazon][]). In the meantime, you can read [the introduction](./book-introduction.html). In AY 2012-2013 I am leading a [Masterclass on Digital History](http://digitalhistory.blogs.rice.edu). During the Spring 2013 semester I am teaching [HIST 118](http://hist118.wcaleb.rice.edu) and [HIST 588](http://wcm1.web.rice.edu/hist588spring13.pdf).
+<div id="shaded-block-on-phone">
 
-<p>You can send me <a href="http://history.rice.edu/content.aspx?id=546">snail mail</a> at my department or send me an email at 
+<h2 id="contact" class="visible-phone">Contact</h2>
+
+<p>
+Feel free to email me at
 <script type="text/javascript">
 <!--
 h='&#114;&#x69;&#x63;&#x65;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x63;&#x61;&#108;&#x65;&#98;&#46;&#x6d;&#x63;&#100;&#x61;&#110;&#x69;&#x65;&#108;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'<code>'+e+'</code>'+'<\/'+'a'+'>');
 // -->
-</script><noscript>&#x63;&#x61;&#108;&#x65;&#98;&#46;&#x6d;&#x63;&#100;&#x61;&#110;&#x69;&#x65;&#108;&#32;&#x61;&#116;&#32;&#114;&#x69;&#x63;&#x65;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript>
-.</p>
+</script><noscript>
+caleb.mcdaniel at rice dot edu
+</noscript> 
+or send me <a href="http://history.rice.edu/content.aspx?id=546">snail mail</a> at my department. I also <a href="http://twitter.com/wcaleb">tweet</a>, <a href="http://pinboard.in/u:wcaleb">pin</a>, <a href="http://clippings.tumblr.com">tumble</a>, <a href="http://github.com/wcaleb">git</a>, and <a href="http://www.librarything.com/profile/wcm">LibraryThing</a>.
+</p>
 
-I also [tweet][], [pin][], [tumble][], [git][], and [LibraryThing][].
+</div>
 
-[publications]: ./cv.html#publications
-[tweet]: http://twitter.com/wcaleb
-[pin]: http://pinboard.in/u:wcaleb
-[tumble]: http://clippings.tumblr.com
-[git]: http://github.com/wcaleb
-[LibraryThing]: http://www.librarything.com/profile/wcm
-[pandoc]: http://www.johnmacfarlane.net/pandoc/
-[CC BY-SA 3.0]: http://creativecommons.org/licenses/by-sa/3.0/
-[LSU Press]: http://lsupress.org/books/detail/problem-of-democracy-in-the-age-of-slavery/
-[Amazon]: http://www.amazon.com/Problem-Democracy-Slavery-Abolitionists-Transatlantic/dp/0807150185/
-[snail mail]: http://history.rice.edu/content.aspx?id=546
+<p>In the Spring 2014 semester, I will be teaching <a href="http://digitalhistory.blogs.rice.edu">HIST 318</a>, "Digital History Methods"; and <a href="http://wcm1.web.rice.edu/pdf/hist587sp14.pdf">HIST 587</a>, a graduate research seminar focusing on cultural history.</p>
 
-## Recently posted
+<h2 id="book" class="visible-phone">Book</h2>
+
+<p><a href="http://www.amazon.com/Problem-Democracy-Slavery-Abolitionists-Transatlantic/dp/0807150185/"><img src="./images/book.jpg" /></a> My first book, <em>The Problem of Democracy in the Age of Slavery: Garrisonian Abolitionists and Transatlantic Reform</em>, was published by <a href="http://lsupress.org/books/detail/problem-of-democracy-in-the-age-of-slavery/">LSU Press</a> in May 2013.</p>
+
+<p>You can read <a href="./book-introduction.html">the introduction</a> online for free, purchase the book from <a href="http://www.amazon.com/Problem-Democracy-Slavery-Abolitionists-Transatlantic/dp/0807150185/">Amazon</a>, or download from <a href="http://muse.jhu.edu/books/9780807150191">Project Muse</a>.</p>
+
+<p>You can also listen to an interview about the book on the <a href="http://newbooksinamericanstudies.com/2013/09/20/w-caleb-mcdaniel-the-problem-of-democracy-in-the-age-of-slavery-garrisonian-abolitionists-and-transatlantic-reform-lsu-press-2013/">New Books in American Studies</a> podcast. Links to additional reviews and coverage are available on my <a href="https://pinboard.in/u:wcaleb/t:mybook/">Pinboard</a> page.</p>
+
+<h2 id="recently-posted">Recently posted</h2>
 
 <!--The list of recent posts is generated by the shell script that produces this site. See http://wcm1.web.rice.edu/colophon.html for more information.-->
+
+
 
