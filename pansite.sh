@@ -65,9 +65,10 @@ pandoc $PANOPTS\
  -o $PUBDIR/index.html\
  $LOCDIR/index.pdc $LOCDIR/recentposts.pdc
 
-if [ $LOCDIR/cv.pdc -nt $PUBDIR/cv.html ];then
+if [ $LOCDIR/cv.pdc -nt $PUBDIR/cv.html ] || [ $LOCDIR/cvhead.pdc -nt $PUBDIR/cv.html ]; then
 echo "Processing CV ..."
 pandoc $PANOPTS\
+ --variable=date:"$(date '+%B %e, %Y')"\
  -A "$FOOTER"\
  -o $PUBDIR/cv.html\
  $LOCDIR/cvhead.pdc $LOCDIR/cv.pdc
