@@ -2,6 +2,8 @@
 % W. Caleb McDaniel
 % October 1, 2013
 
+<div class="well">Please note that I have published a more up-to-date version of this tutorial as a <a href="http://programminghistorian.org/lessons/data-mining-the-internet-archive">Programming Historian lesson</a>. Some of the methods used below have either been deprecated by the Internet Archive API or made easier by the Python modules discussed in my PH lesson. But the bottom of this post does contain a still relevant example of how to use BPL metadata to make a social network graph.</div>
+
 No archival collection was more important to my book on American
 abolitionism than the [Anti-Slavery Collection][] at the Boston Public
 Library in Copley Square. Today, it contains not only the letters of
