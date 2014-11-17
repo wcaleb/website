@@ -1,0 +1,224 @@
+% Slave Sales on Twitter
+% W. Caleb McDaniel
+% November 15, 2014
+
+In [his 1975 critique][] of *Time on the Cross*, historian Herbert
+Gutman noted that,
+
+> *about two million slaves (men, women, and children) were sold in
+> local, interstate, and interregional markets between 1820 and 1860,
+> and that of this number perhaps as many as 260,000 were married men
+> and women and another 186,000 were children under the age of
+> thirteen.* If we assume that slave sales did not occur on Sundays and
+> holidays and that such selling went on for ten hours on working days,
+> a slave was sold on average every 3.6 minutes between 1820 and 1860.
+
+Every 3.6 minutes. I first encountered that figure not in Gutman's book,
+but in Steven Deyle's *Carry Me Back: The Domestic Slave Trade in
+American Life*, which argued in a [lengthy appendix][] that 2 million
+remains a good estimate of the number of slave sales in the antebellum
+American South. But Deyle added, chillingly, that "it is quite possible
+that the average frequency of sale was even greater."^[Stephen Deyle,
+*Carry Me Back: The Domestic Slave Trade in American Life* (New York:
+Oxford University Press, 2006), 172, 292.]
+
+A few weeks ago, in my [class on the Civil War era][], I was trying to
+think of a way to communicate these enormities to my students. I was
+preparing a lecture about some of the ways that enslaved people in the
+antebellum South used their laboring power and their family units to
+find points of leverage in their ongoing conflicts with slaveholders.
+Drawing on scholarship by Steven Hahn, Stephanie Camp, Dylan
+Penningroth, and others, I wanted to help students understand what some
+white Northerners found so surprising when they encountered slavery up
+close before and during the Civil War. Some enslaved people seemed to
+have property that they considered theirs---houses with keyed doors;
+garden patches and livestock they controlled; money they earned by
+selling goods and services. These customary privileges, though spread
+unevenly across the South and never recognized by the law, represented
+hard-won but not insignificant victories in the never-ending war between
+the enslaved and their enslavers.
+
+Yet I also wanted students to realize how fragile these privileges
+were---a fragility born of the ever-present danger of being sold. I
+decided that while lecturing, I would open a small terminal window on
+the screen at the front of the class and run a shell script that looked
+something like this:
+
+    #!/bin/bash
+
+    COUNT=20
+    while [[ $COUNT -gt 0 ]]; do
+        echo "A slave was just sold."
+        sleep 180
+        let COUNT=COUNT-1
+    done
+
+Every three minutes, that code printed `A slave was just sold` to the
+screen---a subtle reminder of the Damoclean sword that hung over every
+cornpatch, Sunday wage, or home that an enslaved man or woman had won.
+
+Reflecting on that experiment after the class, I started to wonder about
+a similar experiment using social media. In a previous [collaboration
+with my digital history students][], I had built a "Twitter bot" called
+[TexasRunawayAds][], which automatically tweets an excerpt from a
+runaway slave advertisement about twice a day. By slightly modifying
+[the script for that bot][], could I create a new Twitter bot to emulate
+the shell script above?
+
+The result of those musings is [Every3Minutes][], which tweets a
+reminder of an antebellum slave sale once every three minutes.
+
+## Why Twitter?
+
+My decision to create this bot deserves some explanation, especially
+since one worry I have about the experiment is the risk of trivializing
+the history that it recalls. I also wondered if fellow historians would
+raise an eyebrow about such a use of Twitter. Scholars may rightly be
+skeptical about whether a serious scholarly argument can be made in 140
+characters or less, especially since it took both Gutman and Deyle many
+more words---and much more work---to come up with the estimate of a
+slave sale taking place every 3.6 minutes.^[It's also worth noting that
+the Twitter bot runs every three minutes, which is slightly more
+frequently than Gutman's estimate. But his estimate was itself a
+conservative one, and as Deyle notes, "it really does not matter ... if
+a southern slave was sold once every two minutes or once every five. The
+point is clear. This was certainly a common form of commerce. As part of
+one of the largest forced migrations in world history, more than a half
+million African-American men, women, and children were transported from
+the Upper South to the Lower South through the interregional slave
+trade. More than twice that number were bought and sold between
+neighbors and within state lines. Evidence of this trade could be found
+everywhere ..." (172-173).]
+
+Those concerns are fair. The Twitter bot is not making a new historical
+argument so much as it is publicizing an old historical argument in a
+new forum. My thinking here is similar to that of [Roy Rosenzweig in his
+2006 article on historians and Wikipedia][]. Rosenzweig's appeal to
+historians to take Wikipedia seriously had implications for new media
+beyond that platform, because it was premised on much broader
+rationales. "One reason professional historians need to pay attention to
+Wikipedia is because our students do," he wrote, and the same can now be
+said for Twitter. And "if historians believe that what is available free
+on the Web is low quality," Rosenzweig added, "then we have a
+responsibility to make better information sources available online."
+
+There are challenges that come with any attempt to meet that
+responsibility. Not least is the fact that, as Rosenzweig explained,
+historians may find themselves subject to conventions of citation and
+conversation quite different from those in the academy. That's true for
+Twitter, as well. But whether historians like it or not, conversation
+about history, and specifically the history of slavery, is [already
+happening][] on social media. Several times in recent months, [Ta-Nehisi
+Coates][] and [Jeet Heer][], who both write and tweet for large online
+audiences, have asked questions about the history of slavery aimed
+directly at academic historians. Not to mention the [wide-ranging
+conversations][] that took place on Twitter after *The Economist*
+published an inflammatory review of Edward Baptist's new book.
+
+To participate helpfully in such conversations requires not only that
+historians be on Twitter, though that is an important first step, but
+also that we answer in ways sensitive to the particular kind of
+discourse that occurs there. Critics of *The Economist*, for example,
+used a clever hashtag to critique its review and to amplify individual
+critiques. When Twitter skeptics worry that 140 characters may not be
+enough to make a complex point, they misunderstand the ways that
+hashtags or [numbered essays][] can track a conversation unfolding over
+multiple 140-character tweets. Similarly, while it is not easy for a
+tweeter to footnote a historian like Gutman or Deyle, it could be
+easy---and arguably more effective, for a tweeter to `@` mention a feed
+like [Every3Minutes][] and thus direct readers *to* Gutman in a way that
+is internal to, rather than outside of, the social media environment.
+
+In short, although this Twitter bot differs from the usual sorts of
+[history found on Twitter][], my main rationales for making it were
+similar to those of other tweeting historians. My largest ambition is to
+help combat, in a new medium, the same myths about slavery that
+concerned Gutman in 1975 and that still persist today.
+
+## The Messages in the Medium
+
+The process of making the bot has also suggested new rationales and
+implications, however. For conveying Gutman's message in *this* way puts
+questions to the audience that may be unique to the medium. First,
+Twitter is by its nature *social* media; its currencies are "followers"
+and "favorites." But this bot shifts attention from those metrics to the
+*raw number of tweets* it emits, a number that will increase rapidly and
+serve, I hope, as an arresting reminder of slavery's magnitude.
+
+Of course, the bot does not shift attention entirely away from the
+follow-or-favorite economy of social media. Indeed, I suspect it will
+make those who encounter the feed acutely conscious of dilemmas that an
+original reader of Gutman might not have faced: Should I follow a feed
+about slave sales? Am I annoyed that these reminders come so often? What
+would it mean not to follow or, once having followed, to unfollow or
+mute the tweets? Do those deliberate or implicit acts of silencing
+resemble, in microcosm, our nation's larger inability to come to terms
+with slavery's history despite evidence of its continued relevance all
+around us?
+
+Even if those questions never occur to anyone but me, writing [the code
+for the Twitter bot][] also raised different questions that I expect to
+wrestle with for some time.
+
+For example, I learned at the very beginning that Twitter's API
+prevented me from realizing my original intention, which was to tweet
+the same line of text every three minutes. Duplicate tweets are not
+allowed by Twitter's code. So the medium itself forced me to generate,
+randomly, a wider range of strings. I decided to do this partly by
+varying the order of the phrases in each tweet and the delimiters
+between them. But then I began to vary combinations of words using
+Python lists like these:
+
+    people   = ['a slave', 'a person', 'an enslaved person', 'someone', 'a black person', 'an African American']
+    roles    = ['child', 'parent', 'grandparent', 'grandchild', 'friend']
+    verbs    = ['sold', 'bought', 'purchased', 'traded']
+    people   = people + [p + r for p in [p + '\'s ' for p in people] for r in roles]
+
+Such variables forced me to attend to "an enslaved person" as someone
+bearing multiple relationships to other persons. The code also soon
+involved me, unwittingly, in a troubling objectification of the human
+individuals whose stories I was attempting to conjure. (Python is, after
+all, an [object-oriented][] language.)
+
+These were the sorts of discomforting reflections I hoped my digital
+history students might have while working on an assignment involving
+[JSON and runaway slave ads][]. But though I designed that very
+assignment, the ways in which I found myself "encoding" people still
+crept up on me in the writing of my code. For me, the project has
+already become more than a way to change history on Twitter. It is also
+a way to think through how putting history in code shapes or changes
+history.^[These are the sorts of questions being raised by scholars in
+the [Postcolonial Digital Humanities][] and [Critical Code Studies][],
+two fields that I now realize I need to know much more about.] What's
+more, it has prompted me to think harder about what Twitter bots are or
+could be for, particularly in the realm of digital history. As [Mark
+Sample][] is reported to have said in a [recent talk][], "coding
+Twitterbots provides a way, through making, coding, and tinkering, of
+exploring what could be (but isn’t) and what shouldn’t be (but is)." Yet
+what does that mean for a Twitterbot-coding historian?
+
+People should not have been chattel (but were). They can be tweeted
+(but, until recently, weren't). Yet should they be comprehended by
+lists?
+
+  [his 1975 critique]: http://books.google.com/books?id=TUtFgWOISxMC&lpg=PA124&ots=JkLLPw4h9o&pg=PA124#v=onepage&q&f=false
+  [lengthy appendix]: http://books.google.com/books?id=-dbFUlQvcRYC&lpg=PP11&ots=rrAzJ-6IUU&pg=PA292#v=onepage&q=minutes&f=false
+  [class on the Civil War era]: http://wcm1.web.rice.edu/hist246f14.pdf
+  [collaboration with my digital history students]: http://ricedh.github.io/05-twitterbot.html
+  [TexasRunawayAds]: https://twitter.com/TxRunawayAds
+  [the script for that bot]: https://github.com/ricedh/adbot
+  [Every3Minutes]: https://twitter.com/Every3Minutes
+  [Roy Rosenzweig in his 2006 article on historians and Wikipedia]: http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42
+  [already happening]: https://twitter.com/jonathanchait/status/507648800295383040
+  [Ta-Nehisi Coates]: https://twitter.com/tanehisicoates/status/507648324116434945
+  [Jeet Heer]: https://twitter.com/HeerJeet/status/531679565014646784
+  [wide-ranging conversations]: http://www.thewire.com/culture/2014/09/the-economist-is-sorry-about-its-not-all-slave-masters-book-review/379685/
+  [numbered essays]: https://twitter.com/HeerJeet/status/529749811906764804
+  [history found on Twitter]: http://www.martingrandjean.ch/rewriting-history-140-characters/
+  [the code for the Twitter bot]: https://github.com/wcaleb/everythreeminutes
+  [object-oriented]: http://www.tutorialspoint.com/python/python_classes_objects.htm
+  [JSON and runaway slave ads]: http://digitalhistory.blogs.rice.edu/2014/01/17/homework-1-the-anatomy-of-an-ad/
+  [Postcolonial Digital Humanities]: http://dhpoco.org
+  [Critical Code Studies]: http://en.wikipedia.org/wiki/Critical_code_studies
+  [Mark Sample]: http://www.samplereality.com
+  [recent talk]: http://tdh.brynmawr.edu/2014/11/11/bots-and-monsters/
