@@ -396,7 +396,7 @@ we won't know unless we try.
   [moving account]: http://chronicle.com/article/The-Afterlife-of-an-Archive/124564/
   [TextMate]: http://arstechnica.com/apple/2012/08/odgaard-i-will-continue-working-on-textmate-as-long-as-i-am-a-mac-user/
   [Vim]: http://www.vim.org
-  [excellent post]: http://www.jasonheppler.org/2008/11/08/open-source-scholarship-and-why-history-should-be-open-source.html
+  [excellent post]: http://www.jasonheppler.org/2008/11/08/open-source-scholarship-and-why-history-should-be-open-source/
   [ITHAKA report]: http://www.sr.ithaka.org/research-publications/supporting-changing-research-practices-historians
   [*Writing History in the Digital Age*]: http://writinghistory.trincoll.edu
   [recent interview]: http://www.nature.com/naturejobs/science/articles/10.1038/nj7434-711a

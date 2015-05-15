@@ -149,7 +149,7 @@ not a huge difference, but if I multiply the difference across the
 multiple projects I have going at any one time---lecture notes,
 articles, conference papers, short essays, and so on---it can add up. By
 keeping file sizes lean, I've managed to stay well under my free 2GB
-limit on [Dropbox][1] and don't foresee having to upgrade anytime soon.
+limit on [Dropbox][] and don't foresee having to upgrade anytime soon.
 (Yes, I'm that cheap.)
 
 Kicking the Word Habit
@@ -258,7 +258,7 @@ possible. And having done it once, [I'm not looking back][].
   [more options]: http://johnmacfarlane.net/pandoc/README.html#footnotes
   [installing Pandoc]: http://johnmacfarlane.net/pandoc/installing.html
   [this]: http://raw.github.com/wcaleb/website/master/research/trusting-water-cure.txt
-  [formatted PDF]: http://scholarship.rice.edu/bitstream/handle/1911/64493/mcdaniel-shear2012.pdf
+  [formatted PDF]: https://scholarship.rice.edu/bitstream/handle/1911/64493/mcdaniel-shear2012.pdf
   [HTML version]: http://wcm1.web.rice.edu/trusting-water-cure.html
   [I'm not looking back]: http://stevenpoole.net/blog/goodbye-cruel-word/
   [here]: http://www.nytimes.com/2011/10/09/books/review/will-the-e-book-kill-the-footnote.html

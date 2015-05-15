@@ -368,7 +368,7 @@ future!
   [muttrc]: http://github.com/wcaleb/dotfiles/blob/master/_mutt/main.muttrc
     "wcaleb's muttrc on Github"
   [manual]: http://www.mutt.org/doc/manual/ "Mutt manual"
-  [Life on the Command Line]: http://lenz.unl.edu/2011/04/09/life-on-the-command-line.html
+  [Life on the Command Line]: http://stephenramsay.us/2011/04/09/life-on-the-command-line/
     "Life on the Command Line by Stephen Ramsay"
   [nmh]: http://www.nongnu.org/nmh/ "nmh - New Mail Handling System"
   [this post]: http://chronicle.com/blogs/profhacker/writing-power-tools-text-editors/38940
