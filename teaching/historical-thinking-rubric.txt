@@ -1,0 +1,284 @@
+% Rubric for Historical Thinking Skills
+% W. Caleb McDaniel
+% May 15, 2015
+
+<div class="well">A version of this rubric, which you can [download as a PDF](http://wcm1.web.rice.edu/pdf/rubric.pdf), was distributed to students in my Spring 2015 course, [HIST 118: The United States, 1848 to the Present](http://wcm1.web.rice.edu/pdf/hist118sp15.pdf).</div>
+
+The main objective of this rubric is to provide you with targets for
+your own learning in this course. As you read the descriptions of each
+historical skill, think about whether they would be fitting descriptions
+of your own work and, if not, about what steps you could take to improve
+the fit.[^1]
+
+Because learning is a process, be aware that you might slide backwards
+as well as move forwards; that is, having seemed to grasp a concept at a
+certain point in the semester, your later work might reveal to you and
+to me that your grasp was not yet firm. Throughout this rubric, mastery
+of a skill refers, by definition, to sustained competence, so do not
+relax your efforts to learn and improve as soon as you decide (or hear
+from me) that you are showing signs of mastery. While I intend these
+descriptions primarily as a help to you, I will also use them when
+assessing your progress towards mastery of the five skills. In that
+sense, the rubric will also determine your course grade.
+
+1. Narrativity
+==============
+
+Craft complex historical narratives that answer a question or solve a problem using sophisticated understandings of causation, continuity, and change over time.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Emerging practice:* Narratives written by new historians are often
+simple, sequential accounts that tell readers "what happened" without
+indicating why the narrative matters. To beginners, one way of telling
+the story is as good as any other. It is difficult to tell why certain
+things are included and others are not; obviously relevant issues are
+ignored, while tangential issues are included. Attempts to tie events
+together as cause and effect, or as evidence of change or continuity,
+are weak, simplistic, logically fallacious, or non-existent.
+
+As you begin to *develop competence*, you will start crafting narratives
+that are oriented towards solving a problem or answering a question,
+though the stakes of the problem or question may be unclear and the
+answer attempted by the narrative may not yet be fully convincing.
+You'll begin to incorporate a wide range of relevant people, places,
+events, etc., but your criteria about what to include or exclude may
+still be poor or unevenly applied. Clear chronological markers and
+claims about causation, change, and continuity will begin to appear, but
+they may be oversimplified (i.e., monocausal, linear, disproportionately
+focused on change or continuity, Whiggish, all about progress or all
+about declension). Narratives may be teleological; they have an air of
+inevitability about them, instead of being qualified by the possibility
+that things could have happened differently under different
+circumstances. After specific feedback or coaching, you may demonstrate
+signs of mastery, but you may have difficulty assessing the quality of
+other authors' historical narratives by these same standards.
+
+Achieving *mastery* means demonstrating the ability to write and to
+recognize narratives that persuasively address a problem or question
+whose significance is made clear. The stakes of the question and the
+difficulty of answering it are made as clear as the answer itself. The
+range of topics covered will simultaneously indicate discernment (only
+those things that are most relevant are included), thoroughness (while
+clearly defined, your standard of relevance is capacious enough to bring
+a remarkably wide range of issues to bear on the problem), and awareness
+of chronology. Claims about causation, change, and continuity are fully
+warranted and sophisticated. You present causality as a dense web in
+which multiple overlapping factors played a role, instead of only one or
+two; elements of change and continuity are treated as contingent,
+coexistent, and related, with neither wholly displacing the other. You
+consistently probe or avoid simplistic narratives of unbroken progress
+or total decline.
+
+2. Evidence
+===========
+
+Thoroughly support and revise your claims about the past using critical approaches to the best and most relevant available evidence.
+------------------------------------------------------------------------------------------------------------------------------------
+
+*Emerging practice:* As a novice historian, you may assume that the
+number of claims about the past still needing specific, empirical
+substantiation is relatively small. You will often make claims without
+giving specific evidence to support them, or you may give evidence that
+is over-general, under-examined, or not sourced. At this stage, you may
+use only a small portion of the evidence available to you from course
+readings and classes. Evidence is often accepted uncritically by
+beginners, who show little awareness of source problems or the
+differences between primary and secondary accounts. Sources are treated
+as straightforward bearers of information that give unfettered access to
+their creators' thinking.
+
+As you begin to *develop competence* in dealing with evidence, you will
+make sure that claims needing substantiation with evidence always
+receive it, though you may still struggle to see when and why already
+substantiated claims need to be revised or extended by new evidence.
+Claims are carefully calibrated and limited by available evidence,
+though some generalizations may still reach beyond what the evidence
+allows. It's easy for others to tell where you are getting specific
+evidence from, and that you have engaged with a variety of primary and
+secondary sources, though you may still rely disproportionately on a few
+sources. You are also beginning to think critically about evidence. You
+know to look for information about where evidence came from (*sourcing*)
+and to weigh evidence against other evidence (*corroboration*). While
+beginners tend to approach sources like "jurors, patiently listening to
+testimony and questioning themselves," you are beginning to approach
+sources like "prosecuting attorneys."[^2] You notice discrepancies
+between accounts and pose questions about the intentions, audiences,
+perspectives, and potential blindspots of their creators, though
+skepticism about a source may sometimes be misplaced or over-zealous.
+You may begin to demonstrate signs of mastery, but only after specific
+feedback or coaching.
+
+You'll approach *mastery* in your use of evidence when, as a matter of
+course, you provide well-sourced, specific evidence to support, revise,
+and qualify your claims, whether large or small. You think creatively
+about what evidence is available to you when considering a problem, and
+you can make effective use of earlier material from the course that may,
+at first glance, seem unrelated to the topic at hand. You use historical
+sources not just to substantiate a single claim about that source or its
+creator, but to reconstruct broader historical and social contexts in
+which all the available evidence makes more sense (*contextualization*).
+You also, as a matter of course, ask questions about where the evidence
+came from and "nurse doubt" about its reliability or limits.[^3] Yet you
+are also able to use a source's problems not just to discount its
+reliability, but to reason from those problems to new claims or
+insights. You are alternately the "prosecutor" and the "defense
+attorney" for sources, and ultimately reach wise judgements; balancing
+skepticism with belief, you come to persuasive conclusions about the
+most probable explanation for a given body of evidence.
+
+3. Empathy
+==========
+
+Look for the potential strengths and insights offered by alternative points of view on or in the past, even or especially when they conflict with your own or conventional understandings.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Empathy is an intellectual and imaginative skill that is required both
+when reading sources created in the past and when reading secondary
+sources created by other historians. Though often confused with
+"sympathy" or "positive feeling," empathy means being sensitive to
+context and entertaining even those points of view with which you
+disagree; it does not require or necessarily imply agreement.
+
+A *novice historian* who lacks this skill tends to judge the decisions
+and ideas of historical actors according to his or her own present-day
+opinions, which are sometimes conflated in the novice's mind with
+"common sense" or "just the way it is." Beginners are typically not very
+interested in seeking out multiple perspectives on an issue; they
+identify the actor or historian whose perspective they most agree with,
+and then discount or ignore other perspectives. At times, they may not
+even show awareness that an alternative perspective exists, even when
+presented with evidence to the contrary. Judgments are typically
+unjustifiably premature and absolute; even without much consideration,
+beginners decide a historical person or idea is all good or all bad.
+
+As you develop the skill of historical empathy, you will begin to show
+an awareness that multiple perspectives exist in the past, though you
+may still be quick to judge different perspectives as unaccountably
+strange or unacceptable. On the other hand, when you do begin to
+entertain a historical actor's perspective as plausible, it may still be
+based on present-day assumptions about what you or someone you know
+would do in a similar situation today. When discussing other historians'
+or students' perspectives, you are able to identify differences of
+opinion and see the strengths and weakness of other views, though you
+may require coaching or specific feedback in order to be persuaded that
+a view you dislike has some merit, or that one you like has some
+problems.
+
+*Mastery* of historical empathy is defined by an ability to "see and
+judge the past on its own terms by trying to understand the mentality,
+frames of reference, beliefs, values, intentions, and actions of
+historical agents using a variety of historical evidence."[^4] Put more
+simply, empathy means understanding historical actors and ideas in the
+*context of their times*, which is accessed by the consideration of
+multiple perspectives and sources from the past. By acknowledging the
+distance between the present and the past, you are able to make even
+strange or outdated views comprehensible to contemporary minds. You are
+not only sensitive to multiple perspectives on an issue that exist in
+the historical record, but also can imagine relevant perspectives that
+may not have been included in the record at all. When articulating your
+own positions about the past, you are able to encompass and account for
+plausible alternative views while articulating why yours is preferable.
+Because you can see both the good and the bad in perspectives other than
+your own, your own conclusions are well-grounded but tentative and your
+criticisms of others are charitable and constructive.
+
+4. Style
+========
+
+Communicate your ideas clearly and concisely in writing, with an appropriate level of detail and awareness of audience.
+-----------------------------------------------------------------------------------------------------------------------
+
+Beginning writers may struggle to communicate clearly due to lack of
+organization, too much or too little detail, failure to consider what
+the intended audience already knows, or a weak grasp of basic writing
+conventions pertaining to word choice, grammar, and sentence fluency.
+Beginners also struggle to find their own voice, relying heavily instead
+on excessively long quotations from others or poorly sourced paraphrases
+of someone else's material. Several of these problems often appear
+together in a piece of writing.
+
+As your command of style develops, however, your writing will be
+compellingly structured so as to highlight and develop a central idea or
+theme, with key points stated early or late in the text and/or its
+constituent parts. Paragraph breaks, signposts, and navigational words
+(such as "such as," "however," "nonetheless," "moreover," "next," and
+"in sum") help to move the reader through the text. You will craft your
+writing with awareness of the audience and the purpose for writing,
+conveying your points with precise words and fluent sentences that
+engage the reader's interest. Your writing will show a good grasp of
+standard writing conventions and grammatical rules, though you may still
+struggle with one or two recurring grammatical problems. Through
+revision of your own work, you will minimize repetition, locate typos
+and run-on sentences, and carefully source quotations from or allusions
+to other authors.
+
+*Masterful* style means being able to "pull together" all of these
+skills with minimal coaching or feedback. A masterful writer has
+internalized these writing conventions so that errors and unclear
+passages tend to be very few in submitted assignments. Only a few minor
+touch-ups would make the text suitable for publication in the
+appropriate venue.
+
+5. Self-reflection
+==================
+
+Show you can think reflexively and critically about your own ongoing development as a student of history.
+---------------------------------------------------------------------------------------------------------
+
+History students without the habit of critical self-reflection tend to
+judge their own work by two criteria: whether the work was done, and
+whether significant effort was expended to do it. They show very little
+interest in their own progress towards the skills outlined above, and
+they seem unaware of how their own unexamined assumptions, settled
+convictions, habits of thinking, or gaps in knowledge might present
+obstacles to that development. Often, students of this sort respond to
+feedback with defensiveness or redirection; a non-reflexive thinker
+holds that someone else is *always* to blame for their own failure to
+understand or persuade.
+
+Self-reflective students of history, on the other hand, are constantly
+questioning their own convictions and thinking in order to sort out
+warranted beliefs from prejudices. They are aware of and accurately
+assess the limits of their own knowledge, and they recognize unique
+styles or beliefs that might unjustifiably color their understanding.
+They hold their views on the past provisionally, in the sense that they
+are willing to change their minds when evidence or logic demands it.
+They are aware that there may be multiple ways to accomplish a task and
+think hard about which way would be best. Most of all, they can engage
+in effective "meta-thinking" about their own learning, qualitatively
+evaluating their own work by the criteria used by historians more
+generally, such as the criteria described in this rubric.
+
+Evidence for the mastery of this skill is easiest to see when students
+are asked to evaluate their own learning progress, as you will be in the
+course. If your responses to such questions show awareness of changes in
+your own thinking, and you can effectively link those changes to the
+specific skills we are aiming to develop in the course, you are
+demonstrating the kind of self-reflection that good historians need.
+Moreover, even in everyday exchanges with me and your peers, you show
+that you regularly reflect on the meaning of what you have learned.
+Constructive criticism is not only gratefully received, but assimilated
+and applied, when warranted, in new contexts. In all of these ways,
+self-reflective students are wise, circumspect, and characterized by
+intellectual integrity; they take responsibility for their own learning
+and demonstrate a willingness to develop and use new historical thinking
+skills.
+
+[^1]: Parts of this rubric, especially the points on style and
+    self-reflection, are directly indebted to Grant Wiggins and Jay
+    McTighe, *Understanding by Design*, second edition (Alexandria, Va.:
+    ASCD, 2005).
+
+[^2]: The juror versus attorney metaphor comes from Sam Wineburg,
+    *Historical Thinking and Other Unnatural Acts: Charting the Future
+    of Teaching the Past* (Philadelphia: Temple University Press, 2001),
+    77.
+
+[^3]: The phrase "nurse doubt" comes from the final episode of the
+    popular Serial podcast, which was also, according to historian Eric
+    Rauchway, a "pretty good dramatization of the historical process."
+    See <http://bit.ly/1xZRvXK>.
+
+[^4]: This definition is drawn from Kaya Yilmaz, "Historical Empathy and
+    Its Implications for Classroom Practices in Schools," *The History
+    Teacher* 40, no. 3 (May 2007), 331.

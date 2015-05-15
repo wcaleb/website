@@ -1,0 +1,119 @@
+% Planned Tsundoku
+% W. Caleb McDaniel
+% August 1, 2014
+
+[Tsundoku][]---the practice of "letting books pile up unread on shelves
+or floors or nightstands"---is an occupational hazard for academics like
+myself. I try to manage the problem by at least letting newly purchased
+books pile up in *one* place until I can find time to enter them into
+[LibraryThing][] and place them on my shelf. But that creates a
+different hazard: the periodic hassle of shifting all my shelved books
+around to make room for the newcomers.
+
+That wouldn't be a hassle, of course, if I just added new books to the
+last shelf on my bookcase. But I try to keep my working library
+organized alphabetically by author's last name, to increase the odds of
+my finding a particular book later. When adding new books to this
+scheme, I invariably discover that I haven't left enough room for a
+particular section of the alphabet to expand. And that usually means
+moving quite a few old books around before I can even place the new
+ones.
+
+Today, as I contemplated a large stack of newly acquired books during my
+midsummer office clean-up, I started to wonder if there was a better
+way. Could I strategically leave more shelf room in places where
+particular letters of the alphabet tended to have disproportionate
+numbers of books?
+
+It's a question that I'm sure professional librarians have pondered and
+answered better than I can. After all, it is a law of library science
+that [the library is a growing organism][]. The method I settled on was
+only pseudo-scientific, however.
+
+First I tried Googling for answers to the question of which first
+letters of surnames are most common in the general population. A page on
+[alphabetical filing][] offered some rough percentages. But a [Gist by
+Andrew Pendleton][] proved even more helpful. Pendleton used Python to
+ingest a CSV spreadsheet of the most common surnames in the 2000 U.S.
+Census and return a breakdown of the percentage of last names that begin
+with each letter. His results:
+
+    {
+        "A": 0.03559596939643605, 
+        "C": 0.07694824074741784, 
+        "B": 0.08791477424094518, 
+        "E": 0.018669123556424614, 
+        "D": 0.04579860597727158, 
+        "G": 0.05439868577642196, 
+        "F": 0.034505834128967044, 
+        "I": 0.003955862892091837, 
+        "H": 0.07268753217954918, 
+        "K": 0.03294327720020791, 
+        "J": 0.03025983302791189, 
+        "M": 0.09608053808826617, 
+        "L": 0.04848650695769241, 
+        "O": 0.014720280137130485, 
+        "N": 0.018547007013788936, 
+        "Q": 0.002206565702878153, 
+        "P": 0.049319930077139015, 
+        "S": 0.09580978699464698, 
+        "R": 0.05763521983707609, 
+        "U": 0.002210911090800405, 
+        "T": 0.035309842314786705, 
+        "W": 0.05861438058222256, 
+        "V": 0.015875707643636012, 
+        "Y": 0.006166216881876424, 
+        "X": 0.00024144758019273616, 
+        "Z": 0.005097919974221793
+    }
+
+Those results alone are helpful in planning for future tsundoku, as they
+can help predict which letters' shelves are likely to swell. But I also
+wondered if I could form a similar picture of my personal library,
+which is likely to have peculiar patterns of over-representation for
+names.
+
+To check, I first had to [export my LibraryThing data as a CSV file][].
+I then [modified Pendleton's script][] so that it would work on my CSV
+and so that it would sort and prettify the output. The results for my
+library, as of this writing, looked like this:
+
+    B -  9.55%		K -  3.66%
+    M -  8.77%      A -  2.75%
+    S -  8.38%      J -  2.62%
+    H -  7.33%      E -  2.23%
+    D -  7.20%      O -  1.96%
+    W -  6.15%      N -  1.57%
+    F -  6.02%      V -  0.92%
+    G -  5.37%      I -  0.65%
+    R -  5.24%      Q -  0.65%
+    C -  4.97%      Z -  0.52%
+    P -  4.97%      U -  0.26%
+    L -  4.19%      Y -  0.13%
+    T -  3.93%
+    
+Data science, this is not. For one thing, Pendleton's script was
+built for a list of unique names, whereas my spreadsheet contains
+multiple rows with the same name (though further scripting could correct
+that). Still, I got from this little exercise what I wanted: a rough
+approximation of which shelves in my library need the most room for
+growing.
+
+For the most part, my percentages matched what Pendleton found for the
+general population: bookshelves authored by authors whose names begin
+with B, M, S, and H are probably going to groan. But I also identified
+some unusual spikes in my collection---like F and W---that led me to
+leave more room for added books in those areas. Hopefully, the next time
+I'm trying to mitigate the effects of tsundoku, I will save time that I
+would have spent shifting books around---time I can spend on other forms
+of [structured procrastination][] like analyzing my LibraryThing data with
+Python.
+
+  [Tsundoku]: http://web.archive.org/web/20140801180245/http://www.openculture.com/2014/07/tsundoku-should-enter-the-english-language.html
+  [LibraryThing]: https://www.librarything.com/profile/wcm
+  [the library is a growing organism]: http://en.wikipedia.org/wiki/Five_laws_of_library_science
+  [alphabetical filing]: http://web.archive.org/web/20130801020145/http://anythingfiling.com/tag/alphabetical-filing/
+  [Gist by Andrew Pendleton]: https://gist.github.com/apendleton/2638865
+  [export my LibraryThing data as a CSV file]: http://www.librarything.com/wiki/index.php/Export
+  [modified Pendleton's script]: https://gist.github.com/wcaleb/2e6da75a4c91f8b46dd4
+  [structured procrastination]: http://www.structuredprocrastination.com

@@ -1,0 +1,193 @@
+% The History Major in a Digital Age
+% W. Caleb McDaniel
+% January 4, 2015
+
+<div class="well">
+I delivered a version of these comments as part of a <a href="https://aha.confex.com/aha/2015/webprogram/Session12225.html">roundtable at the AHA 2015 meeting</a> in New York City, which posed the question, "Whither the History Major?" My comments focused on what the history major looks like in a "digital age." In the delivered talk, I focus more on how "capstone" projects might change to reflect digital changes in the landscape of history.
+</div>
+
+In a recent essay in *The American Scholar*, Anthony Grafton and James
+Grossman gave a [ringing defense of the value of history][] in the
+undergraduate curriculum, reserving special praise for what they
+described as the "quaint" but essential practice of engaging students in
+the art of archival research. As they noted, in many universities,
+something like a "term paper" or original thesis remains the primary
+capstone experience for a history major, and with good reason.
+
+I was reminded of the good reasons over the last two days while
+following AHA panels on Twitter from Houston, using the conference
+hashtag \#aha2015. Several panels here have provided preliminary reports
+on the [AHA's Tuning project][], which seeks to identify the key skills
+and concepts that we, as historians, hope our history majors will learn
+by the time they graduate. Many of these learning objectives---finding
+sources, weighing evidence, constructing argument-driven
+narratives---are skills that traditional "term papers" and theses are
+still good at teaching and assessing.
+
+Yet in between tweets about teaching and Tuning panels, my timeline also
+teemed with creative examples of digital history that vastly expand
+traditional notions of what archives, evidence, and scholarship can be.
+These panels, not to mention the fact that I was following them on a
+social media platform, bore witness (as if more were needed) to our
+"digital age," an age in which both the process of historical research
+and the communication of its results increasingly occurs online or in
+some other digital form.
+
+Set aside for a moment whether this "digital age" is a blessing or a
+curse, and consider only the evidence that it is upon us. A [Pew survey of
+middle-school and high-school teachers from 2012][] found that just 12
+percent said their students were "very likely" to consult printed books
+for a typical research assignment, while 94 percent said students were
+"very likely" to turn to Google. I see little reason to think those
+percentages have reversed in three years, especially since other
+evidence suggests [professional historians are also increasingly prone
+to begin their research online][] or in digital databases. Indeed, in
+their defense of the continued relevance of requiring "term papers in
+our courses, and ... independent work and BA theses of our majors,"
+Grafton and Grossman themselves turn for evidence to a series of
+departmental webpages and digital archives that showcase student
+work.^[Though I'm using Grafton and Grossman as a reference point here,
+it's worth noting that both authors have been staunch allies and
+advocates of creative digital history scholarship. In what follows, I'm
+not going to pick a bone with them here so much as extend their points
+in this particular essay farther than they do in this particular essay.]
+
+<center><blockquote class="twitter-tweet" data-partner="tweetdeck"><p>The disconnect between these highlighted phrases is worth pondering. <a href="http://t.co/Gjogg22wy4">pic.twitter.com/Gjogg22wy4</a></p>&mdash; Caleb McDaniel (@wcaleb) <a href="https://twitter.com/wcaleb/status/549054781252059136">December 28, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+Those same webpages, and many others, suggest to me that the history major
+will not wither in a digital age. But whither will it tend? The ubiquity of
+digital tools and media in our and our students' lives do raise the question of
+whether, as we and our majors increasingly *use* digital forms of history, we
+will in equal measure increase our attention to teaching them how to *make*
+digital historical narratives and archives.
+
+Let me be clear at this point about what I do not want to say. I do not
+want to set up a false either/or choice, as though the history major
+must either continue to focus on mastering traditional tasks such as
+research papers *or* become more adept at navigating and using digital
+tools. Grossman and Grafton explained much better than I could why
+traditional archival research and research papers still matter and
+probably will long after we're gone.
+
+But I do think that accounting for the "digital age" in our design of
+history major goals and assessments will require more than training
+students in something like "how to evaluate webpages" when doing
+research for a paper, which I think is still too often where it is
+easiest to stop. That's a valuable thing to teach majors---don't get me
+wrong---and we could probably always do more of it. But it's a framing
+based on an abstraction---"webpages"---that may not actually exist in
+the wild. (Is Twitter a "webpage"? Is the Digital Public Library of
+America? Is *The New York Times*?)
+
+Focusing on teaching students how to *use* information from the Web also
+considers the Web narrowly as a *place where evidence for a research paper
+might be found*, instead of all of the other things it is: a place where people
+watch "Drunk History" episodes, annotate historical photographs, follow history
+Twitter feeds, conduct genealogical research, organize protests informed by
+historical analogies and precedents, argue about historical claims with friends
+and relatives on Facebook, discuss historical documentaries or books as they
+watch or read them in real time, encounter historical artifacts and exhibits
+curated by museums, and increasingly interact directly with historians in
+blogs, comment sections, Reddit threads, social media, and more. An increasing
+amount and variety of history happens on the Web; what possibilities does that
+open up for our thinking about a "major" in this field?
+
+Before turning it over to you, I'll offer a few quick answers, none of
+which are revolutionary or original to me, but all of which I often
+ponder. The first is that if we are not in some way teaching history
+majors how to *make* digital stuff as well as to *use* it, we are
+leaving them ill-equipped to share their hard-won historical skills and
+knowledge in the arena where many of them are most likely to encounter
+claims and conversations about history.^[Mills Kelly is one of the most
+eloquent recent defenders of [making][] as an essential part of history
+curricula.]
+
+It's clear to me, moreover, that *making* digital history requires
+knowledge of more than the technical know-how to upload traditional
+forms of history like a term paper or thesis to the Internet. A linear
+narrative in a double-spaced, ten-page, one-inch margins research is not
+the same as a layered narrative of the sort that I encountered following
+the \#aha2015 hashtag the last two days. Knowing how to craft the one
+(however valuable that continues to be) is not the same as knowing how
+to craft the other. A hyperlink is not just a footnote by another name,
+and knowing how to format the latter does not mean knowing how to format
+and effectively deploy the former. Mounting a persuasive historical
+argument aimed at scholars is not the same as winning an argument about
+history on Facebook. All of which is to say that even if the ability to
+"craft historical narrative" is one of the goals of a history major, as
+the AHA History Tuning Project suggests, we need to recognize that
+crafting digital narratives often requires a different set of
+competencies than those required by a "written or oral presentation."
+
+That's not to say, however, that there is no overlap between the
+competencies students attain by writing a term paper and by crafting a
+digital narrative in some form. On the contrary. As the [historian Eric
+Rauchway recently observed][], the recently concluded, wildly popular
+podcast Serial, in which a radio journalist reported week by week on her
+investigation of a murder case, actually offered "a pretty good
+dramatization of the historical process," and with "a compelling
+narrative" besides. And [Benjamin G. Wright has had success teaching
+students the basic concept of historiography][] by having them examine
+the "history" tab of a Wikipedia page. Such examples, and I could cite
+many others, raise the question of whether the capstone project of a
+history major or independent study could be something like a podcast or
+a Wikipedia page, instead of only something like a paper. To cite a
+final example out of many possible ones, Michelle Moravec uses
+[Pinterest][] and an assignment in which students [live-tweet as a
+historical figure][moravec].^[See more digitally inflected assignments on
+Moravec's [Pinterest board on digital assignments][].]
+
+If such digital work can help instructors assess learning outcomes while
+simultaneously preparing history majors to "do history" in the same
+arena where they probably do most of their writing already, why not? And
+to conclude with a more affirmative reason why *so*, I believe such
+capstone projects could have the added benefit of helping students to
+understand the historical situatedness of digital tools themselves. One
+reason we have relied on term papers, as Grafton and Grossman note, is
+that "it's the only way for a student to get past being a passive
+consumer and critic [of historical narratives] and to become a creator,
+someone who reads other historians in the light of having tried to do
+what they do."
+
+I'd like to stress that last phrase, because I think it could stand as a
+good ideal definition of a graduate with a history major, too: *someone
+who reads other historians in the light of having tried to do what they
+do.* By the same logic, if we want our students to be more than passive
+consumers of Wikipedia or Twitter or podcasts or "Drunk History" videos,
+we'll do more than teach them how to evaluate a website's reliability
+and format a citation to it in a footnote. We'll encourage them to
+become a digital creator, someone who consumes digital resources in the
+light of having tried to do what their makers do---and *tried* is key
+here, lest we fail to start teaching digital history out of a false
+belief that we have to show a student how to do all of it in order to do
+any of it.
+
+Through the process of writing a Wikipedia page, or engaging in a
+Twitter debate, far more than by reading about these media, considering
+warnings about Google, or simply incorporating websites into a paper,
+students will come to appreciate that these media are themselves in the
+stream of time and have their own specific and [sometimes sordid
+histories][]. And in so doing, history majors in the digital age may
+more fully achieve another of the learning outcomes identified by the
+[AHA History Tuning Project][AHA's Tuning project], which is for
+students to "recognize where they are in history."
+
+  [ringing defense of the value of history]: https://theamericanscholar.org/habits-of-mind/
+  [AHA's Tuning project]: http://www.historians.org/teaching-and-learning/current-projects/tuning/history-discipline-core
+  [Pew survey of middle-school and high-school teachers from 2012]: http://www.pewresearch.org/fact-tank/2013/07/30/few-students-likely-to-use-print-books-for-research/
+  [professional historians are also increasingly prone to begin their
+  research online]: http://www.sr.ithaka.org/research-publications/supporting-changing-research-practices-historians
+    "Ithaka report on changing research practices of historians"
+  [making]: http://quod.lib.umich.edu/d/dh/12146032.0001.001/1:9/--teaching-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1
+    "Making chapter"
+  [historian Eric Rauchway recently observed]: http://crookedtimber.org/2014/12/19/concluding-serial-or-koenig-v-ranke/
+    "Crooked Timber post"
+  [Benjamin G. Wright has had success teaching students the basic
+  concept of historiography]: http://digitalhistory.blogs.rice.edu/2013/03/06/wikipedia-as-historiographical-microcosm/
+    "Wikipedia historiography assignment"
+  [sometimes sordid histories]: http://www.slate.com/articles/technology/bitwise/2014/12/wikipedia_editing_disputes_the_crowdsourced_encyclopedia_has_become_a_rancorous.single.html
+  [moravec]: http://historyinthecity.blogspot.com/2013/01/experiments-in-live-tweeting-as.html "Live-tweeting as a historical figure assignment"
+  [Pinterest]: http://historyinthecity.blogspot.com/2014/08/using-pinterest-to-teach-womens.html
+  [Pinterest board on digital assignments]: https://www.pinterest.com/professmoravec/digitally-assignments/
+
