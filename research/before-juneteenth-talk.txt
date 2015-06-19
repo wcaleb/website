@@ -2,9 +2,7 @@
 % W. Caleb McDaniel
 % September 25, 2012
 
-<div class="well">
-This is an inexact transcript of a lecture I recently gave at <a href="http://www.hbu.edu/Choosing-HBU/Academics/Colleges-Schools/College-of-Arts-Humanities/Departments/Department-of-History/Emancipation-Proclamation-Commemoration.aspx">The Emancipation Proclamation: A Turning Point</a>, a commemoration event in Houston marking the sesquicentennial of the preliminary Emancipation Proclamation last week. 
-</div>
+<div class="well">This is an inexact transcript of a lecture I recently gave at <a href="http://www.hbu.edu/Choosing-HBU/Academics/Colleges-Schools/College-of-Arts-Humanities/Departments/Department-of-History/Emancipation-Proclamation-Commemoration.aspx">The Emancipation Proclamation: A Turning Point</a>, a commemoration event in Houston marking the sesquicentennial of the preliminary Emancipation Proclamation last week.</div>
 
 In 1926, the *Dallas Morning News* began publishing a serial comic strip
 on Texas history. It ran for only two years, but it shaped the way that
@@ -394,9 +392,9 @@ about what constitutes freedom.]
     contemporaries estimated that 150,000 slaves were refugeed into
     Texas, but this number is likely exaggerated.
 
-  [*Texas History Movies*, 1928 edition]: http://wcaleb.rice.edu:4000/thm1928.jpg
-  [*Texas History Movies*, 1970 edition]: http://wcaleb.rice.edu:4000/thm1970.jpg
-  [*Texas History Movies*, 2007 edition]: http://wcaleb.rice.edu:4000/thm2007.jpg
+  [*Texas History Movies*, 1928 edition]: http://wiki.wcaleb.rice.edu/img/thm1928.jpg
+  [*Texas History Movies*, 1970 edition]: http://wiki.wcaleb.rice.edu/img/thm1970.jpg
+  [*Texas History Movies*, 2007 edition]: http://wiki.wcaleb.rice.edu/img/thm2007.jpg
   [guidelines]: http://ritter.tea.state.tx.us/rules/tac/chapter113/ch113b.html
   [Celebrate Freedom Week]: http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=19&pt=2&ch=74&rl=33
   [participated even at the Battle of Sabine Pass]: http://exhibits.library.rice.edu/exhibits/show/dick-dowling/slavery-and-sabine-pass/5
