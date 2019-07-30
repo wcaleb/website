@@ -10,7 +10,7 @@ Tools I Use
 -   [Vim][] for text editing
 -   [Pandoc][] for document conversion
 -   [Notational Velocity][] for light-duty notetaking and task management
--	[Notesy](http://notesy-app.com) and [Drafts](http://agiletortoise.com/drafts) for iOS notetaking
+-	[Editorial](http://omz-software.com/editorial/) and [Drafts](http://agiletortoise.com/drafts) for iOS notetaking
 -   [Mutt][] for my email
 
 How This Site is Built
@@ -38,10 +38,8 @@ for each post containing information fields (separated by %) that are
 then manipulated later in the script by `awk` to generate an RSS feed
 and lists of posts for the main page and each category page.
 
-To style the site, I use a customized, minimal version of [Bootstrap][] for the
-responsive layout, and [Glyphicons][] for the social media icons. Some colors
-were inspired by [Simon Pascal Klein][] and [Ethan Schoonover][], though
-neither should be blamed for my amateurish design choices!
+To style the site, I use a customized, minimized version of [Bootstrap][] for the
+responsive layout, and [Glyphicons][] for the social media icons. The color scheme is Solarized by [Ethan Schoonover][].
 
 I've set up the script to update the code below everytime I upload
 changes to this site. I have also included comments in the html source

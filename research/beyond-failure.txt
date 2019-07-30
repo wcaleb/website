@@ -1,0 +1,525 @@
+% Beyond Failure: Rethinking Confederate State Policies on the Western Frontier
+% W. Caleb McDaniel
+% August 21, 2015
+
+<div class="well">This is the paper I delivered at the <a href="http://rnas.ca/">Remaking North American Sovereignty</a> conference held in Banff, Canada, July 30-August 1, 2015. It represents work in progress based on ongoing research, which is documented in my <a href="http://wiki.wcaleb.rice.edu/">open research notebook</a>. I have included links to some of the pages in my notebook, and welcome comments and questions about this research on the &quot;discuss&quot; pages found there. A more permanent digital version of this paper is archived at <a href="https://scholarship.rice.edu/handle/1911/81440">Rice Scholarship</a>.  </div>
+
+Stephanie McCurry has noted that "the literature on the Confederacy has
+long been characterized---and limited---by a preoccupation with the
+matter of military defeat and related questions about the strength or
+weakness of Confederate nationalism." Nowhere has this long
+preoccupation been clearer than in the literature on Confederate state
+governments. States appear in this literature most often in discussions
+of their inability to supply homefront and military needs, or of the
+dysfunctional relations between states jealous of their rights and a
+grasping Richmond government. Historians discuss why Confederate states
+divided and died far more than what they actually did.[^1]
+
+One result has also been a preocupation with the question of what made
+Southern states *different*, both from the Northern states that defeated
+them and from the modern state more generally. A common answer to that
+question, both among scholars and the general public, has been that
+Confederate states were hampered by the limited-government,
+laissez-faire views of their architects. They represented a paradox:
+states built by anti-statists. In recent years, however, numerous
+historians have brought "the state" back in to the study of the
+Confederacy, and in the process have moved away from preoccupations with
+"why the South lost" and "what made the South different." Their work
+challenges the ideas that Southern states were weak, ineffective, and
+committed on principle to limited intervention in society and the
+economy.
+
+Chad Morgan and John Majewski, for example, have shown that Confederates
+in Georgia, Virginia, and South Carolina were not anti-modern
+laissez-faire agrarians. They believed in strong "state activism,"
+Majewski's term for the muscular use of public investment, legislation,
+institutions, and even protective tariffs to develop the region's slave
+economy. Secessionists drew on a long tradition of what Milton Sydney
+Heath, a forerunner of this new literature, called "constructive
+liberalism"---the belief that individual enterprise should be encouraged
+by robust collective action. From this point of view, the strong central
+state that Confederates ultimately built was not a paradox or turnabout,
+but a culmination of antebellum trends.[^2]
+
+What we might call the rediscovery of Confederate statism enables us to
+see what made the Confederate state(s) similar to other states. Though
+increasingly distinctive, from a hemispheric perspective, in their
+attempts to use state action in the service of slavery, Confederates'
+embrace of state activism to support manufacturing and internal
+improvements placed them within a broad mainstream of nineteenth-century
+state-building projects.
+
+Indeed, as Ryan Quintana has recently argued in an article on internal
+improvements in early national South Carolina, Southern states partially
+exemplified the broader rise of what he calls "liberal governmentality."
+Slave states not only invested in infrastructural improvements; they
+also developed bureaucratic systems to oversee these projects, founded
+public reformatory institutions (like schools, penitentiaries, and
+asylums), and, in James Scott's influential formulation, created modern
+tools for "seeing like a state": maps, surveys, censuses, administrative
+boilerplate, and the like. In Quintana's words, Southern states were
+"ardently committed to the project of modern state governance," not
+despite but because of their commitments to slavery.[^3] In a similar
+attempt to make Confederate politics less exceptional, Greg Downs has
+also argued that the rise of a new postbellum conception of the national
+state, which he calls "patronalism," also had its roots in Confederate
+state policies and politics during the war.[^4]
+
+In short, much like recent historians of slavery who have argued that
+the institution was essential to the rise of capitalism, historians of
+Southern states are beginning to see them as part of a broader
+nineteenth-century story of state development. So far, however, this
+historiographical wave has crashed only on eastern shores, leaving
+western Confederate states like Texas, Arkansas, and Louisiana largely
+untouched. This neglect is not surprising, given that "scant attention
+has been paid to the Civil War and Reconstruction in the
+Trans-Mississippi" by American historians generally, as Steven Hahn
+recently noted. Yet for historians attempting to push "beyond failure"
+in their studies of Confederate statecraft, this neglect of the West is
+especially unfortunate. Today I will suggest that bringing the
+Trans-Mississippi West into view can extend and consolidate new
+scholarship on Confederate statecraft, while also opening new lines of
+inquiry about the afterlives of Confederate state policies in the
+Reconstruction era.
+
+Consider, for example, the administration of Louisiana Governor [Henry W.
+Allen](http://wiki.wcaleb.rice.edu/Henry%20W.%20Allen), who was elected in
+November 1863. Allen initiated ambitious state programs such as the
+establishment of bureaucracies to encourage manufacturing, mining, and chemical
+laboratories; the commissioning of a state-run geological survey; the erection
+of state-owned cloth and rope factories; the expansion of penitentiary
+production; appropriations for education; and the state purchase, export, and
+sale of cotton, whose proceeds he used to purchase goods that were then sold at
+state-owned stores or distributed to indigent citizens. Under Allen's watch,
+the state of Louisiana even invested directly in an iron works located across
+the border in Texas by purchasing a quarter of the company's stock. One
+retrospective survey dubbed Allen's short-lived but popular programs "a 'New
+Deal' in the Old South."[^5]
+
+Allen's state activism sprung partly from military necessity, to be
+sure. As Allen put it in an 1865 address, "the country is at war---the
+whole State is an immense camp." Yet in the same address, Allen also
+envisioned manufacturing, public welfare, and strategic state investment
+as only the "beginning" of an effort to make the state "self-sustaining"
+and "prosperous" even after the war. Allen's activities resembled those
+of eastern state officials who presided over activist states.[^6]
+
+Like his North Carolina counterpart Zebulon Vance, Allen also expertly
+performed the new political style that Downs calls "patronalism." He
+allowed citizens to see state provisions as expressions of his personal
+obligations and power, thereby enlarging expectations about what the
+state could and should do for citizens. While Allen's friend Sarah
+Dorsey complained that "the people had a trust and reliance upon him
+that was frequently ludicrous," his own rhetoric encouraged that
+reliance by casting state officials as powerful friends making personal
+promises. "I promised every lady in Louisiana a pair of cotton cards,"
+he told the legislature, identifying the state's word with his. In
+Dorsey's words, Allen came to be seen as "the veritable Pater
+Respublicae" who had adopted the entire state "as a sort of family." The
+citizenry in turn flooded his office with petitions asking for state
+intervention, belying the idea that Confederates were constitutionally
+averse to dependence on the state.[^7]
+
+A similar story can be told about neighboring Texas. Despite white
+Texans' fierce pride in their history as a breakway republic,
+Confederates there also called for a more active state. One soldier even
+wrote to Governor [Pendleton Murrah](http://wiki.wcaleb.rice.edu/Pendleton%20Murrah) from camp to complain that Allen's
+Louisiana was excelling Texas in its encouragement of manufactures:
+
+> I would ask if the already small state of Louisiana, with her ports
+> all closed to the world, ... and but the poorest portion of the state
+> left to her, can do as much in so short a time, what might the large &
+> mighty state of Texas, with her seven hundred miles of seacoast, the
+> blockade of which has so often been successfully run since the war
+> began, an outlet into the friendly "state" or "empire" of Mexico with
+> which we can trade, an immense territory, ... I ask what she might not
+> do? Why sir with a little energy on the part of her Governor, she
+> could be teeming with manufactories of every kind and in every part of
+> the state. ... Then will we appear as we really are, a great people, a
+> great nation in ourselves.[^8]
+
+This anonymous writer not only typified patronal politics; he also
+spotlighted some of the unique advantages that white Texans enjoyed in
+comparison to Confederates elsewhere. The absence of significant combat
+in the state brought little disruption to the operations of its
+slave-based cotton economy. Largely cut off from the remainder of the
+Confederacy after Union armies captured the Mississippi River in 1863,
+Texas and Confederate officials also enjoyed a wider latitude for action
+than those closer to Richmond and the front lines. Finally, and most
+significantly, proximity to Mexico made it easier for limited cotton
+sales to continue across the border at Eagle Pass and Brownsville.[^9]
+
+Some of the state's features also presented unique challenges to the
+Confederate government, however, including what Murrah's correspondent
+called its "immense territory." With at least a third of the state still
+unorganized into counties, and white settlements threatened by attack
+from Native American polities to the west, the state struggled to supply
+its so-called Frontier Regiment while also protecting the interests of
+planters in the southeast. Even in that more populated region,
+infrastructural improvements remained far less developed than they were
+in the older states along the Atlantic seaboard. South Carolina had a
+Board of Public Works as early as 1819; the American state of Texas was
+still a teenager when the war began. Most of the state's railroad tracks
+were still "pathetic fragments going nowhere," according to one
+historian, and its "mediocre network of unpaved roads" wasn't much
+better.[^10]
+
+Nevertheless, the soldier who wrote to Murrah need not have worried that
+the governor would neglect state action to remedy these defects. In his
+inaugural address in 1863, Murrah had already spoken of government as a
+"science" and the state as "machinery" whose chief end was to secure the
+people's "welfare physically, morally and mentally," including by the
+"establishment of manufactories." And though Murrah admitted that
+industry depended primarily on private enterprise, "limited and
+prescribed, as the government is, in its power over the subject," he and
+his predecessor Francis Lubbock, together with the legislature, acted
+energetically to encourage such enterprise. They laid the foundations of
+the "constructive liberalism" that had already existed for some time in
+the east.[^11]
+
+Examples of this work can be briefly summarized. First, of all the Confederate
+states, the Texas legislature was among the friendliest to railroads and
+corporations. The state allowed the roads to pay debts late in depreciated
+currency. And though several states offered bounties to newly incorporated
+manufacturing firms, Texas was among the most generous. A [November 1863
+law](http://wiki.wcaleb.rice.edu/Texas%20Incorporation%20Acts) granted 320
+acres to corporations for every \$1,000 they invested into new machinery, and
+in its next two sessions, the legislature granted incorporation to over two
+dozen firms to produce textiles, lead, paper, and other manufacturered goods,
+with capital limits ranging from the tens of thousands to millions of dollars.
+Though many of these companies failed to produce much before the end of the
+war, in the end, according to one scholarly account, "the state of Texas
+rivaled North Carolina in its patronage of manufacturers." Part of that
+patronage included the promise of state protection for corporations wishing to
+sell cotton in Mexico in exchange for machinery like looms. The Texas
+legislature also showed special interest in the introduction of machinery at
+its state penitentiary in Huntsville, one of the few Confederate prisons that
+survived the war unscathed. While a prisoner-operated cotton and woolen mill
+had been installed at the prison in the 1850s to offset costs, in wartime the
+penitentiary became a major center of cloth production for the Confederacy, as
+well as "Texas's leading source of revenue."[^12]
+
+As these state programs grew in scale and complexity, Texas also expanded
+bureaucracies to monitor their activities. In 1862, the legislature created
+a three-person state [Military
+Board](http://wiki.wcaleb.rice.edu/Texas%20Military%20Board), granting it broad
+powers to create foundries and ordnance factories; fund public works such as
+salines; use state bonds to purchase supplies; and purchase and sell cotton for
+the state. Under Lubbock, the board also extended loans directly to private
+enterprises in certain industries.  Reorganized in 1864, the Board continued to
+support industries and engage in cotton trading.[^13]
+
+Under Murrah, the responsibility of purchasing cotton also shifted briefly to
+another bureau, the [Texas Loan
+Agency](http://wiki.wcaleb.rice.edu/Texas%20Loan%20Agency), under a so-called
+"State Plan" in which agents employed by Austin would purchase cotton for bonds
+backed by land warrants. The state would transport the cotton, which was
+protected from impressment by the Confederate military's Trans-Mississippi
+Department because it was publicly owned, to the Rio Grande, sell it across the
+border, and then split proceeds between the state and the original vendor of
+the bales. It proved wildly popular among cotton planters eager for state
+action on their behalf, and launched a thousand wagons bound for Mexico, where
+state agents struggled to keep up with requisitions for machinery and sales of
+cotton.[^14]
+
+The Military Board and the Loan Agency required the employment of
+numerous functionaries. Each spawned new administrative records,
+complete with instructions to agents about how to mark cotton bales,
+whom to engage in trade along the border, how much machinery could be
+purchased and for what ends, and when to report back to Austin about
+sales. Contracts between the state and corporations for the import of
+machinery likewise had to detail, through new formulaic templates, the
+precise number of bales that a company could sell and the exact purposes
+to which machinery would be put. Invariably, of course, the activities
+of the state's agents outran the state's ability to keep track of them
+all, creating frequent rumors of mismanagement and state funds
+disappearing to Havana or beyond. But like the operations of early
+national South Carolina's sometimes inefficient Board of Public Works,
+Texas's Military Board and Loan Agency are still significant indications
+of the state's "governing logic"---its belief that the public business
+could be legibly organized and controlled.[^15]
+
+The logic of "legibility," James Scott's term for the modern state's attempts
+to see and understand its own social domain, worked in a circular way to
+lengthen the state's tentacles and obligations. Bureaus were needed to watch
+the bureaus; committees formed to check on the boards. By the end of the war,
+the legislature had appointed (at the request of the governor) committees to
+investigate and report on both the penitentiary and the Military Board. And
+after the war, new Auditorial Boards were created to sort out and judge claims
+made on the state, as well as a [Board of Public
+Labor](http://wiki.wcaleb.rice.edu/Board%20of%20Public%20Labor), modeled on the
+Military Board, to manage convict work.[^16]
+
+Yet such boards only reinforce the similarities between the statecraft
+of Texas and Louisiana and that of their eastern counterparts. These
+Trans-Mississippi states, though facing a different array of
+opportunities and challenges, also proved themselves "ardently committed
+to the project of modern state governance." They did so, moreover, with
+relatively broad support from constituents. As Lubbock recalled in his
+memoirs, the many "incorporated enterprises" encouraged by the state
+"indicated clearly the trend of the public mind at that day."[^17]
+
+Yet this leads me to a final question: so what? After all, these states
+fell apart and failed, and both Murrah and Allen fled to Mexico at war's
+end. Why does it matter that we begin to see Confederate states not just
+as failed experiments, but as experiments in "state activism,"
+"constructive liberalism," patronalism, and seeing like a modern state?
+
+I'll conclude with three possible answers to that "so what" question.
+First, seeing Confederate states in the ways described above undermines
+their exceptionalism. If we bracket the knowledge that they would fail,
+it is possible to see that Trans-Mississippi states confronted problems
+of sovereignty and statecraft that were common in the mid-nineteenth
+century world. Indeed, the challenge Texas faced in securing spatial
+control over its "immense territory," while also regulating and
+stimulating an embattled economy, resembled the challenges the national
+government would face after 1865 in establishing its sovereignty in the
+region. More generally, if the history of the nineteenth century United
+States was a story of what Charles Bright and Michael Geyer call two
+modes of sovereignty, one grounded in the "production of territory" and
+the other driven by attempts to turn national space into "territories of
+production" that could "mobilize national resources and project power,"
+the national and state history of Texas---in particular---might be
+narrated in the same way: as a struggle over the sovereign power both to
+produce territory and to mobilize production. Put more simply, moving
+beyond the paradigm of defeat helps historicize Confederate statecraft
+and nationalism in ways that make them less strange, enabling us to ask
+"where in the world was the Confederacy."[^18]
+
+Second, undermining the idea of Confederate statecraft as out of step with the
+rise of the modern state also helps to undermine the idea (also criticized by
+historians of slave capitalism and "second slavery") that modernity and slavery
+were incompatible. Although I have not directly discussed state policies
+regarding slavery in the Trans-Mississippi West, make no mistake: Lubbock,
+Murrah, Allen, and other advocates of an active state all took for granted that
+slavery formed an essential part of their programs, just as state planners
+elsewhere in the South did.  Lubbock, for example, viewed the influx of
+[refugees](http://wiki.wcaleb.rice.edu/Refugees%20to%20Texas) from other
+Confederate states who brought enslaved people to Texas as a boon to the state
+because it would provide more labor and capital. The Texas iron works in which
+the state of Louisiana invested, like many such firms, rented enslaved labor.
+And, when surveying the state's still dilapidated [public
+roads](http://wiki.wcaleb.rice.edu/Texas%20Roads) in 1864, the Marshall
+*Republican* urged the legislature to pass laws increasing the number of
+enslaved people required to work on the highways. "The negroes, as every one is
+aware, do the most of the road working," argued the editor, "and there are more
+negroes in the State now than were ever here before. We hope the press
+throughout the State will call attention of the Legislature to this important
+matter." Had the Confederacy not been defeated, there is no reason to think
+that slavery would have quickly died away---not *only* because of its continued
+profitability to individuals, but also because Confederates envisioned slavery
+as essential to the activist states they created during the war.[^19]
+
+Indeed, Confederate state activism in places like Texas may help
+explain, finally, why systems that looked so much like slavery cropped
+up so quickly in the postbellum South. In narratives of the nineteenth
+century South, systems like convict leasing, highway gangs, and mass
+incarceration are often cited as continuations of "slavery by another
+name," driven by the continued racism and rapacity of the slaveholding
+class. Yet harsh penitentiary regimes depended equally on the idea that
+states should be in the penitentiary labor business in the first place.
+That idea had roots as well in the "constructive liberalism" and state
+manufacturing projects of secessionists and Confederates. Reconstruction
+leasing systems also depended on penitentiary workshops and institutions
+ready to receive freedpeople caught in the dragnets of postbellum Black
+Codes, and so it matters that states like Texas and Louisiana managed to
+defend and even expand such operations during the war.[^20]
+
+In 1866, for instance, Texas passed one of the earliest laws allowing the
+leasing of prisoners outside [the
+penitentiary](http://wiki.wcaleb.rice.edu/Huntsville%20State%20Penitentiary)
+walls. The legislature did so partly to keep afloat one of its most reliable
+revenue streams during the war: prison labor. And it leased its first prisoners
+to two railroad companies that had already received aid from Confederate
+legislation in the state. Five years later, when the state decided to lease the
+entire prison to a private contractor, much like many states across the South
+and North had long before, it also chose, as the first lessee, a man who had
+arguably benefitted from the state's wartime state activism, having joined one
+of the manufacturing companies incorporated after the November 1863 law and
+then worked as a cotton factor in the trade that Murrah's State Plan helped to
+prop up. Perhaps by looking closer at Confederate statecraft in the
+Trans-Mississippi, and not only to explain why the Confederacy died, we can
+find new ways to understand the origins of what lived on after it did.[^21]
+
+[^1]: Stephanie McCurry, *Confederate Reckoning: Power and Politics in
+    the Civil War South* (Cambridge, Mass.: Harvard University Press,
+    2010), 6.
+
+[^2]: Chad Morgan, *Planters’ Progress: Modernizing Confederate Georgia*
+    (Gainesville: University Press of Florida, 2005); Gregory P. Downs,
+    *Declarations of Dependence: The Long Reconstruction of Popular
+    Politics in the South, 1861-1908* (Chapel Hill: University of North
+    Carolina Press, 2011); Milton Sydney Heath, *Constructive
+    Liberalism: The Role of the State in Economic Development in Georgia
+    to 1860* (Cambridge, Mass.: Harvard University Press, 1954).
+    Majewski notes that proponents of state activism did not succeed in
+    all their aims, and concedes sectional differences between Northern
+    and Southern industrialization, but contends that neither of these
+    facts should be attributed to a general anti-statism or dogmatic
+    laissez-faire commitments. In a similar vein, Jaime Martinez's
+    recent book on Virginia's slave impressment policies argues that
+    they were more successful and well-coordinated than historians once
+    believed, though she uses that finding primarily to intervene in the
+    continued debate over why the Confederacy lost. See Jaime Amanda
+    Martinez, *Confederate Slave Impressment in the Upper South* (Chapel
+    Hill: University of North Carolina Press, 2013).
+
+[^3]: Ryan A. Quintana, “Planners, Planters, and Slaves: Producing the
+    State in Early National South Carolina,” *Journal of Southern
+    History* 81, no. 1 (February 2015): 82; James C. Scott, *Seeing Like
+    a State: How Certain Schemes to Improve the Human Condition Have
+    Failed* (New Haven: Yale University Press, 1998).
+
+[^4]: Downs, *Declarations of Dependence*.
+
+[^5]: Amos E. Simpson and Vincent Cassidy, “The Wartime Administration
+    of Governor Henry W. Allen,” *Louisiana History* 5, no. 3 (Summer
+    1964): 259. See also May Spencer Ringold, *The Role of the State
+    Legislatures in the Confederacy* (Athens: University of Georgia
+    Press, 1966), 3; Vincent H. Cassidy, “Louisiana,” in *The
+    Confederate Governors*, ed. by W. Buck Yearns, (Athens: University
+    of Georgia Press, 1985), 103--105; Terry L. Jones, "The South's
+    Greatest Governor," *New York Times* Disunion blog, January 13,
+    2014,
+    <http://opinionator.blogs.nytimes.com/2014/01/13/the-souths-greatest-governor/>.
+
+[^6]: *Annual Message of Governor Henry Watkins Allen to the Legislature
+    of the State of Louisiana, January 1865*, electronic edition at
+    Documenting the American South,
+    <http://docsouth.unc.edu/imls/lagov/allen.html>. In the end, of
+    course, defeat meant a "sudden stoppage of all the wheels of the
+    industrial machinery Allen had put in motion," as his friend Sarah
+    Dorsey put it in early account of his work. Sarah A. Dorsey,
+    *Recollections of Henry Watkins Allen, Brigadier-General Confederate
+    States Army, Ex-Governor of Louisiana* (New York: M. Doolady, 1866),
+    303.
+
+[^7]: *Annual Message of Governor Henry Watkins Allen*; Dorsey,
+    *Recollections*, 253, 258. On "patronalism," see Downs,
+    *Declarations of Dependence*.
+
+[^8]: "A Soldier" to Governor Pendleton Murrah, December 24, 1864,
+    Records of Governor Pendleton Murrah, Texas State Library and
+    Archives Commission, <http://wcaleb.rice.edu/omeka/items/show/192>.
+
+[^9]: On limited disruption to the slave economy, see Randolph B.
+    Campbell, *An Empire for Slavery: The Peculiar Institution in Texas*
+    (Baton Rouge: Louisiana State University Press, 1989), 231–248. On
+    the cotton trade across the border, see James W. Daddysman, *The
+    Matamoros Trade: Confederate Commerce, Diplomacy, and Intrigue*
+    (Wilmington: University of Delaware Press, 1984).
+
+[^10]: Robert L. Kerby, *Kirby Smith’s Confederacy: The
+    Trans-Mississippi South, 1863–1865* (New York: Columbia University
+    Press, 1972), 82–83.
+
+[^11]: For Murrah's address, see James M. Day, ed., *House Journal of
+    the Tenth Legislature, Regular Session of the State of Texas,
+    November 3, 1863 - December 16, 1863* (Austin: Texas State Library,
+    1965), 53-61.
+
+[^12]: Harold S. Wilson, *Confederate Industry: Manufacturers and
+    Quartermasters in the Civil War* (Jackson: University of Mississippi
+    Press, 2002), 147–148; Robert Perkinson, *Texas Tough: The Rise of
+    America’s Prison Empire* (New York: Metropolitan Books, 2010), 80.
+    On penitentiary production, see especially Brett J. Derbes, “Prison
+    Productions: Textiles and Other Military Supplies from State
+    Penitentiaries in the Trans-Mississippi Theater During the American
+    Civil War” (Master’s thesis, University of North Texas, 2011). On
+    new manufacturing corporations, see also Clayton E. Jewett, *Texas
+    in the Confederacy: An Experiment in Nation Building* (Columbia:
+    University of Missouri Press, 2002), 171. Partly because of its
+    youth, Texas had more control over its public lands than eastern
+    seaboard states, making it easier for it to use land warrants as
+    encouragements to private enterprise. Texas had also granted public
+    lands to railroads in the 1850s. See Reuben McKitrick, "The Public
+    Land System of Texas, 1823-1910," *Bulletin of the University of
+    Wisconsin* 905 (1918), 7-37, 59-60.
+
+[^13]: See Charles W. Ramsdell, “The Texas State Military Board,
+    1862–1865,” *The Southwestern Historical Quarterly* 27, no. 4 (April
+    1924): 253–275; Records of the Texas Military Board, Texas State
+    Library and Archives.
+
+[^14]: See Ralph A. Wooster, “Texas,” in *The Confederate Governors*,
+    ed. by W. Buck Yearns, (Athens: University of Georgia Press, 1985),
+    195–215; John Moretta, "Pendleton Murrah and States Rights in Civil
+    War Texas," Civil War History 45, no. 2 (June 1999), 126-146.
+
+[^15]: The point here about "governing logic" borrows from Quintana,
+    "Planners, Planters, and Slaves," 95.
+
+[^16]: For examples of contracts and correspondence with agents, see the
+    papers of the Texas Military Board (organized into folders by agents
+    and corporations) and the Papers of Governor Pendleton Murrah, Texas
+    State Library and Archives Commission.
+
+[^17]: Francis R. Lubbock, *Six Decades in Texas; or, Memoirs of Francis
+    R. Lubbock* (Austin: Ben C. Jones, 1900), 371.
+
+[^18]: Gregory P. Downs, "Three Faces of Sovereignty: Governing
+    Confederate, Mexican, and Indian Texas in the Civil War Era," in
+    Arenson and Graybill, ed., *Civil War Wests*, 118-138; Charles
+    Bright and Michael Geyer, "Where in the World is America? The
+    History of the United States in the Global Age," in *Rethinking
+    American History in a Global Age*, ed. Thomas Bender (Berkeley:
+    University of California Press, 2002), 63-100. Once Confederate
+    statecraft is sufficiently historicized, we might even be able to
+    return with fresh eyes to the question of why the Confederate state
+    failed without having to posit that it died of an exceptionally
+    anti-modern worldview. For example, it may be, as McCurry and
+    Majewski have implied for reasons detailed in their work, that the
+    Confederacy died not of too little nationalism, but too much---not
+    of being behind their times, but of being so much of them.
+    Nationalizing states fell apart frequently, after all, in the
+    nineteenth century world.
+
+[^19]: Marshall *Republican*, October 7, 1864. On the role of slaves in
+    Southern internal improvements and road construction, see especially
+    Quintana, "Planners, Planters, and Slaves." For Lubbock's comments
+    on newly arrived slaves, see Message of Governor, November 4, 1863,
+    *House Journal of the Tenth Legislature, Regular Session, of the
+    State of Texas, November 3, 1863 - December 16, 1863,* ed. James M.
+    Day (Austin: Texas State Library, 1965), 11. Ideas like those the
+    *Republican* expressed were also common in Louisiana: the Caddo
+    *Gazette*, for example, believed enslaved labor should be used on
+    public railroad repair: "The surplus negro labor in North Louisiana
+    can accomplish the work in less than six months." See the reprinted
+    article in Marshall *Republican*, July 5, 1862. For a survey of
+    "second slavery" scholarship, see Anthony E. Kaye, "The Second
+    Slavery: Modernity in the Nineteenth-Century South and the Atlantic
+    World," *Journal of Southern History* 75, no. 3 (August 2009),
+    627-650.
+
+[^20]: The reference to "slavery by another name" comes from Douglas
+    Blackmon's work. On highway and railroad gangs, see Alex
+    Lichtenstein, *Twice the Work of Free Labor: The Political Economy
+    of Convict Labor in the New South* (London: Verso, 1996); Tammy
+    Ingram, *Dixie Highway: Road Building and the Making of the Modern
+    South, 1900-1930* (Chapel Hill: University of North Carolina Press,
+    2014).
+
+[^21]: On the broader history of convict labor in the North, see Rebecca M.
+    McLennan, *The Crisis of Imprisonment: Protest, Politics, and the Making of
+    the American Penal State, 1776-1941* (New York: Cambridge University Press,
+    2008). [A. J. Ward](http://wiki.wcaleb.rice.edu/A.%20J.%20Ward), a former
+    superintendent of penitentiary labor in Arkansas, had fled to Texas in 1863
+    after Union forces captured his prison. There, my initial research suggests
+    that he built new business networks by joining one of the numerous
+    manufacturing firms called into being by the legislature's liberal November
+    1863 incorporation law: the Bastrop Manufacturing Company, which received
+    assistance from Murrah's Military Board in its attempts to sell cotton in
+    Mexico for machinery. By the end of the war, he had established himself as
+    a cotton and wool factor in Galveston. Drawing on social and material
+    capital amassed in his new home, Ward then pivoted into the state's first
+    penitentiary lease, presiding over what by all accounts was one of the most
+    brutal convict leasing regimes in the postwar South. See "An Act to
+    Incorporate the Bastrop Cotton and Wool Manufacturing Company," *Weekly
+    State Gazette* (August), November 16, 1864; P. R. Smith to Pendleton
+    Murrah, August 7, 1864, from the Mexico Border in Records of the Military
+    Board of Texas, Texas State Library and Archives.  For more on Ward's
+    fascinating story, see Michael Pierce, “The Mechanics of Little Rock: Free
+    Labor Ideas in Antebellum Arkansas, 1845-1861,” *Arkansas Historical
+    Quarterly* 67, no. 3 (Autumn 2008): 221–244; Donald R. Walker, *Penology
+    for Profit: A History of the Texas Prison System, 1867-1912* (College
+    Station: Texas A&M University Press, 1988); Derbes, “Prison Productions.”

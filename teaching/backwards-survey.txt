@@ -349,7 +349,7 @@ about the precise form of these assignments, as well as about the
 schedule of the course.[^2] As I finish that process of course-planning,
 however, I feel better that I'm designing "in reverse"---not from a set
 of things I feel I have to cover, but from a set of objectives that I'm
-aiming at. Stay tuned to see how it turns out ...
+aiming at. Stay tuned to see [how it turns out](http://wcm1.web.rice.edu/looking-back-on-backwards-survey.html) ...
 
 [^1]: If you haven't yet, be sure to read Joel M. Sipress and David J.
     Voelker, "The End of the History Survey Course: The Rise and Fall of
